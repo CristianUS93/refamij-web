@@ -1,0 +1,1483 @@
+[
+    {
+        "marca": "Cobra",
+        "href": "/tienda",
+        "categorias": [
+            {
+                "nombre": "Cadenas Metálicas",
+                "href": "/tienda",
+                "tipos": [
+                    {
+                        "nombre": "Cadenas rectas",
+                        "img": "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.png",
+                        "modelos": [
+                            {
+                                "nombre": "Serie SSA 815",
+                                "imgs": [
+                                    ""
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Cadenas curvas",
+                        "img": "/tienda/cobra/cadenas_metalicas/cadenas_curvas/SERIE SM 1200.png",
+                        "modelos": [
+                            {
+                                "nombre": "Serie SSA 815",
+                                "imgs": [
+                                    ""
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Ruedas para Cadenas Rectas Inoxidables",
+                        "img": "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png",
+                        "modelos": [
+                            {
+                                "nombre": "Serie SSA 815",
+                                "imgs": [
+                                    ""
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Ruedas para Cadenas Curvas Inoxidables",
+                        "img": "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_curvas_inox/ENGRANAJE ACT _ ACM BIPARTIDA.jpg",
+                        "modelos": [
+                            {
+                                "nombre": "Serie SSA 815",
+                                "imgs": [
+                                    ""
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Cadenas Plásticas",
+                "href": "/tienda/Cobra-Cadenas Plásticas",
+                "tipos": [
+                    {
+                        "nombre": "Cadenas rectas",
+                        "img": "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 35/SERIE AR 35(1).png",
+                        "modelos": [
+                            {
+                                "nombre": "Serie AR 35",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie AR 38",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie AR 38 AP",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie AR 38 RQ",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie AR 38 VAC",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie AR 821",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie AR 821 BPA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie AR 835",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie AR 835 BPA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Cadenas curvas",
+                        "img": "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 38/SERIE ACM 38(1).png",
+                        "modelos": [
+                            {
+                                "nombre": "Serie ACM 38",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACM 601-607",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACM 602-608",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACM 882 BPA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACT 15",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACT 20",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACT 20 con empujador",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACT 38",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACT 38 AP",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACT 38 RQ ATX",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACT 882",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Serie ACT 882 BPA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Bandas Modulares",
+                "href": "/tienda/Cobra-Bandas Modulares",
+                "tipos": [
+                    {
+                        "nombre": "Bandas Modulares Rectas",
+                        "modelos": [
+                            {
+                                "nombre": "SERIE 080 SF",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 127 SF",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 150 SF EMB",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SEIRE 150N SA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 150N SF",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 254 SA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 254 SAE",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 254 SF",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 254 SF EMB",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 270 SCIL",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 270 SF",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 270 SF EMB",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 275 SA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 275 SF",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 500 SA 10",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 500 SA 30",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 500 SAE",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 500 SF",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 550 SA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 550 SCON",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 550 SF",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 550 SF EMB",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 550 SROL",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 555 SA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 555 Sf",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 700 SA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 700 Sf",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 1200 SA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 1520",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Bandas Modulares Curvas",
+                        "modelos": [
+                            {
+                                "nombre": "SERIE 300 SF Zero Tangente",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 325 SA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 325 SA EMB",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 381 C",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 381 CT",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 381 CTB",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 391 C",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "SERIE 391 CT",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Ruedas para Bandas Modulares Rectas",
+                        "modelos": [
+                            {
+                                "nombre": "Rueda S080 Entera US Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S080 Entera US Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S127 Bipartida Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S127 Bipartida US Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S127 Entera Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S127 Entera Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S150N Bipartida Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S150N Bipartida Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S254 Bipartida Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S254 Bipartida Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S254 Entera Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S254 Entera Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S270-S275 Bipartida Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S270-S275 Bipartida Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S270-S275 Enteriza Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S270-S275 Enteriza Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S500 Enteriza Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S500 Enteriza Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S550 - S555 Bipartida Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S550 - S555 Bipartida Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S550 - S555 Enteriza Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S550 - S555 Enteriza Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S700 Bipartida Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S700 Bipartida Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S1200 Bipartida US Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S1200 Bipartida US Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S1200 Entera Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S1200 Entera Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S1520 Bipartida Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S1520 Bipartida Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S1520 Enteriza Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S1520 Enteriza Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Ruedas para Bandas Modulares Curvas",
+                        "img": "",
+                        "modelos": [
+                            {
+                                "nombre": "Rueda S300 Enteriza US Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S325 Enterizo Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S325 Enteriza Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S381 Enteriza Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S391 Enteriza Agujero Cuadrado",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Rueda S391 Enteriza Agujero Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Accesorios para bandas modulares",
+                        "img": "/tienda/cobra/bandas_modulares/ACCESORIOS PARA BANDAS MODULARES/EMPUJADOR I S391 CT/8096bd1ecc75a6eae637e14931827d9b.jpg",
+                        "modelos": [
+                            {
+                                "nombre": "Empujador C SERIE 500",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Empujador I SERIE 500",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Empujador I S391 C",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Empujador I S391 CT",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Guardas laterales Aleta Serie 550-555",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Componentes",
+                "href": "",
+                "tipos": []
+            },
+            {
+                "nombre": "Perfiles",
+                "href": "/tienda/Cobra-Perfiles",
+                "tipos": [
+                    {
+                        "nombre": "Perfil PEAD",
+                        "img": "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL CLIP/928aaa3d4bc46defa6c32e3b6120186f.png",
+                        "modelos": [
+                            {
+                                "nombre": "Perfil CLIP",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Perfil RECTO",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Perfil T DUPLO",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Perfil Guía",
+                        "img": "/tienda/cobra/perfiles/PERFILES GUIA/PERFIL CONICO/005191_perfil_conico.png",
+                        "modelos": [
+                            {
+                                "nombre": "Perfil cónico",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Perfil PM",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Perfil PUAL 18x30 + PG 40x27",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "Perfil Redondo",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "marca": "Delta",
+        "href": "/tienda/Delta-Variadores de Frecuencia",
+        "categorias": [
+            {
+                "nombre": "Variadores de Frecuencia",
+                "href": "/tienda/Delta-Variadores de Frecuencia",
+                "tipos": [
+                    {
+                        "nombre": "Variador compacto de alto desempeño 0.25 CV a 30 CV",
+                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/MH300.png",
+                        "modelos": [
+                            {
+                                "nombre": "MS300",
+                                "imgs": [
+                                    "src/assets/tienda/delta/variadores/img/MS300_1.png",
+                                    "src/assets/tienda/delta/variadores/img/MS300_2.png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/MS300.docx"
+                                ],
+                                "descripcion": "La serie MS300 está diseñada para servir a los fabricantes de máquinas (OEM), aplicaciones y procesos de alto control de movimiento que requieren conectividad. La serie MS300 cumple con requisitos complejos y controla motores síncronos y asíncronos desde 0,2 kW hasta 22 kW.",
+                                "aplicaciones": "Máquinas herramienta, maquinaria textil, carpintería, caucho y plástico, aplicaciones de bobinado/desenrollado.",
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "Método de control avanzado y flexible",
+                                        "detalles": [
+                                            "V / F (escalar).",
+                                            "SVC (vector).",
+                                            "FOC (control orientado al campo).",
+                                            "Admite motores IM (inducción) y PM (imán permanente).",
+                                            "Control de potencia de desaceleración (modo TEC).",
+                                            "Función de carga pesada."
+                                        ]
+                                    },
+                                    {
+                                        "subtitle": "Excelente actuación",
+                                        "detalles": [
+                                            "Función de seguridad STO (Safe Touch Off) - Cumple con NR12.",
+                                            "Alto par: 150% en 60 segundos y 200% en 3 segundos.",
+                                            "USB integrado",
+                                            "Modbus integrado y tarjetas de comunicación opcionales: CANopen, DeviceNet, EtherNet / IP, EtherCAT, PROFIBUS DP, Modbus TCP y PROFITNET."
+                                        ]
+                                    },
+                                    {
+                                        "subtitle": "Función incorporada múltiple",
+                                        "detalles": [
+                                            "PLC incorporado con 2000 líneas de programación.",
+                                            "Control PID integrado.",
+                                            "Inyección de freno DC",
+                                            "Fácil parametrización con grupo predefinido."
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "nombre": "MH300",
+                                "imgs": [
+                                    "src/assets/tienda/delta/variadores/img/MH300_1.png",
+                                    "src/assets/tienda/delta/variadores/img/MH300_2.png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/MS300.docx"
+                                ],
+                                "descripcion": "La serie MH300 de accionamiento compacto de alto rendimiento de Delta es un control microvectorial de nueva generación que hereda la tecnología de accionamiento superior de Delta. Con sus ventajas de excelente rendimiento de la unidad, sólido soporte del sistema y una variedad de funciones esenciales, la serie MH300 es la clave para mejorar la competitividad del mercado y garantizar el éxito. Además, cuenta con un puerto USB para que las cargas y descargas de datos sean rápidas y sencillas, lo que ahorra la necesidad de hardware adicional y proporciona más espacio de instalación para el gabinete de energía.",
+                                "aplicaciones": "Máquinas herramienta, maquinaria textil, carpintería, caucho y plástico, aplicaciones de bobinado/desenrollado.",
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "Excelente rendimiento de conducción",
+                                        "detalles": [
+                                            "Capacidad de sobrecarga hasta 150%/60 seg, y 200%/3 seg. Adecuado para aplicaciones de par constante.",
+                                            "Admite motores de inducción y de imán permanente con tarjetas PG opcionales para un control de velocidad y posición altamente preciso.",
+                                            "Proporciona una potente salida de par a baja frecuencia (0,5 Hz/200 % sin control vectorial PG; 0 Hz/200 % con control vectorial PG) para un funcionamiento estable y de servicio pesado a baja velocidad y par alto.",
+                                            "Función de control de tensión constante incorporada.",
+                                            "Control de velocidad, par y posición."
+                                        ]
+                                    },
+                                    {
+                                        "subtitle": "Fuerte soporte del sistema",
+                                        "detalles": [
+                                            "PLC incorporado con 5k pasos; Admite la programación del sistema para ahorrar costos.",
+                                            "Función de seguridad STO (SIL2/PL d) integrada y medidas para cortes de energía repentinos.",
+                                            "Todos los modelos se pueden conectar a través de un bus CC común.",
+                                            "Interfaz Modbus y CANopen incorporada; Tarjeta de comunicación opcional, que incluye EtherNet/IP, Modbus TCP, EtherCAT, DeviceNet, PROFIBUS DP y PROFINET.",
+                                            "Modelos opcionales con filtro incorporado.",
+                                            "Tarjeta de fuente de alimentación de 24 V opcional para reducir el tiempo de inactividad inesperado."
+                                        ]
+                                    },
+                                    {
+                                        "subtitle": "Expansión flexible",
+                                        "detalles": [
+                                            "Dos terminales de entrada de pulso de alta velocidad de 33 kHz (MI6 y 7) incorporados y un terminal de salida (DFM).",
+                                            "Dos ranuras para tarjetas accesorias integradas para tarjeta PG, tarjeta de expansión de E/S, tarjeta de comunicación o tarjeta de alimentación de 24 V al mismo tiempo.",
+                                            "Ampliable a 3 DI y 3 DO, incluidos 6 puertos en total.",
+                                            "Ampliable a 2 o 3 relés."
+                                        ]
+                                    },
+                                    {
+                                        "subtitle": "Control de tensión avanzado",
+                                        "detalles": [
+                                            "Cálculo del diámetro del rollo incorporado mediante velocidad lineal, espesor del material y medidor de distancia.",
+                                            "Dos parámetros PID: Linealmente ajustable para controlar la tensión en el arranque, de rollos pequeños/grandes y a velocidad lineal alta/baja.",
+                                            "Cálculo de la tensión cónica: ajusta automáticamente la tensión según el diámetro del rodillo de bobinado para evitar arrugas o deformaciones.",
+                                            "Compensación de fricción e inercia para el control de par: Compensa automáticamente la fricción y la inercia durante el bobinado/desenrollado para una tensión constante",
+                                            "Cambio automático de rollo mediante simple señal externa sin parada de la máquina"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Variador compacto para uso general 0.25 CV a 2 CV",
+                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/2. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 2 CV/VFD-L/VFD-L_.png",
+                        "modelos": [
+                            {
+                                "nombre": "VFD-L",
+                                "imgs": [
+                                    "src/assets/tienda/delta/variadores/img/VFD-L.png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/VFD-L.docx"
+                                ],
+                                "descripcion": "Compensación automática de par y de deslizamiento, pudiendo entregar hasta un 150% del par nominal a 5 Hz. Operación extremadamente silenciosa. Tensión de salida con un contenido mínimo en armónicos gracias a la innovadora técnica SVPWM (Space Vector Pulse Width Modulation) con portadora de hasta 10 kHz. Por supuesto, el VFD-L comparte con sus hermanos mayores de la familia VFD de Delta su robustez, su fiabilidad y su extremada facilidad de configuración, virtudes que les han hecho legendarios.",
+                                "aplicaciones": "Simple corte de madera, cinta transportadora, máquina de trefilado, etc..",
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "",
+                                        "detalles": [
+                                            "Frecuencia de salida 1.0 ~ 400Hz.",
+                                            "V ajustable curva / f.",
+                                            "Carrier frecuencia de hasta 10 kHz.",
+                                            "Auto refuerzo de par y compensación de deslizamiento.",
+                                            "Construir-en la comunicación MODBUS, la velocidad de transmisión de hasta 9600 bps.",
+                                            "El filtro incorporado EMI."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Variador compacto para uso general 0.25 CV a 5 CV",
+                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/3. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 5 CV/VFD-EL/VFD - EL_.png",
+                        "modelos": [
+                            {
+                                "nombre": "VFD-EL",
+                                "imgs": [
+                                    "src/assets/tienda/delta/variadores/img/VFD-EL.png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/VFD-EL.docx"
+                                ],
+                                "descripcion": "La serie VFD-EL es una nueva generación de micro inversores de C.A. con múltiples funciones.  Esta construido con  filtros EMI, interruptores RFI, fácil compartición con instalación común mediante el  bus de C.D.,  detección de corriente de alta precisión, protección en sobrecarga y diseñado con teclado numérico.",
+                                "aplicaciones": "Bombas y abanicos pequeños, maquinas sopladoras, equipo de procesamiento muy sencillo 'Hágalo Usted Mismo' HTM o DIY(por sus siglas en inglés.",
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "",
+                                        "detalles": [
+                                            "Frecuencia de Salida: 0.1 ~ 600Hz",
+                                            "Curva de V/f con 3 posiciones de ajuste.",
+                                            "Diseñado con control PID de lazo cerrado",
+                                            "Interruptor RFI para red eléctrica",
+                                            "Diseñado en filtros EMI (para modelos de 230v monofásicos y 460v trifásicos)",
+                                            "Usa interfaces de comunicación RS-485 (RJ-45) con protocolo Modbus.",
+                                            "Módulos de comunicación opcionales para múltiples protocolos de comunicación, tales como Profibus, DeviceNet, LonWorks y CANopen.",
+                                            "Funciona con protección total"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Variador compacto con control vectorial 0.25 CV a 30 CV",
+                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/4. VARIADOR COMPACTO CON CONTROL VECTORIAL DE 0.25 CV A 30 CV/VFD-E/VFD-E.png",
+                        "modelos": [
+                            {
+                                "nombre": "VFD-E",
+                                "imgs": [
+                                    "src/assets/tienda/delta/variadores/img/VFD-E.png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/VFD-E.docx"
+                                ],
+                                "descripcion": "Los variadores de la serie VFD-E han sido fabricados utilizando componentes y materiales de alta calidad e incorporan la tecnología de microprocesadores más moderna del mercado. /nPresenta una cubierta tipo IP20, y la capacidad varía desde las fracciones hasta 30hp, con voltajes de entrada en el rango de 115VAC a 460VAC. /nEl diseño termo-eficiente permite colocar los variadores uno junto a otro para aprovechar al máximo el espacio disponible. /nCubre potencias desde 0.2 hasta 22 kW.",
+                                "aplicaciones": "Elevadores, molinos, taladros, máquinas inyectoras con brazo robotizado, trotadoras, lavadoras, tejedoras, y maquinaria para carpintería, entre muchas otras.",
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "",
+                                        "detalles": [
+                                            "Frecuencia de Salida: 0.1 ~ 600Hz",
+                                            "Curva de V/f con 3 posiciones de ajuste.",
+                                            "Diseñado con control PID de lazo cerrado",
+                                            "Interruptor RFI para red eléctrica",
+                                            "Diseñado en filtros EMI (para modelos de 230v monofásicos y 460v trifásicos)",
+                                            "Usa interfaces de comunicación RS-485 (RJ-45) con protocolo Modbus.",
+                                            "Módulos de comunicación opcionales para múltiples protocolos de comunicación, tales como Profibus, DeviceNet, LonWorks y CANopen.",
+                                            "Funciona con protección total"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Variador con control de campo de 1 CV a 600 CV",
+                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/5. VARIADOR CON CONTROL DE CAMPO DE 1 CV A 600 CV/VFD-C2000/VFD-C2000.png",
+                        "modelos": [
+                            {
+                                "nombre": "VFD-C2000",
+                                "imgs": [
+                                    "src/assets/tienda/delta/variadores/img/VFD-E.png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/VFD-E.docx"
+                                ],
+                                "descripcion": "Los variadores de la serie VFD-E han sido fabricados utilizando componentes y materiales de alta calidad e incorporan la tecnología de microprocesadores más moderna del mercado. /nPresenta una cubierta tipo IP20, y la capacidad varía desde las fracciones hasta 30hp, con voltajes de entrada en el rango de 115VAC a 460VAC. /nEl diseño termo-eficiente permite colocar los variadores uno junto a otro para aprovechar al máximo el espacio disponible. /nCubre potencias desde 0.2 hasta 22 kW.",
+                                "aplicaciones": "Elevadores, molinos, taladros, máquinas inyectoras con brazo robotizado, trotadoras, lavadoras, tejedoras, y maquinaria para carpintería, entre muchas otras.",
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "",
+                                        "detalles": [
+                                            "Frecuencia de Salida: 0.1 ~ 600Hz",
+                                            "Curva de V/f con 3 posiciones de ajuste.",
+                                            "Diseñado con control PID de lazo cerrado",
+                                            "Interruptor RFI para red eléctrica",
+                                            "Diseñado en filtros EMI (para modelos de 230v monofásicos y 460v trifásicos)",
+                                            "Usa interfaces de comunicación RS-485 (RJ-45) con protocolo Modbus.",
+                                            "Módulos de comunicación opcionales para múltiples protocolos de comunicación, tales como Profibus, DeviceNet, LonWorks y CANopen.",
+                                            "Funciona con protección total"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Servo-Accionamiento",
+                "href": "/tienda/Delta-Servo-Accionamiento",
+                "tipos": [
+                    {
+                        "nombre": "Servoaccionnamiento Avanzado",
+                        "img": "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA--A2.png",
+                        "modelos": [
+                            {
+                                "nombre": "ASDA-A2",
+                                "imgs": [
+                                    "src/assets/tienda/delta/variadores/img/ASDA-A2.png",
+                                    "src/assets/tienda/delta/variadores/img/ASDA--A2.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "ASDA-A3",
+                                "imgs": [
+                                    "src/assets/tienda/delta/variadores/img/ASDA-A3.png",
+                                    "src/assets/tienda/delta/variadores/img/ASDA--A3.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Servoaccionnamiento Estándar",
+                        "img": "/tienda/delta/2. SERVOACCIONAMIENTO/2. SERVOACCIONAMIENTO ESTÁNDAR/ASBA-B2/ASBA-B2.png",
+                        "modelos": [
+                            {
+                                "nombre": "ASBA-B2",
+                                "imgs": [
+                                    "src/assets/tienda/delta/variadores/img/ASBA-B2.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Actuador-Servomotor Lineal",
+                "href": "/tienda/Delta-Actuador-Servomotor Lineal",
+                "tipos": [
+                    {
+                        "nombre": "LAS",
+                        "img": "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LA-S/LA-S.png",
+                        "modelos": [
+                            {
+                                "nombre": "LAS",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "LU",
+                        "img": "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LU/LU.png",
+                        "modelos": [
+                            {
+                                "nombre": "LU",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Reductores",
+                "href": "/tienda/Delta-Reductores",
+                "tipos": [
+                    {
+                        "nombre": "PA",
+                        "img": "/tienda/delta/4. REDUCTORES/PA/PA.png",
+                        "modelos": [
+                            {
+                                "nombre": "PA",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "PS",
+                        "img": "/tienda/delta/4. REDUCTORES/PS/PS.png",
+                        "modelos": [
+                            {
+                                "nombre": "PS",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "CNC",
+                "href": "/tienda/Delta-CNC",
+                "tipos": [
+                    {
+                        "nombre": "Solucion DELTA para CNC",
+                        "img": "/tienda/delta/5. CNC/SOLUCION DELTA PARA CNC/CNC.png",
+                        "modelos": [
+                            {
+                                "nombre": "CNC",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Controlador Lógico Programable",
+                "href": "/tienda/Delta-Controlador Lógico Programable",
+                "tipos": [
+                    {
+                        "nombre": "PLC Compacto de Gama Media DELTA",
+                        "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png",
+                        "modelos": [
+                            {
+                                "nombre": "AS300",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Alto Desempeño para aplicaciones de procesos",
+                        "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/2. ALTO DESEMPEÑO PARA APLICACIONES DE PROCESOS/AH500/PLC-grande-de-la-serie-AH500.png",
+                        "modelos": [
+                            {
+                                "nombre": "AH500",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Nueva Generación de PLC Compactos DELTA",
+                        "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DPV-MC/DPV-MC.png",
+                        "modelos": [
+                            {
+                                "nombre": "DPV-MC",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "DVP-SA2",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "DVP-SE",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "DVP-SS2",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "DVP-SV2",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            },
+                            {
+                                "nombre": "DVP-SX2",
+                                "imgs": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": "",
+                                "caracteristicas": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

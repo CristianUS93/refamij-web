@@ -1,0 +1,205 @@
+---
+const wspList = [
+    {
+        name: "Cesar Yañez",
+        product: "Envasadoras e Inspección",
+        href: "https://wa.me/51999662740?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+    },
+    {
+        name: "Elias Alayo",
+        product: "Empacado y Termoempaque",
+        href: "https://wa.me/51999662740?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+    },
+    {
+        name: "Nayme Tan",
+        product: "Cerrado y Sellado de Sacos y Bolsas",
+        href: "https://wa.me/51999662740?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+    },
+    {
+        name: "Guillermo Hernández",
+        product: "Aplicadores de Etiquetas y Sleeve",
+        href: "https://wa.me/51999662740?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+    },
+    {
+        name: "Jorge Rojas",
+        product: "Automatización, Robots y Desarrollo de Proyectos",
+        href: "https://wa.me/51999662740?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+    },
+    {
+        name: "Elias Alayo",
+        product: "Transportadores y movimiento de Productos",
+        href: "https://wa.me/51999662740?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+    },
+    {
+        name: "Paul Salcedo",
+        product: "Puertas y Equipamiento Logístico",
+        href: "https://wa.me/51999662740?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+    },
+];
+---
+
+<input type="checkbox" id="check-wsp" />
+<section>
+    <div class="wsp-container">
+        <p class="msg">El equipo suele responder en unos minutos</p>
+        <ul>
+            {
+                wspList.map((e) => (
+                    <li>
+                        <a href={e["href"]} target="_blank">
+                            <div class="wsp-tile">
+                                <div class="green-line" />
+                                <img src="src/assets/icons-social/whatsapp.svg" alt="" />
+                                <div class="wsp-text">
+                                    <p class="product">{e["product"]}</p>
+                                    <p class="name">{e["name"]}</p>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                ))
+            }
+        </ul>
+    </div>
+    <label for="check-wsp" class="checkbtn-wsp">
+        <div class="text">
+            <p>¿Necesitas ayuda?</p>
+            <p><b>Chatea con Nosotros</b></p>
+        </div>
+        <img class="wsp-logo icon" src="src/assets/icons-social/whatsapp.svg" />
+        <i class="material-icons icon">close</i>
+    </label>
+</section>
+
+<style>
+    /*whatsapp container*/
+    section {
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+        z-index: 9999;
+    }
+
+    .wsp-container {
+        width: 370px;
+        padding: 15px;
+        margin-bottom: 10px;
+        background: white;
+        box-shadow: -5px 10px 10px 2px rgba(0, 0, 0, 0.2);
+        display: none;
+    }
+
+    .wsp-container .msg {
+        font-size: 10px;
+        color: rgb(131, 128, 128);
+        padding: 0;
+        margin: 0;
+    }
+
+    .wsp-container ul {
+        list-style: none;
+        padding: 0;
+        margin: 15px 0px 0px 0px;
+    }
+
+    .wsp-container ul li {
+        display: block;
+    }
+
+    .wsp-container ul li a {
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    .wsp-container ul li .wsp-tile {
+        height: 70px;
+        width: 340px;
+        background-color: rgb(240, 240, 240);
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px 10px 10px 0px;
+        margin-bottom: 5px;
+    }
+
+    .wsp-tile .green-line {
+        width: 5px;
+        height: 70px;
+        background-color: var(--green-wsp);
+    }
+
+    .wsp-tile img {
+        margin: 0px 15px;
+    }
+
+    .wsp-tile p {
+        margin: 0;
+        padding: 0;
+    }
+
+    .product {
+        font-size: 15px;
+        color: #000;
+    }
+
+    .name {
+        font-size: 12px;
+        font-weight: 400;
+        color: rgb(131, 128, 128);
+    }
+
+    /*dinamyc button*/
+    .checkbtn-wsp {
+        display: inline-flex;
+        align-items: center;
+        cursor: pointer;
+    }
+
+    .checkbtn-wsp:hover {
+        transform: scale(1.05);
+        transition: all 200ms ease-in-out;
+    }
+
+    .text {
+        height: 50px;
+        background: white;
+        margin-right: 10px;
+        padding: 5px;
+        box-sizing: border-box;
+        border-radius: 5px;
+        text-align: left;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    }
+
+    .text p {
+        font-size: 12px;
+        padding: 0px 5px 5px 5px;
+        margin: 0;
+    }
+
+    .icon {
+        width: 60px;
+        height: 60px;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+        background-color: var(--green-wsp);
+    }
+
+    .checkbtn-wsp i {
+        color: white;
+        font-size: 40px;
+        align-self: center;
+        display: none;
+    }
+
+    #check-wsp {
+        display: none;
+    }
+
+    #check-wsp:checked ~ section .wsp-container{
+        display: block;
+    }
+</style>

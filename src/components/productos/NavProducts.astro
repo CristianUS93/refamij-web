@@ -1,0 +1,148 @@
+---
+import data from "../../data/productos.json";
+
+const { division, producto } = Astro.props;
+
+var marcaSelect = {}
+var categoriaSelect = {}
+
+for (const key in data) {
+    if (Object.prototype.hasOwnProperty.call(data, key)) {
+        const element = data[key];
+        if(element['division'] === division){
+            marcaSelect = element;
+        }
+    }
+}
+
+for (const key in marcaSelect['productos']) {
+    if (Object.prototype.hasOwnProperty.call(marcaSelect['productos'], key)) {
+        const element = marcaSelect['productos'][key];
+        if(element['nombre'] === producto){
+            categoriaSelect = element;
+        }
+    }
+}
+
+---
+<section class="main">
+    <div class="nav-products">
+        {data.map((element) => (
+            <a href={element['href']} class="division-button">
+                <div class={`division-card ${division === element['division'] && "div-select"}` }>
+                    {element['division']}
+                </div>
+            </a>
+        ))}
+    </div>
+    <div class="main-container">
+        <div class="products-menu">
+            <ul>
+                {marcaSelect['productos'].map((element) => (
+                    <a href={element['href']} class="product-button">
+                        <li class={`categoria ${producto === element['nombre'] && "cat-select"}` }>{element["nombre"]}</li>
+                    </a>
+                )) }
+            </ul>
+        </div>
+        <div class="products-cards">
+            <slot />
+        </div>
+    </div>
+</section>
+
+<style>
+    .main {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .nav-products {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        column-gap: 10px;
+        row-gap: 10px;
+        margin-bottom: 1rem;
+    }
+
+    .main-container {
+        display: flex;
+    }
+
+    .division-button {
+        width: 100%;
+    }
+    
+    .division-card {
+        height: 45px;
+        font-size: 13px;
+        padding: 0.5rem;
+        border: 2px solid var(--blue-refamij);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        color: black;
+        cursor: pointer;
+    }
+    .division-card:hover {
+        background-color: rgba(0, 44, 193, 0.4);
+        font-weight: 600;
+    }
+    .division-card:first {
+        background-color: rgba(0, 44, 193, 0.4);
+        font-weight: 600;
+    }
+
+    .products-menu {
+        width: 20%;
+        margin-right: 2rem;
+    }
+
+    .products-cards {
+        width: 80%;
+    }
+    
+    .categoria {
+        padding: 0.5rem;
+        color: white;
+        font-size: 14px;
+        background-color: rgba(0, 44, 193, 0.7);
+        margin-bottom: 0.5rem;
+        cursor: pointer;
+    }
+
+    .categoria:hover {
+        background-color: var(--blue-refamij);
+    }
+    
+    .div-select {
+        background-color: rgba(0, 44, 193, 0.4);
+        font-weight: 600;
+    }
+    .cat-select {
+        background-color: var(--blue-refamij);
+    }
+
+    @media screen and (max-width:800px) {
+        .division-card {
+            height: 55px;
+        }
+    }
+
+    @media screen and (max-width:750px) {
+        .main-container {
+            flex-direction: column;
+        }
+        .nav-products{
+            grid-template-columns: repeat(2, 1fr);
+        }
+        .products-menu {
+            width: 100%;
+        }
+        .products-cards {
+            width: 100%;
+        }
+    }
+</style>

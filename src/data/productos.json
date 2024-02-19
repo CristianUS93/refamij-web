@@ -1,0 +1,337 @@
+[
+    {
+        "division": "Envasadoras e Inspección",
+        "encargado": "Cesar Yañez",
+        "href": "/productos",
+        "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+        "productos": [
+            {
+                "nombre": "Sistemas de Pesaje",
+                "href": "/productos",
+                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico.png",
+                "tipos": [
+                    {
+                        "nombre": "Checkweigher Dimánico",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico.png"
+                    },
+                    {
+                        "nombre": "Sistemas de Pesaje Estático",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/Sistema de Pesaje-estatico.png"
+                    }
+                ]
+            },
+            {
+                "nombre": "Detectores de Metáles",
+                "href": "/productos/Envasadoras e Inspección-Detectores de Metáles",
+                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales.png",
+                "tipos": [
+                    {
+                        "nombre": "Detector de Metáles Vertical",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales(1).png"
+                    },
+                    {
+                        "nombre": "Detector de Metáles Horizontal",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales horizontal.png"
+                    }
+                ]
+            },
+            {
+                "nombre": "Sistemas Combinados",
+                "href": "/productos/Envasadoras e Inspección-Sistemas Combinados",
+                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert.png",
+                "tipos": [
+                    {
+                        "nombre": "Sistemas Combinados EXPERT",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert.png"
+                    }
+                ]
+            },
+            {
+                "nombre": "Dosificador Gravimétrico",
+                "href": "/productos/Envasadoras e Inspección-Dosificador Gravimétrico",
+                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/Dosificador-Gravimétrico-con-Motorreductor-y-Canaleta-Vibrante.png",
+                "tipos": [
+                    {
+                        "nombre": "Dosificador Gravimétrico con Motorreductor y canaleta vibrante",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/Dosificador-Gravimétrico-con-Motorreductor-y-Canaleta-Vibrante.png"
+                    },
+                    {
+                        "nombre": "Dosificador Gravimétrico con Servomotor",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador Gravimétrico con Servomotor.png"
+                    }
+                ]
+            },
+            {
+                "nombre": "Dosificador",
+                "href": "/productos/Envasadoras e Inspección-Dosificador",
+                "img": "",
+                "tipos": []
+            },
+            {
+                "nombre": "Ensacadora",
+                "href": "/productos/Envasadoras e Inspección-Ensacadora",
+                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/ENSACADORA BIG BAG.png",
+                "tipos": [
+                    {
+                        "nombre": "Ensacadora BIG BAG",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/ENSACADORA BIG BAG(1).png"
+                    },
+                    {
+                        "nombre": "Ensacadora Boca Abierta",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/ENSACADORA BOCA ABIERTA.png"
+                    },
+                    {
+                        "nombre": "Ensacadora de Soplo y Tornillo",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE SOPLO Y TORNILLO/ENSACADORA DE SOPLO Y TORNILLO.png"
+                    }
+                ]
+            },
+            {
+                "nombre": "Aplicador Automático de Bolsas",
+                "href": "/productos/Envasadoras e Inspección-Aplicador Automático de Bolsas",
+                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/SAEF-10.png",
+                "tipos": [
+                    {
+                        "nombre": "SAEF 10",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/SAEF-10.png"
+                    }
+                ]
+            },
+            {
+                "nombre": "Balanza de Flujo",
+                "href": "/productos/Envasadoras e Inspección-Balanza de Flujo",
+                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/Balanza-de-Flujo.png",
+                "tipos": [
+                    {
+                        "nombre": "Balanza de Flujo",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/Balanza-de-Flujo.png"
+                    }
+                ]
+            },
+            {
+                "nombre": "Rayos X",
+                "href": "/productos/Envasadoras e Inspección-Rayos X",
+                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/Rayos-X.png",
+                "tipos": [
+                    {
+                        "nombre": "Rayos X",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/Rayos-X.png"
+                    }
+                ]
+            },
+            {
+                "nombre": "Brazil Packing",
+                "href": "/productos/Envasadoras e Inspección-Brazil Packing",
+                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/brasilpacking_logo logo.png",
+                "tipos": [
+                    {
+                        "nombre": "Etiquetadora 300i",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/1. EMPAQUETADORA 300i/EMPAQUETADORA 300i/Brasil Packing-Empaquetadora-300i.png"
+                    },
+                    {
+                        "nombre": "Enfardadora MF600",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/2. ENFARDADORA/ENFARDADORA MF600/Brasil Packing Enfardadora-MF600.png"
+                    },
+                    {
+                        "nombre": "Dosificador de Tornillo BP-DR",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/3. DOSIFICADOR DE TORNILLO/DOSIFICADOR DE TORNILLO BP-DR/Dosificador-de-Tornillo.png"
+                    },
+                    {
+                        "nombre": "Balanza multicabezal BP-14C",
+                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/4. BALANZA MULTICABEZAL/BALANZA MULTICABEZAL BP-14C/Brasil Packing Balanza Multicabezal BP-14C.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "division": "Empacado y Termoempaque",
+        "encargado": "Elías Alayo",
+        "href": "/productos/Empacado y Termoempaque-Empaquetadoras Angulares a Campana",
+        "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+        "productos": [
+            {
+                "nombre": "Empaquetadoras Angulares a Campana",
+                "href": "/productos/Empacado y Termoempaque-Empaquetadoras Angulares a Campana",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "S560",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "S560NA",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "S870",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "SL 45",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "SL 55",
+                        "img": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Empaquetadoras Angulares Automáticas y Semiautomáticas con tunel de Termoretracción",
+                "href": "/productos/Empacado y Termoempaque-Empaquetadoras Angulares Automáticas y Semiautomáticas con tunel de Termoretracción",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "FP560A Semiautomática",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "FP560A Inox Semiautomática",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "FP870A Semiautomática",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "FP6000 Automática",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "FP6000CS Automática",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "FP6000CS Inox Automática",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "FP6000E Automática",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "FP8000CS Automática",
+                        "img": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "division": "Cerrado y Sellado de Sacos y Bolsas",
+        "encargado": "Nayme Tan",
+        "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Sistemas de Costura",
+        "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+        "productos": [
+            {
+                "nombre": "Sistemas de Costura",
+                "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Sistemas de Costura",
+                "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png",
+                "tipos": [
+                    {
+                        "nombre": "MODELO 400 NSFO",
+                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png"
+                    },
+                    {
+                        "nombre": "MODELO 400 PRO",
+                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/400-Pro-3-1498x3000.png"
+                    },
+                    {
+                        "nombre": "MODELO 400 TNS",
+                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/MODELO 400 TNS.png"
+                    }
+                ]
+            },
+            {
+                "nombre": "Cosedoras Portátiles",
+                "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Cosedoras Portátiles",
+                "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/b179e9_b966d99b76d94c099b61fae65214ca06~mv2.png",
+                "tipos": [
+                    {
+                        "nombre": "MODELO HD",
+                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/MODELO PORTATIL HD.png"
+                    },
+                    {
+                        "nombre": "MODELO SERIE F",
+                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/b179e9_5d9ea095ec1f42f98adb9bc918cd1d2c~mv2.png"
+                    },
+                    {
+                        "nombre": "MODELO SERIE F con Crepe",
+                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F CON CREPE/MODELO SERIE-F CON CREPE.png"
+                    }
+                ]
+            },
+            {
+                "nombre": "Cabezales",
+                "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Cabezales",
+                "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/Fischbein-Sew_Head_Model_201-a.png",
+                "tipos": [
+                    {
+                        "nombre": "SERIE 100",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "SERIE 101",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "SERIE 200",
+                        "img": ""
+                    },
+                    {
+                        "nombre": "SERIE 201",
+                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/Fischbein-Sew_Head_Model_201-a.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "division": "Aplicadores de Etiquetas y Sleeve",
+        "encargado": "Jorge Rojas",
+        "href": "",
+        "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+        "productos": []
+    },
+    {
+        "division": "Automatización, Robos y Desarrollo de Proyectos",
+        "encargado": "Martín Huarcaya",
+        "href": "",
+        "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+        "productos": []
+    },
+    {
+        "division": "Transportadores y Movimiento de Productos",
+        "encargado": "Jorge Rojas",
+        "href": "/productos/Transportadores y Movimiento de Productos-Tangente Cero",
+        "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+        "productos": [
+            {
+                "nombre": "Tangente Cero",
+                "href": "/productos/Transportadores y Movimiento de Productos-Tangente Cero",
+                "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-2.png",
+                "tipos": [
+                    {
+                        "nombre": "MODELO 1000",
+                        "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-2.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "division": "Puertas y Equipamiento Logístico",
+        "encargado": "Paul Salcedo",
+        "href": "",
+        "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+        "productos": []
+    },
+    {
+        "division": "Servicio Técnico Post Venta",
+        "encargado": "",
+        "href": "",
+        "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
+        "productos": []
+    }
+]

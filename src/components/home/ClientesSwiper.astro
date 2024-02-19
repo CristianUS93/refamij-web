@@ -1,0 +1,64 @@
+---
+const clientes = await Astro.glob('../../assets/logos-clientes/*.png');
+---
+
+<div class="swiper-clients swiper">
+    <div class="swiper-wrapper">
+        {
+            clientes.map((cliente) => (
+                <div class="swiper-slide">
+                    <img src={cliente['default']['src']} alt={cliente.name} />
+                </div>
+            ))
+        }
+    </div>
+</div>
+
+<script is:inline type="module">
+    import Swiper from "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.mjs";
+
+    let swiper = new Swiper(".swiper-clients", {
+        direction: "horizontal",
+        slidesPerView: 5,
+        loop: "true",
+        speed: 1000,
+        autoplay: true,
+        breakpoints: {
+            250: { 
+                slidesPerView: 1
+            },
+            400: { 
+                slidesPerView: 2
+            },
+            500: { 
+                slidesPerView: 3
+            },
+            700: { 
+                slidesPerView: 4
+            },
+            1000: { 
+                slidesPerView: 5
+            }
+        }
+    });
+</script>
+
+<style>
+    .swiper-clients {
+        width: 100%;
+        margin: 2rem auto 4rem auto;
+    }
+
+    .swiper-clients .swiper-slide img {
+        height: 80px;
+        width: 150px;
+        object-fit: contain;
+        filter: grayscale(100%) brightness(1.1);
+        mix-blend-mode: multiply;
+    }
+    
+    .swiper-clients .swiper-slide img:hover {
+        filter: grayscale(0%) brightness(1.1);
+        mix-blend-mode: multiply;
+    }
+</style>

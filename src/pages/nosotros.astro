@@ -1,0 +1,208 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Banner from "../components/Banner.astro";
+import Body from "../components/Body.astro";
+import SpecialistSwiper from "../components/nosotros/SpecialistSwiper.astro";
+
+import banner from "../assets/nosotros-img/banner.jpg";
+
+const certificados = await Astro.glob(
+    "../assets/nosotros-img/certificados/*.jpg",
+);
+---
+
+<Layout path="/nosotros" , title_page="Refamij - Nosotros">
+    <Banner title="NOSOTROS" img={banner.src} />
+    <Body>
+        <div class="video-container">
+            <iframe
+                class="refamij-video"
+                width="851"
+                height="480"
+                src="https://www.youtube.com/embed/NH4cB4ceoCY?autoplay=1"
+                title="VIDEO CORPORATIVO REFAMIJ -2020"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                encrypted-media
+                allowfullscreen
+            >
+            </iframe>
+        </div>
+        <div class="specialist-container">
+            <h2>NUESTROS ESPECIALISTAS</h2>
+            <SpecialistSwiper />
+        </div>
+        <div class="container">
+            <div class="certificados">
+                <h2>CERTIFICADOS</h2>
+                <div class="blue-line"></div>
+                <div class="img-container">
+                    {
+                        certificados.map((element) => (
+                            <img src={`${element["default"]["src"]}`} alt="" />
+                        ))
+                    }
+                </div>
+            </div>
+            <div class="why">
+                <h2>¿POR QUÉ REFAMIJ?</h2>
+                <div class="blue-line"></div>
+                <p>
+                    Refamij es fabricante líder de equipamiento y periféricos en
+                    finales de línea.
+                </p>
+                <p>Nuestros productos y soluciones se basan en:</p>
+                <ul>
+                    <li>Notable enfoque al cliente.</li>
+                    <li>Más de 15 años de experiencia en la industria.</li>
+                    <li>Servicio Post Venta.</li>
+                    <li>Respuesta inmediata.</li>
+                    <li>Avances tecnológicos y desarrollo de equipos.</li>
+                </ul>
+                <p>
+                    Nuestra amplia cartera de productos y servicios ofrecen
+                    soluciones exhaustivas y de alta calidad y performace.
+                </p>
+                <p>Experiencia en solucioones de clientes corporativos.</p>
+            </div>
+        </div>
+    </Body>
+</Layout>
+
+<style>
+    .nosotros {
+        width: 80%;
+        display: flex;
+        flex-direction: row;
+        margin: 0px auto 3.5rem auto;
+    }
+
+    .video-container {
+        height: 90vh;
+        width: 70%;
+        padding-bottom: 3rem;
+        margin: 0 auto;
+    }
+
+    .refamij-video {
+        height: 100%;
+        width: 100%;
+    }
+
+    h2 {
+        font-size: 18;
+        text-align: center;
+        padding-bottom: 1rem;
+        color: var(--blue-refamij);
+    }
+
+    .specialist-container {
+        width: 100%;
+        padding: 2rem 0;
+        background: linear-gradient(
+            var(--dark-blue),
+            var(--blue-refamij),
+            var(--blue-refamij)
+        );
+    }
+
+    .specialist-container > h2 {
+        color: white;
+    }
+
+    .container {
+        width: 90%;
+        padding: 2rem 0;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .why {
+        width: 38%;
+    }
+    .why ul {
+        padding-bottom: 10px;
+    }
+    .why li {
+        list-style-type: disc;
+        margin-left: 25px;
+    }
+    .why p {
+        padding-bottom: 5px;
+    }
+
+    .certificados {
+        width: 58%;
+        text-align: center;
+    }
+
+    .img-container {
+        width: 100%;
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-evenly;
+    }
+
+    .img-container > img {
+        height: 38vh;
+    }
+
+    .blue-line {
+        height: 5px;
+        background-color: var(--blue-refamij);
+        margin: 0 auto 1rem auto;
+    }
+
+    @media screen and (max-width: 1200px) {
+        .video-container {
+            height: 70vh;
+        }
+    }
+
+    @media screen and (max-width: 1050px) {
+        .container {
+            flex-direction: column-reverse;
+        }
+        .certificados {
+            width: 100%;
+        }
+        .why {
+            width: 100%;
+            margin-bottom: 1rem;
+        }
+    }
+
+    @media screen and (max-width: 1000px) {
+        .video-container {
+            height: 60vh;
+        }
+    }
+
+    @media screen and (max-width: 750px) {
+        .video-container {
+            height: 50vh;
+            width: 95%;
+        }
+    }
+
+    @media screen and (max-width: 700px) {
+        .img-container {
+            flex-direction: column;
+            gap: 1rem;
+        }
+        .img-container > img {
+            height: 50vh;
+            object-fit: contain;
+        }
+    }
+    
+    @media screen and (max-width: 550px) {
+        .video-container {
+            height: 40vh;
+        }
+        .img-container > img {
+            height: 40vh;
+        }
+    }
+</style>

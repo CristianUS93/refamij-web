@@ -1,0 +1,100 @@
+---
+//const imagesBanner = await Astro.glob('../../assets/logos-marcas/*.png');
+const imagesBanner = [
+    {
+        default: {
+            src: "https://www.kuka.com/-/media/kuka-corporate/images/industries/case-studies/memco-ramah-water-factory/header_memco_palettierung.jpg?rev=-1&w=1900&hash=78CD7B1402EA0AA6AD667EFA7789E810",
+        },
+    },
+    {
+        default: {
+            src: "https://www.festo.com/media/cms/central/media/editorial/img/festo-motion-terminal-vtem_20821c_42_fix1920x880.jpg",
+        },
+    },
+    {
+        default: {
+            src: "https://www.cobra.ind.br/userfiles/blog/95a52c4c3b3a0dc8731b1a13dfbd6600.jpg",
+        },
+    },
+];
+---
+
+<div class="mask">
+    <div class="swiper-banner swiper">
+        <div class="swiper-wrapper">
+            {
+                imagesBanner.map((marca) => (
+                    <div class="swiper-slide">
+                        <img src={marca["default"]["src"]} />
+                    </div>
+                ))
+            }
+        </div>
+        <div class="swiper-button-prev arrow"></div>
+        <div class="swiper-button-next arrow"></div>
+        <div class="swiper-pagination"></div>
+        <a>SABER MÁS</a>
+    </div>
+</div>
+
+<script is:inline type="module">
+    import Swiper from "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.mjs";
+
+    let swiper = new Swiper(".swiper-banner", {
+        direction: "horizontal",
+        slidesPerView: 1,
+        loop: "true",
+        speed: 2000,
+        autoplay: true,
+        a11y: true,
+        pagination: {
+            el: ".swiper-pagination",
+        },
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+    });
+</script>
+
+<style>
+    .mask {
+        height: 80vh;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 1);
+    }
+
+    .swiper-banner {
+        height: 80vh;
+        width: 100%;
+    }
+
+    .swiper-slide img {
+        width: 100%;
+        opacity: 0.5;
+    }
+
+    .swiper-banner a {
+        position: absolute;
+        bottom: 100px;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: rgba(0, 0, 255, 0.5);
+        border: 2px solid rgba(0, 0, 255, 0.5);
+        font-size: 18px;
+        color: white;
+        padding: 15px;
+        cursor: pointer;
+        z-index: 1;
+    }
+    .swiper-banner a:hover {
+        background-color: var(--blue-refamij);
+    }
+
+    .arrow {
+        padding: 0 1.5rem;
+    }
+    .arrow:hover {
+        --swiper-navigation-color: var(--white-blue) !important;
+    }
+</style>
