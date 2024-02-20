@@ -13,9 +13,11 @@ import data from "../../data/tienda.json";
 
 const marca = "Cobra";
 const categoria = "Cadenas Metálicas";
+const tipo = 'Cadenas rectas';
 
 var marcaSelect = {}
 var categoriaSelect = {}
+var tipoSelect = {}
 
 for (const key in data) {
     if (Object.prototype.hasOwnProperty.call(data, key)) {
@@ -34,18 +36,28 @@ for (const key in marcaSelect['categorias']) {
         }
     }
 }
+
+for (const key in categoriaSelect['tipos']) {
+    if (Object.prototype.hasOwnProperty.call(categoriaSelect['tipos'], key)) {
+        const element = categoriaSelect['tipos'][key];
+        if(element['nombre'] == tipo){
+            tipoSelect = element;
+        }
+    }
+}
+
 ---
 
 <Layout path="/tienda" , title_page="Refamij - Tienda">
     <Banner title="TIENDA COMERCIAL" img={banner.src} />
     <Body isGray="gray">
-        <NavMarcas marca={marca}, categoria={categoria}>
+        <NavMarcas marca={marca}, categoria={categoria}, tipo={tipo}>
             <section class="main-section">
                 <MarcaCard logo={cobraLogo} image={cobraImage} />
                 <section class="cards-container">
                     {
-                        categoriaSelect['tipos'].map((element) => (
-                            <ProductCard title={element['nombre']} img={element['img']} route="" />
+                        tipoSelect['modelos'].map((element) => (
+                            <ProductCard title={element['nombre']} img={element['imgs'][0]} route="" />
                         ))
                     }
                 </section>

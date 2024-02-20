@@ -92,7 +92,7 @@ import youtube from "../assets/icons-social/youtube.png";
                 </li>
             </ul>
         </div>
-        <div class="container">
+        <div class="container social-c">
             <h2>SÍGUENOS EN</h2>
             <ul class="social">
                 <li>
@@ -168,8 +168,15 @@ import youtube from "../assets/icons-social/youtube.png";
     }
 
     .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
         text-align: left;
         margin: 0 1rem 1rem 1em;
+    }
+
+    .social-c {
+        justify-content: flex-start;
     }
 
     h2 {

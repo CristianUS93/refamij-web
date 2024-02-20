@@ -1,48 +1,44 @@
 ---
+import DropdownMenu from "../../components/tienda/DropdownMenu.astro";
+
 import data from "../../data/tienda.json";
 
-const { marca, categoria } = Astro.props;
+const { marca, categoria, tipo } = Astro.props;
 
-var marcaSelect = {}
-var categoriaSelect = {}
+var marcaSelect = {};
 
 for (const key in data) {
     if (Object.prototype.hasOwnProperty.call(data, key)) {
         const element = data[key];
-        if(element['marca'] === marca){
+        if (element["marca"] === marca) {
             marcaSelect = element;
         }
     }
 }
-
-for (const key in marcaSelect['categorias']) {
-    if (Object.prototype.hasOwnProperty.call(marcaSelect['categorias'], key)) {
-        const element = marcaSelect['categorias'][key];
-        if(element['nombre'] === categoria){
-            categoriaSelect = element;
-        }
-    }
-}
-
 ---
+
 <section class="main">
     <div class="nav-products">
-        {data.map((element) => (
-            <a href={element['href']} class="division-button">
-                <div class={`division-card ${marca === element['marca'] && "div-select"}` }>
-                    {element['marca']}
-                </div>
-            </a>
-        ))}
+        {
+            data.map((element) => (
+                <a href={element["href"]} class="division-button">
+                    <div
+                        class={`division-card ${marca === element["marca"] && "div-select"}`}
+                    >
+                        {element["marca"]}
+                    </div>
+                </a>
+            ))
+        }
     </div>
     <div class="main-container">
         <div class="products-menu">
             <ul>
-                {marcaSelect['categorias'].map((element) => (
-                    <a href={element['href']} class="product-button">
-                        <li class={`categoria ${categoria === element['nombre'] && "cat-select"}` }>{element["nombre"]}</li>
-                    </a>
-                )) }
+                {
+                    marcaSelect["categorias"].map((element) => (
+                        <DropdownMenu categoria={element} categoriaSelect={categoria} tipoSelect={tipo}/>
+                    ))
+                }
             </ul>
         </div>
         <div class="products-cards">
@@ -90,52 +86,31 @@ for (const key in marcaSelect['categorias']) {
         background-color: rgba(0, 44, 193, 0.4);
         font-weight: 600;
     }
-    .division-card:first {
-        background-color: rgba(0, 44, 193, 0.4);
-        font-weight: 600;
-    }
 
     .products-menu {
-        width: 20%;
+        width: 25%;
         margin-right: 2rem;
     }
 
     .products-cards {
-        width: 80%;
-    }
-    
-    .categoria {
-        padding: 0.5rem;
-        color: white;
-        font-size: 14px;
-        background-color: rgba(0, 44, 193, 0.7);
-        margin-bottom: 0.5rem;
-        cursor: pointer;
+        width: 75%;
     }
 
-    .categoria:hover {
-        background-color: var(--blue-refamij);
-    }
-    
     .div-select {
         background-color: rgba(0, 44, 193, 0.4);
-        font-weight: 600;
-    }
-    .cat-select {
-        background-color: var(--blue-refamij);
     }
 
-    @media screen and (max-width:800px) {
+    @media screen and (max-width: 800px) {
         .division-card {
             height: 55px;
         }
     }
 
-    @media screen and (max-width:750px) {
+    @media screen and (max-width: 750px) {
         .main-container {
             flex-direction: column;
         }
-        .nav-products{
+        .nav-products {
             grid-template-columns: repeat(2, 1fr);
         }
         .products-menu {

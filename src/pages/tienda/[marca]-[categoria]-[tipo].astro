@@ -14,19 +14,27 @@ import deltaImage from "../../assets/tienda/delta-img.jpg";
 import data from "../../data/tienda.json";
 
 export async function getStaticPaths() {
-    return data.flatMap((e) => {
-        const marca = e;
-        const marcaNombre = e.marca;
-        const categorias = e.categorias;
+    return data.flatMap((m) => {
+        const marca = m;
+        const marcaNombre = m.marca;
+        const categorias = m.categorias;
 
-        return categorias.flatMap((e: Object) => {
-            const categoria = e;
-            const categoriaNombre = e["nombre"];
-            const tipos = e["tipos"];
-            return {
-                params: { marca: marcaNombre, categoria: categoriaNombre },
-                props: { marca, categoria, tipos },
-            };
+        return categorias.flatMap((c: Object) => {
+            const categoria = c;
+            const categoriaNombre = c["nombre"];
+            const tipos = c["tipos"];
+
+            return tipos.flatMap((t: Object) => {
+                const tipo = t;
+                const tipoNombre = t['nombre'];
+                const modelos = t['modelos'];
+
+                return {
+                    params: { marca: marcaNombre, categoria: categoriaNombre, tipo: tipoNombre },
+                    props: { marca, categoria, tipo, modelos },
+                };
+            });
+
         });
     });
 }
@@ -34,22 +42,23 @@ export async function getStaticPaths() {
 interface Astro {
     marca: Object,
     categoria: Object,
-    tipos: Array<Object>,
+    tipo: Object
+    modelos: Array<Object>,
 }
 
-const { marca, categoria, tipos } = Astro.props;
+const { marca, categoria, tipo, modelos } = Astro.props;
 ---
 
 <Layout path="/tienda" , title_page="Refamij - Tienda">
     <Banner title="TIENDA COMERCIAL" img={banner.src} />
     <Body isGray="gray">
-        <NavMarcas marca={marca['marca']}, categoria={categoria['nombre']}>
+        <NavMarcas marca={marca['marca']}, categoria={categoria['nombre']}, tipo={tipo['nombre']}>
             <section class="main-section">
                 <MarcaCard logo={marca['marca'] === 'Cobra' ? cobraLogo : deltaLogo} image={marca['marca'] === 'Cobra' ? cobraImage : deltaImage} />
                 <section class="cards-container">
                     {
-                        categoria['tipos'].map((element) => (
-                            <ProductCard title={element['nombre']} img={element['img']} route="" />
+                        modelos.map((element) => (
+                            <ProductCard title={element['nombre']} img={element['imgs'][0]} route="" />
                         ))
                     }
                 </section>
