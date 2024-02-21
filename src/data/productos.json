@@ -12,11 +12,31 @@
                 "tipos": [
                     {
                         "nombre": "Checkweigher Dimánico",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico.png"
+                        "href": "/productos/Checkweigher Dimánico",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(1).png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(2).png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(3).png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(4).png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "Sistemas de Pesaje Estático",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/Sistema de Pesaje-estatico.png"
+                        "href": "/productos/Sistemas de Pesaje Estático",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/Sistema de Pesaje-estatico.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -27,11 +47,28 @@
                 "tipos": [
                     {
                         "nombre": "Detector de Metáles Vertical",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales(1).png"
+                        "href": "/productos/Detector de Metáles Vertical",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales(1).png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "Detector de Metáles Horizontal",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales horizontal.png"
+                        "href": "/productos/Detector de Metáles Horizontal",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales horizontal.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -42,7 +79,15 @@
                 "tipos": [
                     {
                         "nombre": "Sistemas Combinados EXPERT",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert.png"
+                        "href": "/productos/Sistemas Combinados EXPERT",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -53,11 +98,38 @@
                 "tipos": [
                     {
                         "nombre": "Dosificador Gravimétrico con Motorreductor y canaleta vibrante",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/Dosificador-Gravimétrico-con-Motorreductor-y-Canaleta-Vibrante.png"
+                        "href": "/productos/Dosificador Gravimétrico con Motorreductor y canaleta vibrante",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/Dosificador-Gravimétrico-con-Motorreductor-y-Canaleta-Vibrante.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "Dosificador Gravimétrico con Servomotor",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador Gravimétrico con Servomotor.png"
+                        "href": "/productos/Dosificador Gravimétrico con Servomotor",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador Gravimétrico con Servomotor.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador-Gravimétrico-con-Servomotor.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Dosificador Gravimétrico con Servorreductor",
+                        "href": "/productos/Dosificador Gravimétrico con Servorreductor",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -65,7 +137,18 @@
                 "nombre": "Dosificador",
                 "href": "/productos/Envasadoras e Inspección-Dosificador",
                 "img": "",
-                "tipos": []
+                "tipos": [
+                    {
+                        "nombre": "Dosificador Canaleta o Tornillo Lineal",
+                        "href": "/productos/Dosificador Gravimétrico con Servorreductor",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    }
+                ]
             },
             {
                 "nombre": "Ensacadora",
@@ -74,15 +157,40 @@
                 "tipos": [
                     {
                         "nombre": "Ensacadora BIG BAG",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/ENSACADORA BIG BAG(1).png"
+                        "href": "/productos/Ensacadora BIG BAG",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/ENSACADORA BIG BAG(1).png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/ENSACADORA BIG BAG.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "Ensacadora Boca Abierta",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/ENSACADORA BOCA ABIERTA.png"
+                        "href": "/productos/Ensacadora Boca Abierta",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/ENSACADORA BOCA ABIERTA.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "Ensacadora de Soplo y Tornillo",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE SOPLO Y TORNILLO/ENSACADORA DE SOPLO Y TORNILLO.png"
+                        "href": "/productos/Ensacadora de Soplo y Tornillo",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE SOPLO Y TORNILLO/ENSACADORA DE SOPLO Y TORNILLO.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -93,7 +201,15 @@
                 "tipos": [
                     {
                         "nombre": "SAEF 10",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/SAEF-10.png"
+                        "href": "/productos/SAEF 10",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/SAEF-10.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -104,7 +220,15 @@
                 "tipos": [
                     {
                         "nombre": "Balanza de Flujo",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/Balanza-de-Flujo.png"
+                        "href": "/productos/Balanza de Flujo",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/Balanza-de-Flujo.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -115,7 +239,16 @@
                 "tipos": [
                     {
                         "nombre": "Rayos X",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/Rayos-X.png"
+                        "href": "/productos/Rayos X",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/Rayos-X.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/Plano de la maquina Rayos X.jpg"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -126,19 +259,51 @@
                 "tipos": [
                     {
                         "nombre": "Etiquetadora 300i",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/1. EMPAQUETADORA 300i/EMPAQUETADORA 300i/Brasil Packing-Empaquetadora-300i.png"
+                        "href": "/productos/Etiquetadora 300i",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/1. EMPAQUETADORA 300i/EMPAQUETADORA 300i/Brasil Packing-Empaquetadora-300i.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "Enfardadora MF600",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/2. ENFARDADORA/ENFARDADORA MF600/Brasil Packing Enfardadora-MF600.png"
+                        "href": "/productos/Enfardadora MF600",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/2. ENFARDADORA/ENFARDADORA MF600/Brasil Packing Enfardadora-MF600.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "Dosificador de Tornillo BP-DR",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/3. DOSIFICADOR DE TORNILLO/DOSIFICADOR DE TORNILLO BP-DR/Dosificador-de-Tornillo.png"
+                        "href": "/productos/Dosificador de Tornillo BP-DR",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/3. DOSIFICADOR DE TORNILLO/DOSIFICADOR DE TORNILLO BP-DR/Dosificador-de-Tornillo.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "Balanza multicabezal BP-14C",
-                        "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/4. BALANZA MULTICABEZAL/BALANZA MULTICABEZAL BP-14C/Brasil Packing Balanza Multicabezal BP-14C.png"
+                        "href": "/productos/Balanza multicabezal BP-14C",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/4. BALANZA MULTICABEZAL/BALANZA MULTICABEZAL BP-14C/Brasil Packing Balanza Multicabezal BP-14C.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             }
@@ -157,23 +322,63 @@
                 "tipos": [
                     {
                         "nombre": "S560",
-                        "img": ""
+                        "href": "/productos/S560",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "S560NA",
-                        "img": ""
+                        "href": "/productos/S560NA",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "S870",
-                        "img": ""
+                        "href": "/productos/S870",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "SL 45",
-                        "img": ""
+                        "href": "/productos/SL 45",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "SL 55",
-                        "img": ""
+                        "href": "/productos/SL 55",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -184,35 +389,99 @@
                 "tipos": [
                     {
                         "nombre": "FP560A Semiautomática",
-                        "img": ""
+                        "href": "/productos/FP560A Semiautomática",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "FP560A Inox Semiautomática",
-                        "img": ""
+                        "href": "/productos/FP560A Inox Semiautomática",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "FP870A Semiautomática",
-                        "img": ""
+                        "href": "/productos/FP870A Semiautomática",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "FP6000 Automática",
-                        "img": ""
+                        "href": "/productos/FP6000 Automática",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "FP6000CS Automática",
-                        "img": ""
+                        "href": "/productos/FP6000CS Automática",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "FP6000CS Inox Automática",
-                        "img": ""
+                        "href": "/productos/FP6000CS Inox Automática",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "FP6000E Automática",
-                        "img": ""
+                        "href": "/productos/FP6000E Automática",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "FP8000CS Automática",
-                        "img": ""
+                        "href": "/productos/FP8000CS Automática",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             }
@@ -231,15 +500,39 @@
                 "tipos": [
                     {
                         "nombre": "MODELO 400 NSFO",
-                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png"
+                        "href": "/productos/MODELO 400 NSFO",
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "MODELO 400 PRO",
-                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/400-Pro-3-1498x3000.png"
+                        "href": "/productos/MODELO 400 PRO",
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/400-Pro-3-1498x3000.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "MODELO 400 TNS",
-                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/MODELO 400 TNS.png"
+                        "href": "/productos/MODELO 400 TNS",
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/MODELO 400 TNS.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -250,15 +543,39 @@
                 "tipos": [
                     {
                         "nombre": "MODELO HD",
-                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/MODELO PORTATIL HD.png"
+                        "href": "/productos/MODELO HD",
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/MODELO PORTATIL HD.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "MODELO SERIE F",
-                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/b179e9_5d9ea095ec1f42f98adb9bc918cd1d2c~mv2.png"
+                        "href": "/productos/MODELO SERIE F",
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/b179e9_5d9ea095ec1f42f98adb9bc918cd1d2c~mv2.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "MODELO SERIE F con Crepe",
-                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F CON CREPE/MODELO SERIE-F CON CREPE.png"
+                        "href": "/productos/MODELO SERIE F con Crepe",
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F CON CREPE/MODELO SERIE-F CON CREPE.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             },
@@ -269,19 +586,51 @@
                 "tipos": [
                     {
                         "nombre": "SERIE 100",
-                        "img": ""
+                        "href": "/productos/SERIE 100",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "SERIE 101",
-                        "img": ""
+                        "href": "/productos/SERIE 101",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "SERIE 200",
-                        "img": ""
+                        "href": "/productos/SERIE 200",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     },
                     {
                         "nombre": "SERIE 201",
-                        "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/Fischbein-Sew_Head_Model_201-a.png"
+                        "href": "/productos/SERIE 201",
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/Fischbein-Sew_Head_Model_201-a.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             }
@@ -314,7 +663,188 @@
                 "tipos": [
                     {
                         "nombre": "MODELO 1000",
-                        "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-2.png"
+                        "href": "/productos/MODELO 1000",
+                        "img": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-2.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-3.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-4.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-5.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-45.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-90.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-180.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Transportador Recto",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador Recto",
+                "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO.png",
+                "tipos": [
+                    {
+                        "nombre": "Transportador Recto",
+                        "href": "/productos/Transportador Recto",
+                        "img": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO-2.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO-4.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO-TRANSFERENCIA-LATERAL.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Transportador Curvo",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador Curvo",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Transportador Curvo",
+                        "href": "/productos/Transportador Curvo",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Transportador de Rodillos",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de Rodillos",
+                "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/TRANSPORTADOR-DE-RODILLOS.png",
+                "tipos": [
+                    {
+                        "nombre": "Transportador de Rodillos",
+                        "href": "/productos/Transportador de Rodillos",
+                        "img": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/TRANSPORTADOR-DE-RODILLOS.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/TRANSPORTADOR-DE-RODILLOS-(2).png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Transportador de Elevación",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de Elevación",
+                "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION.png",
+                "tipos": [
+                    {
+                        "nombre": "Transportador de Elevación",
+                        "href": "/productos/Transportador de Elevación",
+                        "img": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION-(3).png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Transportador de Acumulación",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de Acumulación",
+                "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. TRANSPORTADOR PARA ACUMULACION/TRANSPORTADOR-PARA-ACUMULACION.png",
+                "tipos": [
+                    {
+                        "nombre": "Transportador de Acumulación",
+                        "href": "/productos/Transportador de Acumulación",
+                        "img": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. TRANSPORTADOR PARA ACUMULACION/TRANSPORTADOR-PARA-ACUMULACION.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. TRANSPORTADOR PARA ACUMULACION/TRANSPORTADOR-PARA-ACUMULACION-(2).png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Transportador de Acero Inoxidable",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de Acero Inoxidable",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Transportador de Acero Inoxidable",
+                        "href": "/productos/Transportador de Acero Inoxidable",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Transportador con Superficie Engomada",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador con Superficie Engomada",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Transportador con Superficie Engomada",
+                        "href": "/productos/Transportador con Superficie Engomada",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Nestaflex",
+                "href": "/productos/Transportadores y Movimiento de Productos-Nestaflex",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Nestaflex",
+                        "href": "/productos/Nestaflex",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Sorter",
+                "href": "/productos/Transportadores y Movimiento de Productos-Sorter",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Sorter",
+                        "href": "/productos/Sorter",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": "",
+                        "especificaiones": {},
+                        "video": ""
                     }
                 ]
             }

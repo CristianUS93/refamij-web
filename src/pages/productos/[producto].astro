@@ -1,0 +1,241 @@
+---
+import Banner from "../../components/Banner.astro";
+import Body from "../../components/Body.astro";
+import NavProductos from "../../components/productos/NavProducts.astro";
+import ProductCard from "../../components/productos/ProductoPCard.astro";
+import Layout from "../../layouts/Layout.astro";
+
+import banner from "../../assets/tienda/banner.jpg";
+import data from "../../data/productos.json";
+
+export async function getStaticPaths() {
+    return data.flatMap((e) => {
+        const productos = e.productos;
+
+        return productos.flatMap((e: Object) => {
+            const tipos = e["tipos"];
+
+            return tipos.flatMap((t: Object) => {
+                const tipo = t;
+                const tipoNombre = t["nombre"];
+
+                return {
+                    params: { producto: tipoNombre },
+                    props: { tipo },
+                };
+            });
+        });
+    });
+}
+
+interface Astro {
+    tipo: Object;
+}
+
+const { tipo } = Astro.props;
+---
+
+<Layout path="/productos" , title_page="Refamij - Productos">
+    <Banner title="PRODUCTOS INDUSTRIALES" img={banner.src} />
+    <Body isGray="gray">
+        <section class="main-info">
+            <picture>
+                <img id="main-img" src={tipo["img"][0]} alt="" />
+                <div class="small-img">
+                    {
+                        tipo["img"].map((e) => (
+                            <img class={`small ${e == tipo['img'][0] && "img-select"}`}  src={e} alt={tipo["nombre"]} />
+                        ))
+                    }
+                </div>
+            </picture>
+            <article>
+                <h2 class="title">{tipo["nombre"]}</h2>
+                <p class="description">
+                    Lorem ipsum es el texto que se usa habitualmente en diseño
+                    gráfico en demostraciones de tipografías o de borradores de
+                    diseño para probar el diseño visual antes de insertar el
+                    texto final. Aunque no posee actualmente fuentes para
+                    justificar sus hipótesis, el profesor de filología clásica
+                    Richard McClintock asegura que su uso se remonta a los
+                    impresores de comienzos del siglo XVI. Su uso en algunos
+                    editores de texto muy conocidos en la actualidad ha dado al
+                    texto lorem ipsum nueva popularidad.
+                </p>
+                <h3>Aplicaciones</h3>
+                <p class="description">
+                    Lorem ipsum es el texto que se usa habitualmente en diseño
+                    gráfico en demostraciones de tipografías o de borradores de
+                    diseño para probar el diseño visual antes de insertar el
+                    texto final.
+                </p>
+                <a href=""><div class="button">Cotizar</div></a>
+            </article>
+        </section>
+        <section class="tec-info">
+            <h2>Especificaciones Técnicas</h2>
+            <ul class="info-menu">
+                <li class="option o-select" id="e">
+                    Especificaciones
+                </li>
+                <li class="option" id="f">Ficha Técnica</li>
+                <li class="option" id="v">Video</li>
+            </ul>
+            <div class="info-content">
+                <div class="content e"></div>
+                <div class="content f"></div>
+                <div class="content v"></div>
+            </div>
+        </section>
+    </Body>
+</Layout>
+
+<script>
+    //Images changes
+    const mainImg = document.getElementById("main-img");
+    const images = document.getElementsByClassName("small");
+
+    for (const image of images) {
+        image.addEventListener("click", () => {
+            mainImg["src"] = image["src"];
+            var current = document.getElementsByClassName("img-select");
+            current[0].className = current[0].className.replace(" img-select", "");
+            image.className += " img-select";
+        });
+    }
+    
+    //Tec-info changes
+    const menuOptions = document.getElementsByClassName('option');
+    const contentOptions = document.getElementsByClassName('content');
+    for (const option of menuOptions) {
+        option.addEventListener("click", () => {
+            var current = document.getElementsByClassName("o-select");
+            current[0].className = current[0].className.replace(" o-select", "");
+            option.className += " o-select";
+            
+            for (const content of contentOptions) {
+                content['style'].display = 'none';
+                if(content.classList.contains(current[0].id)){
+                    content['style'].display = 'block';
+                }
+            }
+        });
+    }
+    
+</script>
+
+<style>
+    .main-info {
+        width: 90%;
+        margin: 0 auto 4rem auto;
+        display: flex;
+    }
+
+    .main-info picture,
+    .main-info article {
+        width: 50%;
+    }
+
+    /* Images */
+    #main-img {
+        height: 50vh;
+        width: 100%;
+        object-fit: scale-down;
+        border: 1px solid var(--blue);
+    }
+    .small-img {
+        width: 100%;
+    }
+    .small-img {
+        width: 100%;
+        display: inline-flex;
+        overflow-x: scroll;
+        padding-bottom: 5px;
+    }
+    .small {
+        height: 20vh;
+        width: 25%;
+        margin-right: 10px;
+        object-fit: scale-down;
+        border: 1px solid gray;
+    }
+
+    .img-select {
+        border: 2px solid var(--blue);
+    }
+
+    .small-img img:last-child {
+        margin-right: 0;
+    }
+
+    .small-img::-webkit-scrollbar {
+        height: 7px;
+    }
+    .small-img::-webkit-scrollbar-thumb {
+        background: var(--light-blue);
+        border-radius: 7px;
+    }
+    .small-img::-webkit-scrollbar-thumb:hover {
+        background: var(--blue);
+    }
+
+    /* Article */
+    .main-info article {
+        padding-left: 3rem;
+    }
+    h2,
+    h3 {
+        margin-bottom: 1rem;
+    }
+    .description {
+        margin-bottom: 3rem;
+    }
+    .button {
+        color: black;
+        font-weight: 700;
+        background-color: yellow;
+        display: inline-flex;
+        padding: 1.5rem;
+    }
+
+    /* Tec Info */
+    .tec-info {
+        width: 90%;
+        margin: 0 auto;
+        padding: 2rem;
+        box-shadow: 2px 2px 20px 2px gray;
+    }
+
+    .tec-info h2 {
+        color: var(--blue-refamij);
+    }
+
+    .info-menu {
+        display: flex;
+        border-bottom: 1px solid gray;
+    }
+
+    .option {
+        font-weight: 500;
+        padding: 1rem 2rem;
+        cursor: pointer;
+    }
+    .o-select {
+        border-bottom: 4px solid var(--blue-refamij);
+    }
+
+    .info-content {
+        width: 100%;
+    }
+
+    .content {
+        width: 100%;
+    }
+
+    .e {
+    }
+
+    .f, .v {
+        display: none;
+    }
+</style>

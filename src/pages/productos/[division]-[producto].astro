@@ -2,7 +2,7 @@
 import Banner from "../../components/Banner.astro";
 import Body from "../../components/Body.astro";
 import NavProductos from "../../components/productos/NavProducts.astro";
-import ProductCard from "../../components/tienda/ProductCard.astro";
+import ProductCard from "../../components/productos/ProductoPCard.astro";
 import Layout from "../../layouts/Layout.astro";
 
 import banner from "../../assets/tienda/banner.jpg";
@@ -33,6 +33,8 @@ interface Astro {
 }
 
 const { division, producto, tipos } = Astro.props;
+
+console.log(tipos);
 ---
 <Layout path="/productos" , title_page="Refamij - Productos">
     <Banner title="PRODUCTOS INDUSTRIALES" img={banner.src}/>
@@ -42,7 +44,7 @@ const { division, producto, tipos } = Astro.props;
                 <section class="cards-container">
                     {
                         tipos.map((element) => (
-                            <ProductCard title={element['nombre']} img={element['img']} route="" />
+                            <ProductCard title={element['nombre']} img={element['img'][0]} route={element['href']} />
                         ))
                     }
                 </section>

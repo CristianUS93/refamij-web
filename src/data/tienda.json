@@ -238,7 +238,9 @@
                         "modelos": [
                             {
                                 "nombre": "Serie AR 35",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 35/SERIE AR 35(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -246,7 +248,9 @@
                             },
                             {
                                 "nombre": "Serie AR 38",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38/SERIE AR 38.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -254,7 +258,9 @@
                             },
                             {
                                 "nombre": "Serie AR 38 AP",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38 AP/SERIE AR 38 AP(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -262,7 +268,9 @@
                             },
                             {
                                 "nombre": "Serie AR 38 RQ",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38 RQ/SERIE AR 38 RQ(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -270,7 +278,9 @@
                             },
                             {
                                 "nombre": "Serie AR 38 VAC",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38 VAC/SERIE AR 38 VAC(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -278,7 +288,9 @@
                             },
                             {
                                 "nombre": "Serie AR 821",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 821/SERIE AR 821(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -286,7 +298,9 @@
                             },
                             {
                                 "nombre": "Serie AR 821 BPA",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 821 BPA/SERIE AR 821 BPA(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -294,7 +308,9 @@
                             },
                             {
                                 "nombre": "Serie AR 835",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 835/PLANO SERIE AR 835(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -302,7 +318,9 @@
                             },
                             {
                                 "nombre": "Serie AR 835 BPA",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 835 BPA/SERIE AR 835 BPA(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -317,7 +335,9 @@
                         "modelos": [
                             {
                                 "nombre": "Serie ACM 38",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 38/SERIE ACM 38(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -325,7 +345,9 @@
                             },
                             {
                                 "nombre": "Serie ACM 601-607",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 601 _ 607/SERIE ACM 601 _ 607(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -333,7 +355,9 @@
                             },
                             {
                                 "nombre": "Serie ACM 602-608",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 602 _ 608/SERIE ACM 602 _ 608(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -341,7 +365,9 @@
                             },
                             {
                                 "nombre": "Serie ACM 882 BPA",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 882 BPA/SERIE-ACM-882-BPA.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -349,7 +375,9 @@
                             },
                             {
                                 "nombre": "Serie ACT 15",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 15/SERIE ACT 15(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -357,7 +385,9 @@
                             },
                             {
                                 "nombre": "Serie ACT 20",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 20/SERIE ACT 20(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -365,7 +395,9 @@
                             },
                             {
                                 "nombre": "Serie ACT 20 con empujador",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 20 CON EMPUJADOR/SERIE-ACT-20-CON-EMPUJADOR.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -373,7 +405,9 @@
                             },
                             {
                                 "nombre": "Serie ACT 38",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 38/SERIE ACT 38(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -381,7 +415,9 @@
                             },
                             {
                                 "nombre": "Serie ACT 38 AP",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 38 AP/SERIE-ACT-38-AP.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -389,7 +425,9 @@
                             },
                             {
                                 "nombre": "Serie ACT 38 RQ ATX",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 38 RQ _ ATX/SERIE ACT 38 RQ _ ATX(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -397,7 +435,9 @@
                             },
                             {
                                 "nombre": "Serie ACT 882",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 882/SERIE ACT 882(1).png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -405,7 +445,9 @@
                             },
                             {
                                 "nombre": "Serie ACT 882 BPA",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 882 BPA/SERIE ACT 882 BPA.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1109,7 +1151,9 @@
                         "modelos": [
                             {
                                 "nombre": "Perfil CLIP",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL CLIP/928aaa3d4bc46defa6c32e3b6120186f.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1117,7 +1161,9 @@
                             },
                             {
                                 "nombre": "Perfil RECTO",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL RECTO/a0615afc40a483382782b200c7075131.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1125,7 +1171,9 @@
                             },
                             {
                                 "nombre": "Perfil T DUPLO",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL T DUPLO/a04d10313ce75db87907129156d6295d.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1140,7 +1188,9 @@
                         "modelos": [
                             {
                                 "nombre": "Perfil cónico",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/perfiles/PERFILES GUIA/PERFIL CONICO/005191_perfil_conico.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1148,7 +1198,9 @@
                             },
                             {
                                 "nombre": "Perfil PM",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/perfiles/PERFILES GUIA/PERFIL PM/perfil-pm-1-01.jpg"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1156,7 +1208,9 @@
                             },
                             {
                                 "nombre": "Perfil PUAL 18x30 + PG 40x27",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/perfiles/PERFILES GUIA/PERFIL PUAL 18X30 + PG 40X27/e276d5cee0df1eb5b99cc060119816d3.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1164,7 +1218,9 @@
                             },
                             {
                                 "nombre": "Perfil Redondo",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/cobra/perfiles/PERFILES GUIA/PERFIL REDONDO/b063fdf2b6b5f0252ee2c8fd5c6ea078.jpg"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1296,7 +1352,7 @@
                             {
                                 "nombre": "VFD-L",
                                 "imgs": [
-                                    "src/assets/tienda/delta/variadores/img/VFD-L.png"
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/2. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 2 CV/VFD-L/VFD-L_.png"
                                 ],
                                 "docs": [
                                     "src/assets/tienda/delta/variadores/docs/VFD-L.docx"
@@ -1327,7 +1383,7 @@
                             {
                                 "nombre": "VFD-EL",
                                 "imgs": [
-                                    "src/assets/tienda/delta/variadores/img/VFD-EL.png"
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/3. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 5 CV/VFD-EL/VFD - EL_.png"
                                 ],
                                 "docs": [
                                     "src/assets/tienda/delta/variadores/docs/VFD-EL.docx"
@@ -1360,7 +1416,7 @@
                             {
                                 "nombre": "VFD-E",
                                 "imgs": [
-                                    "src/assets/tienda/delta/variadores/img/VFD-E.png"
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/4. VARIADOR COMPACTO CON CONTROL VECTORIAL DE 0.25 CV A 30 CV/VFD-E/VFD-E.png"
                                 ],
                                 "docs": [
                                     "src/assets/tienda/delta/variadores/docs/VFD-E.docx"
@@ -1393,7 +1449,7 @@
                             {
                                 "nombre": "VFD-C2000",
                                 "imgs": [
-                                    "src/assets/tienda/delta/variadores/img/VFD-E.png"
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/5. VARIADOR CON CONTROL DE CAMPO DE 1 CV A 600 CV/VFD-C2000/VFD-C2000.png"
                                 ],
                                 "docs": [
                                     "src/assets/tienda/delta/variadores/docs/VFD-E.docx"
@@ -1426,13 +1482,14 @@
                 "tipos": [
                     {
                         "nombre": "Servoaccionnamiento Avanzado",
+                        "href": "/tienda/Delta-Servo-Accionamiento-Servoaccionnamiento Avanzado",
                         "img": "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA--A2.png",
                         "modelos": [
                             {
                                 "nombre": "ASDA-A2",
                                 "imgs": [
-                                    "src/assets/tienda/delta/variadores/img/ASDA-A2.png",
-                                    "src/assets/tienda/delta/variadores/img/ASDA--A2.png"
+                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA--A2.png",
+                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA-A2.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -1442,8 +1499,8 @@
                             {
                                 "nombre": "ASDA-A3",
                                 "imgs": [
-                                    "src/assets/tienda/delta/variadores/img/ASDA-A3.png",
-                                    "src/assets/tienda/delta/variadores/img/ASDA--A3.png"
+                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A3/ASDA-A3.png",
+                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A3/ASDA--A3.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -1454,12 +1511,13 @@
                     },
                     {
                         "nombre": "Servoaccionnamiento Estándar",
+                        "href": "/tienda/Delta-Servo-Accionamiento-Servoaccionnamiento Estándar",
                         "img": "/tienda/delta/2. SERVOACCIONAMIENTO/2. SERVOACCIONAMIENTO ESTÁNDAR/ASBA-B2/ASBA-B2.png",
                         "modelos": [
                             {
                                 "nombre": "ASBA-B2",
                                 "imgs": [
-                                    "src/assets/tienda/delta/variadores/img/ASBA-B2.png"
+                                    "/tienda/delta/2. SERVOACCIONAMIENTO/2. SERVOACCIONAMIENTO ESTÁNDAR/ASBA-B2/ASBA-B2.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -1476,11 +1534,14 @@
                 "tipos": [
                     {
                         "nombre": "LAS",
+                        "href": "/tienda/Delta-Actuador-Servomotor Lineal-LAS",
                         "img": "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LA-S/LA-S.png",
                         "modelos": [
                             {
                                 "nombre": "LAS",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LA-S/LA-S.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1490,11 +1551,14 @@
                     },
                     {
                         "nombre": "LU",
+                        "href": "/tienda/Delta-Actuador-Servomotor Lineal-LU",
                         "img": "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LU/LU.png",
                         "modelos": [
                             {
                                 "nombre": "LU",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LU/LU.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1510,11 +1574,14 @@
                 "tipos": [
                     {
                         "nombre": "PA",
+                        "href": "/tienda/Delta-Reductores-PA",
                         "img": "/tienda/delta/4. REDUCTORES/PA/PA.png",
                         "modelos": [
                             {
                                 "nombre": "PA",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/4. REDUCTORES/PA/PA.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1524,11 +1591,14 @@
                     },
                     {
                         "nombre": "PS",
+                        "href": "/tienda/Delta-Reductores-PS",
                         "img": "/tienda/delta/4. REDUCTORES/PS/PS.png",
                         "modelos": [
                             {
                                 "nombre": "PS",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/4. REDUCTORES/PS/PS.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1544,11 +1614,14 @@
                 "tipos": [
                     {
                         "nombre": "Solucion DELTA para CNC",
+                        "href": "/tienda/Delta-CNC-Solucion DELTA para CNC",
                         "img": "/tienda/delta/5. CNC/SOLUCION DELTA PARA CNC/CNC.png",
                         "modelos": [
                             {
                                 "nombre": "CNC",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/5. CNC/SOLUCION DELTA PARA CNC/CNC.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1564,11 +1637,14 @@
                 "tipos": [
                     {
                         "nombre": "PLC Compacto de Gama Media DELTA",
+                        "href": "/tienda/Delta-Controlador Lógico Programable-PLC Compacto de Gama Media DELTA",
                         "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png",
                         "modelos": [
                             {
                                 "nombre": "AS300",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1578,11 +1654,14 @@
                     },
                     {
                         "nombre": "Alto Desempeño para aplicaciones de procesos",
+                        "href": "/tienda/Delta-Controlador Lógico Programable-Alto Desempeño para aplicaciones de procesos",
                         "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/2. ALTO DESEMPEÑO PARA APLICACIONES DE PROCESOS/AH500/PLC-grande-de-la-serie-AH500.png",
                         "modelos": [
                             {
                                 "nombre": "AH500",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/2. ALTO DESEMPEÑO PARA APLICACIONES DE PROCESOS/AH500/PLC-grande-de-la-serie-AH500.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1592,11 +1671,14 @@
                     },
                     {
                         "nombre": "Nueva Generación de PLC Compactos DELTA",
+                        "href": "/tienda/Delta-Controlador Lógico Programable-Nueva Generación de PLC Compactos DELTA",
                         "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DPV-MC/DPV-MC.png",
                         "modelos": [
                             {
                                 "nombre": "DPV-MC",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DPV-MC/DPV-MC.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1604,7 +1686,9 @@
                             },
                             {
                                 "nombre": "DVP-SA2",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SA2/DVP-SA2-delta.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1612,7 +1696,9 @@
                             },
                             {
                                 "nombre": "DVP-SE",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SE/DVP-SE-delta.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1620,7 +1706,9 @@
                             },
                             {
                                 "nombre": "DVP-SS2",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SS2/DVP-SS2.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1628,7 +1716,9 @@
                             },
                             {
                                 "nombre": "DVP-SV2",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SV2/DVP-SV2.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",
@@ -1636,7 +1726,9 @@
                             },
                             {
                                 "nombre": "DVP-SX2",
-                                "imgs": [],
+                                "imgs": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SX2/DVP-SX2.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": "",

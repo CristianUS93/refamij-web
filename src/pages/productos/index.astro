@@ -3,7 +3,7 @@ import Layout from "../../layouts/Layout.astro";
 import Banner from "../../components/Banner.astro";
 import Body from "../../components/Body.astro";
 import NavProductos from "../../components/productos/NavProducts.astro";
-import ProductCard from "../../components/tienda/ProductCard.astro";
+import ProductCard from "../../components/productos/ProductoPCard.astro";
 
 import banner from "../../assets/tienda/banner.jpg";
 import data from "../../data/productos.json";
@@ -42,7 +42,7 @@ for (const key in marcaSelect['productos']) {
                 <section class="cards-container">
                     {
                         categoriaSelect['tipos'].map((element) => (
-                            <ProductCard title={element['nombre']} img={element['img']} route="" />
+                            <ProductCard title={element['nombre']} img={element['img'][0]} route={element['href']} />
                         ))
                     }
                 </section>
