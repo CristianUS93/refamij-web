@@ -44,7 +44,11 @@ const { tipo } = Astro.props;
                 <div class="small-img">
                     {
                         tipo["img"].map((e) => (
-                            <img class={`small ${e == tipo['img'][0] && "img-select"}`}  src={e} alt={tipo["nombre"]} />
+                            <img
+                                class={`small ${e == tipo["img"][0] && "img-select"}`}
+                                src={e}
+                                alt={tipo["nombre"]}
+                            />
                         ))
                     }
                 </div>
@@ -75,9 +79,7 @@ const { tipo } = Astro.props;
         <section class="tec-info">
             <h2>Especificaciones Técnicas</h2>
             <ul class="info-menu">
-                <li class="option o-select" id="e">
-                    Especificaciones
-                </li>
+                <li class="option o-select" id="e">Especificaciones</li>
                 <li class="option" id="f">Ficha Técnica</li>
                 <li class="option" id="v">Video</li>
             </ul>
@@ -99,29 +101,34 @@ const { tipo } = Astro.props;
         image.addEventListener("click", () => {
             mainImg["src"] = image["src"];
             var current = document.getElementsByClassName("img-select");
-            current[0].className = current[0].className.replace(" img-select", "");
+            current[0].className = current[0].className.replace(
+                " img-select",
+                "",
+            );
             image.className += " img-select";
         });
     }
-    
+
     //Tec-info changes
-    const menuOptions = document.getElementsByClassName('option');
-    const contentOptions = document.getElementsByClassName('content');
+    const menuOptions = document.getElementsByClassName("option");
+    const contentOptions = document.getElementsByClassName("content");
     for (const option of menuOptions) {
         option.addEventListener("click", () => {
             var current = document.getElementsByClassName("o-select");
-            current[0].className = current[0].className.replace(" o-select", "");
+            current[0].className = current[0].className.replace(
+                " o-select",
+                "",
+            );
             option.className += " o-select";
-            
+
             for (const content of contentOptions) {
-                content['style'].display = 'none';
-                if(content.classList.contains(current[0].id)){
-                    content['style'].display = 'block';
+                content["style"].display = "none";
+                if (content.classList.contains(current[0].id)) {
+                    content["style"].display = "block";
                 }
             }
         });
     }
-    
 </script>
 
 <style>
@@ -235,7 +242,67 @@ const { tipo } = Astro.props;
     .e {
     }
 
-    .f, .v {
+    .f,
+    .v {
         display: none;
+    }
+
+    @media screen and (max-width: 1050px) and (max-height: 1400px) {
+        #main-img {
+            height: 35vh;
+        }
+        .small {
+            height: 10vh;
+        }
+    }
+
+    @media screen and (max-width: 900px) {
+        .main-info {
+            flex-direction: column;
+        }
+        .main-info picture,
+        .main-info article {
+            width: 100%;
+        }
+
+        .main-info picture {
+            margin-bottom: 1rem;
+        }
+        .main-info article {
+            padding-left: 0;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        h2 {
+            font-size: 18px;
+        }
+        h3 {
+            font-size: 16px;
+        }
+        p {
+            font-size: 13px;
+        }
+        .button {
+            padding: 1rem;
+        }
+        .tec-info {
+            padding: 1rem;
+        }
+        .option {
+            font-size: 14px;
+            padding: 0.5rem 1rem;
+        }
+    }
+
+    @media screen and (max-width: 450px) {
+        .tec-info {
+            width: 95%;
+            padding: 0.5rem;
+        }
+        .option {
+            font-size: 13px;
+            padding: 0.2rem 0.7rem;
+        }
     }
 </style>
