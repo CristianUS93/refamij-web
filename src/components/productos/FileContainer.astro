@@ -1,0 +1,46 @@
+---
+const {fileUrl, fileName, miniatura} = Astro.props;
+---
+<div>
+    <p>
+        Lorem ipsum es el texto que se usa habitualmente en
+        diseño gráfico en demostraciones de tipografías o de
+        borradores de diseño para probar el diseño visual
+        antes de insertar el texto final.
+    </p>
+    <div class="download">
+        <img src={miniatura} alt="">
+        <a href={fileUrl} download={fileName}>DESCARGAR CATALOGO</a>
+    </div>
+</div>
+
+<style>
+    div {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    p {
+        width: 55%;
+    }
+    .download {
+        width: 40%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: gray;
+    }
+    img {
+        height: 100%;
+        object-fit: scale-down;
+        filter: brightness(0.5) blur(1px);
+    }
+    a {
+        position: absolute;
+        color: white;
+        font-weight: 500;
+        padding: 0.5rem 1rem;
+        background-color: rgba(0,0,0,0.5);
+    }
+</style>

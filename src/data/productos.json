@@ -8,23 +8,27 @@
             {
                 "nombre": "Sistemas de Pesaje",
                 "href": "/productos",
-                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico.png",
+                "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(4).png",
                 "tipos": [
                     {
                         "nombre": "Checkweigher Dimánico",
                         "href": "/productos/Checkweigher Dimánico",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(4).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(1).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(2).png",
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(3).png",
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(4).png"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(3).png"
                         ],
-                        "docs": [],
+                        "docs": {
+                            "fileName": "CATÁLOGO PERFOR 2023.pdf",
+                            "fileUrl": "/productos/1. ENVASADORA E INSPECCION - Perfor/CATÁLOGO PERFOR 2023.pdf",
+                            "miniatura": "/productos/1. ENVASADORA E INSPECCION - Perfor/miniatura-PERFOR.png"
+                        },
                         "descripcion": "",
                         "aplicaciones": "",
                         "especificaiones": {},
-                        "video": ""
+                        "video": "https://www.youtube.com/embed/LG9erixpDAU?si=u07oSP92Jal0ONeK"
                     },
                     {
                         "nombre": "Sistemas de Pesaje Estático",
@@ -32,7 +36,7 @@
                         "img": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/Sistema de Pesaje-estatico.png"
                         ],
-                        "docs": [],
+                        "docs": {},
                         "descripcion": "",
                         "aplicaciones": "",
                         "especificaiones": {},
@@ -52,7 +56,7 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales(1).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales.png"
                         ],
-                        "docs": [],
+                        "docs": {},
                         "descripcion": "",
                         "aplicaciones": "",
                         "especificaiones": {},
@@ -64,7 +68,7 @@
                         "img": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales horizontal.png"
                         ],
-                        "docs": [],
+                        "docs": {},
                         "descripcion": "",
                         "aplicaciones": "",
                         "especificaiones": {},
@@ -83,7 +87,7 @@
                         "img": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert.png"
                         ],
-                        "docs": [],
+                        "docs": {},
                         "descripcion": "",
                         "aplicaciones": "",
                         "especificaiones": {},
@@ -102,7 +106,7 @@
                         "img": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/Dosificador-Gravimétrico-con-Motorreductor-y-Canaleta-Vibrante.png"
                         ],
-                        "docs": [],
+                        "docs": {},
                         "descripcion": "",
                         "aplicaciones": "",
                         "especificaiones": {},
@@ -115,7 +119,7 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador Gravimétrico con Servomotor.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador-Gravimétrico-con-Servomotor.png"
                         ],
-                        "docs": [],
+                        "docs": {},
                         "descripcion": "",
                         "aplicaciones": "",
                         "especificaiones": {},

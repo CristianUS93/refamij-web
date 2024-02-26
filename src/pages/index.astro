@@ -6,6 +6,9 @@ import ClientesSwiper from "../components/home/ClientesSwiper.astro";
 import Body from "../components/Body.astro";
 
 import banner from "../assets/nosotros-img/banner.jpg";
+const images = await Astro.glob(
+    "../assets/home_img/*.jpg",
+);
 ---
 
 <Layout
@@ -22,18 +25,12 @@ import banner from "../assets/nosotros-img/banner.jpg";
                 Integrando soluciones industriales desde el 2005.
             </p>
             <div class="img-div">
-                <img
-                    src="https://refamij.com/wp-content/uploads/2023/09/059bb1a1-e4de-4ce9-9d04-4ddba2a2a782.jpg"
-                    alt="img1"
-                />
-                <img
-                    src="https://refamij.com/wp-content/uploads/2023/09/7a85aaf8-7432-44ec-b738-8f9bd40a1cc3.jpg"
-                    alt="img2"
-                />
-                <img
-                    src="https://refamij.com/wp-content/uploads/2023/09/Sin-titulo-1.jpg"
-                    alt="img3"
-                />
+                {images.map((image) =>(
+                    <img
+                        src={image['default']['src']}
+                        alt="img1"
+                    />
+                ))}
             </div>
         </section>
         <section class="marcas">

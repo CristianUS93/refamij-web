@@ -1,8 +1,7 @@
 ---
 import Banner from "../../components/Banner.astro";
 import Body from "../../components/Body.astro";
-import NavProductos from "../../components/productos/NavProducts.astro";
-import ProductCard from "../../components/productos/ProductoPCard.astro";
+import FileContainer from "../../components/productos/FileContainer.astro";
 import Layout from "../../layouts/Layout.astro";
 
 import banner from "../../assets/tienda/banner.jpg";
@@ -53,42 +52,53 @@ const { tipo } = Astro.props;
                     }
                 </div>
             </picture>
-            <article>
-                <h2 class="title">{tipo["nombre"]}</h2>
-                <p class="description">
-                    Lorem ipsum es el texto que se usa habitualmente en diseño
-                    gráfico en demostraciones de tipografías o de borradores de
-                    diseño para probar el diseño visual antes de insertar el
-                    texto final. Aunque no posee actualmente fuentes para
-                    justificar sus hipótesis, el profesor de filología clásica
-                    Richard McClintock asegura que su uso se remonta a los
-                    impresores de comienzos del siglo XVI. Su uso en algunos
-                    editores de texto muy conocidos en la actualidad ha dado al
-                    texto lorem ipsum nueva popularidad.
-                </p>
-                <h3>Aplicaciones</h3>
-                <p class="description">
-                    Lorem ipsum es el texto que se usa habitualmente en diseño
-                    gráfico en demostraciones de tipografías o de borradores de
-                    diseño para probar el diseño visual antes de insertar el
-                    texto final.
-                </p>
-                <a href=""><div class="button">Cotizar</div></a>
-            </article>
+            <section class="tec-info">
+                <h2>{tipo["nombre"]}</h2>
+                <ul class="info-menu">
+                    <li class="option o-select" id="f">Ficha Técnica</li>
+                    <li class="option" id="v">Video</li>
+                </ul>
+                <div class="info-content">
+                    <div class="content f">
+                        <FileContainer fileUrl={tipo['docs']['fileUrl']} fileName={tipo['docs']['fileName']} miniatura={tipo['docs']['miniatura']}/>
+                    </div>
+                    <div class="content v">
+                        <iframe
+                            width="560"
+                            height="315"
+                            src={tipo.video}
+                            title="YouTube video player"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+            </section>
         </section>
-        <section class="tec-info">
-            <h2>Especificaciones Técnicas</h2>
-            <ul class="info-menu">
-                <li class="option o-select" id="e">Especificaciones</li>
-                <li class="option" id="f">Ficha Técnica</li>
-                <li class="option" id="v">Video</li>
-            </ul>
-            <div class="info-content">
-                <div class="content e"></div>
-                <div class="content f"></div>
-                <div class="content v"></div>
-            </div>
-        </section>
+        <article>
+            <h3>Aplicaciones</h3>
+            <p class="description">
+                Lorem ipsum es el texto que se usa habitualmente en diseño
+                gráfico en demostraciones de tipografías o de borradores de
+                diseño para probar el diseño visual antes de insertar el texto
+                final.
+            </p>
+            <h3>Ventajas</h3>
+            <p class="description">
+                Lorem ipsum es el texto que se usa habitualmente en diseño
+                gráfico en demostraciones de tipografías o de borradores de
+                diseño para probar el diseño visual antes de insertar el texto
+                final.
+            </p>
+            <h3>Especificaciones Técnicas</h3>
+            <p class="description">
+                Lorem ipsum es el texto que se usa habitualmente en diseño
+                gráfico en demostraciones de tipografías o de borradores de
+                diseño para probar el diseño visual antes de insertar el texto
+                final.
+            </p>
+            <a href=""><div class="button">Cotizar</div></a>
+        </article>
     </Body>
 </Layout>
 
@@ -138,12 +148,11 @@ const { tipo } = Astro.props;
         display: flex;
     }
 
-    .main-info picture,
-    .main-info article {
-        width: 50%;
+    /* Images */
+    .main-info picture {
+        width: 45%;
     }
 
-    /* Images */
     #main-img {
         height: 50vh;
         width: 100%;
@@ -187,9 +196,11 @@ const { tipo } = Astro.props;
     }
 
     /* Article */
-    .main-info article {
-        padding-left: 3rem;
+    article {
+        width: 90%;
+        margin: 0 auto;
     }
+
     h2,
     h3 {
         margin-bottom: 1rem;
@@ -207,9 +218,9 @@ const { tipo } = Astro.props;
 
     /* Tec Info */
     .tec-info {
-        width: 90%;
-        margin: 0 auto;
-        padding: 2rem;
+        width: 55%;
+        margin-left: 3rem;
+        padding: 1.5rem;
         box-shadow: 2px 2px 20px 2px gray;
     }
 
@@ -232,19 +243,49 @@ const { tipo } = Astro.props;
     }
 
     .info-content {
+        height: 50vh;
         width: 100%;
     }
 
     .content {
+        padding-top: 1.5rem;
+        height: 100%;
         width: 100%;
     }
 
-    .e {
+    .f {
+        display: flex;
+        flex-direction: row;
+    }
+    .f > p {
+        width: 50%;
+        margin-right: 2rem;
+    }
+    
+    .f div {
+        display: block;
+        width: 50%;
+    }
+    .f div img {
+        width: 40%;
+        object-fit: contain;
+        background-color: gray;
+        filter: blur(1px);
+        position: absolute;
+    }
+    .f div a {
+        position: relative;
+        top: 50%;
+        left: 50%;
     }
 
-    .f,
     .v {
         display: none;
+    }
+
+    .v > iframe {
+        width: 100%;
+        background-color: rgb(250,250,250);
     }
 
     @media screen and (max-width: 1050px) and (max-height: 1400px) {
@@ -261,15 +302,15 @@ const { tipo } = Astro.props;
             flex-direction: column;
         }
         .main-info picture,
-        .main-info article {
+        .main-info .tec-info {
             width: 100%;
         }
 
         .main-info picture {
             margin-bottom: 1rem;
         }
-        .main-info article {
-            padding-left: 0;
+        .main-info .tec-info {
+            margin-left: 0;
         }
     }
 

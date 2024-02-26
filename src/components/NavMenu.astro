@@ -69,8 +69,12 @@ const pages = [
 
     .logo {
         height: 80px;
-        width: 100px;
-        padding: 10px 20px;
+        width: 80px;
+        filter: 
+            drop-shadow(-0.5px -0.5px 0px var(--blue-refamij))
+            drop-shadow(1px -0.5px 0px var(--blue-refamij))
+            drop-shadow(1px 1px 0px var(--blue-refamij))
+            drop-shadow(-0.5px 1px 0px var(--blue-refamij));
     }
 
     nav ul {
@@ -166,7 +170,7 @@ const pages = [
         }
 
         nav ul li a:hover {
-            color: var(--blue-refamij);
+            color: var(--ligth-refamij);
         }
 
         .checkbtn {
