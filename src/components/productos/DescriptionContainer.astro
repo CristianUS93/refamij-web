@@ -4,12 +4,7 @@ import wspLogo from "../../assets/icons-social/whatsapp.svg";
 const { title, text, wspPhone } = Astro.props;
 ---
 <div class="main-div">
-    <p>
-        Lorem ipsum es el texto que se usa habitualmente en diseño
-        gráfico en demostraciones de tipografías o de borradores de
-        diseño para probar el diseño visual antes de insertar el texto
-        final.
-    </p>
+    <p>{text}</p>
     <div class="buttons-div">
         <a href={`https://wa.me/${wspPhone}?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20${title}.`} target="_blank">
             <div class="wsp button">
@@ -65,6 +60,11 @@ const { title, text, wspPhone } = Astro.props;
         .wsp {
             margin-right: 0;
             margin-bottom: 1rem;
+        }
+    }
+    @media screen and (max-width: 450px) {
+        p {
+            font-size: 13px;
         }
     }
 </style>

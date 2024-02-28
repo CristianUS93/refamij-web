@@ -85,10 +85,7 @@ const { tipo, phone } = Astro.props;
         <article>
             <h3>Aplicaciones</h3>
             <p class="description">
-                Lorem ipsum es el texto que se usa habitualmente en diseño
-                gráfico en demostraciones de tipografías o de borradores de
-                diseño para probar el diseño visual antes de insertar el texto
-                final.
+                {tipo['aplicaciones']}
             </p>
             <h3>Ventajas</h3>
             <p class="description">
@@ -308,7 +305,6 @@ const { tipo, phone } = Astro.props;
     @media screen and (max-width: 450px) {
         .tec-info {
             width: 95%;
-            padding: 0.5rem;
         }
         .option {
             font-size: 13px;

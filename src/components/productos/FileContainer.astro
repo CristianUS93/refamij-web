@@ -3,8 +3,7 @@ const {fileUrl, fileName, miniatura} = Astro.props;
 ---
 <div>
     <div class="download">
-        <img src={miniatura} alt="">
-        <a href={fileUrl} download={fileName}>DESCARGAR CATALOGO</a>
+        <object data={fileUrl} type=""></object>
     </div>
 </div>
 
@@ -13,13 +12,19 @@ const {fileUrl, fileName, miniatura} = Astro.props;
         height: 100%;
     }
     .download {
-        width: 40%;
+        width: 100%;
         display: flex;
         align-items: center;
         justify-content: center;
         background-color: gray;
         margin: 0 auto;
     }
+
+    object {
+        height: 100%;
+        width: 100%;
+    }
+
     img {
         height: 100%;
         object-fit: scale-down;
