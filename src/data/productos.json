@@ -27,7 +27,12 @@
                             "miniatura": "/productos/1. ENVASADORA E INSPECCION - Perfor/miniatura-PERFOR.png"
                         },
                         "descripcion": "El Sistema de Pesaje Dinámico es una solución integral para el control de calidad en la línea de producción. Ofrece precisión del 100% al pesar productos de diversas velocidades y se integra fácilmente con empaquetadora y envasadoras, proporcionando una retroalimentacion en tiempo real para correciones de peso. Además, incluye pantallas dirigidas al control de calidad y registros detallados de alarmas, eventos y produccion. Con opciones de programación flexible y eficiencia energética, es ideal para mejorar el proceso de producción y garantizar la calidad del producto final. ",
-                        "aplicaciones": "En línea de producción, empaqueadoras/envasadoras, pequeños y grandes volúmenes y proyectos especiales ",
+                        "aplicaciones": [
+                            "1. En línea de producción", 
+                            "2. Empaqueadoras/envasadoras, 
+                            "3. Pequeños y grandes volúmenes 
+                            "4. Proyectos especiales "
+                            ]
                         "ventajas": "hola"
                         "especificaciones": {},
                         "video": "https://www.youtube.com/embed/LG9erixpDAU?si=u07oSP92Jal0ONeK"
@@ -47,7 +52,7 @@
                 ]
             },
             {
-                "nombre": "Detectores de Metáles",
+                "nombre": "Detectores de Metales",
                 "href": "/productos/Envasadoras e Inspección-Detectores de Metáles",
                 "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales.png",
                 "tipos": [
