@@ -34,11 +34,11 @@
                             "• Proyectos especiales "
                         ],
                         "ventajas": [ 
-                            "• Eficiencia en tiempo real: Permite pesar objetos en movimiento, lo que significa que no es necesario detener el flujo de produccionar para realizar el pesaje",
-                            "• Mayor precisión: Puede proporcionar mediciones más precisas y consistentes, especialmente en objetos que pueden variar el peso durante su movimiento",
-                            "• Mayor velocidad: Al no requerir paradas en la línea de producción, el pesaje dinamico es más rápido, lo que permite un procesamiento más eficiente de los productos", 
-                            "• Menor manipulacion: No es necesario detener o manipular los objetos para pesarlos, lo que reduce el riesgo de daño a los productos y minimiza los tiempos de inactividad",
-                            "• Versatilidad: Es adecuado para una amplia gama de aplicaciones y tipos de producto, lo que lo hace versatil y adaptable a diferentes entornos industriales"
+                            "• Eficiencia en tiempo real",
+                            "• Mayor precisión",
+                            "• Mayor velocidad", 
+                            "• Menor manipulacion",
+                            "• Versatilidad"
                         ],
                         "especificaciones": [
                             "• Velocidades de hasta 350ppm (pesadas por minuto) para otras velocidad superiores bajo consulta; hasta 1000 recetas",
