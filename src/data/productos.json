@@ -197,8 +197,27 @@
                             "• Empaquetadoras / envasadoras",
                             "• Pequeños y grandes volúmenes"
                         ],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "ventajas": [
+                             "• Integración de múltiples funcionalidades",
+                            "• Eficiencia operativa",
+                            "• Mayor precisión y fiabilidad",
+                            "• Optimización del rendimiento",
+                            "• Facilidad de gestión y mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Velocidades de hasta 350ppm (pesaje por minuto), hasta 1000 recetas",
+                            "• Tension eléctrica: 220 Volts 1 ph o 2 ph, otro voltaje bajo consulta",
+                            "• Corriente (A): según proyecto",
+                            "• Potencia (kW) y consumo (kWh): según proyecto",
+                            "• Temperatura de operación: -5°C a 45°C",
+                            "• Grado de protección: IP64/IP66/IP69",
+                            "• Pantallas tipo Touch Screen con 10 pulgadas",
+                            "• Precisión de pesaje: ±0,2g, ±0,5g; ±1,0g; ±5,0g; ±10g",
+                            "• Motores y servomotores de alto rendimiento",
+                            "• De acero al carbono o acero inoxidable",
+                            "• Lector de códigos de barra (opcional)",
+                            "• Impresora (opcional)"
+                        ],
                         "video": ""
                     }
                 ]
@@ -215,10 +234,26 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/Dosificador-Gravimétrico-con-Motorreductor-y-Canaleta-Vibrante.png"
                         ],
                         "docs": {},
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El sistema de Dosificador Gravimétrico con Motorreductor y canaleta vibrante garantiza un control de peso en cada producto antes del empaquetado, reduciendo la cantidad de producto utilizado y manteniendo una desviación estándar controlada. Ofrece mediciones individuales por canal de dosificación con histograma y una doble comprobación de peso para ajustarlo automaticamente. Con bajo mantenimiento y mínima intervencion operacional, es altamente eficiente. Integrado con Perfor Control, proporciona información en tiempo real sobre la línea de producción y equipos, con bajo consumo de energía. Este dosificador cuenta con un playback inferior a 18 meses y esta diseñado para trabajar las 24 horas del día y los 7 días de la semana, garantizando durabilidad y eficacia.",
+                        "aplicaciones": [
+                            "• Arriba de Empaquetadoras / envasadoras",
+                            "• Pequeños y grandes volúmenes"
+                        ],
+                        "ventajas": [
+                            "• Precision",
+                            "• Flexibilidad",
+                            "• Control de velocidad y flujo",
+                            "• Eficiencia en el uso de materiales",
+                            "• Automatización y operación continua"
+                        ],
+                        "especificaciones": [
+                            "• Temperatura de operación: -5°C a 45°C",
+                            "• Grado de protección: IP64, otros bajo consulta",
+                            "• Pantallas del tipo Touch Screen de 7 o 10 pulgadas",
+                            "• Servomotor de alto rendimiento con un elevado factor de servicio",
+                            "• De acero al carbono o acero inoxidable",
+                            "• Neumático estándar ISO"
+                        ],
                         "video": ""
                     },
                     {
@@ -229,10 +264,26 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador-Gravimétrico-con-Servomotor.png"
                         ],
                         "docs": {},
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El sistema de dosificación asegura un control preciso del peso en cada producto antes del empaquetado, reduciendo la cantidad necesaria y manteniendo una desviacion estándar controlada. Ofrece mediciones individuales por canal con histograma y una doble comprobación del peso para ajustarlo automáticamente. Es fácil de higienizar, con bajo mantenimiento y mínima intervención operacional gracias a su algoritmo optimizado. La integración con Perfor Control proporciona datos en tiempo real sobre la línea de producción, con bajo consumo de energia. Desarrollado para trabajar continuamente, es duradero y cuenta con tazas de fácil retirada mediante acoplamiento rápido, con un playback inferior a 18 meses.",
+                        "aplicaciones": [
+                            "• Arriba de empaquetadoras / envasadoras",
+                            "• Pequeños y grandes volúmenes"
+                        ],
+                        "ventajas": [
+                            "• Precisión",
+                            "• Flexibilidad",
+                            "• Rapidez y precisión en los ajustes",
+                            "• Eficiencia energética",
+                            "• Menor mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Temperatura de operación: -5°C a 45°C",
+                            "• Grado de protección: IP64, otros bajo consulta",
+                            "• Pantallas del tipo Touch Screen de 7 o 10 pulgadas",
+                            "• Servomotor de alto rendimiento con un elevado factor de servicio",
+                            "• De acero al carbono o acero inoxidable",
+                            "• Neumático estándar ISO"
+                        ],
                         "video": ""
                     },
                     {
@@ -240,10 +291,26 @@
                         "href": "/productos/Dosificador Gravimétrico con Servorreductor",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El dosificador gravimétrico garantiza un control preciso del peso del producto antes del empaquetado, reduciendo la cantidad de producto utilizado y manteniendo una desviación estándar mínima. Ofrece mediciones individuales por canal con histograma y una doble comprobación del peso para ajustarlo automáticamente. Destaca por su estanqueidad, facilidad de higiene y bajo mantenimiento, con Perfor Control, proporciona datos en tiempo real sobre la línea de producción y equipos, con bajo consumo de energía y preparado para trabajar continuamente",
+                        "aplicaciones": [
+                            "• Arriba de Empaquetadoras /Envasadoras",
+                            "• Pequeños y grandes volúmenes"
+                        ],
+                        "ventajas": [
+                            "• Precisión",
+                            "• Flexibilidad",
+                            "• Ajustes rápidos y precisos",
+                            "• Eficiencia energética",
+                            "• Menor mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Temperatura de operación: -5°C A 45°C",
+                            "• Grado de protección: IP64, otros bajo consulta",
+                            "• Pantallas del tipo Touch Screen de 7 o 10 pulgadas",
+                            "• Servomotor de alto rendimiento con un elevado factor de servicio",
+                            "• De acero al carbono o acero inoxidable",
+                            "• Neumática estándar ISO"
+                        ],
                         "video": ""
                     }
                 ]
@@ -279,10 +346,31 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/ENSACADORA BIG BAG.png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El sistema de pesaje Big Bag de Perfor ofrece versatilidad en su diseño, con opciones de suspensión mediante cilindros neumáticos, elevación de plataforma o configuración estática según las necesidades del producto. Contamos con una amplia gama de Ensacadoras tipo Big Bag para adaptarse a diversas aplicaciones. Nuestro sistema garantiza una operación eficiente con autocorrección de peso, masajeo del bag y fácil integración con Perfor Control. Además, ofrecemos opciones adicionales de programación para una mayor flexibilidad. Con un bajo consumo de energía, nuestro equipo está diseñado para pesar cargas de 500kg a 1200kg con opciones personalizadas disponibles bajo pedido.",
+                        "aplicaciones": [
+                            "• Para productos de buena fluidez",
+                            "• Grandes volúmenes"
+                        ],
+                        "opcionales": [
+                            "• Plataforma elevadora do bag para productos delicados con control automático del nivel para evitar la rotura del producto",
+                            "• Inflador bag automático",
+                            "• Esteras para la extracción del bag de forma automática",
+                            "• Válvula para control de dosificación",
+                            "• Cierre automático de la correa de bolsa"
+                        ],
+                        "especificaciones": [
+                            "• En general la media es de 10 a 35bags/hora, hasta 40 recetas",
+                            "• Precision de 500g, con picos de 1500g",
+                            "• Fabricado en acero al carbono o acero inoxidable",
+                            "• Tensión Eléctrica: 220Volts monofásicas o bifásica. otros voltajes bajo consulta",
+                            "• Corriente (A): según proyecto",
+                            "• Potencia (kW) y consumo(kWh): según proyecto",
+                            "• Temperatura de operación: -5°C a 45°C",
+                            "• Grado de protección: IP64, otros bajo consulta",
+                            "• Pantalla tipo Touch Screen de 7 pulgadas",
+                            "• Neumática estándar ISO",
+                            "• Capacidad de Envasado de 1 a 2m³"
+                        ],
                         "video": ""
                     },
                     {
