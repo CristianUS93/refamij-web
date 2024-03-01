@@ -107,10 +107,36 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales.png"
                         ],
                         "docs": {},
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Los Detectores de Metales fabricados por PERFOR emplean un principio de funcionamiento, que se basa en el análisis de la interferencia de un metal bajo un campo magnético transmitido. Estos dispositivos son capaces de verificar contaminantes metálicos en productos en movimiento, tanto a baja como alta velocidad, garantizando un inspección del 100% de los artículos en una linea de produccion. Ofrecen varias pantallas para el control de calidad con estadisticas en tiempo real, y opciones programables como la prueba de cuerpo, rechazo y rechazos seguidos. ",
+                        "aplicaciones": [
+                            "• Productos in-natura", 
+                            "• Aplicaciones de la línea de caída libre",
+                            "• Big bag",
+                            "• Ensacaderas",
+                            "• Por encima de los empaquetadores / envasadores",
+                            "• Lineas presurizadas"
+                        ],
+                        "ventajas": [
+                            "• Eficiencia en el espacio",
+                            "• Mayor precision de detección",
+                            "• Facilidad de integración",
+                            "• Inspección en múltiples direcciones",
+                            "• Menos interferencia externa"
+                        ],
+                        "especificaciones": [
+                            "• DMH Velocidad de hasta 600 productos por minuto y para velocidades superiores bajo consulta",
+                            "• Tension eléctrica: 220Volts 1ph o 2ph",
+                            "• DMV Corriente (A): 0,2",
+                            "• DMV Potencia (kW): 0,085",
+                            "• DMV Consumo (kWh): 0,028",
+                            "• DMH Corriente (A): según proyecto",
+                            "• Temperatura de operación: 10°C a 45°C",
+                            "• Grado de protección: IP64/IP66/IP69P",
+                            "• Pantalla tipo Touch Screen de 4,3 pulgadas",
+                            "• Motores y servomotores de alto rendimiento",
+                            "• De acero al carbono y aluminio o acero inoxidable",
+                            "• Piezas de prueba de Fe(hierro) / NFe(no ferroso) / SS(acero inoxidabe)"
+                        ],
                         "video": ""
                     },
                     {
@@ -120,10 +146,36 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales horizontal.png"
                         ],
                         "docs": {},
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Los Detectores de Metales fabricados por PERFOR emplean un principio de funcionamiento, que se basa en el análisis de la interferencia de un metal bajo un campo magnético transmitido. Estos dispositivos son capaces de verificar contaminantes metálicos en productos en movimiento, tanto a baja como alta velocidad, garantizando un inspección del 100% de los artículos en una linea de produccion. Ofrecen varias pantallas para el control de calidad con estadisticas en tiempo real, y opciones programables como la prueba de cuerpo, rechazo y rechazos seguidos.",
+                        "aplicaciones": [
+                            "• Productos in-natura",
+                            "• Paquetes, fardos, cajas, bolsas, entre otros",
+                            "• Aplicado en líneas horizontales",
+                            "• Abajo de las empaquetadoras",
+                            "• Envasadoras verticales",
+                            "• En la linea de produccion pequeños y grandes volumenes"
+                        ],
+                        "ventajas": [
+                            "• Mayor capacidad de detección de contaminantes",
+                            "• Adaptabilidad a diferentes tamaños de productos",
+                            "• Inspección en la línea continua",
+                            "• Facilidad de integración en líneas de producción",
+                            "• Menor riesgo de daño al producto"
+                        ],
+                        "especificaciones": [
+                            "• DMH Velocidad de hasta 600 productos por minuto y para velocidades superiores bajo consulta",
+                            "• Tension eléctrica: 220Volts 1ph o 2ph",
+                            "• DMV Corriente (A): 0,2",
+                            "• DMV Potencia (kW): 0,085",
+                            "• DMV Consumo (kWh): 0,028",
+                            "• DMH Corriente (A): según proyecto",
+                            "• Temperatura de operación: 10°C a 45°C",
+                            "• Grado de protección: IP64/IP66/IP69P",
+                            "• Pantalla tipo Touch Screen de 4,3 pulgadas",
+                            "• Motores y servomotores de alto rendimiento",
+                            "• De acero al carbono y aluminio o acero inoxidable",
+                            "• Piezas de prueba de Fe(hierro) / NFe(no ferroso) / SS(acero inoxidabe)"
+                        ],
                         "video": ""
                     }
                 ]
