@@ -192,8 +192,11 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert.png"
                         ],
                         "docs": {},
-                        "descripcion": "",
-                        "aplicaciones": [],
+                        "descripcion": "El sistema combinado EXPERT no solo verifica el peso de los productos en movimiento, sino que también detecta contaminantes metálicos tanto a baja como alta velocidad. Además, ofrece la capacidad de pesar y detectar el 100% de los artículos en una línea de producción, integrándose con empaquetadoras y envasadoras para corregir el peso si es neceario. Con múltiples pantallas dirigidas al control de calidad, proporciona datos estadísticos en tiempo real y genera históricos de alarmas, eventos, rechazos y producción. Con un bajo consumo eléctrico y neumático, es eficiente en términos de energía y recursos. Además, su diseño compacto ahorra espacio físico y garantiza la misma eficacia de detección de contaminantes que un detector de metales estándar.",
+                        "aplicaciones": [
+                            "• Empaquetadoras / envasadoras",
+                            "• Pequeños y grandes volúmenes"
+                        ],
                         "ventajas": [],
                         "especificaciones": [],
                         "video": ""
