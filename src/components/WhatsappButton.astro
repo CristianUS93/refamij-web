@@ -1,4 +1,6 @@
 ---
+import whatsappIcon from "../assets/icons-social/whatsapp.svg";
+
 const wspList = [
     {
         name: "Cesar Yañez",
@@ -49,7 +51,7 @@ const wspList = [
                         <a href={e["href"]} target="_blank">
                             <div class="wsp-tile">
                                 <div class="green-line" />
-                                <img src="src/assets/icons-social/whatsapp.svg" alt="" />
+                                <img src={whatsappIcon.src} alt="" />
                                 <div class="wsp-text">
                                     <p class="product">{e["product"]}</p>
                                     <p class="name">{e["name"]}</p>
@@ -66,7 +68,7 @@ const wspList = [
             <p>¿Necesitas ayuda?</p>
             <p><b>Chatea con Nosotros</b></p>
         </div>
-        <img class="wsp-logo icon" src="src/assets/icons-social/whatsapp.svg" />
+        <img class="wsp-logo icon" src={whatsappIcon.src} />
         <i class="material-icons icon">close</i>
     </label>
 </section>
@@ -199,7 +201,7 @@ const wspList = [
         display: none;
     }
 
-    #check-wsp:checked ~ section .wsp-container{
+    /* #check-wsp:checked ~ section .wsp-container{
         display: block;
-    }
+    } */
 </style>

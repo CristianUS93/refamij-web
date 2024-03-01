@@ -2,7 +2,7 @@
 import "../styles/global.css";
 import { Image } from 'astro:assets';
 
-import logo from "../assets/refamij-logo.svg";
+import logo from "../../public/favicon.svg";
 
 interface Props {
     currentPath: string;
@@ -72,10 +72,10 @@ const pages = [
         width: 80px;
         padding: 8px 0px;
         filter: 
-            drop-shadow(-0.5px -0.5px 0px var(--blue-refamij))
-            drop-shadow(1px -0.5px 0px var(--blue-refamij))
-            drop-shadow(1px 1px 0px var(--blue-refamij))
-            drop-shadow(-0.5px 1px 0px var(--blue-refamij));
+            drop-shadow(-0.5px -0.5px 0px white)
+            drop-shadow(1px -0.5px 0px white)
+            drop-shadow(1px 1px 0px white)
+            drop-shadow(-0.5px 1px 0px white);
     }
 
     nav ul {

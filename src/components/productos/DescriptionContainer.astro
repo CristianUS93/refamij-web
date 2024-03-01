@@ -37,19 +37,30 @@ const { title, text, wspPhone } = Astro.props;
         height: 60px;
         max-width: 250px;
         padding: 0.7rem;
-        color: black;
+        color: white;
         font-weight: 500;
         display: flex;
         align-items: center;
+        border-radius: 5px;
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+        transition: all 0.5s;
+    }
+    
+    .button:hover {
+        transform: scale(1.1);
+        box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
     }
 
     .wsp {
-        background-color: var(--green-wsp);
+        background-color: rgb(21, 179, 21);
         margin-right: 2rem;
+    }
+    .wsp img {
+        padding-right: 5px;
     }
 
     .cot {
-        background-color: var(--yellow);
+        background-color: red;
     }
 
     @media screen and (max-width: 500px) {

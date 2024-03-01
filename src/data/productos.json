@@ -32,15 +32,15 @@
                             "2. Empaquetadoras/envasadoras", 
                             "3. Pequeños y grandes volúmenes",
                             "4. Proyectos especiales "
-                            ]
+                        ],
                         "ventajas": [ 
                             "Eficiencia en tiempo real: Permite pesar objetos en movimiento, lo que significa que no es necesario detener el flujo de produccionar para realizar el pesaje",
                             "Mayor precisión: Puede proporcionar mediciones más precisas y consistentes, especialmente en objetos que pueden variar el peso durante su movimiento",
                             "Mayor velocidad: Al no requerir paradas en la línea de producción, el pesaje dinamico es más rápido, lo que permite un procesamiento más eficiente de los productos", 
                             "Menor manipulacion: No es necesario detener o manipular los objetos para pesarlos, lo que reduce el riesgo de daño a los productos y minimiza los tiempos de inactividad",
                             "Versatilidad: Es adecuado para una amplia gama de aplicaciones y tipos de producto, lo que lo hace versatil y adaptable a diferentes entornos industriales"
-                            ]
-                        "especificaciones": {},
+                        ],
+                        "especificaciones": [],
                         "video": "https://www.youtube.com/embed/LG9erixpDAU?si=u07oSP92Jal0ONeK"
                     },
                     {
@@ -51,8 +51,9 @@
                         ],
                         "docs": {},
                         "descripcion": "El sistema de pesaje estático garantiza la precisión al 100% de los productos en una línea de producción, integrándose con facilidad a empaquetadoras y envasadoras para correcciones de peso. Ofrece múltiples pantallas para control de calidad con datos estadísticos en tiempo real, así como registros detallados de alarmas, eventos, rechazos y producción. Con opciones programable como la calibración de INMETRO y del peso, junto con un bajo consumo de energía, estos equipos están diseñados para pesar productos en un rango de 500g a 5000g, con posibilidad de adaptación a pesos superiores o inferiores según la necesidad del cliente. ",
-                        "aplicaciones": "hola",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -71,8 +72,9 @@
                         ],
                         "docs": {},
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -83,8 +85,9 @@
                         ],
                         "docs": {},
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -102,8 +105,9 @@
                         ],
                         "docs": {},
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -121,8 +125,9 @@
                         ],
                         "docs": {},
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -134,8 +139,9 @@
                         ],
                         "docs": {},
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -144,8 +150,9 @@
                         "img": [],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -161,8 +168,9 @@
                         "img": [],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -181,8 +189,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -193,8 +202,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -205,8 +215,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -224,8 +235,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -243,8 +255,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -263,8 +276,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -282,8 +296,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -294,8 +309,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -306,8 +322,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -318,8 +335,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -346,8 +364,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -358,8 +377,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -370,8 +390,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -382,8 +403,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -394,8 +416,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -413,8 +436,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -425,8 +449,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -437,8 +462,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -449,8 +475,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -461,8 +488,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -473,8 +501,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -485,8 +514,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -497,8 +527,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -525,8 +556,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -537,8 +569,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -549,8 +582,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -568,8 +602,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -580,8 +615,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -592,8 +628,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -611,8 +648,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -623,8 +661,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -635,8 +674,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -647,8 +687,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -697,8 +738,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -719,8 +761,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -736,8 +779,9 @@
                         "img": [],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -756,8 +800,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -776,8 +821,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -796,8 +842,9 @@
                         ],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -813,8 +860,9 @@
                         "img": [],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -830,8 +878,9 @@
                         "img": [],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -847,8 +896,9 @@
                         "img": [],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
@@ -864,8 +914,9 @@
                         "img": [],
                         "docs": [],
                         "descripcion": "",
-                        "aplicaciones": "",
-                        "especificaiones": {},
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
