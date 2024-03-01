@@ -198,7 +198,7 @@
                             "• Pequeños y grandes volúmenes"
                         ],
                         "ventajas": [
-                             "• Integración de múltiples funcionalidades",
+                            "• Integración de múltiples funcionalidades",
                             "• Eficiencia operativa",
                             "• Mayor precisión y fiabilidad",
                             "• Optimización del rendimiento",
@@ -325,10 +325,31 @@
                         "href": "/productos/Dosificador Gravimétrico con Servorreductor",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El sistema de pesaje previo al envasado garantiza una dosificación precisa del producto, reduciendo la cantidad necesaria con un control preciso del peso y desviación controlada. Ofrece mediciones individuales por canal con histograma y doble comprobación de peso integrada. Con caracteristicas como fácil higienización, bajo mantenimiento y mínima intervención operativa, es fácil de programar y operar. Integrado con Perfor Control, proporciona gestión completa de la línea de producción y equipos en tiempo real. Además, su eficiencia energética y capacidad de trabajo continuo las convierten en una solución ideal para entornos exigentes.",
+                        "aplicaciones": [
+                            "• Arriba de Empaquetadoras / llenadores",
+                            "• Grandes y pequeños volúmenes",
+                            "• Para productos difícil fluidez, por ejemplo harina de cacahuate o almidón de tapioca"
+                        ],
+                        "ventajas": [
+                            "• Precisión",
+                            "• Versatilidad",
+                            "• Flexibilidad",
+                            "• Control de velocidad y flujo",
+                            "• Eficiencia y bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Número de canales de dosificación según las necesidades",
+                            "• Velocidad y precisión en función del proyecto y el producto",
+                            "• Temperatura de operación: -5°C a 45°C",
+                            "• Grado de protección: IP64",
+                            "• Pantalla tipo Touch Screen de 7 o 10 pulgadas",
+                            "• Motor de alto rendimiento con un elevado factor de servicio",
+                            "• Fabricado en acero al carbono o acero inoxidable",
+                            "• Neumática estándar ISO",
+                            "• Consumo de electricidad y aire variable"
+                            
+                        ],
                         "video": ""
                     }
                 ]
