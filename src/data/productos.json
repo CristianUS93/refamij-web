@@ -373,6 +373,7 @@
                             "• Para productos de buena fluidez",
                             "• Grandes volúmenes"
                         ],
+                        "ventajas":[],
                         "opcionales": [
                             "• Plataforma elevadora do bag para productos delicados con control automático del nivel para evitar la rotura del producto",
                             "• Inflador bag automático",
@@ -477,7 +478,7 @@
                 "tipos": [
                     {
                         "nombre": "Aplicador Automático de bolsas SAEF 10",
-                        "href": "/productos/SAEF 10",
+                        "href": "/productos/Aplicador Automático de bolsas SAEF 10",
                         "img": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/SAEF-10.png"
                         ],
