@@ -402,10 +402,33 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/ENSACADORA BOCA ABIERTA.png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El sistema de pesaje puede realizar mediante un tornillo, cintas transportadoras y válvulas calandradas, que transportan el producto a una Cubeta Dosificacdora. El software de Control de Peso supervisa el llenado en tiempo real y activa el volcado en la bolsa. Con múltiples pantallas de control de calidad, autocorrección de peso, fácil operación e integracion de datos, ofrece eficiencia y precisión. Con capacidad de pesaje de 5kg a 60kg, se adapta a diversas necesidades industriales.
+                        "aplicaciones": [
+                            "• Para productos de buena fluidez",
+                            "• Pequeños volúmenes",
+                            "• Proyecto exclusivo para bolsas de boca abierta"
+                        ],
+                        "ventajas": [
+                            "• Versatilidad",
+                            "• Eficiencia"
+                            "• Facilidad de operación",
+                            "• Flexibilidad operativa",
+                            "• Control de calidad"
+                        ],
+                        "especificaciones": [
+                            "• Hasta 100 recetas",
+                            "• Precisión de 50 a 150g en función del sistema de dosificación",
+                            "• Tensión Eléctrica: 220 Volts",
+                            "• Fabricado en acero al carbono o acero inoxidable",
+                            "• Temperatura de operación: -5°C A 45°C",
+                            "• Grado de protección: IP64",
+                            "• Pantalla tipo Touch Screen de 7 pulgadas",
+                            "• Motores de alto rendimiento",
+                            "• Neumatica estándar ISO",
+                            "• Potencia (kW) y Consumo (kWh): según proyecto",
+                            "• Consumo neumático (l/min): según proyecto",
+                            "• Corriente(A): según proyecto"
+                        ],
                         "video": ""
                     },
                     {
@@ -415,10 +438,34 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE SOPLO Y TORNILLO/ENSACADORA DE SOPLO Y TORNILLO.png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "La ensacadaora de Soplo y Tornillo, ofrece flexibilidad en la producción con opciones de tornillo o soplo a través de una turbina de aire para llenar bolsas, con supervisión e tiempo real del software de control de peso. Perfor proporciona una variedad de Ensacadora de Soplo y Tornillo para adaptarse a diversas necesidades, junto con características como autocorrección de peso y fácil integración con sistemas de aplicación automática de bolsa. Con registros de producción y bajo consumo de energía, este equipo está diseñado para pesar de 5 a 60kg, con capacidad de ajuste segun requerimiento específicos.",
+                        "aplicaciones": [
+                            "• Para productos de buena fluidez",
+                            "• Pequeños volúmenes",
+                            "• Bolsa boca abierta",
+                            "• Bolsa valvulada"
+                        ],
+                        "ventajas": [
+                            "• Versatilidad",
+                            "• Eficiencia en el llenado"
+                            "• Precisión",
+                            "• Flexibilidad operativa",
+                            "• Reducción del tiempo de inactividad"
+                        ],
+                        "especificaciones": [
+                            "• Hasta 100 recetas",
+                            "• Precision:",
+                            "-Ensacadora de Tornillo 50g, puede haber mayor variación según el diámetro del tornillo",
+                            "-Ensacadora de Soplo 50 a 150g.",
+                            "• Tensión Eléctrica: 220/380 Volts trifásicos",
+                            "• Temperatura de operación: -5°C a 45°C",
+                            "• Grado de protección: IP64",
+                            "• Pantalla tipo Touch Screen de 7 pulgadas",
+                            "• Motores de alta eficiencia",
+                            "• Fabricado en acero al carbono o acero inoxidable",
+                            "• Neumática estándar ISO",
+                            "• Corriente (A), Potencia (kW) y Consumo (kWh): según proyecto"
+                        ],
                         "video": ""
                     }
                 ]
@@ -429,16 +476,36 @@
                 "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/SAEF-10.png",
                 "tipos": [
                     {
-                        "nombre": "SAEF 10",
+                        "nombre": "Aplicador Automático de bolsas SAEF 10",
                         "href": "/productos/SAEF 10",
                         "img": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/SAEF-10.png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El sistema de ensacado automático con bolsas valvuladas de Perfor agiliza el proceso al aplicar automáticamente la bolsa en la Ensacadora, completando luego el peso deseado. Posteriormente, la bolsa se dirige al sistema de cierre automático, que incluye limpieza automática y opciones de soldadura por barra caliente o ultrasonido. Este equipo modular puede ser utilizado con otros fabricantes y ofrecer una autonomía de ensacado de 20 a 30 minutos, dependiendo del tamaño de la bolsa. Destaca por su bajo cosumo de energía y un alto índice de eficacia en la aplicación de bolsas, alcanzando aproximadamente el 98,8%.",
+                        "aplicaciones": [
+                            "• Para productos de buena fluidez",
+                            "• Pequeños volúmenes",
+                            "• Proyecto exclusivo para sacos con válvula"
+                        ],
+                        "ventajas": [
+                            "• Automatización completa",
+                            "• Modularidad",
+                            "• Autonomía de ensacado",
+                            "• Fácil operación y programación",
+                            "• Alta eficacia en la aplicación de bolsas"
+                        ],
+                        "especificaciones": [
+                            "• Presión Neumática de trabajo: de 5 a 8 bar",
+                            "• Capacidad de Ensacado de 5 a 60kg",
+                            "• Hasta 100 recetas",
+                            "• Fabricado en acero al carbono",
+                            "• Precisión de 50 a 150g en función del sistema de dosificación",
+                            "• Tensión Eléctrica: 220 Volts",
+                            "• Temperatura de operaciÓn: -5°C A 45°C",
+                            "• Grado de protección: IP64",
+                            "• Motores de alto rendimiento"
+                        ],
                         "video": ""
                     }
                 ]
@@ -455,10 +522,34 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/Balanza-de-Flujo.png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Los equipos de balanza de flujo ofrecen opciones tanto para el pesaje en continuo o por lotes, lo que permite adaptarse a una variedad de necesidades industriales. Además de proporcionar mediciones precisas, estas herramientas integran pantallas dedicadas al control de calidad, ofreciendo datos estadísticos en tiempo real para garantizar la consistencia y precisión del proceso. Todo esto se logra con un bajo consumo de energía eléctrica y neumática, asegurando una eficiencia operativa sostenible",
+                        "aplicaciones": [
+                            "• Producto in-natura",
+                            "• Carga de camiones",
+                            "• Proyectos especiales"
+                        ],
+                        "ventajas": [
+                            "• Mediciones precisas",
+                            "• Monitoreo continuo",
+                            "• Optimización del proceso",
+                            "• Control de calidad",
+                            "• Eficiencia operativa"
+                        ],
+                        "especificaciones": [
+                            "• Velocidades de 100ton/h (toneladas por hora)",
+                            "• Hasta 10 recetas diferentes de lotes o flujos",
+                            "• Tensión Electrica: 220 Volts, 1ph o 2oh",
+                            "• Corriente (A): 1,05",
+                            "• Potencia (kW): 0,30",
+                            "• Consumo (kWh): 0,25",
+                            "• Consumo neumático (l/min): 50",
+                            "• Temperatura de operación: 10°C a 45°C",
+                            "• Grado de protección: IP64/IP66/IP69",
+                            "• Pantalla tipo Touch Screen de 7 pulgadas",
+                            "• Precisión de Pesaje: ±0,25%",
+                            "• De acero al carbono o acero inoxidable",
+                            "• Sistema de recogida de polvo"
+                        ],
                         "video": ""
                     }
                 ]
@@ -476,10 +567,28 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/Plano de la maquina Rayos X.jpg"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "La inspeccion por RAYOS-X, se basa en análisis no destructivo que, sin alterar de forma alguna la composición química y las propiedades organolépticas de los productos, permite la detección de contaminantes en el interior de los mismos y la verificación de su integridad y conformidad" ",
+                        "aplicaciones": [
+                            "• Tipo de embalaje: todos, inclusive los metálicos",
+                            "• Tipo de contenido del embalaje: todos (densidad, temperatura, salinidad y humedad del producto no son relevantes)",
+                            "• Tipo de contaminantes: metales, vidrios, piedras, huesos calcificados, semillas y carozos de fruta."
+                        ],
+                        "ventajas": [
+                            "• Inspección no destructiva",
+                            "• Imágenes detalladas",
+                            "• Rapidez y eficiencia",
+                            "• Versatilidad",
+                            "• Seguridad"
+                        ],
+                        "especificaciones": [
+                            "• Pantallas táctiles de 15 pulgadas",
+                            "• Procesador por PC industrial",
+                            "• Generador varias especificaciones de 40kV a 120kV",
+                            "• Resolución: 4096 niveles de grises por pixel",
+                            "• Calibración: Automática durante funcionamiento normal",
+                            "• Sistema de clasificación y/o rechazo de acuerdo con el requerimiento del proyecto (opcional)
+                            "• Fabricado en acero inoxidable"
+                        ],
                         "video": ""
                     }
                 ]
@@ -496,10 +605,22 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/1. EMPAQUETADORA 300i/EMPAQUETADORA 300i/Brasil Packing-Empaquetadora-300i.png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
+                        "descripcion": "Desarrollada para ofrecer flexibilidad y alto desempeño en el proceso de empaque, la empaquetadora 300i es ideal para envasar/empacar productos sólidos, polvos y granos de manera rápida y precisa, garantizando un excelente sellado y acabado en los paquetes.",
+                        "aplicaciones": [
+                            "• Cafe, azucar, leche en polvo, harinas, mezclas para confitería",
+                            "• Pastas cereales, alimentos para mascota"
+                        ],
                         "ventajas": [],
-                        "especificaciones": [],
+                        "especificaciones": [
+                            "• Anchura del paquete: 80-300mm",
+                            "• Longitud del paquete: 65 - 410mm",
+                            "• Anchura máxima de la bobina: hasta 630mm",
+                            "• Diámetro máximo de bobina: 400mm",
+                            "• Diámetro interno de la bobina: 76mm",
+                            "• Velocidad mecánica: 90ppm",
+                            "• Tensión de alimentación eléctrica: 220-380V (50 o 60 Hz)",
+                            "• Consumo de aire comprimido: 600Nl/min"
+                        ],
                         "video": ""
                     },
                     {
@@ -509,10 +630,31 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/2. ENFARDADORA/ENFARDADORA MF600/Brasil Packing Enfardadora-MF600.png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "La enfardadora MF600 cuenta con un sistema versátil para contar y clasificar paquetes con una, dos o tres columnas. Utilizando soldadura por impulso para sellar de forma segura, con mordazas horizontales y recuento de bultos giratorios accionados por servomotores. Su elevador de soporte de placas es motorizado y ajustable mediante un interfaz HMI, propocionando eficiencia y precisión en el embalaje",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmaceutica",
+                            "• Industria cosmética",
+                            "• Industria textil"
+                        ],
+                        "ventajas": [
+                            "• Versatilidad",
+                            "• Eficiencia",
+                            "• Precisión",
+                            "• Facilidad de ajuste",
+                            "• Fiabilidad"
+                        ],
+                        "especificaciones": [
+                            "• Estructura principal en acero al carbono",
+                            "• Protección frontal acrilica con interruptores eléctricos de seguridad",
+                            "• Cambio rápido del juego de conformación",
+                            "• Cintas de arrastre sincronizadas",
+                            "• Portabobinas con eje expansivo neumático",
+                            "• PLC-Mitsubishi",
+                            "• Puesto de mando con pantalla táctil en color",
+                            "• Capacidad para 40 recetas de productos",
+                            "• Pantallas de mantenimiento con supervisión de las entradas y salidad digitales e indicación de fallos"
+                        ],
                         "video": ""
                     },
                     {
@@ -522,10 +664,26 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/3. DOSIFICADOR DE TORNILLO/DOSIFICADOR DE TORNILLO BP-DR/Dosificador-de-Tornillo.png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "La máquina de dosificación de harinas y polvos utiliza un tornillo sinfín vertical para dosificar los materiales de maera precisa. Su acionamiento mediante un servomotor permite un control preciso de vueltas del tornillo. Además, está equipada, con una balanza chequeadora de peso para garantizar un control de tendencia durante la dosificación. Esta máquina puede alcanzar una velocidad de hasta 120 dosificaciones por minuto, ofreciendo eficiencia y precisión en el proceso de dosificación de materiales en polvo",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria de bebidas",
+                            "• Industria química",
+                            "• Industria farmacéutica",
+                            "• Industria cosmética"
+                        ],
+                        "ventajas": [
+                            "• Precisión",
+                            "• Velocidad",
+                            "• Versatilidad",
+                            "• Control de calidad",
+                            "• Eficiencia energética"
+                        ],
+                        "especificaciones": [
+                            "• Construcción en acero al carbono con pintura en polvo electrostático",
+                            "• Partes en contacto con producto construidas en acero inoxidable",
+                            "• Tornillo de dosificación con tubo en acero inoxidable"
+                        ],
                         "video": ""
                     },
                     {
@@ -535,10 +693,31 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/10. BRASIL PACKING/4. BALANZA MULTICABEZAL/BALANZA MULTICABEZAL BP-14C/Brasil Packing Balanza Multicabezal BP-14C.png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Diseñada para ofrecer un alto rendimiento en el proceso de pesaje, la BP-14C es una balanza de múltiplos cabezales, con amplia aplicación en pesajes cuantitativos, de productos sólidos con forma irregular o granos, mediante la combinacion de 14 balanzas integradas de forma rápida y precisa",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria de productos farmacéuticos",
+                            "• Industria de productos químicos"
+                        ],
+                        "ventajas": [
+                            "• Alta precisión",
+                            "• Velocidad de procesamiento",
+                            "• Adaptabilidad",
+                            "• Fácil de integración",
+                            "• Control de calidad",
+                            "• Reducción de costos"
+                        ],
+                        "especificaciones": [
+                            "• Rango de Pesaje Único 10-1500g",
+                            "• Precisión ≥0,3-1,5g",
+                            "• Velocidad máxima 120PPM",
+                            "• Embudo Volumen 1,6/2,5L",
+                            "• Panel Sensible al Tacto 178mm (7")",
+                            "• Apertura de Básculas - Motor Paso",
+                            "• Fuente de Energía AC220V/1500W/50/60Hz/12A",
+                            "• Peso Bruto 470Kg",
+                            "• Dimensión 1275 (Largo) x 1030 (Ancho) X 1237 (Alto)
+                        ],
                         "video": ""
                     }
                 ]
