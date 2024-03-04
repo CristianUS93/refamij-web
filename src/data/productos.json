@@ -968,10 +968,35 @@
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Nuestro Sistema de costura modelo 400NSFO para aplicaciones en bolsas o sacos multicapas de papel, polipropileno, yute, etc. Es utilizado para líneas de ensacado de mediano y alto volumen, opera a velocidades de hasta 17 bolsas por minuto. Este sistema se integra fácilmente a líneas semiautomáticas, tiene un pedestal compacto de baja vibración y completamente móvil. El sistema 400NS utiliza un cabezal modelo 100 express e incluye un alimentador de sacos INFEED A2940 FO que automáticamente entrega el saco al cabezal de costura y el rango de regulación de altura es desde 0,77m hasta 1,43m.",
+                        "aplicaciones": [
+                            "• Fabricación de bolsas",
+                            "• Industria de embalaje",
+                            "• Sector agrícola",
+                            "• Sector alimentario"
+                        ],
+                        "ventajas": [
+                            "• Eficiencia",
+                            "• Alta calidad",
+                            "• Velocidad",
+                            "• Versatilidad",
+                            "• Resistencia y durabilidad"
+                        ],
+                        "especificaciones": [
+                            "• Acabado de pintura epóxica resistente a la corrosión",
+                            "• Botón "On/Off" para seguridad del operador",
+                            "• Sistema patentado de auto lubricación interna",
+                            "• Protección al polvo del sistema eléctrico, NEMA 12",
+                            "• Gabinete de control de 600 x 400 tipo HIMEL, IP55",
+                            "• Sistema de control PLC para actuadores y arranqué del sistema",
+                            "• Voltajes de alimentación disponibles: 230/380/460/575 VAC - trifásico",
+                            "• Motor trifásico para cabezal marca LEESON (UA) de 01HP",
+                            "• Sistema de arranque por sensor de arranque marca SCHNEIDER",
+                            "• Ancho: 1.17m /altura/ 1.88m /profundidad 1,04m"
+                            "• Puntada, federal tipo 401, dos hilos",
+                            "• Rango de puntada de 2 a 3.5 puntadas por pulgadas",
+                            "• Tope de bolsa minimo: 6 pulgadas"
+                        ],
                         "video": ""
                     },
                     {
@@ -1458,7 +1483,12 @@
                             "• Bajo mantenimiento"  
                         ],
                         "especificaciones": [
-                            
+                            "• Estructura simple, diseño modular",
+                            "• Material de marco: CS y SUS recubiertos, perfil de aluminio anodizado natural, atractivo",
+                            "• Funcionamiento estable",
+                            "• Facil mantenimiento"
+                            "• Material de la cinta transporadora: POM,PP.",
+                            "• Modo de ajuste de velocidad: control de frecuencia, transmisión infinitamente variable, etc"
                         ],
                         "video": ""
                     }
@@ -1515,9 +1545,34 @@
                         ],
                         "docs": [],
                         "descripcion": "El transportador de Rodillos es fácil de unir. Y puede formar un sistema transportador logístico complejo y un sistema de mezcla en derivación combinado con múltiples líneas de rodillos y otros equipos de transporte. Tiene una gran capacidad de transmisión , velocidad rápida y caracteristicas de funcionamiento rápdo, y también puede lograr mas variedad de transporte en derviación. Tambien aumentan la productividad de los paquetes a lo largo de las líneas de producción y a travésde las áreas de envío y almacenamiento sin que los empleados tengan que moverse entre estaciones de trabajo y ayudan a prevenir lesiones al mover paquetes pesados y grandes.",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "aplicaciones": [
+                            "• Almacenamiento y distribución",
+                            "• Envío y recepción",
+                            "• Procesamiento de alimentos",
+                            "• Industria de embalaje",
+                            "• Industria del retail",
+                            "• Industria manufacturera"
+                        ],
+                        "ventajas": [
+                            "• Eficiencia en el transporte",
+                            "• Reducción de costos laborales",
+                            "• Mayor velocidad y capacidad de carga",
+                            "• Minimizacion de daños a productos",
+                            "• Flexibilidad en el diseño",
+                            "• Mejora en la seguridad",
+                            "• Menor mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Flexible, que ahorra mano de obra, ligero"
+                            "• Apto para ambientes interiores, carga ligera",
+                            "• Ancho del transportador de 200 - 1000mm",
+                            "• Disponible en cualquier longitud par adpatarse a sus aplicaciones",
+                            "• Autoseguimiento"
+                            "• Altura ajustable"
+                            "• Placas laterales"
+                            "• Velocidad regulables",
+                            "• Transporte en derivación colineal de múltiples variedades"
+                        ],
                         "video": ""
                     }
                 ]
@@ -1535,10 +1590,31 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION-(3).png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El transportador en espiral de un solo carril es un concepto confiable y probado en el transporte vertical. Está diseñado para conservar un valioso espacio en el suelo. El transportador de elevacion transporta hacia arriba o hacia abajo enun flujo continuo. Con una velocidad de 50m/min y cargas hasta 50kg/m, el carril único facilita un alto rendimiento continuo.El diseño del transportador cuenta con un solo motor, esto ahorra mucha energía y requiere poco mantenimiento. No necesita lubricación, lo que se traduce en un bajo nivel de ruido y transporte limpio.",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmaceútica",
+                            "• Industria automotiz",
+                            "• Industria de la logística y distribución"
+                        ],
+                        "ventajas": [
+                            "• Ahorro de espacio",
+                            "• Flexibilidad en la configuración",
+                            "• Mayor eficiencia",
+                            "• Reducción de costos de mano de obra",
+                            "• Seguridad mejorada",
+                            "• Menor mantenimiento",
+                            "• Reducción de daños a productos"
+                        ],
+                        "especificaciones": [
+                            "• Acero inoxidable",
+                            "• Tubo de acero inoxidable con cruz de acero inoxidable",
+                            "• Tubo de aluminio revestido con cruz galvanizada",
+                            "• Cadena estándar",
+                            "• Protección lateral: Revestido en el color RAL especificado",
+                            "• Capacidad 50kg/m "
+                            "• Velocidad: máximo 60m/min"
+                        ],
                         "video": ""
                     }
                 ]
@@ -1556,10 +1632,30 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. TRANSPORTADOR PARA ACUMULACION/TRANSPORTADOR-PARA-ACUMULACION-(2).png"
                         ],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El transportador de acumulación es un tipo de transportador utilizado en sistemas de manejor de materiales que permite la acumulación temporal de productos o materiales en la línea de producción sin detener el flujo general del transportador. Estos sistemas son especialmente útiles en situaciones donde es necesario mantener un flujo continuo de productos, pero tambien se requiere alguna forma de control de velocidad o la acumulación de productos en determinados puntos de la línea.",
+                        "aplicaciones": [
+                            "• Acumulación controlada",
+                            "• Flexibilidad en el flujo de productos",
+                            "• Prevención de daños",
+                            "• Mejora de la eficiencia",
+                            "• Aplicaciones específicas"
+                        ],
+                        "ventajas": [
+                            "• Control de flujo"
+                            "• Acumulación temporal",
+                            "• Reducción de daños",
+                            "• Flexibilidad",
+                            "• Incremento de la productividad"
+                        ],
+                        "especificaciones": [
+                            "• Guia lateral co rodillos",
+                            "• Abrazadera doble",
+                            "• Soporte inoxidable",
+                            "• Superficie con rodillos",
+                            "• Con componentes de COBRA",
+                            "• Alto rendimiento",
+                        
+                        ],
                         "video": ""
                     }
                 ]
@@ -1574,10 +1670,29 @@
                         "href": "/productos/Transportador de Acero Inoxidable",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Un transportador de acero inoxidable es un tipo de transportador utilizado en aplicaciones industriales donde se requiere un material resistente, duradero y que cumpa con los estandares de higiene y limpieza. Estos transportadores están construidos principalmente con acero inoxidable, un material que ofrece una excelente resistencia a la corrosion, al desgaste y a la oxidación, lo que lo hace ideal para entornos exigentes como la industrial alimentaria, farmaceutica, química y otras industrias donde se requiere un alto nivel de higiene y limpieza",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad"
+                            "• Higiene"
+                            "• Resistencia a la corrosión",
+                            "• Flexibilidad de diseño",
+                            "• Bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Estructura robusta",
+                            "• Perfil de aluminio",
+                            "• Estructura de aluminio",
+                            "• Guía lateral con ajuste fino",
+                            "• Soporte reducido",
+                            "• Curva disco"
+                        ],
                         "video": ""
                     }
                 ]
@@ -1592,10 +1707,28 @@
                         "href": "/productos/Transportador con Superficie Engomada",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El transportador con Superficie Engomada, diseñada para aplicaciones especificas donde se requiere un transporte suave y seguro de productos delicados, frágiles o sensibles a los arañazos. Estos transportadores utilizan una banda o superficie recubierta con goma o material elastomérico para proporcionar una tracción adicional y proteger los productos durante el transporte. Aquí hay una descripción general de los transportadores con superficie engomada.",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Protección de productos",
+                            "• Reduccion de deslizamiento",
+                            "• Suavidad y estabilidad",
+                            "• Versatilidad"
+                        ],
+                        "especificaciones": [
+                            "• Pie de sustentacion con rueda giratoria",
+                            "• Serie 150 EMB, Serie 550 EMB, Serie 325 EMB, Componentes COBRA",
+                            "• Estructura robusta",
+                            "• Compatibilidad con productos sensibles",
+                            "• Sisema de limpieza",
+                            "• Acero inoxidable"
+                        ],
                         "video": ""
                     }
                 ]
@@ -1610,10 +1743,32 @@
                         "href": "/productos/Nestaflex",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Diseñado para expandirse, contrarse y moverse fácilmente, el Nestaflex 226 es un transportador de ruedas con patines de gravedad y seguimiento automático que tiene una capacidad por pie lineal de 226 libras. Esta unidad esta diseñada para manejar cajas de varios tamaños en aplicaciones de volumen bajo a medio. La construcción totalmente de acero proporciona una integrada estructural inigualaba ya sea que el transportador esté extendido, compactado o configurado en curvas simples o compuestas. Las patas interiores ajustables varían en altura para lograr el flujo por gravedad.",
+                        "aplicaciones": [
+                            "• Tiendas minoristas",
+                            "• Áreas de embalaje",
+                            "• Líneas de montaje",
+                            "• Departamento de envio y recepción de bajo volumen"
+                        ],
+                        "ventajas": [
+                            "• Flexibilidad",
+                            "• Autoseguimiento",
+                            "• Ampliabilidad",
+                            "• Ruedas de patín",
+                            "• Acopladores de conexion"
+                            "• Centro de ejes"
+                        ],
+                        "especificaciones": [
+                            "• Capacidad de carga: 226 libras/pie",
+                            "• Polimero negro",
+                            "• Ancho del transportador: 18/24",
+                            "• Centros de ejes : 3 y 4 pulgadas",
+                            "• Centro de ejes estándar: 5,25 pulgadas",
+                            "• Tamaño de rueda estándar: 5 x 1,5",
+                            "• Construcción de enlace lateral: acero calibre 11",
+                            "• Alturas del transportador 20-52 pulgadas"
+                            
+                        ],
                         "video": ""
                     }
                 ]
@@ -1644,7 +1799,26 @@
         "phone": "51922238094",
         "href": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
-        "productos": []
+        "productos": [
+             {
+                "nombre": "",
+                "href": "",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "",
+                        "href": "/productos/MODELO 400 NSFO",
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [ ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+        ]
     },
     {
         "division": "Servicio Técnico Post Venta",
