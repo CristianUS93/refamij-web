@@ -13,11 +13,12 @@ export async function getStaticPaths() {
         const division = e;
         const divisionNombre = e.division;
         const productos = e.productos;
-
+        
         return productos.flatMap((e: Object) => {
             const producto = e;
             const productoNombre = e["nombre"];
             const tipos = e["tipos"];
+            console.log(productoNombre);
             return {
                 params: { division: divisionNombre, producto: productoNombre },
                 props: { division, producto, tipos },

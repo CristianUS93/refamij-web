@@ -28,32 +28,32 @@
                         },
                         "descripcion": "El Sistema de Pesaje Dinámico o Checkweigher Dinámico es una solución integral para el control de calidad en la línea de producción. Ofrece precisión del 100% al pesar productos de diversas velocidades y se integra fácilmente con empaquetadora y envasadoras, proporcionando una retroalimentacion en tiempo real para correciones de peso. Además, incluye pantallas dirigidas al control de calidad y registros detallados de alarmas, eventos y produccion. Con opciones de programación flexible y eficiencia energética, es ideal para mejorar el proceso de producción y garantizar la calidad del producto final. ",
                         "aplicaciones": [
-                            "• En línea de producción", 
-                            "• Empaquetadoras/envasadoras", 
+                            "• En línea de producción",
+                            "• Empaquetadoras/envasadoras",
                             "• Pequeños y grandes volúmenes",
                             "• Proyectos especiales "
                         ],
-                        "ventajas": [ 
+                        "ventajas": [
                             "• Eficiencia en tiempo real",
                             "• Mayor precisión",
-                            "• Mayor velocidad", 
+                            "• Mayor velocidad",
                             "• Menor manipulacion",
                             "• Versatilidad"
                         ],
                         "especificaciones": [
                             "• Velocidades de hasta 350ppm (pesadas por minuto) para otras velocidad superiores bajo consulta; hasta 1000 recetas",
                             "• De acero al carbono o acero inoxidable",
-                            "• Tensión electrica: 200Volts 1ph o 2ph, otros voltajes bajo consulta", 
+                            "• Tensión electrica: 200Volts 1ph o 2ph, otros voltajes bajo consulta",
                             "• Corriente (A): según proyecto",
                             "• Potencia (kW) y consumo (kWh): según proyecto",
-                            "• Consumo neumático (l/min): según proyecto", 
+                            "• Consumo neumático (l/min): según proyecto",
                             "• Temperatura de operación: -5C° a 45°C",
                             "• Grado de protección: IP64 /IP66/ IP69",
                             "• Pantalla tipo Touch Screen de 7 a 10 pulgadas",
                             "• Precisión de pesaje: ±0,1g; ±0,2g; ±0,5g; ±1,0g ; ±5,0g ; ±10,0g",
-                            "• Motores y servomotores de alto rendimiento", 
+                            "• Motores y servomotores de alto rendimiento",
                             "• Lector de códigos de barras (opcional)",
-                            "• Impresora (opcional)"    
+                            "• Impresora (opcional)"
                         ],
                         "video": "https://www.youtube.com/embed/LG9erixpDAU?si=u07oSP92Jal0ONeK"
                     },
@@ -83,10 +83,10 @@
                         "especificaciones": [
                             "• Velocidades de hasta 65ppm (pesajes por minuto) hasta 1000g, y para 45 a 50ppm de 2000 a 5000g, hasta 1000 recetas",
                             "• Tensión eléctrica: 220 Volts 1ph o 2ph, otros voltajes bajo consulta",
-                            "• Corriente (A): 0,2", 
+                            "• Corriente (A): 0,2",
                             "• Potencia (kW): 0,23",
                             "• Consumo (kWh): 0,03",
-                            "• Consumo neumático (l/min): 100", 
+                            "• Consumo neumático (l/min): 100",
                             "• Temperatura de operación: 8°C a 45°C",
                             "• De acero al carbono o acero inoxidable",
                             "• Grado de protección: IP64/IP66/IP69",
@@ -115,7 +115,7 @@
                         "docs": {},
                         "descripcion": "Los Detectores de Metales fabricados por PERFOR emplean un principio de funcionamiento, que se basa en el análisis de la interferencia de un metal bajo un campo magnético transmitido. Estos dispositivos son capaces de verificar contaminantes metálicos en productos en movimiento, tanto a baja como alta velocidad, garantizando un inspección del 100% de los artículos en una linea de produccion. Ofrecen varias pantallas para el control de calidad con estadisticas en tiempo real, y opciones programables como la prueba de cuerpo, rechazo y rechazos seguidos. ",
                         "aplicaciones": [
-                            "• Productos in-natura", 
+                            "• Productos in-natura",
                             "• Aplicaciones de la línea de caída libre",
                             "• Big bag",
                             "• Ensacaderas",
@@ -361,7 +361,6 @@
                             "• Fabricado en acero al carbono o acero inoxidable",
                             "• Neumática estándar ISO",
                             "• Consumo de electricidad y aire variable"
-                            
                         ],
                         "video": ""
                     }
@@ -387,7 +386,7 @@
                             "• Para productos de buena fluidez",
                             "• Grandes volúmenes"
                         ],
-                        "ventajas":[],
+                        "ventajas": [],
                         "opcionales": [
                             "• Plataforma elevadora do bag para productos delicados con control automático del nivel para evitar la rotura del producto",
                             "• Inflador bag automático",
@@ -965,7 +964,8 @@
                         "nombre": "MODELO 400 NSFO",
                         "href": "/productos/MODELO 400 NSFO",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/bolsa-cocida.png"
                         ],
                         "docs": [],
                         "descripcion": "Nuestro Sistema de costura modelo 400NSFO para aplicaciones en bolsas o sacos multicapas de papel, polipropileno, yute, etc. Es utilizado para líneas de ensacado de mediano y alto volumen, opera a velocidades de hasta 17 bolsas por minuto. Este sistema se integra fácilmente a líneas semiautomáticas, tiene un pedestal compacto de baja vibración y completamente móvil. El sistema 400NS utiliza un cabezal modelo 100 express e incluye un alimentador de sacos INFEED A2940 FO que automáticamente entrega el saco al cabezal de costura y el rango de regulación de altura es desde 0,77m hasta 1,43m.",
@@ -984,7 +984,7 @@
                         ],
                         "especificaciones": [
                             "• Acabado de pintura epóxica resistente a la corrosión",
-                            "• Botón "On/Off" para seguridad del operador",
+                            "• Botón 'On/Off' para seguridad del operador",
                             "• Sistema patentado de auto lubricación interna",
                             "• Protección al polvo del sistema eléctrico, NEMA 12",
                             "• Gabinete de control de 600 x 400 tipo HIMEL, IP55",
@@ -992,7 +992,7 @@
                             "• Voltajes de alimentación disponibles: 230/380/460/575 VAC - trifásico",
                             "• Motor trifásico para cabezal marca LEESON (UA) de 01HP",
                             "• Sistema de arranque por sensor de arranque marca SCHNEIDER",
-                            "• Ancho: 1.17m /altura/ 1.88m /profundidad 1,04m"
+                            "• Ancho: 1.17m /altura/ 1.88m /profundidad 1,04m",
                             "• Puntada, federal tipo 401, dos hilos",
                             "• Rango de puntada de 2 a 3.5 puntadas por pulgadas",
                             "• Tope de bolsa minimo: 6 pulgadas"
@@ -1003,7 +1003,11 @@
                         "nombre": "MODELO 400 PRO",
                         "href": "/productos/MODELO 400 PRO",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/400-Pro-3-1498x3000.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/400-Pro-3-1498x3000.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/CABEZAL SERIE 101.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/afqegq.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/rftgh.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/ACEITE-INDUSTRIAL (1).png"
                         ],
                         "docs": [],
                         "descripcion": "El modelo 400 PRO puede cerrar una gran variedad de bolsas estilo almohada o con fuelle, que incluye papel de paredes múltiples, con su sistema de autolubricación, el cabezal de costura Empress 100 ofrece un rendimiento suave y sin problemas con pocas vibraciones. Cuenta con una velocidad de 35 a 55 pies lineales por minuto. El pedestal móvil de altura ajustable con ruedas y tornillos niveladores se puede integrar fácilmente en cualquier línea de ensacado manual.",
@@ -1027,7 +1031,7 @@
                             "• Peso: 440 libras (200 kg) neto",
                             "• 230 Voltios, 50/60 Hz, 3 fases",
                             "• 460 Voltios, 50/60 Hz, 3 fases",
-                            "• Clase eléctrica NEMA 12 "polvo protegido" ",
+                            "• Clase eléctrica NEMA 12 'polvo protegido' ",
                             "• Puntada: federal tipo 401, dos hilos",
                             "• Rango: 2.0 a 2.5 puntadas por pulgadas",
                             "• Tope de bolsa: 6 pulgadas mínimo (152mm)",
@@ -1039,7 +1043,9 @@
                         "nombre": "MODELO 400 TNS",
                         "href": "/productos/MODELO 400 TNS",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/MODELO 400 TNS.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/MODELO 400 TNS.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/CABEZAL SERIE 101.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/ACEITE-INDUSTRIAL (1).png"
                         ],
                         "docs": [],
                         "descripcion": "El modelo 400 TNS,es reconocido como el sistema de costura con cinta líder de la industrial actual. El cabezal de costura ofrece un rendimiento suave sin problemas con baja vibración.Diseñado para bolsas de papel multicapa y de polipropileno tejido laminado, el sistema de costura puede funcionar con una velocidad de 55 pies lineales por minuto. Inclusive tiene un cortador de cinta e hilo activado por un ojo fotoeléctrico controlador por PLC que corta automáticamente la cinta de crepé y el hilo al finalizar el ciclo de costura e incorpora el cabezal cosedor modelo 101 de la serie Empress con su consagrado diseño autolubricante, un pedestal de altura regulable con ruedas, una cortadora neumática de hilo/cinta. Para obtener un máximo rendimiento se recomienda usar hilo y pinzas Fischbein originales.",
@@ -1094,7 +1100,7 @@
                             "• Velocidad Fija: 10mts/min (4 puntadas por pulgada)",
                             "• Alimentación eléctrica: 230V AC - monofásica",
                             "• Faja trasportadora de 2.20 de largo a 10.00 m/min",
-                            "• Botón "On / Off" para seguridad del operador ",
+                            "• Botón 'On / Off' para seguridad del operador ",
                             "• Pedestal compacto, de baja vibración y regulable",
                             "• Acabado de pintura epóxica resistente a la corrosión",
                             "• Pedal móvil de activación",
@@ -1105,7 +1111,7 @@
                             "• Incluye cosedora portátil FISCHBEIN modelo"
                         ],
                         "video": ""
-                    },
+                    }
                 ]
             },
             {
@@ -1140,7 +1146,7 @@
                             "• 9 pulgadas (22.9 cm) ancho",
                             "• 13 pulgadas (33.0 cm) largo",
                             "• Velocidad de Cierre: 35 pies por minuto a 4 puntadas por pulg. (24.4mm)",
-                            "• Tipo de Bolsa: Papel de multicapa, polipropileno tejido y yute"
+                            "• Tipo de Bolsa: Papel de multicapa, polipropileno tejido y yute",
                             "• Hilo: Para obtener el máximo rendimiento, use la marca de Fischbein de 8 onzas",
                             "• Lubricación: para una lubricación y un desgaste prolongados, use aceites de grado alimentario Fischbein 5-100"
                         ],
@@ -1173,11 +1179,12 @@
                             "• 9 pulgadas (22.9 cm) ancho",
                             "• 13 pulgadas (33.0 cm) largo",
                             "• Velocidad de Cierre: 35 pies por minuto a 4 puntadas por pulg. (24.4mm)",
-                            "• Tipo de Bolsa: Papel de multicapa, polipropileno tejido y yute."
-                            "• Hilo: Para obtener el máximo rendimiento, use la marca de Fischbein o "100% Poliéster" en conos de 200 gr."
+                            "• Tipo de Bolsa: Papel de multicapa, polipropileno tejido y yute.",
+                            "• Hilo: Para obtener el máximo rendimiento, use la marca de Fischbein o '100% Poliéster' en conos de 200 gr."
                         ],
                         "video": ""
-                    },{
+                    },
+                    {
                         "nombre": "MODELO SERIE F CON BATERIA",
                         "href": "/productos/MODELO SERIE F",
                         "img": [
@@ -1185,7 +1192,7 @@
                         ],
                         "docs": [],
                         "descripcion": "La cosedora portatil modelo serie F con batería, diseñada para brindar una solución conveniente y versátil para el cierre de bolsas en cualquier lugar y en cualquier momento. Equipada con una bateria recargable de alta capacidad, esta cosedora ofrece una total libertad de movimiento, eliminando la necesidad de estar cerca de una fuente de alimentación eléctrica. Su disñeo compacto y ergonómico la hace fácil de transportar y operar, mientras que su potente motor garantiza un rendimiento confiable y eficiente.",
-                           "aplicaciones": [
+                        "aplicaciones": [
                             "• Industria de transporte",
                             "• Industria de embalaje",
                             "• Industria alimentaria",
@@ -1205,8 +1212,8 @@
                             "• 13 pulgadas (33.0 cm) largo",
                             "• Velocidad de Cierre: 35 pies por minuto a 4 puntadas por pulg. (24.4mm)",
                             "• Mantenimiento y ruido minimo",
-                            "• Tipo de Bolsa: Papel de multicapa, polipropileno tejido y yute."
-                            "• Hilo: Para obtener el máximo rendimiento, use la marca de Fischbein o "100% Poliéster" en conos de 200 gr."
+                            "• Tipo de Bolsa: Papel de multicapa, polipropileno tejido y yute.",
+                            "• Hilo: Para obtener el máximo rendimiento, use la marca de Fischbein o '100% Poliéster' en conos de 200 gr."
                         ],
                         "video": ""
                     },
@@ -1237,12 +1244,11 @@
                             "• 9 pulgadas (22.9 cm) ancho",
                             "• 13 pulgadas (33.0 cm) largo",
                             "• Velocidad de Cierre: 35 pies por minuto a 4 puntadas por pulg. (24.4mm)",
-                            "• Tipo de Bolsa: Papel de multicapa, polipropileno tejido y yute"
-                            "• Hilo: Para obtener el máximo rendimiento, use la marca de Fischbein o "100% Poliéster" en conos de 200 gr."
+                            "• Tipo de Bolsa: Papel de multicapa, polipropileno tejido y yute",
+                            "• Hilo: Para obtener el máximo rendimiento, use la marca de Fischbein o '100% Poliéster' en conos de 200 gr."
                         ],
                         "video": ""
-                    },
-                    
+                    }
                 ]
             },
             {
@@ -1472,7 +1478,7 @@
                             "• Transportadores para embalaje rígido y flexible",
                             "• Transportadores de cajas",
                             "• Transportadores para productos envasados al vacío",
-                            "• Transportadores de cajas de cartón"
+                            "• Transportadores de cajas de cartón",
                             "• Transportadores de productos farmacéuticos"
                         ],
                         "ventajas": [
@@ -1480,13 +1486,13 @@
                             "• Versatilidad",
                             "• Fiabilidad",
                             "• Seguridad",
-                            "• Bajo mantenimiento"  
+                            "• Bajo mantenimiento"
                         ],
                         "especificaciones": [
                             "• Estructura simple, diseño modular",
                             "• Material de marco: CS y SUS recubiertos, perfil de aluminio anodizado natural, atractivo",
                             "• Funcionamiento estable",
-                            "• Facil mantenimiento"
+                            "• Facil mantenimiento",
                             "• Material de la cinta transporadora: POM,PP.",
                             "• Modo de ajuste de velocidad: control de frecuencia, transmisión infinitamente variable, etc"
                         ],
@@ -1509,7 +1515,7 @@
                             "• Transportadores para embalaje rígido y flexible",
                             "• Transportadores de cajas",
                             "• Transportadores para productos envasados al vacío",
-                            "• Transportadores de cajas de cartón"
+                            "• Transportadores de cajas de cartón",
                             "• Transportadores de productos farmacéuticos"
                         ],
                         "ventajas": [
@@ -1517,13 +1523,13 @@
                             "• Versatilidad",
                             "• Fiabilidad",
                             "• Seguridad",
-                            "• Bajo mantenimiento" 
+                            "• Bajo mantenimiento"
                         ],
                         "especificaciones": [
                             "• Estructura simple, diseño modular",
                             "• Material de marco: CS y SUS recubiertos, perfil de aluminio anodizado natural, atractivo",
                             "• Funcionamiento estable",
-                            "• Facil mantenimiento"
+                            "• Facil mantenimiento",
                             "• Material de la cinta transporadora: POM,PP.",
                             "• Modo de ajuste de velocidad: control de frecuencia, transmisión infinitamente variable, etc"
                         ],
@@ -1563,13 +1569,13 @@
                             "• Menor mantenimiento"
                         ],
                         "especificaciones": [
-                            "• Flexible, que ahorra mano de obra, ligero"
+                            "• Flexible, que ahorra mano de obra, ligero",
                             "• Apto para ambientes interiores, carga ligera",
                             "• Ancho del transportador de 200 - 1000mm",
                             "• Disponible en cualquier longitud par adpatarse a sus aplicaciones",
-                            "• Autoseguimiento"
-                            "• Altura ajustable"
-                            "• Placas laterales"
+                            "• Autoseguimiento",
+                            "• Altura ajustable",
+                            "• Placas laterales",
                             "• Velocidad regulables",
                             "• Transporte en derivación colineal de múltiples variedades"
                         ],
@@ -1612,7 +1618,7 @@
                             "• Tubo de aluminio revestido con cruz galvanizada",
                             "• Cadena estándar",
                             "• Protección lateral: Revestido en el color RAL especificado",
-                            "• Capacidad 50kg/m "
+                            "• Capacidad 50kg/m ",
                             "• Velocidad: máximo 60m/min"
                         ],
                         "video": ""
@@ -1641,7 +1647,7 @@
                             "• Aplicaciones específicas"
                         ],
                         "ventajas": [
-                            "• Control de flujo"
+                            "• Control de flujo",
                             "• Acumulación temporal",
                             "• Reducción de daños",
                             "• Flexibilidad",
@@ -1653,8 +1659,7 @@
                             "• Soporte inoxidable",
                             "• Superficie con rodillos",
                             "• Con componentes de COBRA",
-                            "• Alto rendimiento",
-                        
+                            "• Alto rendimiento"
                         ],
                         "video": ""
                     }
@@ -1679,8 +1684,8 @@
                             "• Industria de empaquetado y envasado"
                         ],
                         "ventajas": [
-                            "• Durabilidad"
-                            "• Higiene"
+                            "• Durabilidad",
+                            "• Higiene",
                             "• Resistencia a la corrosión",
                             "• Flexibilidad de diseño",
                             "• Bajo mantenimiento"
@@ -1755,7 +1760,7 @@
                             "• Autoseguimiento",
                             "• Ampliabilidad",
                             "• Ruedas de patín",
-                            "• Acopladores de conexion"
+                            "• Acopladores de conexion",
                             "• Centro de ejes"
                         ],
                         "especificaciones": [
@@ -1767,7 +1772,6 @@
                             "• Tamaño de rueda estándar: 5 x 1,5",
                             "• Construcción de enlace lateral: acero calibre 11",
                             "• Alturas del transportador 20-52 pulgadas"
-                            
                         ],
                         "video": ""
                     }
@@ -1799,26 +1803,7 @@
         "phone": "51922238094",
         "href": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
-        "productos": [
-             {
-                "nombre": "",
-                "href": "",
-                "img": "",
-                "tipos": [
-                    {
-                        "nombre": "",
-                        "href": "/productos/MODELO 400 NSFO",
-                        "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png"
-                        ],
-                        "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [ ],
-                        "especificaciones": [],
-                        "video": ""
-                    },
-        ]
+        "productos": []
     },
     {
         "division": "Servicio Técnico Post Venta",
