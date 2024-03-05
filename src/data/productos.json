@@ -1244,6 +1244,102 @@
                 ]
             },
             {
+                "nombre": "Selladoras de banda",
+                "href": "",
+                "img": "",
+                "tipos": [
+                     {
+                        "nombre": "Supersealer SB10",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "La Selladora SB10 de banda pintado utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales en bolsa a gran velocidad y eficacia. Están dispoinibles en versiones pintadas o de acero inoxidable. Con su probada tecnología de sellado de banda y controles de fácil manejo, garantiza un rendimiento continuo en aplicaciones exigentes. La Supersealer viene con un pedestal motorizado y una base de acero inoxidable con ruedas bloqueables para facilitar el cambio de tamaño de bolsa, lo que se traduce en un aumento de la productividad. Con solo pulsar un botón, puede cambiar la altura de la selaldora, sin necesidad de trabajo manual. Esta línea de selladoras de bolsas ofrece sellados rápido, precisos y resistentes en cualquier materaial de bolsa. Todos los modelos ofrencen auténticas funciones "pug and play2 para un rendimiento fiable y fácil de usar en una gran variedad de aplicaciones. Estos modelos tambien están disponibles con una pantalla táctil en color opcional con interfaz.
+                        "aplicaciones": [
+                            "• Embalaje de Alimentos",
+                            "• Cosmeticos y productos de belleza",
+                            "• Envases indsutriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Fácil de mantener",
+                            "• Facilidad de adaptacion de las velocidades de transportes y flexibilidad",
+                            "• Temperatura de sellado precisa y constante",
+                            "• Facilidad de configuración, formación y funcionamiento",
+                            "• Con solo pulsar un botón, para ajustar la altura, simplificando las aplicaciones de bolsas mútiples"
+                            
+                        ],
+                        "especificaciones": [
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 12mils",
+                            "• Velocidad: Hasta 48 fpm, otras velocidades a pedido",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Supersealer SB20",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "La Selladora SB20 de banda de acero inoxidable utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales de bolsas a alta velocidad y eficiencia. Con su tecnología de sellado de banda probada y controles fáciles de usar, garantiza un rendimiento continuo en aplicaciones exigentes. La supersealer viene con un pedestal motorizado y una base de acero inoxidable con ruedas bloqueables para facilitar el cambio de tamaño de bolsa, lo que se traduce en un aumento de productividad. La selladora y el transportador se esclavizan del accionamiento de la selladora, por lo que ambas unidades están siempre sincronizadas.",
+                        "aplicaciones": [
+                            "• Embalaje de Alimentos",
+                            "• Cosmeticos y productos de belleza",
+                            "• Envases indsutriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Fácil de mantener",
+                            "• Facilidad de adaptacion de las velocidades de transportes y flexibilidad",
+                            "• Temperatura de sellado precisa y constante",
+                            "• Acabado limpio y duradero, preferido en la industria alimentaria y otras industrias",
+                            "• Con solo pulsar un botón, para ajustar la altura, simplificando las aplicaciones de bolsas mútiples"
+                            
+                        ],
+                        "especificaciones": [
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 12mils",
+                            "• Velocidad: Hasta 48 fpm, otras velocidades a pedido",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Supersealer SB20WD",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "La Selladora SB20WD está disponible en selladoras de bolsas lavables con clasificación IP65 e IP69K. Una selladora con clasificación IP65 puede lavarse utilizando sólo la presión de una manguera de jardín. Nuestra selladora o sistema IP69K puede soportar las exigencias de un lavado agresivo. Nuestras selladoras de bolsas lavables son soluciones ideales para entornos de envasado en salas blancas y envasadores que requieren normas de limpieza estrictas. El saneamiento de las plantas es la nueva normalidad y tenemos la selladora para satisfacer las exigencias que requieren las empresas.
+                        "aplicaciones": [
+                            "• Cosmeticos y productos de belleza",
+                            "• Envases indsutriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Fácil de mantener",
+                            "• Facilidad de adaptacion de las velocidades de transportes y flexibilidad",
+                            "• Temperatura de sellado precisa y constante",
+                            "• Acabado limpio y duradero, preferido en la industria alimentaria y otras industrias",
+                            "• Con solo pulsar un botón, para ajustar la altura, simplificando las aplicaciones de bolsas mútiples"
+                            
+                        ],
+                        "especificaciones": [
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 12mils",
+                            "• Velocidad: Hasta 48 fpm, otras velocidades a pedido",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
+                        ],
+                        "video": ""
+                    },
                 "nombre": "Cosedoras Portátiles",
                 "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Cosedoras Portátiles",
                 "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/b179e9_b966d99b76d94c099b61fae65214ca06~mv2.png",
@@ -1313,6 +1409,7 @@
                         ],
                         "video": ""
                     },
+                    
                     {
                         "nombre": "MODELO SERIE F CON BATERIA",
                         "href": "/productos/MODELO SERIE F",
