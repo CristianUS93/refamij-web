@@ -18,7 +18,6 @@ export async function getStaticPaths() {
             const producto = e;
             const productoNombre = e["nombre"];
             const tipos = e["tipos"];
-            console.log(productoNombre);
             return {
                 params: { division: divisionNombre, producto: productoNombre },
                 props: { division, producto, tipos },
@@ -34,8 +33,6 @@ interface Astro {
 }
 
 const { division, producto, tipos } = Astro.props;
-
-console.log(tipos);
 ---
 <Layout path="/productos" , title_page="Refamij - Productos">
     <Banner title="PRODUCTOS INDUSTRIALES" img={banner.src}/>
@@ -45,7 +42,7 @@ console.log(tipos);
                 <section class="cards-container">
                     {
                         tipos.map((element) => (
-                            <ProductCard title={element['nombre']} img={element['img'][0]} route={element['href']} />
+                            <ProductCard title={element['nombre']} img={element['img'][0]} route={`/productos/${element['nombre']}`} />
                         ))
                     }
                 </section>

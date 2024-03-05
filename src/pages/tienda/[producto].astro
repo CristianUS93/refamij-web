@@ -6,57 +6,59 @@ import FileContainer from "../../components/productos/FileContainer.astro";
 import DescriptionContainer from "../../components/productos/DescriptionContainer.astro";
 
 import banner from "../../assets/tienda/banner.jpg";
-import data from "../../data/productos.json";
+import data from "../../data/tienda.json";
 
 export async function getStaticPaths() {
     return data.flatMap((e) => {
-        const productos = e.productos;
-        const phone = e.phone;
+        const categorias = e.categorias;
 
-        return productos.flatMap((e: Object) => {
+        return categorias.flatMap((e: Object) => {
             const tipos = e["tipos"];
 
             return tipos.flatMap((t: Object) => {
-                const tipo = t;
-                const tipoNombre = t["nombre"];
+                const modelos = t['modelos'];
 
-                return {
-                    params: { producto: tipoNombre },
-                    props: { tipo, phone },
-                };
+                return modelos.flatMap((m: Object) => {
+                    const modelo = m;
+                    const modeloNombre = modelo['nombre'];
+
+                    return {
+                        params: { producto: modeloNombre },
+                        props: { modelo },
+                    };
+                });
             });
         });
     });
 }
 
 interface Astro {
-    tipo: Object;
-    phone: string;
+    modelo: Object;
 }
 
-const { tipo, phone } = Astro.props;
+const { modelo } = Astro.props;
 ---
 
-<Layout path="/productos" , title_page="Refamij - Productos">
-    <Banner title="PRODUCTOS INDUSTRIALES" img={banner.src} />
+<Layout path="/tienda" , title_page="Refamij - Tienda">
+    <Banner title="TIENDA COMERCIAL" img={banner.src} />
     <Body isGray="gray">
         <section class="main-info">
             <picture>
-                <img id="main-img" src={tipo["img"][0]} alt="" />
+                <img id="img-main" src={modelo["imgs"][0]} alt="" />
                 <div class="small-img">
                     {
-                        tipo["img"].map((e) => (
+                        modelo["imgs"].map((e) => (
                             <img
-                                class={`small ${e == tipo["img"][0] && "img-select"}`}
+                                class={`small ${e == modelo["imgs"][0] && "img-select"}`}
                                 src={e}
-                                alt={tipo["nombre"]}
+                                alt={modelo["nombre"]}
                             />
                         ))
                     }
                 </div>
             </picture>
             <section class="tec-info">
-                <h2>{tipo["nombre"]}</h2>
+                <h2>{modelo["nombre"]}</h2>
                 <ul class="info-menu">
                     <li class="option o-select" id="d">Descripción</li>
                     <li class="option" id="f">Ficha Técnica</li>
@@ -65,24 +67,24 @@ const { tipo, phone } = Astro.props;
                 <div class="info-content">
                     <div class="content d">
                         <DescriptionContainer
-                            title={tipo["nombre"]}
-                            text={tipo["descripcion"]}
-                            wspPhone={phone}
-                            origen="productos"
+                            title={modelo["nombre"]}
+                            text={modelo["descripcion"]}
+                            wspPhone='51994278664',
+                            origen="tienda"
                         />
                     </div>
                     <div class="content f">
                         <FileContainer
-                            fileUrl={tipo["docs"]["fileUrl"]}
-                            fileName={tipo["docs"]["fileName"]}
-                            miniatura={tipo["docs"]["miniatura"]}
+                            fileUrl={modelo["docs"]["fileUrl"]}
+                            fileName={modelo["docs"]["fileName"]}
+                            miniatura={modelo["docs"]["miniatura"]}
                         />
                     </div>
                     <div class="content v">
                         <iframe
                             width="560"
                             height="315"
-                            src={tipo.video}
+                            src={modelo.video}
                             title="YouTube video player"
                             frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -94,17 +96,17 @@ const { tipo, phone } = Astro.props;
         <article>
             <h3>Aplicaciones</h3>
             <ul class="description">
-                {tipo["aplicaciones"].map((e) => <li>{e}</li>)}
+                {modelo["aplicaciones"].map((e) => <li>{e}</li>)}
             </ul>
             <h3>Ventajas</h3>
             <ul class="description">
-                {tipo["ventajas"].map((e) => (
+                {modelo["ventajas"].map((e) => (
                     <li><b style="font-weight:600">{e.slice(0,e.indexOf(':') + 1)}</b>{e.slice(e.indexOf(':') + 1)}</li>)
                 )}
             </ul>
             <h3>Especificaciones Técnicas</h3>
             <ul class="description">
-                {tipo["especificaciones"].map((e) => <li>{e}</li>)}
+                {modelo["especificaciones"].map((e) => <li>{e}</li>)}
             </ul>
         </article>
     </Body>
@@ -112,18 +114,20 @@ const { tipo, phone } = Astro.props;
 
 <script>
     //Images changes
-    const mainImg = document.getElementById("main-img");
+    const imgMain = document.getElementById("img-main");
     const images = document.getElementsByClassName("small");
 
     for (const image of images) {
         image.addEventListener("click", () => {
-            mainImg["src"] = image["src"];
-            var current = document.getElementsByClassName("img-select");
-            current[0].className = current[0].className.replace(
-                " img-select",
-                "",
-            );
-            image.className += " img-select";
+            if(imgMain != null) {
+                imgMain["src"] = image["src"];
+                var current = document.getElementsByClassName("img-select");
+                current[0].className = current[0].className.replace(
+                    " img-select",
+                    "",
+                );
+                image.className += " img-select";
+            }
         });
     }
 
@@ -161,7 +165,7 @@ const { tipo, phone } = Astro.props;
         width: 45%;
     }
 
-    #main-img {
+    #img-main {
         height: 60vh;
         width: 100%;
         object-fit: scale-down;

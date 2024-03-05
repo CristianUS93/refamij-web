@@ -759,7 +759,7 @@
                         "nombre": "S560",
                         "href": "/productos/S560",
                         "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie S/S560 - Empaquetadora angular a campana.png"
                         ],
                         "docs": [],
                         "descripcion": "La serie S560 de empaquetadoras angulares a campana con sistema de soldadura y retracción en una sola operación, se utiliza principalmente en sectores industriales gracias a su capacidad para alcanzar velocidades de producción bastante elevadas.\nLa serie S560 de empaquetadoras angulares a campana incluye cuatro modelos diferentes para producciones hasta de 900 paquetes/hora.",
@@ -1115,6 +1115,12 @@
                 ]
             },
             {
+                "nombre": "Selladoras Continuas",
+                "href": "",
+                "img": "",
+                "tipos": []
+            },
+            {
                 "nombre": "Cosedoras Portátiles",
                 "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Cosedoras Portátiles",
                 "img": "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/b179e9_b966d99b76d94c099b61fae65214ca06~mv2.png",
@@ -1387,6 +1393,12 @@
                         "video": ""
                     }
                 ]
+            },
+            {
+                "nombre": "Tomadores y Accesorios",
+                "href": "",
+                "img": "",
+                "tipos": []
             }
         ]
     },
@@ -1801,9 +1813,216 @@
         "division": "Puertas y Equipamiento Logístico",
         "encargado": "Paul Salcedo",
         "phone": "51922238094",
-        "href": "",
+        "href": "/productos/Puertas y Equipamiento Logístico-Puertas Rápidas de PVC",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
-        "productos": []
+        "productos": [
+            {
+                "nombre": "Puertas Rápidas de PVC",
+                "href": "/productos/Puertas y Equipamiento Logístico-Puertas Rápidas de PVC",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Puertas Enrollables",
+                        "href": "/productos/Puertas Enrollables",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Puertas Plegables",
+                        "href": "/productos/Puertas Plegables",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Puertas Seccionales",
+                "href": "/productos/Puertas y Equipamiento Logístico-Puertas Seccionales",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Insuladas",
+                        "href": "/productos/Insuladas",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Puertas Cortafuego",
+                "href": "/productos/Puertas y Equipamiento Logístico-Puertas Cortafuego",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Peatonales",
+                        "href": "/productos/Peatonales",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Enrollables Metálicas",
+                        "href": "/productos/Enrollables Metálicas",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Puertas Correderas",
+                "href": "/productos/Puertas y Equipamiento Logístico-Puertas Correderas",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "De Cámaras de Frío",
+                        "href": "/productos/De Cámaras de Frío",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Puertas de Servicio",
+                "href": "/productos/Puertas y Equipamiento Logístico-Puertas de Servicio",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Pivotantes de una Hoja",
+                        "href": "/productos/Pivotantes de una Hoja",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Pivotantes Doble Hoja",
+                        "href": "/productos/Pivotantes Doble Hoja",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Rampas Hidráulicas",
+                "href": "/productos/Puertas y Equipamiento Logístico-Rampas Hidráulicas",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Niveladora de Muelle",
+                        "href": "/productos/Niveladora de Muelle",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Rampas Movil",
+                "href": "/productos/Puertas y Equipamiento Logístico-Rampas Movil",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Carga y Descarga de Contenedores",
+                        "href": "/productos/Carga y Descarga de Contenedores",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Mesa Elevadora",
+                "href": "/productos/Puertas y Equipamiento Logístico-Mesa Elevadora",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "De Tijera Hidráulica",
+                        "href": "/productos/De Tijera Hidráulica",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Abrigos de Muelles",
+                "href": "/productos/Puertas y Equipamiento Logístico-Abrigos de Muelles",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Abrigo Retráctil",
+                        "href": "/productos/Abrigo Retráctil",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Abrigo Hinchable",
+                        "href": "/productos/Abrigo Hinchable",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            }
+        ]
     },
     {
         "division": "Servicio Técnico Post Venta",

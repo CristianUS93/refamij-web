@@ -1,12 +1,15 @@
 ---
 import wspLogo from "../../assets/icons-social/whatsapp.svg";
 
-const { title, text, wspPhone } = Astro.props;
+const { origen, title, text, wspPhone } = Astro.props;
+
+const productName = title.split(' ').join('%20');
+const url = encodeURI(`https://refamij.com/${origen}/${productName}`)
 ---
 <div class="main-div">
     <p>{text}</p>
     <div class="buttons-div">
-        <a href={`https://wa.me/${wspPhone}?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20${title}.`} target="_blank">
+        <a href={`https://wa.me/51912575494?text=Hola,%20deseo%20comprar%20el%20siguiente%20producto:%0A%0A*${title}*.%0A*URL*:${url}%0A¡Muchas%20gracias!`} target="_blank">
             <div class="wsp button">
                 <img src={wspLogo.src} alt="Whatsapp Logo">
                 <span>Conversa con nuestro especialista en línea</span>
