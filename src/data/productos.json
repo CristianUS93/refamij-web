@@ -1799,10 +1799,29 @@
                         "href": "/productos/Sorter",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El sorter es un transportador del cual hacen pasar los productos por una ruta específica después de ser recuebiertos, gracias a la alta precisión de la cinta transportadora que permite una rápida división de cajas. Compuesto por un gran impulsor, guía e impulsado, este sistema utiliza una cinta transportadora no estándar para garantizar un transporte eficiente. Su función principal radica en la clasificación de objetos mediante señales de básculas, detectores de metales y lectores de código y cámara de vídeo. Distribuye los objetos de forma uniforme para su procesamiento posterior, conectando equipos de procesamiento y máquinas de embalaje, ajustando la cantidad según la capacidad o entrada requerida.",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Protección de productos",
+                            "• Reduccion de deslizamiento",
+                            "• Suavidad y estabilidad",
+                            "• Versatilidad"
+                        ],
+                        "especificaciones": [
+                            "• Fuente de alimentación: CA 220 V/sph, CA 380 V/trifásico",
+                            "• Altura del transportador (mm): 300-1500",
+                            "• Carga (kg):10",
+                            "• Nivel de ruido (dB): 85",
+                            "• Ancho del transportador W (mm)",
+                            "• Velocidad (m/min): ≤60",
+                            "• Potencia de motor: 0,75-3"
+                        ],
                         "video": ""
                     }
                 ]
