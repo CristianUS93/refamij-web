@@ -2142,14 +2142,40 @@
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Insuladas",
+                        "nombre": "Puertas Seccional Industrial",
                         "href": "/productos/Insuladas",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Una puerta seccional industrial es una solución robusta y eficiente para el acceso a grandes espacios comerciales e industriales. Está compuesta por paneles horizontales articulados que se desplazan verticalmente hacia arriba y luego a lo largo del techo al abrirse. Fabricadas con materiales duraderos como acero galvanizado o aluminio, estas puertas ofrecen resistencia a condiciones adversas y puedes incluir aislamiento término y acústico.",
+                        "aplicaciones": [
+                            "• Almacenes y centros de distribución",
+                            "• Zonas de carga y descarga",
+                            "• Entornos industriales",
+                            "• Instalaciones comerciales",
+                            "• Garajes y estacionamiento"
+                        ],
+                        "ventajas": [
+                            "• Rapidez",
+                            "• Durabilidad",
+                            "• Seguridad",
+                            "• Espacio",
+                            "• Mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Material: acero galvanizado",
+                            "• Relleno: Poliuretano inyectado",
+                            "• Configuración: Panetes horizontales unidos por bisagras",
+                            "• Espesor: 4cm",
+                            "• Sello inferior: Weather Seal",
+                            "• Color de paneles: Blanco",
+                            "• Ciclaje de resorte: 10 mil ciclos",
+                            "• Tipo de resorte: Resorte de Torsión",
+                            "• Herrajeria: Acero Galvanizado",
+                            "• Herrajeria tipo A: Doble Guía Horizontal para dintel de 40cm",
+                            "• Alturas Disponible (mt): 2.10 Y 2,4 MT",
+                            "• Anchos Disponible (mt): 2.44, 3.05, 3.66, 4.27, 4.88, 5.49, 6.10",
+                            "• Alimentación para motor: 220V-trifasico"
+                        ],
                         "video": ""
                     }
                 ]
