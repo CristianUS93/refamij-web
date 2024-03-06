@@ -1077,9 +1077,7 @@
                     {
                         "nombre": "Minisistema de costura",
                         "href": "/productos/S560NA",
-                        "img": [
-                            ""
-                        ],
+                        "img": [""],
                         "docs": [],
                         "descripcion": "Nuestro minisistema de costura presenta una innovadora solucion integral para la industria de envasado. Con una faja transportadora y una cosedora portátil integrada, este sistema esta diseñado especificamente para sellar bolsas de manera rápida y precisa. Equipado con sensores que detectan el arranque garantizando un cierre seguro de bolsas. Además, el sistema de corte de hilo proporcina un acabado impecable. Fabricado con Acero A36 de alta calidad, ofrece durabilidad y resistencia para un rendimiento óptimo a largo plazo, con una velocidad de hasta 10 metros por minuto para una producción eficiente en la línea de envasado.",
                         "aplicaciones": [
@@ -1115,10 +1113,232 @@
                 ]
             },
             {
-                "nombre": "Selladoras Continuas",
+                "nombre": "Selladoras de aire caliente",
                 "href": "",
                 "img": "",
-                "tipos": []
+                "tipos": [
+                     {
+                        "nombre": "Supersealer SS1",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "La Selladora de Aire Caliente Supersealer SS1 - versión pintada, utiliza aire caliente para sellar de forma continua una amplia gama de materiales en bolsas a alta velocidad y eficiencia. El avanzado flujo de aire, los sofisticados controles y la robusta construcción pintada garantiza un rendimieno continuo en todas las aplicaciones. La Supersealer ofrece a los clientes un bajo mantenimiento y un excelente retorno de la inversión junto con los muchos años de tiempo de funcionamiento que tendrá la máquina.",
+                        "aplicaciones": [
+                            "• Embalaje de Alimentos",
+                            "• Cosmeticos y productos de belleza",
+                            "• Envases indsutriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Calidad de sellado óptima con bajo mantenimiento",
+                            "• Facilidad de adaptación de las velocidades de transporte y flexibilidad",
+                            "• Temperatura de sellado precisa y constante",
+                            "• Con solo pulsar un botón, para ajustar la alutra, simplificando las aplicaciones de bolsas múltiples"
+                        ],
+                        "especificaciones": [
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 10mils",
+                            "• Velocidad: Hasta 80 fpm, otras velocidades a pedido",
+                            "• Sellar ruedas: 1/4' o 66 estándar. Opcional 3/8' o 9mm",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Supersealer SS2",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "La selladora por aire caliente Supersealer SS2 - Acero inoxidable, utiliza aire caliente para sellar de forma continua una amplia gama de materiales en bolsas a alta velocidad y con gran eficacia. El avanzado flujo de aire, los sofisticados controles y la construcción en acero inoxidable 316 garantizan un rendimiento continuo en todas las aplicaciones. La supersealer ofrece a los clientes un bajo mantenimiento y un excelente retorno de la inversión junto con los muchos años de tiempo de funcionamiento que tendrá la máquina.",
+                        "aplicaciones": [
+                             "• Embalaje de Alimentos",
+                            "• Cosmeticos y productos de belleza",
+                            "• Envases indsutriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Facilidad de adaptación de las velocidades de transporte y flexibilidad",
+                            "• Temperatura de sellado precisa y constante",
+                            "• Con solo pulsar un botón, para ajustar la alutra, simplificando las aplicaciones de bolsas múltiples",
+                            "• Acabado limpio y duradero, preferido en la industria alimentaria y otras industrias"
+                        ],
+                        "especificaciones": [
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 10mils",
+                            "• Velocidad: Hasta 80 fpm, otras velocidades a pedido",
+                            "• Sellar ruedas: 1/4' o 66 estándar. Opcional 3/8' o 9mm",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Supersealer SS2 WD",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "La selladora por aire caliente lavable Supersealer SS2 está disponible en la clasificación IP65 o IP69K. Una selladora de bolsas con clasificación IP65 puede lavarse únicamente con la presión de una manguera de jardín. Nuestra selladora de bolsas o sistema IP69K puede soportar las exigenias de un lavado agresivo. Nuestras selladoras de bolsas lavables son soluciones ideales para entornos de evasado en salas blancas y envasadores que requieres normas de limpieza estrictas. Nuestras selladoras de bolsas con clasificacion IP65 e IP69K cuentan con la confianza en todo el mundo de fabricantes de marisco, pollo, carne, productos agrícolasm químico, entre otrosm que requieren una limpieza frecuente de sus equipos de envasado.",
+                        "aplicaciones": [
+                            "• Embalaje de Alimentos",
+                            "• Cosmeticos y productos de belleza",
+                            "• Envases indsutriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Facilidad de adaptación de las velocidades de transporte y flexibilidad",
+                            "• Temperatura de sellado precisa y constante",
+                            "• Con solo pulsar un botón, para ajustar la alutra, simplificando las aplicaciones de bolsas múltiples",
+                            "• Calidad de sellado óptima con bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Acabado: Acero inoxidable",
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 10mils",
+                            "• Velocidad: Hasta 80 fpm, otras velocidades a pedido",
+                            "• Sellar ruedas: 1/4' o 66 estándar. Opcional 3/8' o 9mm",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Supersealer SS4",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "La selladora por aire caliente de acero inoxidable, Supersealer SS4, esta diseñado para funcionar en aplicaciones industriales duras y entornos exigentes. Gracuas a años de experiecia en el campo y a la opinión de los clientes, la selladora SS4 se suministra para proporcionar una eficacia y fiabilidad superiores en el sellado de bolsas. Su acabado en acero inoxidable 316, su construcción resistente, su motorización y su mayor capacidad colorífica permiten un rendimiento sostenible a alta velocidad para bolsas más gruesas. Con sus 8 calentadores, sellará material de hasta 40mils o 1000 micras y funcionará a una velocidad de hasta 120fpm. La selladora proporcina una fiabilidad constante a largo plazo sin preocupaciones para una amplia gama de productos de sellado resistentes.",
+                        "aplicaciones": [
+                            "• Embalaje de Alimentos",
+                            "• Cosmeticos y productos de belleza",
+                            "• Envases indsutriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Facilidad de adaptación de las velocidades de transporte y flexibilidad",
+                            "• Temperatura de sellado precisa y constante",
+                            "• Limpio y duradero",
+                            "• Calidad de sellado óptima con bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Acabado: Armario eléctrico y cubiertas de acero inoxidable",
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 12mils o 300micras",
+                            "• Velocidad: Hasta 80 fpm, otras velocidades a pedido",
+                            "• Sellar ruedas: 1/4' o 66 estándar. Opcional 3/8' o 9mm",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: 80 - 160 psi de aire seco limpio requerido cuando se utiliza el removedor de recorte opcioal"
+                        ],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Selladoras de banda",
+                "href": "",
+                "img": "",
+                "tipos": [
+                     {
+                        "nombre": "Supersealer SB10",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "La Selladora SB10 de banda pintado utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales en bolsa a gran velocidad y eficacia. Están dispoinibles en versiones pintadas o de acero inoxidable. Con su probada tecnología de sellado de banda y controles de fácil manejo, garantiza un rendimiento continuo en aplicaciones exigentes. La Supersealer viene con un pedestal motorizado y una base de acero inoxidable con ruedas bloqueables para facilitar el cambio de tamaño de bolsa, lo que se traduce en un aumento de la productividad. Con solo pulsar un botón, puede cambiar la altura de la selaldora, sin necesidad de trabajo manual. Esta línea de selladoras de bolsas ofrece sellados rápido, precisos y resistentes en cualquier materaial de bolsa. Todos los modelos ofrencen auténticas funciones 'pug and play' para un rendimiento fiable y fácil de usar en una gran variedad de aplicaciones. Estos modelos tambien están disponibles con una pantalla táctil en color opcional con interfaz.",
+                        "aplicaciones": [
+                            "• Embalaje de Alimentos",
+                            "• Cosmeticos y productos de belleza",
+                            "• Envases indsutriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Fácil de mantener",
+                            "• Facilidad de adaptacion de las velocidades de transportes y flexibilidad",
+                            "• Temperatura de sellado precisa y constante",
+                            "• Facilidad de configuración, formación y funcionamiento",
+                            "• Con solo pulsar un botón, para ajustar la altura, simplificando las aplicaciones de bolsas mútiples"
+                            
+                        ],
+                        "especificaciones": [
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 12mils",
+                            "• Velocidad: Hasta 48 fpm, otras velocidades a pedido",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Supersealer SB20",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "La Selladora SB20 de banda de acero inoxidable utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales de bolsas a alta velocidad y eficiencia. Con su tecnología de sellado de banda probada y controles fáciles de usar, garantiza un rendimiento continuo en aplicaciones exigentes. La supersealer viene con un pedestal motorizado y una base de acero inoxidable con ruedas bloqueables para facilitar el cambio de tamaño de bolsa, lo que se traduce en un aumento de productividad. La selladora y el transportador se esclavizan del accionamiento de la selladora, por lo que ambas unidades están siempre sincronizadas.",
+                        "aplicaciones": [
+                            "• Embalaje de Alimentos",
+                            "• Cosmeticos y productos de belleza",
+                            "• Envases indsutriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Fácil de mantener",
+                            "• Facilidad de adaptacion de las velocidades de transportes y flexibilidad",
+                            "• Temperatura de sellado precisa y constante",
+                            "• Acabado limpio y duradero, preferido en la industria alimentaria y otras industrias",
+                            "• Con solo pulsar un botón, para ajustar la altura, simplificando las aplicaciones de bolsas mútiples"
+                            
+                        ],
+                        "especificaciones": [
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 12mils",
+                            "• Velocidad: Hasta 48 fpm, otras velocidades a pedido",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Supersealer SB20WD",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "La Selladora SB20WD está disponible en selladoras de bolsas lavables con clasificación IP65 e IP69K. Una selladora con clasificación IP65 puede lavarse utilizando sólo la presión de una manguera de jardín. Nuestra selladora o sistema IP69K puede soportar las exigencias de un lavado agresivo. Nuestras selladoras de bolsas lavables son soluciones ideales para entornos de envasado en salas blancas y envasadores que requieren normas de limpieza estrictas. El saneamiento de las plantas es la nueva normalidad y tenemos la selladora para satisfacer las exigencias que requieren las empresas.",
+                        "aplicaciones": [
+                            "• Cosmeticos y productos de belleza",
+                            "• Envases indsutriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Fácil de mantener",
+                            "• Facilidad de adaptacion de las velocidades de transportes y flexibilidad",
+                            "• Temperatura de sellado precisa y constante",
+                            "• Acabado limpio y duradero, preferido en la industria alimentaria y otras industrias",
+                            "• Con solo pulsar un botón, para ajustar la altura, simplificando las aplicaciones de bolsas mútiples"
+                            
+                        ],
+                        "especificaciones": [
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 12mils",
+                            "• Velocidad: Hasta 48 fpm, otras velocidades a pedido",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
+                        ],
+                        "video": ""
+                    }
+                ]
             },
             {
                 "nombre": "Cosedoras Portátiles",
@@ -1190,6 +1410,7 @@
                         ],
                         "video": ""
                     },
+                    
                     {
                         "nombre": "MODELO SERIE F CON BATERIA",
                         "href": "/productos/MODELO SERIE F",
@@ -1882,10 +2103,36 @@
                         "href": "/productos/Puertas Enrollables",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Una puerta rápida enrollable de PVC es una solución eficiente para accesos rápidos en entornos industriales y comerciales. Está hecha de paneles de PVC reforzado que se enrollan verticalmente para abrirse y cerrarse rápidamente. Son duraderas, resistentes a condiciones adversas y ocupan poco espacio. Ideal para almacenes fábricas y garajes.",
+                        "aplicaciones": [
+                            "• Almacenes y centros de distribución",
+                            "• Zonas de carga y descarga",
+                            "• Entornos industriales",
+                            "• Instalaciones comerciales",
+                            "• Garajes y estacionamiento"
+                        ],
+                        "ventajas": [
+                            "• Rapidez",
+                            "• Durabilidad",
+                            "• Seguridad",
+                            "• Espacio",
+                            "• Mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Estructura: Acero estructural de 4.5mm / 2mm",
+                            "• Cortina: Polyster at 1100 Dtx - 8 x 8 ",
+                            "• Espesor: 1.5mm",
+                            "• Motor: Motor reductor, con freno electromagnetico de 1.0 HP 220",
+                            "• Velocidad: Abrir 1.8 m/s ajustable",
+                            "• Gabinete de control: IP 55 integrado o administrable 600mm x 400mm",
+                            "• Alimentacion: 220VAC / 380 VAC / 440 VAC",
+                            "• Guia lateral: Auto soportante de Acero Estructural perfiles de Aluminio con escobilla de nylon para la hermeticidad",
+                            "• Guarda: Acero inoxidable",
+                            "• Sensor tipo radar: Hasta 20 metros",
+                            "• Resistencia de viento: Clase 2",
+                            "• Gama de temperatura: -10 + 70 °C",
+                            "• Final de carrera: Encoder o Rotativo Ravasi (Italia)" 
+                        ],
                         "video": ""
                     },
                     {
@@ -1893,10 +2140,36 @@
                         "href": "/productos/Puertas Plegables",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Una puerta industrial plegable de PVC es una solucion versátil y eficiente para accesos rápido entornos industriales y comerciales. Compuesta por paneles de PVC reforzado que se pliegan horizontalmente al abrirse, ofrece un amplio espacio de entrada y salida. Su diseño compacto maximiza el uso del espacio disponible. Son duraderas, resistentes a condiciones adversas y fáciles de mantener. Se utilizan comúnmente en almacenes, centros de distribución y áreas de carga y descarga.",
+                        "aplicaciones": [
+                            "• Almacenes y centros de distribución",
+                            "• Zonas de carga y descarga",
+                            "• Entornos industriales",
+                            "• Instalaciones comerciales",
+                            "• Garajes y estacionamiento"
+                        ],
+                        "ventajas": [
+                            "• Rapidez",
+                            "• Durabilidad",
+                            "• Seguridad",
+                            "• Espacio",
+                            "• Mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Estructura: Acero estructural de 2mm",
+                            "• Cortina: Lona flexible polyester recubierto en PVC",
+                            "• Espesor: 0.8mm",
+                            "• Motor: Motor reductor, con freno electromagnetico de 1.0 HP 220",
+                            "• Velocidad: Apertura y cierre 0.6 - 1.2m/s ajustable",
+                            "• Gabinete de control: IP 55 integrado o administrable 600mm x 400mm",
+                            "• Alimentacion: 220VAC / 380 VAC / 440 VAC",
+                            "• Ventanas: Tres lineas de ventanas doble en PVC transparente anti UV de 1mm",
+                            "• Cinturones: Cinturones de levantamientos de cortina con resistencia a tracción",
+                            "• Sensor tipo radar: Hasta 20 metros",
+                            "• Resistencia de viento: Clase 2",
+                            "• Gama de temperatura: -10 + 70 °C",
+                            "• Final de carrera: Encoder o Rotativo Ravasi (Italia)"
+                        ],
                         "video": ""
                     }
                 ]
@@ -1907,162 +2180,115 @@
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Insuladas",
+                        "nombre": "Puertas Seccional Industrial",
                         "href": "/productos/Insuladas",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Una puerta seccional industrial es una solución robusta y eficiente para el acceso a grandes espacios comerciales e industriales. Está compuesta por paneles horizontales articulados que se desplazan verticalmente hacia arriba y luego a lo largo del techo al abrirse. Fabricadas con materiales duraderos como acero galvanizado o aluminio, estas puertas ofrecen resistencia a condiciones adversas y puedes incluir aislamiento término y acústico.",
+                        "aplicaciones": [
+                            "• Almacenes y centros de distribución",
+                            "• Zonas de carga y descarga",
+                            "• Entornos industriales",
+                            "• Instalaciones comerciales",
+                            "• Garajes y estacionamiento"
+                        ],
+                        "ventajas": [
+                            "• Rapidez",
+                            "• Durabilidad",
+                            "• Seguridad",
+                            "• Espacio",
+                            "• Mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Material: acero galvanizado",
+                            "• Relleno: Poliuretano inyectado",
+                            "• Configuración: Panetes horizontales unidos por bisagras",
+                            "• Espesor: 4cm",
+                            "• Sello inferior: Weather Seal",
+                            "• Color de paneles: Blanco",
+                            "• Ciclaje de resorte: 10 mil ciclos",
+                            "• Tipo de resorte: Resorte de Torsión",
+                            "• Herrajeria: Acero Galvanizado",
+                            "• Herrajeria tipo A: Doble Guía Horizontal para dintel de 40cm",
+                            "• Alturas Disponible (mt): 2.10 Y 2,4 MT",
+                            "• Anchos Disponible (mt): 2.44, 3.05, 3.66, 4.27, 4.88, 5.49, 6.10",
+                            "• Alimentación para motor: 220V-trifasico"
+                        ],
                         "video": ""
                     }
                 ]
             },
             {
-                "nombre": "Puertas Cortafuego",
-                "href": "/productos/Puertas y Equipamiento Logístico-Puertas Cortafuego",
-                "img": "",
-                "tipos": [
-                    {
-                        "nombre": "Peatonales",
-                        "href": "/productos/Peatonales",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Enrollables Metálicas",
-                        "href": "/productos/Enrollables Metálicas",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
-                        "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Puertas Correderas",
-                "href": "/productos/Puertas y Equipamiento Logístico-Puertas Correderas",
-                "img": "",
-                "tipos": [
-                    {
-                        "nombre": "De Cámaras de Frío",
-                        "href": "/productos/De Cámaras de Frío",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
-                        "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Puertas de Servicio",
-                "href": "/productos/Puertas y Equipamiento Logístico-Puertas de Servicio",
-                "img": "",
-                "tipos": [
-                    {
-                        "nombre": "Pivotantes de una Hoja",
-                        "href": "/productos/Pivotantes de una Hoja",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Pivotantes Doble Hoja",
-                        "href": "/productos/Pivotantes Doble Hoja",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
-                        "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Rampas Hidráulicas",
+                "nombre": "Rampa y Mesa Hidráulicas de despacho",
                 "href": "/productos/Puertas y Equipamiento Logístico-Rampas Hidráulicas",
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Niveladora de Muelle",
-                        "href": "/productos/Niveladora de Muelle",
+                        "nombre": "Rampa hidráulica",
+                        "href": "/productos/Rampa hidráulica",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "La rampa hidráulica consta de una plataforma de carga montada sobre un sistema hidráulico que puede ser operado automáticamente. Este sistema utiliza cilindros hidráulicos para elevar o descender la plataforma, lo que permite carga y descarga mercancías de manera eficiente",
+                        "aplicaciones": [
+                            "• Almacenes y centros de distribución",
+                            "• Centros logísticos",
+                            "• Transporte de mercancías",
+                            "• Instalaciones industriales"
+                        ],
+                        "ventajas": [
+                            "• Mejora la eficiencia",
+                            "• Seguridad",
+                            "• Versatilidad",
+                            "• Ahorro de espacio",
+                            "• Facilidad de operación"
+                        ],
+                        "especificaciones": [
+                            "• Acero de alta resistencia",
+                            "• Estructura con soportes I-Beam",
+                            "• Sistema de flotación seguro",
+                            "• Sistema de seguridad hidráulico",
+                            "• Componentes aprovados por CSA y/o URL",
+                            "• Rango de operación completo de guardapiés",
+                            "• El labio provee seguro nocturno",
+                            "• Bastón de seguridad en 'V' para mantenimiento"
+                        ],
                         "video": ""
-                    }
+                    },                    
+                    {
+                        "nombre": "Mesa hidráulica",
+                        "href": "/productos/Mesa hidráulica",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "La mesa hidráulica de doble tijera es un dispositivo utilizado para elevar cargas pesadas de manera controlada y segura. Consiste en una plataforma de trabajo apoyada sobre dos juegos de tijeras hidráulicas que se extienden verticalmente. Estas tijeras están conectadas a uns sistema hidráulico que permite elevar o descender la plataforma de manera uniforme y controlada",
+                        "aplicaciones": [
+                            "• Industria manufacturera",
+                            "• Almacenes y centros de distribución",
+                            "• Talleres y garajes",
+                            "• Industria alimentaria",
+                            "• Laboratorios y centros de investigación"
+                        ],
+                        "ventajas": [
+                            "• Capacidad de elevación",
+                            "• Control preciso",
+                            "• Seguridad",
+                            "• Versatilidad",
+                            "• Mejora la ergonomía"
+                        ],
+                        "video": ""
+                     }
                 ]
             },
             {
-                "nombre": "Rampas Movil",
-                "href": "/productos/Puertas y Equipamiento Logístico-Rampas Movil",
+                "nombre": "Sellos y Abrigos área de despacho",
+                "href": "/productos/Puertas y Equipamiento Logístico-Puertas Seccionales",
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Carga y Descarga de Contenedores",
-                        "href": "/productos/Carga y Descarga de Contenedores",
+                        "nombre": "Sello de anden",
+                        "href": "",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
-                        "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Mesa Elevadora",
-                "href": "/productos/Puertas y Equipamiento Logístico-Mesa Elevadora",
-                "img": "",
-                "tipos": [
-                    {
-                        "nombre": "De Tijera Hidráulica",
-                        "href": "/productos/De Tijera Hidráulica",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
-                        "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Abrigos de Muelles",
-                "href": "/productos/Puertas y Equipamiento Logístico-Abrigos de Muelles",
-                "img": "",
-                "tipos": [
-                    {
-                        "nombre": "Abrigo Retráctil",
-                        "href": "/productos/Abrigo Retráctil",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Los sellos de andén proveen un ambiente hermético entre la caja del camión y el almacén, logrando un ambiente aislado del exterior durante las maniobras de carga y descarga, evitan el robo de mercancía, el paso de aves, insectos, polvos, etc.",
                         "video": ""
                     },
                     {
@@ -2070,10 +2296,7 @@
                         "href": "/productos/Abrigo Hinchable",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "El abrigo hinchable esta diseñado par adaptarse a las aberturas de la puerta hasta 10' de ancho x 10' altura (3048 x 3048mm), en abrigo de anden ajustable e inflable tiene bolsas de aire verticales que incrementan el área de contacto contra el remolque y se ajustan para mantener seguro el producto. Un resorte interno de la retracción permite a la bolsa de airea de la cabecera retraerse por completo cuando esta siendo usada, lo cual impide daños por choque de remolques entrantes.",
                         "video": ""
                     }
                 ]
