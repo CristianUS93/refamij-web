@@ -1077,7 +1077,9 @@
                     {
                         "nombre": "Minisistema de costura",
                         "href": "/productos/S560NA",
-                        "img": [""],
+                        "img": [
+                            ""
+                        ],
                         "docs": [],
                         "descripcion": "Nuestro minisistema de costura presenta una innovadora solucion integral para la industria de envasado. Con una faja transportadora y una cosedora portátil integrada, este sistema esta diseñado especificamente para sellar bolsas de manera rápida y precisa. Equipado con sensores que detectan el arranque garantizando un cierre seguro de bolsas. Además, el sistema de corte de hilo proporcina un acabado impecable. Fabricado con Acero A36 de alta calidad, ofrece durabilidad y resistencia para un rendimiento óptimo a largo plazo, con una velocidad de hasta 10 metros por minuto para una producción eficiente en la línea de envasado.",
                         "aplicaciones": [
@@ -1117,10 +1119,12 @@
                 "href": "",
                 "img": "",
                 "tipos": [
-                     {
+                    {
                         "nombre": "Supersealer SS1",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            ""
+                        ],
                         "docs": [],
                         "descripcion": "La Selladora de Aire Caliente Supersealer SS1 - versión pintada, utiliza aire caliente para sellar de forma continua una amplia gama de materiales en bolsas a alta velocidad y eficiencia. El avanzado flujo de aire, los sofisticados controles y la robusta construcción pintada garantiza un rendimieno continuo en todas las aplicaciones. La Supersealer ofrece a los clientes un bajo mantenimiento y un excelente retorno de la inversión junto con los muchos años de tiempo de funcionamiento que tendrá la máquina.",
                         "aplicaciones": [
@@ -1150,11 +1154,13 @@
                     {
                         "nombre": "Supersealer SS2",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            ""
+                        ],
                         "docs": [],
                         "descripcion": "La selladora por aire caliente Supersealer SS2 - Acero inoxidable, utiliza aire caliente para sellar de forma continua una amplia gama de materiales en bolsas a alta velocidad y con gran eficacia. El avanzado flujo de aire, los sofisticados controles y la construcción en acero inoxidable 316 garantizan un rendimiento continuo en todas las aplicaciones. La supersealer ofrece a los clientes un bajo mantenimiento y un excelente retorno de la inversión junto con los muchos años de tiempo de funcionamiento que tendrá la máquina.",
                         "aplicaciones": [
-                             "• Embalaje de Alimentos",
+                            "• Embalaje de Alimentos",
                             "• Cosmeticos y productos de belleza",
                             "• Envases indsutriales",
                             "• Industria Farmacéutica",
@@ -1180,7 +1186,9 @@
                     {
                         "nombre": "Supersealer SS2 WD",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            ""
+                        ],
                         "docs": [],
                         "descripcion": "La selladora por aire caliente lavable Supersealer SS2 está disponible en la clasificación IP65 o IP69K. Una selladora de bolsas con clasificación IP65 puede lavarse únicamente con la presión de una manguera de jardín. Nuestra selladora de bolsas o sistema IP69K puede soportar las exigenias de un lavado agresivo. Nuestras selladoras de bolsas lavables son soluciones ideales para entornos de evasado en salas blancas y envasadores que requieres normas de limpieza estrictas. Nuestras selladoras de bolsas con clasificacion IP65 e IP69K cuentan con la confianza en todo el mundo de fabricantes de marisco, pollo, carne, productos agrícolasm químico, entre otrosm que requieren una limpieza frecuente de sus equipos de envasado.",
                         "aplicaciones": [
@@ -1211,7 +1219,9 @@
                     {
                         "nombre": "Supersealer SS4",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            ""
+                        ],
                         "docs": [],
                         "descripcion": "La selladora por aire caliente de acero inoxidable, Supersealer SS4, esta diseñado para funcionar en aplicaciones industriales duras y entornos exigentes. Gracuas a años de experiecia en el campo y a la opinión de los clientes, la selladora SS4 se suministra para proporcionar una eficacia y fiabilidad superiores en el sellado de bolsas. Su acabado en acero inoxidable 316, su construcción resistente, su motorización y su mayor capacidad colorífica permiten un rendimiento sostenible a alta velocidad para bolsas más gruesas. Con sus 8 calentadores, sellará material de hasta 40mils o 1000 micras y funcionará a una velocidad de hasta 120fpm. La selladora proporcina una fiabilidad constante a largo plazo sin preocupaciones para una amplia gama de productos de sellado resistentes.",
                         "aplicaciones": [
@@ -1246,10 +1256,12 @@
                 "href": "",
                 "img": "",
                 "tipos": [
-                     {
+                    {
                         "nombre": "Supersealer SB10",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            ""
+                        ],
                         "docs": [],
                         "descripcion": "La Selladora SB10 de banda pintado utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales en bolsa a gran velocidad y eficacia. Están dispoinibles en versiones pintadas o de acero inoxidable. Con su probada tecnología de sellado de banda y controles de fácil manejo, garantiza un rendimiento continuo en aplicaciones exigentes. La Supersealer viene con un pedestal motorizado y una base de acero inoxidable con ruedas bloqueables para facilitar el cambio de tamaño de bolsa, lo que se traduce en un aumento de la productividad. Con solo pulsar un botón, puede cambiar la altura de la selaldora, sin necesidad de trabajo manual. Esta línea de selladoras de bolsas ofrece sellados rápido, precisos y resistentes en cualquier materaial de bolsa. Todos los modelos ofrencen auténticas funciones 'pug and play' para un rendimiento fiable y fácil de usar en una gran variedad de aplicaciones. Estos modelos tambien están disponibles con una pantalla táctil en color opcional con interfaz.",
                         "aplicaciones": [
@@ -1265,7 +1277,6 @@
                             "• Temperatura de sellado precisa y constante",
                             "• Facilidad de configuración, formación y funcionamiento",
                             "• Con solo pulsar un botón, para ajustar la altura, simplificando las aplicaciones de bolsas mútiples"
-                            
                         ],
                         "especificaciones": [
                             "• Tamaño de la bolsa: Todos los tamaños",
@@ -1280,7 +1291,9 @@
                     {
                         "nombre": "Supersealer SB20",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            ""
+                        ],
                         "docs": [],
                         "descripcion": "La Selladora SB20 de banda de acero inoxidable utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales de bolsas a alta velocidad y eficiencia. Con su tecnología de sellado de banda probada y controles fáciles de usar, garantiza un rendimiento continuo en aplicaciones exigentes. La supersealer viene con un pedestal motorizado y una base de acero inoxidable con ruedas bloqueables para facilitar el cambio de tamaño de bolsa, lo que se traduce en un aumento de productividad. La selladora y el transportador se esclavizan del accionamiento de la selladora, por lo que ambas unidades están siempre sincronizadas.",
                         "aplicaciones": [
@@ -1296,7 +1309,6 @@
                             "• Temperatura de sellado precisa y constante",
                             "• Acabado limpio y duradero, preferido en la industria alimentaria y otras industrias",
                             "• Con solo pulsar un botón, para ajustar la altura, simplificando las aplicaciones de bolsas mútiples"
-                            
                         ],
                         "especificaciones": [
                             "• Tamaño de la bolsa: Todos los tamaños",
@@ -1311,7 +1323,9 @@
                     {
                         "nombre": "Supersealer SB20WD",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            ""
+                        ],
                         "docs": [],
                         "descripcion": "La Selladora SB20WD está disponible en selladoras de bolsas lavables con clasificación IP65 e IP69K. Una selladora con clasificación IP65 puede lavarse utilizando sólo la presión de una manguera de jardín. Nuestra selladora o sistema IP69K puede soportar las exigencias de un lavado agresivo. Nuestras selladoras de bolsas lavables son soluciones ideales para entornos de envasado en salas blancas y envasadores que requieren normas de limpieza estrictas. El saneamiento de las plantas es la nueva normalidad y tenemos la selladora para satisfacer las exigencias que requieren las empresas.",
                         "aplicaciones": [
@@ -1326,7 +1340,6 @@
                             "• Temperatura de sellado precisa y constante",
                             "• Acabado limpio y duradero, preferido en la industria alimentaria y otras industrias",
                             "• Con solo pulsar un botón, para ajustar la altura, simplificando las aplicaciones de bolsas mútiples"
-                            
                         ],
                         "especificaciones": [
                             "• Tamaño de la bolsa: Todos los tamaños",
@@ -1410,7 +1423,6 @@
                         ],
                         "video": ""
                     },
-                    
                     {
                         "nombre": "MODELO SERIE F CON BATERIA",
                         "href": "/productos/MODELO SERIE F",
@@ -2131,7 +2143,7 @@
                             "• Sensor tipo radar: Hasta 20 metros",
                             "• Resistencia de viento: Clase 2",
                             "• Gama de temperatura: -10 + 70 °C",
-                            "• Final de carrera: Encoder o Rotativo Ravasi (Italia)" 
+                            "• Final de carrera: Encoder o Rotativo Ravasi (Italia)"
                         ],
                         "video": ""
                     },
@@ -2220,7 +2232,7 @@
             },
             {
                 "nombre": "Rampa y Mesa Hidráulicas de despacho",
-                "href": "/productos/Puertas y Equipamiento Logístico-Rampas Hidráulicas",
+                "href": "/productos/Puertas y Equipamiento Logístico-Rampa y Mesa Hidráulicas de despacho",
                 "img": "",
                 "tipos": [
                     {
@@ -2253,7 +2265,7 @@
                             "• Bastón de seguridad en 'V' para mantenimiento"
                         ],
                         "video": ""
-                    },                    
+                    },
                     {
                         "nombre": "Mesa hidráulica",
                         "href": "/productos/Mesa hidráulica",
@@ -2274,21 +2286,25 @@
                             "• Versatilidad",
                             "• Mejora la ergonomía"
                         ],
+                        "especificaciones": [],
                         "video": ""
-                     }
+                    }
                 ]
             },
             {
                 "nombre": "Sellos y Abrigos área de despacho",
-                "href": "/productos/Puertas y Equipamiento Logístico-Puertas Seccionales",
+                "href": "/productos/Puertas y Equipamiento Logístico-Sellos y Abrigos área de despacho",
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Sello de anden",
-                        "href": "",
+                        "nombre": "Sello de Anden",
+                        "href": "/productos/Sello de Anden",
                         "img": [],
                         "docs": [],
                         "descripcion": "Los sellos de andén proveen un ambiente hermético entre la caja del camión y el almacén, logrando un ambiente aislado del exterior durante las maniobras de carga y descarga, evitan el robo de mercancía, el paso de aves, insectos, polvos, etc.",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
@@ -2297,6 +2313,9 @@
                         "img": [],
                         "docs": [],
                         "descripcion": "El abrigo hinchable esta diseñado par adaptarse a las aberturas de la puerta hasta 10' de ancho x 10' altura (3048 x 3048mm), en abrigo de anden ajustable e inflable tiene bolsas de aire verticales que incrementan el área de contacto contra el remolque y se ajustan para mantener seguro el producto. Un resorte interno de la retracción permite a la bolsa de airea de la cabecera retraerse por completo cuando esta siendo usada, lo cual impide daños por choque de remolques entrantes.",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
                         "video": ""
                     }
                 ]
