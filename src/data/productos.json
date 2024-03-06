@@ -2065,10 +2065,36 @@
                         "href": "/productos/Puertas Enrollables",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "descripcion": "Una puerta rápida enrollable de PVC es una solución eficiente para accesos rápidos en entornos industriales y comerciales. Está hecha de paneles de PVC reforzado que se enrollan verticalmente para abrirse y cerrarse rápidamente. Son duraderas, resistentes a condiciones adversas y ocupan poco espacio. Ideal para almacenes fábricas y garajes.",
+                        "aplicaciones": [
+                            "• Almacenes y centros de distribución",
+                            "• Zonas de carga y descarga",
+                            "• Entornos industriales",
+                            "• Instalaciones comerciales",
+                            "• Garajes y estacionamiento"
+                        ],
+                        "ventajas": [
+                            "• Rapidez",
+                            "• Durabilidad",
+                            "• Seguridad",
+                            "• Espacio",
+                            "• Mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Estructura: Acero estructural de 4.5mm / 2mm",
+                            "• Cortina: Polyster at 1100 Dtx - 8 x 8 ",
+                            "• Espesor: 1.5mm",
+                            "• Motor: Motor reductor, con freno electromagnetico de 1.0 HP 220"
+                            "• Velocidad: Abrir 1.8 m/s ajustable",
+                            "• Gabinete de control: IP 55 integrado o administrable 600mm x 400mm",
+                            "• Alimentacion: 220VAC / 380 VAC / 440 VAC",
+                            "• Guia lateral: Auto soportante de Acero Estructural perfiles de Aluminio con escobilla de nylon para la hermeticidad",
+                            "• Guarda: Acero inoxidable",
+                            "• Sensor tipo radar: Hasta 20 metros",
+                            "• Resistencia de viento: Clase 2",
+                            "• Gama de temperatura: -10 + 70 °C",
+                            "• Final de carrera: Encoder o Rotativo Ravasi (Italia) 
+                        ],
                         "video": ""
                     },
                     {
