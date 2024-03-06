@@ -2093,7 +2093,7 @@
                             "• Sensor tipo radar: Hasta 20 metros",
                             "• Resistencia de viento: Clase 2",
                             "• Gama de temperatura: -10 + 70 °C",
-                            "• Final de carrera: Encoder o Rotativo Ravasi (Italia) 
+                            "• Final de carrera: Encoder o Rotativo Ravasi (Italia)" 
                         ],
                         "video": ""
                     },
@@ -2103,9 +2103,35 @@
                         "img": [],
                         "docs": [],
                         "descripcion": "Una puerta industrial plegable de PVC es una solucion versátil y eficiente para accesos rápido entornos industriales y comerciales. Compuesta por paneles de PVC reforzado que se pliegan horizontalmente al abrirse, ofrece un amplio espacio de entrada y salida. Su diseño compacto maximiza el uso del espacio disponible. Son duraderas, resistentes a condiciones adversas y fáciles de mantener. Se utilizan comúnmente en almacenes, centros de distribución y áreas de carga y descarga.",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "aplicaciones": [
+                            "• Almacenes y centros de distribución",
+                            "• Zonas de carga y descarga",
+                            "• Entornos industriales",
+                            "• Instalaciones comerciales",
+                            "• Garajes y estacionamiento"
+                        ],
+                        "ventajas": [
+                            "• Rapidez",
+                            "• Durabilidad",
+                            "• Seguridad",
+                            "• Espacio",
+                            "• Mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Estructura: Acero estructural de 2mm",
+                            "• Cortina: Lona flexible polyester recubierto en PVC",
+                            "• Espesor: 0.8mm",
+                            "• Motor: Motor reductor, con freno electromagnetico de 1.0 HP 220"
+                            "• Velocidad: Apertura y cierre 0.6 - 1.2m/s ajustable",
+                            "• Gabinete de control: IP 55 integrado o administrable 600mm x 400mm",
+                            "• Alimentacion: 220VAC / 380 VAC / 440 VAC",
+                            "• Ventanas: Tres lineas de ventanas doble en PVC transparente anti UV de 1mm",
+                            "• Cinturones: Cinturones de levantamientos de cortina con resistencia a tracción",
+                            "• Sensor tipo radar: Hasta 20 metros",
+                            "• Resistencia de viento: Clase 2",
+                            "• Gama de temperatura: -10 + 70 °C",
+                            "• Final de carrera: Encoder o Rotativo Ravasi (Italia)"
+                        ],
                         "video": ""
                     }
                 ]
