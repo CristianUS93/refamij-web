@@ -1411,12 +1411,49 @@
         "productos": []
     },
     {
-        "division": "Automatización, Robos y Desarrollo de Proyectos",
+        "division": "Automatización (Sistema Cartesiano, Pick and Place)",
         "encargado": "Martín Huarcaya",
         "phone": "51974969340",
-        "href": "",
+        "href": "/productos/Automatización (Sistema Cartesiano, Pick and Place)-Proyecto FESTO",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
-        "productos": []
+        "productos": [
+            {
+                "nombre": "Proyecto FESTO",
+                "href": "/productos/Automatización (Sistema Cartesiano, Pick and Place)-Proyecto FESTO",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Proyecto FESTO",
+                        "href": "/productos/Proyecto FESTO",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Proyecto DELTA",
+                "href": "/productos/Automatización (Sistema Cartesiano, Pick and Place)-Proyecto DELTA",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Proyecto DELTA",
+                        "href": "/productos/Proyecto DELTA",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            }
+        ]
     },
     {
         "division": "Transportadores y Movimiento de Productos",
