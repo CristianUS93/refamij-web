@@ -1077,9 +1077,7 @@
                     {
                         "nombre": "Minisistema de costura",
                         "href": "/productos/S560NA",
-                        "img": [
-                            ""
-                        ],
+                        "img": [""],
                         "docs": [],
                         "descripcion": "Nuestro minisistema de costura presenta una innovadora solucion integral para la industria de envasado. Con una faja transportadora y una cosedora portátil integrada, este sistema esta diseñado especificamente para sellar bolsas de manera rápida y precisa. Equipado con sensores que detectan el arranque garantizando un cierre seguro de bolsas. Además, el sistema de corte de hilo proporcina un acabado impecable. Fabricado con Acero A36 de alta calidad, ofrece durabilidad y resistencia para un rendimiento óptimo a largo plazo, con una velocidad de hasta 10 metros por minuto para una producción eficiente en la línea de envasado.",
                         "aplicaciones": [
@@ -1636,8 +1634,39 @@
         "phone": "51974969340",
         "href": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
-        "productos": []
-    },
+        "productos": [
+            {
+                "nombre": "Aplicaciones",
+                "href": "",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Paletizado y despaletizado de cajas",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                    },
+                    {
+                        "nombre": "Soladdura",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                    },
+                    {
+                        "nombre": "Minería",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                    },
+                    {
+                        "nombre": "Electrónica",
+                        "href": "",
+                        "img": [],
+                        "docs": [
+                        ],
+                    }
+                ]
+            },
     {
         "division": "Transportadores y Movimiento de Productos",
         "encargado": "Jorge Rojas",
