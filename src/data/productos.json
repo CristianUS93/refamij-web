@@ -1656,16 +1656,97 @@
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Aplicación 1",
-                        "href": "/productos/Aplicación 1",
+                        "nombre": "Paletizado y despaletizado",
+                        "href": "/productos/Paletizado y despaletizado",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
+                        "descripcion": "El paletizado es el proceso de colocar productos o mercancías sobre pallets de manera organizada y segura para su transporte y almacenamiento. Se realiza típicamente mediante el uso de maquinaria automatizada o manual. Por otro lado, el despaletizado es el proceso opuesto, donde los productos son retirados de los pallets, almacenados o procesados posteriormente.",
+                        "aplicaciones": [
+                            "• Almacenes y centros de distribucion",
+                            "• Industria manufacturera",
+                            "• Comericio minorista",
+                            "• Industria alimentaria",
+                            "• Transporte y logística"
+                        ],
+                        "ventajas": [
+                            "• Optimización del espacio",
+                            "• Mejora de la eficiencia",
+                            "• Reducción de daños",
+                            "• Aumento de la seguridad",
+                            "• Facilita la trazabilidad"
+                        ],
                         "especificaciones": [],
                         "video": ""
-                    }
+                    },
+                    {
+                        "nombre": "Soldadura",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "La soldadura de robots es un proceso de unión de metales en el que un robot industrial realiza las operaciones de soldadura de manera automatizada. Este proceso implica el uso de un equipo de soldadura, generalmente un arco eléctrico o láser, para fundir y unir las piezas metálicas.",
+                        "aplicaciones": [
+                            "• Industria automotriz",
+                            "• Fabricación de equipos pesados",
+                            "• Industria aeroespacial",
+                            "• Fabricación de electrodomésticos",
+                            "• Construcción naval"
+                        ],
+                        "ventajas": [
+                            "• Precisión",
+                            "• Velocidad",
+                            "• Calidad mejorada",
+                            "• Seguridad",
+                            "• Flexibilidad"
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Minería",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "Los robots utilizados en la minería están equipados con sensores avanzados, sistemas de navegación y capacidad de procesamiento de datos para llevar a cabo tareas específicas de manera autónoma o controlada por operadores humanos. Pueden realizar labores como la exploración de yacimientos, la perforación y voladura de rocas, la carga y transporte de materiales, asi como el monitoreo de condiciones ambientales y de seguridad en la mina.",
+                        "aplicaciones": [
+                            "• Exploración y cartografía de yacimiento minerales",
+                            "• Perforación y voladura controlada de rocas",
+                            "• Carga y transporte de materiales dentro de la mina",
+                            "• Monitoreo y mantenimiento de equipos e infraestructura minera",
+                            "• Inspección de seguridad y vigilancia de condiciones ambientales en la mina"
+                        ],
+                        "ventajas": [
+                            "• Seguridad mejorada",
+                            "• Eficiencia operativa",
+                            "• Reducción de costos",
+                            "• Acceso a lugares dificiles",
+                            "• Mejora en la calidad de los datos"
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Electronica",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "Los sistemas electrónicos de los robots están diseñados para proporcionar capacidades de percepción, procesamiento y acción. Los sensores permiten al robot detectar su entorno y recopilar información sobre variables como la posición, el movimiento, la temperatura y la presión. Los controladores procesan esta información y generan comandos para los actuadores, que son los dispositivos responsables de realizar las acciones físicas, como mover brazos, piernas, ruedas o herramientas.",
+                        "aplicaciones": [
+                            "• Robotica industrial",
+                            "• Automotización de procesos",
+                            "• Domótica",
+                            "• Robótica educativa",
+                            "• Investigación y desarrollo"
+                        ],
+                        "ventajas": [
+                            "• Automatización",
+                            "• Precisión",
+                            "• Flexibilidad",
+                            "• Eficiencia energética",
+                            "• Mejora en la segurida"
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
                 ]
             },
             {
@@ -1678,9 +1759,21 @@
                         "href": "/productos/Sistema Cartesiano",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
+                        "descripcion": "El sistema cartesiano ubica puntos en el espacio mediante coordenadas X, Y y Z, usado en robótica para controlar el movimiento tridimensional de robots.",
+                        "aplicaciones": [
+                            "• Robótica industral",
+                            "• Maquinaria CNC",
+                            "• Sistema de inspección y control de calidad",
+                            "• Manejo de materiales",
+                            "• Equipos médicos"
+                        ],
+                        "ventajas": [
+                            "• Precisión",
+                            "• Flexibilida",
+                            "• Repetibilidad",
+                            "• Programación intuitiva",
+                            "• Automatización eficiente"
+                        ],
                         "especificaciones": [],
                         "video": ""
                     },
@@ -1689,9 +1782,21 @@
                         "href": "/productos/Pick and Place",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
+                        "descripcion": " El "pick and place" implica dos acciones principales: la sección o recogida del objeto de origen y su colocacion en una ubicación específica de destino. Esto se realiza, mediante dispositivos de sujeción, como pinzas, ventosas o cintas transportadoras, controlados por un sistema automatizado que sigue instrucciones predefinidas.",
+                        "aplicaciones": [
+                            "• Industrias manufacturera",
+                            "• Embalaje y envasado",
+                            "• Automatización de almacenes",
+                            "• Procesamiento de alimentos",
+                            "• Industria electrónica"
+                        ],
+                        "ventajas": [
+                            "• Aumento de la productividad",
+                            "• Precisión y consistencia",
+                            "• Reducción de costos laborales",
+                            "• Mejora de la seguridad",
+                            "• Flexibilidad"
+                        ],
                         "especificaciones": [],
                         "video": ""
                     }
