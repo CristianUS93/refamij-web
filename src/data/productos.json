@@ -1940,137 +1940,208 @@
                         ],
                         "video": ""
                     },
+                    {
+                        "nombre": "Tranportador en espiral flexible",
+                        "href": "",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "Un transportador en espiral flexible es una variante del transportador en espiral estándar que ofrece una mayor flexibilidad y versatilidad en su aplicación. A diferencia de los transportadores en espiral tradicionalesm que suelen tener una configuración fija, los transportadores en espiral flexibles pueden ajustarse y adaptarse a diferentes coniguraciones y requisitos de transporte.",
+                        "aplicaciones": [
+                            "• Industria de bebidas",
+                            "• Industria alimentaria",
+                            "• Industria farmacéuticas"
+                        ],
+                        "ventajas": [
+                            "• Reduce el uso de espacio de planta",
+                            "• Simplifica el diseño y la instalación",
+                            "• Mejora la fiabilidad y la durabilidad",
+                            "• Integración con sistemas automatizados",
+                            "• Mejora la flexibilidad de diseño"
+                        ],
+                        "especificaciones": [
+                            "• Material estructural: Aluminio Al, acero inoxidable SUS, acero al carbono CS",
+                            "• Fuente de alimentacion: CA 220 V/sph, CA 380 V/trifásico",
+                            "• Salida del motor de salida (KW): 0,37 Motor de doble accionamiento",
+                            "• Ancho de cadena (mm): 44, 63, 83, 103",
+                            "• Diametro mínimo (mm): 700, 750, 750, 800",
+                            "• Altura de transferencia H2 (mm): ≤3000",
+                            "• Velocidad (m/min): ≤45",
+                            "• Carga (kg/m): ≤10"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Tranportador en espiral de enfriamento",
+                        "href": "",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "Un transportador en espiral de enfriamiento es un equipo utilizado en procesos industriales para enfriar productos o materiales que han sido sometidos a altas temperaturas durante la producción. Este tipo de transportador utiliza una estructura en espiral para permitir que los productos se enfríen gradualmente mientras se mueven a través de la espiral.",
+                        "aplicaciones": [
+                            "• Industria metalúrgica",
+                            "• Industria alimentaria",
+                            "• Industria del plástico "
+                            "• Industria química",
+                        ],
+                        "ventajas": [
+                            "• Reduce el uso de espacio de planta",
+                            "• Eficiencia en el enfriamiento",
+                            "• Mejora la fiabilidad y la durabilidad",
+                            "• Integración con sistemas automatizados",
+                            "• Mejora la flexibilidad de diseño"
+                        ],
+                        "especificaciones": [
+                            "• Material estructural: Aluminio Al, acero inoxidable SUS, acero al carbono CS",
+                            "• Fuente de alimentacion: CA 220 V/sph, CA 380 V/trifásico",
+                            "• Salida del motor de salida (KW): 0,18 - 3.0",
+                            "• Ancho de cadena (mm): 152.4, 304.8, 457.2, 609.6, 762",
+                            "• Diametro mínimo (mm): 800, 1800, 2400, 3500, 4500",
+                            "• Altura de transferencia H2 (mm): ≤10000",
+                            "• Velocidad (m/min): ≤10",
+                            "• Carga (kg/m): ≤50"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Tranportador en espiral por gravedad",
+                        "href": "",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "Un transportador en espiral por gravedad consta de una estructura en forma de espiral que se inclina hacia abajo gradualmente desde un punto alto hasta un punto bajo. Los objetos o materiales se colocan en la parte superior de la espiral y se desplazan hacia abajo debido a la gravedad, siguiendo la forma de la espiral hasta llegar al punto final de descarga.",
+                        "aplicaciones": [
+                            "• Industria logísticay centros de distribución",
+                            "• Industria alimentaria",
+                            "• Industria del embalaje "
+                            "• Industria maunfacturera",
+                        ],
+                        "ventajas": [
+                            "• Reduce el uso de espacio de planta",
+                            "• Movimiento controlado",
+                            "• Operacion simple",
+                            "• Fácil de mantener, larga vida útil",
+                            "• Mejora la flexibilidad de diseño"
+                        ],
+                        "especificaciones": [
+                            "• Material estructural: Acero inoxidable SUS, acero al carbono CS",
+                            "• Longitud del rodillo (mm): 300-600",
+                            "• Diametro mínimo (mm): 1200-1800",
+                            "• Altura de transferencia H2 (mm): ≤10000",
+                            "• Carga (kg/m): ≤20"
+                        ],
+                        "video": ""
+                    },
                 ]
             },
             {
-                "nombre": "Transportador Recto",
-                "href": "/productos/Transportadores y Movimiento de Productos-Transportador Recto",
+                "nombre": "Transportador de Paleta",
+                "href": "/productos/Transportador por Paleta",
                 "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO.png",
                 "tipos": [
                     {
-                        "nombre": "Transportador Recto",
-                        "href": "/productos/Transportador Recto",
-                        "img": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO-2.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO-4.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO-TRANSFERENCIA-LATERAL.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/Sin-título-13.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/Sin-título-14.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/Sin-título-15.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/Sin-título-16.png"
-                        ],
+                        "nombre": "Transportador de Paleta",
+                        "href": "",
+                        "img": [],
                         "docs": [],
-                        "descripcion": "El transporador recto es una pieza fundamental en numerosas industrias, diseñado para transportar materiales de un punto a otro de manera eficiente y confiable. Con una estructura robusta y duradera, este transportador garantiza una manipulación segura de cargas pesadas o voluminosas, facilitando la automatización de procesos y optimizando la cadena de producción. Su diseño simplificado y su funcionamiento confiable lo convierten en una herramienta indispensable para mejorar la eficiencia y la productividad en diversos entornos industriales.",
+                        "descripcion": "El transporador de paletas consta de una cadena o banda transportadora que está equipada con paletas o placas espaciadas uniformemente a lo largo de su longitud. Estas paletas se mueven a través de un sistema de poleas o tambores motorizados, creando un movimiento continuo que transporta los objetivos o materiales a lo largo del recorrido del transportados.",
                         "aplicaciones": [
-                            "• Transportadores para embalaje rígido y flexible",
-                            "• Transportadores de cajas",
-                            "• Transportadores para productos envasados al vacío",
-                            "• Transportadores de cajas de cartón",
-                            "• Transportadores de productos farmacéuticos"
+                            "• Industria de alimetnos y bebidas",
+                            "• Industria automotriz",
+                            "• Industria del embalaje",
+                            "• Industria farmacéutica",
+                            "• Logística y distribución"
                         ],
                         "ventajas": [
                             "• Eficiencia",
                             "• Versatilidad",
-                            "• Fiabilidad",
-                            "• Seguridad",
-                            "• Bajo mantenimiento"
+                            "• Flexibilidad",
+                            "• Automatización",
+                            "• Fiabilidad"
                         ],
                         "especificaciones": [
-                            "• Estructura simple, diseño modular",
-                            "• Material de marco: CS y SUS recubiertos, perfil de aluminio anodizado natural, atractivo",
-                            "• Funcionamiento estable",
-                            "• Facil mantenimiento",
-                            "• Material de la cinta transporadora: POM,PP.",
-                            "• Modo de ajuste de velocidad: control de frecuencia, transmisión infinitamente variable, etc"
+                            "• Fuente de alimentacion: CA 220 V/sph, CA 380 V/trifásico",
+                            "• Salida del motor (KW): 0,18 - 3,0",
+                            "• Ancho (mm): 50-2000",
+                            "• Longitud del transportador W (mm): 500-10000",
+                            "• Altura del transportador H (mm): ≥350";
+                            "• Velocidad (m/min): <45",
+                            "• Carga (kg): ≤800"
                         ],
                         "video": ""
-                    }
+                    },
+                    {
+                        "nombre": "Tranportador de carga y descarga de palets",
+                        "href": "",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "Un transportador de carga y descarga de palets generalmente consta de una estructura robusta equipada con rodillos, cadena o correas transportadoras diseñadas para mover los palets de manera suave y controlada. Puede incluir caracteristicas como rodillos retráctiles, sistemas de elevación o dispositivos de alineación para facilitar la carga y descarga eficiente de los palets en los puntos deseados dentro de la instalación.",
+                        "aplicaciones": [
+                            "• Almacenes y centros de distribución",
+                            "• Industria manufaturera",
+                            "• Logística y transporte",
+                            "• Industria minorista"
+                        ],
+                        "ventajas": [
+                            "• Eficiencia",
+                            "• Seguridad",
+                            "• Automatización",
+                            "• Versatilidad",
+                            "• Fiabilidad"
+                        ],
+                        "especificaciones": [
+                            "• Altura del transportador H (mm): >350",
+                            "• Salidad del motor (KW): 0,18-3,0"
+                            "• Velocidad: <20",
+                            "• Ancgo del transportador (mm): 1100, 1300",
+                            "• Tamaño de la bandeja (mm): 1200*1000, 1200*1200",
+                            "• Medios de control: Manual, semiautomático, totalmente automático",
+                            "• Localizar significa: Sensor e interruptor de carrera",
+                            "• Material estructural: Acero inoxidable SUS, acero al carbono CS",
+                            "• Carga (kg/m): de un solo palet 30kg, peso total de los palets es de 1200kg"
+                        ],
+                        "video": ""
+                    },
                 ]
             },
             {
-                "nombre": "Transportador Curvo",
-                "href": "/productos/Transportadores y Movimiento de Productos-Transportador Curvo",
+                "nombre": "Transportador de cadena con varias velocidades",
+                "href": "",
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Transportador Curvo",
-                        "href": "/productos/Transportador Curvo",
+                        "nombre": "Transportador de cadena con varias velocidades",
+                        "href": "",
                         "img": [],
                         "docs": [],
-                        "descripcion": "El transportador Curvo son especialmente adecuadas para el transporte a granel de materiales granulares. Como patatas fritas, maní, dulces, frutas secas, verduras, alimentos congelados y hortizas. Este tipo de transportador es fuerte y eficiente. Fácil e instalar, se puede utilizar para transportador es fuerte y eficiente. Fácil de instalar. Se puede utilizar para transportar botellas, latas o alimentos y bebidas. El acero inoxidable es resistente a altas temperaturas y a la corrosión",
+                        "descripcion": "El transportador de cadena con varias velocidades consta de una cadena que se mueve a lo largo de una serie de rieles o guías, con los productos o materiales colocados sobre la cadena para su transporte. Este tipo de transportador puede incluir múltiples secciones de cadena o zonas de velocidad controladas por motores independientes, lo que permite ajustar la velocidad de cada sección según las necesidades específicas de la aplicación",
                         "aplicaciones": [
-                            "• Transportadores para embalaje rígido y flexible",
-                            "• Transportadores de cajas",
-                            "• Transportadores para productos envasados al vacío",
-                            "• Transportadores de cajas de cartón",
-                            "• Transportadores de productos farmacéuticos"
-                        ],
-                        "ventajas": [
-                            "• Eficiencia",
-                            "• Versatilidad",
-                            "• Fiabilidad",
-                            "• Seguridad",
-                            "• Bajo mantenimiento"
-                        ],
-                        "especificaciones": [
-                            "• Estructura simple, diseño modular",
-                            "• Material de marco: CS y SUS recubiertos, perfil de aluminio anodizado natural, atractivo",
-                            "• Funcionamiento estable",
-                            "• Facil mantenimiento",
-                            "• Material de la cinta transporadora: POM,PP.",
-                            "• Modo de ajuste de velocidad: control de frecuencia, transmisión infinitamente variable, etc"
-                        ],
-                        "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Transportador de Rodillos",
-                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de Rodillos",
-                "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/TRANSPORTADOR-DE-RODILLOS.png",
-                "tipos": [
-                    {
-                        "nombre": "Transportador de Rodillos",
-                        "href": "/productos/Transportador de Rodillos",
-                        "img": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/TRANSPORTADOR-DE-RODILLOS.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/TRANSPORTADOR-DE-RODILLOS-(2).png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/image (29).png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/Sin-título-17.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/Sin-título-18.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/Sin-título-19.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/Sin-título-20.png"
-                        ],
-                        "docs": [],
-                        "descripcion": "El transportador de Rodillos es fácil de unir. Y puede formar un sistema transportador logístico complejo y un sistema de mezcla en derivación combinado con múltiples líneas de rodillos y otros equipos de transporte. Tiene una gran capacidad de transmisión , velocidad rápida y caracteristicas de funcionamiento rápdo, y también puede lograr mas variedad de transporte en derviación. Tambien aumentan la productividad de los paquetes a lo largo de las líneas de producción y a travésde las áreas de envío y almacenamiento sin que los empleados tengan que moverse entre estaciones de trabajo y ayudan a prevenir lesiones al mover paquetes pesados y grandes.",
-                        "aplicaciones": [
-                            "• Almacenamiento y distribución",
-                            "• Envío y recepción",
-                            "• Procesamiento de alimentos",
-                            "• Industria de embalaje",
-                            "• Industria del retail",
+                            "• Industria automotriz",
+                            "• Industria de alimentos y bebidas",
+                            "• Industria farmacéutica",
+                            "• Logística y centros de distribución",
                             "• Industria manufacturera"
                         ],
                         "ventajas": [
-                            "• Eficiencia en el transporte",
-                            "• Reducción de costos laborales",
-                            "• Mayor velocidad y capacidad de carga",
-                            "• Minimizacion de daños a productos",
-                            "• Flexibilidad en el diseño",
-                            "• Mejora en la seguridad",
-                            "• Menor mantenimiento"
+                            "• Reducción de desperdicios",
+                            "• Mejora de la seguridad",
+                            "• Adaptabilidad a diferentes tipos de productos",
+                            "• Optimización de la producción",
+                            "• Flexibilidad en el control de flujo de materiales"
                         ],
                         "especificaciones": [
-                            "• Flexible, que ahorra mano de obra, ligero",
-                            "• Apto para ambientes interiores, carga ligera",
-                            "• Ancho del transportador de 200 - 1000mm",
-                            "• Disponible en cualquier longitud par adpatarse a sus aplicaciones",
-                            "• Autoseguimiento",
-                            "• Altura ajustable",
-                            "• Placas laterales",
-                            "• Velocidad regulables",
-                            "• Transporte en derivación colineal de múltiples variedades"
+                            "• Ancho del transportador W (mm): 250 - 900",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Longitud del transportador L (mm): El segmento único más largo para 1 motor es de 10M",
+                            "• Altura del transportador H (mm): 500-1000",
+                            "• Carga (kg): 80",
+                            "• Material de la estructura: Perfil de aluminio Al",
+                            "• Salida del motor (KW): 0.18-3.0"
                         ],
                         "video": ""
                     }
@@ -2082,7 +2153,7 @@
                 "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION.png",
                 "tipos": [
                     {
-                        "nombre": "Transportador de Elevación",
+                        "nombre": "Transportador de Elevación Continuo",
                         "href": "/productos/Transportador de Elevación",
                         "img": [
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION.png",
@@ -2098,33 +2169,86 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/image (32).png"
                         ],
                         "docs": [],
-                        "descripcion": "El transportador en espiral de un solo carril es un concepto confiable y probado en el transporte vertical. Está diseñado para conservar un valioso espacio en el suelo. El transportador de elevacion transporta hacia arriba o hacia abajo enun flujo continuo. Con una velocidad de 50m/min y cargas hasta 50kg/m, el carril único facilita un alto rendimiento continuo.El diseño del transportador cuenta con un solo motor, esto ahorra mucha energía y requiere poco mantenimiento. No necesita lubricación, lo que se traduce en un bajo nivel de ruido y transporte limpio.",
+                        "descripcion": "El transportador en espiral continuo es un sistema automatizado altamente eficiente que ofrece una entrada y entrega continua de mercancías sin depender de paletas, asegurando seguridad mediante dispositivos de seguridad. Permite entrada y salida desde todas las direcciones, facilitando la disposición del equipo en el taller. Transporta mercancías entre múltiples pisos, mejorando la eficiencia de la producción. Su flexibilidad se adapta a diversas industrias como electrodomésticos, alimentos, bebidas, entre otros.",
                         "aplicaciones": [
-                            "• Industria alimentaria",
-                            "• Industria farmaceútica",
-                            "• Industria automotiz",
-                            "• Industria de la logística y distribución"
+                            "• Industria alimentaria y bebidas",
+                            "• Industria de electrodomésticos",
+                            "• Industria química",
+                            "• Industria del tabaco"
                         ],
                         "ventajas": [
-                            "• Ahorro de espacio",
+                            "• Eficiencia mejorada",
                             "• Flexibilidad en la configuración",
                             "• Mayor eficiencia",
-                            "• Reducción de costos de mano de obra",
-                            "• Seguridad mejorada",
-                            "• Menor mantenimiento",
-                            "• Reducción de daños a productos"
+                            "• Mejor seguridad",
+                            "• Transporte entre múltiples pisos"
                         ],
                         "especificaciones": [
-                            "• Acero inoxidable",
-                            "• Tubo de acero inoxidable con cruz de acero inoxidable",
-                            "• Tubo de aluminio revestido con cruz galvanizada",
-                            "• Cadena estándar",
-                            "• Protección lateral: Revestido en el color RAL especificado",
-                            "• Capacidad 50kg/m ",
-                            "• Velocidad: máximo 60m/min"
+                            "• Potencia del motor: 0,75-3 (con freno)",
+                            "• Material de la estructura: Perfil de aluminio Al, acero al carbono CS, acero inoxidable SUS",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Ancho del transportador L (mm): Segun el tamaño del producto",
+                            "• Longitud del transportador L (mm): Segun el tamaño del producto",
+                            "• Altura del transferencia H2 (mm): <12000",
+                            "• Carga (kg): 50",
+                            "• Salida del motor (KW): 0.18-3.0"
                         ],
                         "video": ""
-                    }
+                    },
+                    {
+                        "nombre": "Transportador de Elevación Alternativa",
+                        "href": "",
+                        "img": [
+                        ],
+                        "docs": [],
+                        "descripcion": "
+                        "aplicaciones": [],
+                        "ventajas": [
+                            "• Eficiencia mejorada",
+                            "• Flexibilidad en la configuración",
+                            "• Mayor eficiencia",
+                            "• Mejor seguridad",
+                            "• Transporte entre múltiples pisos"
+                        ],
+                        "especificaciones": [
+                            "• Potencia del motor: 0,75-3 (con freno)",
+                            "• Material de la estructura: Perfil de aluminio Al, acero al carbono CS, acero inoxidable SUS",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Ancho del transportador L (mm): Segun el tamaño del producto",
+                            "• Longitud del transportador L (mm): Segun el tamaño del producto",
+                            "• Altura del transferencia H2 (mm): <12000",
+                            "• Carga (kg): 50",
+                            "• Salida del motor (KW): 0.18-3.0"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Polipasto de sujeción flexible",
+                        "href": "",
+                        "img": [
+                        ],
+                        "docs": [],
+                        "descripcion": " ",
+                        "aplicaciones": [],
+                        "ventajas": [
+                            "• Eficiencia mejorada",
+                            "• Flexibilidad en la configuración",
+                            "• Mayor eficiencia",
+                            "• Mejor seguridad",
+                            "• Transporte entre múltiples pisos"
+                        ],
+                        "especificaciones": [
+                            "• Potencia del motor: 0,75-3 (con freno)",
+                            "• Material de la estructura: Perfil de aluminio Al, acero al carbono CS, acero inoxidable SUS",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Ancho del transportador L (mm): Segun el tamaño del producto",
+                            "• Longitud del transportador L (mm): Segun el tamaño del producto",
+                            "• Altura del transferencia H2 (mm): <12000",
+                            "• Carga (kg): 50",
+                            "• Salida del motor (KW): 0.18-3.0"
+                        ],
+                        "video": ""
+                    },
                 ]
             },
             {
