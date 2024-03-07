@@ -1007,7 +1007,9 @@
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/CABEZAL SERIE 101.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/afqegq.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/rftgh.png",
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/ACEITE-INDUSTRIAL (1).png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/RUEDAS-DEL-SISTEMA-400PRO.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/ACEITE-INDUSTRIAL (1).png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/Hilos-del-400PRO.png"
                         ],
                         "docs": [],
                         "descripcion": "El modelo 400 PRO puede cerrar una gran variedad de bolsas estilo almohada o con fuelle, que incluye papel de paredes múltiples, con su sistema de autolubricación, el cabezal de costura Empress 100 ofrece un rendimiento suave y sin problemas con pocas vibraciones. Cuenta con una velocidad de 35 a 55 pies lineales por minuto. El pedestal móvil de altura ajustable con ruedas y tornillos niveladores se puede integrar fácilmente en cualquier línea de ensacado manual.",
@@ -1078,7 +1080,15 @@
                         "nombre": "Minisistema de costura",
                         "href": "/productos/S560NA",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-1-Recuperado.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-1.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-2.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-3.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-10.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-11.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-12.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-14.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-15.png"
                         ],
                         "docs": [],
                         "descripcion": "Nuestro minisistema de costura presenta una innovadora solucion integral para la industria de envasado. Con una faja transportadora y una cosedora portátil integrada, este sistema esta diseñado especificamente para sellar bolsas de manera rápida y precisa. Equipado con sensores que detectan el arranque garantizando un cierre seguro de bolsas. Además, el sistema de corte de hilo proporcina un acabado impecable. Fabricado con Acero A36 de alta calidad, ofrece durabilidad y resistencia para un rendimiento óptimo a largo plazo, con una velocidad de hasta 10 metros por minuto para una producción eficiente en la línea de envasado.",
@@ -1658,7 +1668,11 @@
                     {
                         "nombre": "Paletizado y despaletizado",
                         "href": "/productos/Paletizado y despaletizado",
-                        "img": [],
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/PALETIZADO-Y-DESPALETIZADO.png",
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/PALETIZADO-DE-BALDES.png",
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/PALETIZADO-DE-SACOS.png"
+                        ],
                         "docs": [],
                         "descripcion": "El paletizado es el proceso de colocar productos o mercancías sobre pallets de manera organizada y segura para su transporte y almacenamiento. Se realiza típicamente mediante el uso de maquinaria automatizada o manual. Por otro lado, el despaletizado es el proceso opuesto, donde los productos son retirados de los pallets, almacenados o procesados posteriormente.",
                         "aplicaciones": [
@@ -1681,7 +1695,9 @@
                     {
                         "nombre": "Soldadura",
                         "href": "",
-                        "img": [],
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/SOLDADURA-(2).png"
+                        ],
                         "docs": [],
                         "descripcion": "La soldadura de robots es un proceso de unión de metales en el que un robot industrial realiza las operaciones de soldadura de manera automatizada. Este proceso implica el uso de un equipo de soldadura, generalmente un arco eléctrico o láser, para fundir y unir las piezas metálicas.",
                         "aplicaciones": [
@@ -1704,7 +1720,9 @@
                     {
                         "nombre": "Minería",
                         "href": "",
-                        "img": [],
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/MINERIA.png"
+                        ],
                         "docs": [],
                         "descripcion": "Los robots utilizados en la minería están equipados con sensores avanzados, sistemas de navegación y capacidad de procesamiento de datos para llevar a cabo tareas específicas de manera autónoma o controlada por operadores humanos. Pueden realizar labores como la exploración de yacimientos, la perforación y voladura de rocas, la carga y transporte de materiales, asi como el monitoreo de condiciones ambientales y de seguridad en la mina.",
                         "aplicaciones": [
@@ -1727,7 +1745,9 @@
                     {
                         "nombre": "Electronica",
                         "href": "",
-                        "img": [],
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/ELECTRONICA (2).png"
+                        ],
                         "docs": [],
                         "descripcion": "Los sistemas electrónicos de los robots están diseñados para proporcionar capacidades de percepción, procesamiento y acción. Los sensores permiten al robot detectar su entorno y recopilar información sobre variables como la posición, el movimiento, la temperatura y la presión. Los controladores procesan esta información y generan comandos para los actuadores, que son los dispositivos responsables de realizar las acciones físicas, como mover brazos, piernas, ruedas o herramientas.",
                         "aplicaciones": [
@@ -1746,7 +1766,7 @@
                         ],
                         "especificaciones": [],
                         "video": ""
-                    },
+                    }
                 ]
             },
             {
@@ -1757,7 +1777,9 @@
                     {
                         "nombre": "Sistema Cartesiano",
                         "href": "/productos/Sistema Cartesiano",
-                        "img": [],
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/AUTOMATIZACION/SISTEMA CARTESIANO/SISTEMA-CARTESIANO.jpg"
+                        ],
                         "docs": [],
                         "descripcion": "El sistema cartesiano ubica puntos en el espacio mediante coordenadas X, Y y Z, usado en robótica para controlar el movimiento tridimensional de robots.",
                         "aplicaciones": [
@@ -1780,9 +1802,11 @@
                     {
                         "nombre": "Pick and Place",
                         "href": "/productos/Pick and Place",
-                        "img": [],
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/AUTOMATIZACION/PICK AND PLACE/pick-and-place.webp"
+                        ],
                         "docs": [],
-                        "descripcion": " El "pick and place" implica dos acciones principales: la sección o recogida del objeto de origen y su colocacion en una ubicación específica de destino. Esto se realiza, mediante dispositivos de sujeción, como pinzas, ventosas o cintas transportadoras, controlados por un sistema automatizado que sigue instrucciones predefinidas.",
+                        "descripcion": " El 'pick and place' implica dos acciones principales: la sección o recogida del objeto de origen y su colocacion en una ubicación específica de destino. Esto se realiza, mediante dispositivos de sujeción, como pinzas, ventosas o cintas transportadoras, controlados por un sistema automatizado que sigue instrucciones predefinidas.",
                         "aplicaciones": [
                             "• Industrias manufacturera",
                             "• Embalaje y envasado",
@@ -1904,7 +1928,11 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO.png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO-2.png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO-4.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO-TRANSFERENCIA-LATERAL.png"
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO-TRANSFERENCIA-LATERAL.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/Sin-título-13.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/Sin-título-14.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/Sin-título-15.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/Sin-título-16.png"
                         ],
                         "docs": [],
                         "descripcion": "El transporador recto es una pieza fundamental en numerosas industrias, diseñado para transportar materiales de un punto a otro de manera eficiente y confiable. Con una estructura robusta y duradera, este transportador garantiza una manipulación segura de cargas pesadas o voluminosas, facilitando la automatización de procesos y optimizando la cadena de producción. Su diseño simplificado y su funcionamiento confiable lo convierten en una herramienta indispensable para mejorar la eficiencia y la productividad en diversos entornos industriales.",
@@ -1981,7 +2009,12 @@
                         "href": "/productos/Transportador de Rodillos",
                         "img": [
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/TRANSPORTADOR-DE-RODILLOS.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/TRANSPORTADOR-DE-RODILLOS-(2).png"
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/TRANSPORTADOR-DE-RODILLOS-(2).png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/image (29).png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/Sin-título-17.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/Sin-título-18.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/Sin-título-19.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE RODILLOS/Sin-título-20.png"
                         ],
                         "docs": [],
                         "descripcion": "El transportador de Rodillos es fácil de unir. Y puede formar un sistema transportador logístico complejo y un sistema de mezcla en derivación combinado con múltiples líneas de rodillos y otros equipos de transporte. Tiene una gran capacidad de transmisión , velocidad rápida y caracteristicas de funcionamiento rápdo, y también puede lograr mas variedad de transporte en derviación. Tambien aumentan la productividad de los paquetes a lo largo de las líneas de producción y a travésde las áreas de envío y almacenamiento sin que los empleados tengan que moverse entre estaciones de trabajo y ayudan a prevenir lesiones al mover paquetes pesados y grandes.",
@@ -2027,7 +2060,16 @@
                         "href": "/productos/Transportador de Elevación",
                         "img": [
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION-(3).png"
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION-(3).png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-21.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-22.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-23.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-24.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-25.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-26.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/image (30).png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/image (31).png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/image (32).png"
                         ],
                         "docs": [],
                         "descripcion": "El transportador en espiral de un solo carril es un concepto confiable y probado en el transporte vertical. Está diseñado para conservar un valioso espacio en el suelo. El transportador de elevacion transporta hacia arriba o hacia abajo enun flujo continuo. Con una velocidad de 50m/min y cargas hasta 50kg/m, el carril único facilita un alto rendimiento continuo.El diseño del transportador cuenta con un solo motor, esto ahorra mucha energía y requiere poco mantenimiento. No necesita lubricación, lo que se traduce en un bajo nivel de ruido y transporte limpio.",

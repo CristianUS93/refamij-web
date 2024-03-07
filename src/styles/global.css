@@ -7,7 +7,7 @@
     --yellow: rgb(255, 247, 4);
     --light-yellow: rgb(234, 232, 210);
     --light-gray: rgb(237, 237, 237);
-    --green-wsp: #25D366;
+    --green-wsp: rgb(21, 179, 21);
     --accent-gradient: linear-gradient(
         45deg,
         var(--dark-blue) 70%,
