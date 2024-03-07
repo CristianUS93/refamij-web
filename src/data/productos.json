@@ -1872,29 +1872,23 @@
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
-                "nombre": "Tangente Cero",
+                "nombre": "Transportadores en espiral",
                 "href": "/productos/Transportadores y Movimiento de Productos-Tangente Cero",
                 "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-2.png",
                 "tipos": [
                     {
-                        "nombre": "MODELO 1000",
-                        "href": "/productos/MODELO 1000",
+                        "nombre": "Tranportador en espiral para cajas",
+                        "href": "",
                         "img": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-2.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-3.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-4.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-5.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-45.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-90.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-180.png"
+                            ""
                         ],
                         "docs": [],
-                        "descripcion": "El transportador tangente cero representa la vanguardia en sistemas de transporte, eliminando cualquier movimeinto laterla durante la transferencia de materiales. Su diseño innovador segura un desplazamiento preciso y fluido, reduciendo al mínimo el desgaste y maximizando la eficiencia en la manipulación de productos. Ideal para aplicaciones que requieren precisión y control absoluto del flujo de materiales en líneas de producción industriales.",
+                        "descripcion": "Un transportador en espiral para cajas es un dispositivo industrial que mueve cajas entre diferentes niveles o áreas de una instalación de forma eficiente. Utiliza una banda o cadena en espiral para transportar las cajas verticalmente mientras se mueven horizontalmente. Esto ahorra espacio y optimiza el flujo de trabajo en almacenes,centros de distribución y plantas de fabricación.",
                         "aplicaciones": [
-                            "• Transportadores para embalaje rígido y flexible",
+                            "• Almacenes y centros de distribución",
                             "• Transportadores de cajas",
                             "• Transportadores para productos envasados al vacío",
-                            "• Transportadores de cajas de cartón"
+                            "• Comercio minoristas"
                         ],
                         "ventajas": [
                             "• Reduce el uso de espacio de planta",
@@ -1904,16 +1898,48 @@
                             "• Mejora la flexibilidad de diseño"
                         ],
                         "especificaciones": [
-                            "• Superficie lisa y cerrada",
-                            "• Radio interno 600mm",
-                            "• Ancho varía de 200mm a 1200mm",
-                            "• Suministrable en ángulo de 45°, 90° y 180°",
-                            "• Alféizar con perfil deslizante",
-                            "• Transferencia de ruleta",
-                            "• Cabezal de apoyo"
+                            "• Modelo: DR-DLLX1",
+                            "• Fuente de alimentacion: CA 220 V/sph, CA 380 V/trifásico",
+                            "• Salida del motor de salida (KW): 0,18 - 4,0",
+                            "• Ancho de cadena (mm): 304.8, 406.4, 609.6",
+                            "• Altura de transferencia H2 (mm): ≤10000",
+                            "• Velocidad (m/min): ≤60",
+                            "• Carga (kg/m): ≤50"
                         ],
                         "video": ""
-                    }
+                    },
+                    {
+                        "nombre": "Tranportador en espiral para botellas",
+                        "href": "",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "Un transportador en espiral para botellas especialmente en la industria de bebidas, embotellado y envasado. Las ventajas y aplicaciones para la transferencia de botellas son similares a las mencionadas anteriormente para las cajas, pero adaptadas específicamente para la manipulación de botellas",
+                        "aplicaciones": [
+                            "• Industria de bebidas",
+                            "• Industria alimentaria",
+                            "• Industria farmacéuticas"
+                        ],
+                        "ventajas": [
+                            "• Reduce el uso de espacio de planta",
+                            "• Simplifica el diseño y la instalación",
+                            "• Mejora la fiabilidad y la durabilidad",
+                            "• Reduce el tiempo de mantenimiento y los costos",
+                            "• Mejora la flexibilidad de diseño"
+                        ],
+                        "especificaciones": [
+                            "• Material estructural: Aumento Al, acero inoxidable SUS",
+                            "• Fuente de alimentacion: CA 220 V/sph, CA 380 V/trifásico",
+                            "• Salida del motor de salida (KW): 1,5 - 3,0",
+                            "• Ancho de cadena (mm): 400",
+                            "• Diametro mínimo (mm): 2000",
+                            "• Altura de transferencia H2 (mm): ≤10000",
+                            "• Velocidad (m/min): ≤60",
+                            "• Capacidad de botella (B/H): ≤50"
+                        ],
+                        "video": ""
+                    },
                 ]
             },
             {
