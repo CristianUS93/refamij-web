@@ -24,7 +24,15 @@
                                 "caracteristicas": [],
                                 "video": "",
                                 "ventajas": [],
-                                "especificaciones": []
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabamiento Superficial: Pulido",
+                                    "• Rugosidad: 0,25 ±0,05 μm",
+                                    "• Gap: 1,85 mm",
+                                    "• Pasador Ø6,35mm: 1,85 mm",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
                             },
                             {
                                 "nombre": "Serie SSF 812",
