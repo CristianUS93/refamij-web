@@ -135,7 +135,7 @@
                                     "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 2815/SERIE SSF 2815.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
+                                "descripcion": "La SERIE SSF 2815 de COBRA es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pliegue, diseñada para soportar cargas de trabajo superiores. Construida con los estándares de calidad de COBRA, es ideal para ambientes industriales que requieren mayor resistencia y durabilidad en el transporte de productos. Su característica de doble pliegue garantiza una alta capacidad de carga, haciéndola perfecta para aplicaciones industriales intensivas.",
                                 "aplicaciones": [
                                     "• Transportadores de cajas.",
                                     "• Transportadores de botellones llenos.",
@@ -164,12 +164,27 @@
                                     "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 2815 EMB/SERIE SSF 2815 EMB.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "La SERIE SSF 2815 EMB (Engomada) de COBRA es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pligue y superficie emborrachada. Diseñada para soportar cargas de trabajo superiores y ofrecer máxima adherencia, es una solución ideal para ambientes industriales que requieren precisión y seguridad en el transporte de productos. La combinación del doble pliegue con la superficie engomada garatiza una alta capacidad de carga y una adherencia superior, haciéndola perfecta para aplicaciones industriales desafiantes.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación.",
+                                    "• Transportadores de cajas y botellones.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Elevada carga de trabajo(doble bisagra)."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Engomada",
+                                    "• Rugosidad: -",
+                                    "• Gap: 1,85 mm",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
                             }
                         ]
                     },
@@ -185,11 +200,27 @@
                                 ],
                                 "docs": [],
                                 "descripcion": "",
-                                "aplicaciones": [],
+                                "aplicaciones": [
+                                    "• Transportadores de cajas.",
+                                    "• Transportadores de pallets.",
+                                    "• Transportadores de arrastre."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Elevada carga de trabajo.",
+                                    "• Bajo mantenimiento.",
+                                    "• Trabajo seco."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 63,5 mm",
+                                    "• Acabado Superficial: Cincado",
+                                    "• Rugosidad: -",
+                                    "• Pasador Ø 6,35mm: Acero Carbono",
+                                    "• Tramo: Curvo",
+                                    "• Radio de Flexión Opuesto: 80 mm",
+                                    "• Radio Mediano Mínimo: 500 mm"
+                                ]
                             },
                             {
                                 "nombre": "Serie SSF 881 M",
@@ -197,12 +228,30 @@
                                     "/tienda/cobra/cadenas_metalicas/cadenas_curvas/SERIE SSF 881 M.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "La SERIE SSF 881 M de COBRA es una cadena tipo table top, también conocida como cadena plataforma, equipada con uns sistema de retención magnética. Diseñada especificamente para guiar la cadena con precisión en las curvas, su construcción duradera la hace ideal para ambientes industriales que buscan eficiencia y confiabilidad en el transporte de productos, especialmente en trayectos con curvas de alta velocidad.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
+                                    "• Uso en curvas magnéticas."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Facilidad de mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Pulido",
+                                    "• Rugosidad: 0,22 ±0,05 μm",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Curvo Magnético",
+                                    "• Radio de Flexión Opuesto: 80 mm",
+                                    "• Radio Mediano Mínimo: 500 y 610 mm"
+                                ]
                             },
                             {
                                 "nombre": "Serie SSF 881 TAB",
@@ -212,59 +261,111 @@
                                 "docs": [],
                                 "descripcion": "La Serie SSF 881 TAB de cobra es una cadena tipo table top, también conocida como cadena plataforma, equipada con un sistema de retención magnética. Diseñada específicamente para guiar la cadena con precisión en las curvas, su construcción duradera la hace ideal para ambientes industriales que buscan eficiencia y confiabilidad en el transporte de productos, especialmente en trayectos con curvas de alta velocidad.",
                                 "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
                                     "• Sistemas de Transporte con Curvas de Alta Velocidad.",
                                     "• Ambientes Industriales de Alta Demanda.",
                                     "• Líneas de Producción que Requieren Precisión en Curvas."
                                 ],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Pulido",
+                                    "• Rugosidad: 0,22 ±0,05 μm",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Curvo TAB",
+                                    "• Radio de Flexión Opuesto: 80 mm",
+                                    "• Radio Mediano Mínimo: 610 mm"
+                                ]
                             }
                         ]
                     },
                     {
-                        "nombre": "Ruedas para Cadenas Rectas Inoxidables",
+                        "nombre": "Ruedas para Cadenas Rectas",
                         "href": "/tienda/Cobra-Cadenas Metálicas-Ruedas para Cadenas Rectas Inoxidables",
                         "img": "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png",
                         "modelos": [
                             {
-                                "nombre": "ENGRANAJE 815 - 881 M BIPARTIDA",
+                                "nombre": "RUEDA 815 - 881 M BIPARTIDA",
                                 "imgs": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "Las RUEDAS 815 - 881 M BIPARTIDA fueron desarrolladas especialmente para ser utilizadas con las CADENAS SERIE SSF Y SSA 815 de COBRA, ofreciendo una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes. Además, están disponibles en una variedad de configuraciones como Z21, Z23 y Z25, y diámetros de eje que van desde 25 mmm hasta 45 mm, con o sin chaveta.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendad 25°."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    " Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Inyectada en poliamida reforzada.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M6",
+                                    "• Tuerca en Latón Niquelado DIN 934 M6.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1."
+                                ]
                             },
                             {
-                                "nombre": "ENGRANAJE 821 - 2815 BIPARTIDA US",
+                                "nombre": "RUEDA 2815 - 821 BIPARTIDA US",
                                 "imgs": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 BIPARTIDA US/ENGRANAJE 821 _ 2815 BIPARTIDA US.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "La RUEDA 2815 BIPARTIDA US (Mecanizada) esta disponible para ser utilizada con las CADENAS DOBLE PLEGADO SERIE 2815 de COBRA. Esta rueda mecanizada maciza proporciona una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes que requieren grandes cargas de trabaji en pas líneas de transporte.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación.",
+                                    "• Transportadores de cajas y botellones.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Elevada carga de trabajo (doble bisagra)."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Mecanizada en poliamida."
+                                    "• Tornillo en Inoxidable Austenitico DIN 912 M8.",
+                                    "• Tuerca en Latón Niquelado DIN 934 M8.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1."
+                                    
+                                ]
                             },
                             {
-                                "nombre": "ENGRANAJE 821 - 2815 ENTERIZA",
+                                "nombre": "RUEDA 2815 - 821 ENTERIZA",
                                 "imgs": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 ENTERIZA/ENGRANAJE 821 _ 2815 ENTERIZA.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "La RUEDA 2815 esta diseñada especialmente para ser utilizada con las CADENAS CON DOBLE PLEGADO METÁLICO de la SERIE 2815 de COBRA, proporcionando una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes y que requieren grandes cargas de trabajo en las líneas de transporte.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación.",
+                                    "• Transportadores de cajas y botellones.",
+                                    "• Inclinación máxima recomendad 25°."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Alta adhesión."
+                                    "• Elevada carga de trabajo (doble bisagra)."
+                                ],
+                                "especificaciones": [
+                                    "• Enteriza."
+                                    "• Inyectada en poliamida reforzada."
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
                             },
                             {
                                 "nombre": "ENGRANAJE AR 38 BIPARTIDA SIN PESTAÑA",
