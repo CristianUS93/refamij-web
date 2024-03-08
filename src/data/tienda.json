@@ -394,30 +394,60 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "ENGRANAJE AR 38 ENTERIZA US",
+                                "nombre": "RUEDA 881 M - 815 BIPARTIDA PU",
                                 "imgs": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 ENTERIZA US.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "La RUEDA 881 M - 815 BIPARTIDA PU (Poliuretano) es extramadamente resistente al desgaste, la abrasión y el impacto, lo que hace que las ruedas fabricadas con este material sean muy duraderas en enternos industriales exigentes. Además, debido a que es más flexible que otros plímeros, el poliuretano permite la absorción de golpes y vibraciones, lo que reduce el ruido y prolonga la vida útil de las ruedas y cadenas. Diseñadas para ser utilizadas en las CADENAS SERIE SSF y SSA 815 de COBRA, las RUEDAS DE PU ofrecen un rendimiento superior para la línea de envasado de vidrio.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
+                                    "• Uso en curvas magnéticas."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Facilidad de mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Inyectada en poliuretano.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M8.",
+                                    "• Inserto central en Acero Fundido.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
                             },
                             {
-                                "nombre": "ENGRANAJE AR 835",
+                                "nombre": "RUEDA 881 M - 815 ENTERIZA FOFO",
                                 "imgs": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 835.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "La RUEDA 881 M - 815 ENTERIZA FOFO (Acero Fundido), también conocido como hierro fundido nodular, es extremadamente resistente al desgaste, además de poseer una mayor dureza y tenacidad, soportando bien cargas de impaco y choque. Diseñadas para ser utilizadas en las CADENAS SERIE SSF Y SSA 815 de COBRA, las RUEDAS DE FOFO entregan una rendimiento superior para líneas de envasado.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
+                                    "• Uso en curvas magnéticas."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Facilidad de mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Enteriza.",
+                                    "• Fundido en Acero.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
                             },
                             {
                                 "nombre": "RUEDA CARRETEL BIPARTIDO",
@@ -444,17 +474,26 @@
                                 ]
                             },
                             {
-                                "nombre": "CARRETEL ENTERIZO",
+                                "nombre": "RUEDA CARRETEL ENTERIZA",
                                 "imgs": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "La RUEDA CARRETEL ENTERIZA de COBRA está diseñada para proporcionar alta eficiencia y confiabilidad en transportadores rectos que utilizan CADENAS PLÁSTICAS o METÁLICAS como elementos de tracción. Esta RUEDA CARRETEL ENTERIZA se utiliza ampliamente en las cabezas de retorno de los transportadores industriales para facilitar el retorno de las cadenas.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendad 25°."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Enteriza.",
+                                    "• Mecanizado en poliamida."
+                                ]
                             }
                         ]
                     },
