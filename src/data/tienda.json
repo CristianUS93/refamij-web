@@ -420,17 +420,28 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "ENGRANAJE CARRETEL BIPARTIDO",
+                                "nombre": "RUEDA CARRETEL BIPARTIDO",
                                 "imgs": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE CARRETEL BIPARTIDO.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "La RUEDA CARRETEL BIPARTIDA de COBRA está diseñada para proporcionar alta eficiencia y confiabilidad en transportadores rectos que utilizan cadenas plásticas o metálicas como elementos de tracción. Esa RUEDA CARRETEL BIPARTIDA se utiliza ampliamente en las cabezas de retorno de los transportadores industriales para facilitar el retorno de las cadenas.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Alta adhesión."
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartido."
+                                    "• Inyectado en poliamida reforzada."
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M8."
+                                    "• Tuerca en Latón Niquelado DIN 557 M8."
+                                ]
                             },
                             {
                                 "nombre": "CARRETEL ENTERIZO",
