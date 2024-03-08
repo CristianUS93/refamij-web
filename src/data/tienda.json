@@ -108,7 +108,7 @@
                                     "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 815 EMB/SERIE SSF 815 EMB.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
+                                "descripcion": "La SERIE SSF 815 EMB de COBRA es una cadena de transporte diseñada para satisfacer las exigentes demandas de los entornos industriales. Con un enfoque en la precisión, seguridad y eficiencia en el movimiento de productos; esta serie ofrece una combinación única de características que la hacen ideal para una variedad de aplicaciones industriales.",
                                 "aplicaciones": [
                                     "• Transportadores con inclinación, frenado o aceleración.",
                                     "• Inclinación máxima recomendada 25°."
@@ -136,11 +136,27 @@
                                 ],
                                 "docs": [],
                                 "descripcion": "",
-                                "aplicaciones": [],
+                                "aplicaciones": [
+                                    "• Transportadores de cajas.",
+                                    "• Transportadores de botellones llenos.",
+                                    "• Transportadores de barriles."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Elevada carga de trabajo (doble bisagra).",
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Pulido",
+                                    "• Rugosidad: 0,22 ±0,05 μm ",
+                                    "• Gap: 1,85 mm",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
                             },
                             {
                                 "nombre": "Serie SSF 2815 EMB",
