@@ -20,16 +20,25 @@
                                 ],
                                 "docs": [],
                                 "descripcion": "La Cadena Transportadora Serie SSA 815 de Cobra es una solución líder en el segmento de cadenas table top. Fabricada en acero austenítico, esta cadena está especialmente diseñada para ambientes extremadamente corrosivos y alimenticios, garantizando resistencia y durabilidad excepcionales.",
-                                "aplicaciones": [],
+                                "aplicaciones": [
+                                    "• Transportadores de productos corrosivos.",
+                                    "• Transportadores en ambientes corrosivos.",
+                                    "• Industria alimentaria."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
+                                "ventajas": [
+                                    "• Mayor resistencia a la corrosión.",
+                                    "• Mayor resistencia a agentes químicos.",
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia mecánica."
+                                ],
                                 "especificaciones": [
                                     "• Paso: 38,1 mm",
                                     "• Acabamiento Superficial: Pulido",
                                     "• Rugosidad: 0,25 ±0,05 μm",
                                     "• Gap: 1,85 mm",
-                                    "• Pasador Ø6,35mm: 1,85 mm",
+                                    "• Pasador Ø 6,35mm: 1,85 mm",
                                     "• Tramo: Recto",
                                     "• Radio de Flexión Opuesto: 150 mm"
                                 ]
@@ -40,12 +49,28 @@
                                     "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 812/SERIE SSF 812.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "La Seri 815 Emborrachada de Cobra es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pliegue y superficie emborrachada. Diseñada para soportar cargas de trabajo superiores y ofrecer máxima adherencia, es una solución ideal para ambientes industriales que requieren precisión y seguridad en el transporte de productos. La combinación del doble pliegue con la superficie emborrachada garantiza una alta capacidad de carga y una adherencia superior, haciéndola perfecta para aplicaciones industriales desafiantes.",
-                                "aplicaciones": [],
+                                "descripcion": "La Serie 815 Emborrachada de Cobra es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pliegue y superficie emborrachada. Diseñada para soportar cargas de trabajo superiores y ofrecer máxima adherencia, es una solución ideal para ambientes industriales que requieren precisión y seguridad en el transporte de productos. La combinación del doble pliegue con la superficie emborrachada garantiza una alta capacidad de carga y una adherencia superior, haciéndola perfecta para aplicaciones industriales desafiantes.",
+                                "aplicaciones": [
+                                    "• Industria farmacéutica.",
+                                    "• Transportadores en general.",
+                                    "• Espacios reducidos.",
+                                    "• Complemento en mesas de multivías."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Ancho reducido.",
+                                    "• Fácil mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Pulido",
+                                    "• Rugosidad: 0,22 ±0,05 μm",
+                                    "• Gap: 1,85 mm",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
                             },
                             {
                                 "nombre": "Serie SSF 815",
@@ -54,11 +79,28 @@
                                 ],
                                 "docs": [],
                                 "descripcion": "La cadena transportadora SERIE 815 de Cobra es una referencia en el segmento de cadenas table top, también conocidas como cadenas de tablilla. Fabricada en acero inoxidable ferrítico, esta cadena fue desarrollada para satisfacer las necesidades de ambientes industriales de alto rendimiento. Con su presencia destacada en sistemas de transporte de larga distancia y líneas de envasado de múltiples vías, garantiza estabilidad, precisión y confiabilidad en cada segmento de su aplicación.",
-                                "aplicaciones": [],
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Pulido",
+                                    "• Rugosidad: 0,22 ±0,05 μm",
+                                    "• Gap: 1,85 mm ",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
                             },
                             {
                                 "nombre": "Serie SSF 815 EMB",
@@ -67,11 +109,25 @@
                                 ],
                                 "docs": [],
                                 "descripcion": "",
-                                "aplicaciones": [],
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Engomada",
+                                    "• Rugosidad: - ",
+                                    "• Gap: 1,85 mm"
+                                    "• Pasadorr Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
                             },
                             {
                                 "nombre": "Serie SSF 2815",
