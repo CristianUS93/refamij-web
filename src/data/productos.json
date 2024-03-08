@@ -1983,8 +1983,8 @@
                         "aplicaciones": [
                             "• Industria metalúrgica",
                             "• Industria alimentaria",
-                            "• Industria del plástico "
-                            "• Industria química",
+                            "• Industria del plástico ",
+                            "• Industria química"
                         ],
                         "ventajas": [
                             "• Reduce el uso de espacio de planta",
@@ -2016,8 +2016,8 @@
                         "aplicaciones": [
                             "• Industria logísticay centros de distribución",
                             "• Industria alimentaria",
-                            "• Industria del embalaje "
-                            "• Industria maunfacturera",
+                            "• Industria del embalaje ",
+                            "• Industria maunfacturera"
                         ],
                         "ventajas": [
                             "• Reduce el uso de espacio de planta",
@@ -2034,7 +2034,7 @@
                             "• Carga (kg/m): ≤20"
                         ],
                         "video": ""
-                    },
+                    }
                 ]
             },
             {
@@ -2067,7 +2067,7 @@
                             "• Salida del motor (KW): 0,18 - 3,0",
                             "• Ancho (mm): 50-2000",
                             "• Longitud del transportador W (mm): 500-10000",
-                            "• Altura del transportador H (mm): ≥350";
+                            "• Altura del transportador H (mm): ≥350",
                             "• Velocidad (m/min): <45",
                             "• Carga (kg): ≤800"
                         ],
@@ -2096,7 +2096,7 @@
                         ],
                         "especificaciones": [
                             "• Altura del transportador H (mm): >350",
-                            "• Salidad del motor (KW): 0,18-3,0"
+                            "• Salidad del motor (KW): 0,18-3,0",
                             "• Velocidad: <20",
                             "• Ancgo del transportador (mm): 1100, 1300",
                             "• Tamaño de la bandeja (mm): 1200*1000, 1200*1200",
@@ -2106,7 +2106,7 @@
                             "• Carga (kg/m): de un solo palet 30kg, peso total de los palets es de 1200kg"
                         ],
                         "video": ""
-                    },
+                    }
                 ]
             },
             {
@@ -2201,7 +2201,7 @@
                         "img": [
                         ],
                         "docs": [],
-                        "descripcion": "
+                        "descripcion": "",
                         "aplicaciones": [],
                         "ventajas": [
                             "• Eficiencia mejorada",
@@ -2248,7 +2248,7 @@
                             "• Salida del motor (KW): 0.18-3.0"
                         ],
                         "video": ""
-                    },
+                    }
                 ]
             },
             {
@@ -2452,12 +2452,17 @@
             {
                 "nombre": "Puertas Rápidas de PVC",
                 "href": "/productos/Puertas y Equipamiento Logístico-Puertas Rápidas de PVC",
-                "img": "",
+                "img": "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-(2) PONER DE PORTADA.jpg",
                 "tipos": [
                     {
                         "nombre": "Puertas Enrollables",
                         "href": "/productos/Puertas Enrollables",
-                        "img": [],
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-(2) PONER DE PORTADA.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-ENROLLABLE-(3).jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-ENROLLABLE-LONA-BLANCO.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-ENROLLABLE.jpg"
+                        ],
                         "docs": [],
                         "descripcion": "Una puerta rápida enrollable de PVC es una solución eficiente para accesos rápidos en entornos industriales y comerciales. Está hecha de paneles de PVC reforzado que se enrollan verticalmente para abrirse y cerrarse rápidamente. Son duraderas, resistentes a condiciones adversas y ocupan poco espacio. Ideal para almacenes fábricas y garajes.",
                         "aplicaciones": [
@@ -2494,7 +2499,13 @@
                     {
                         "nombre": "Puertas Plegables",
                         "href": "/productos/Puertas Plegables",
-                        "img": [],
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE-ROJO.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE-PVC-(1).jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE-(2).jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA PLEGABLE GRIS.jpg"
+                        ],
                         "docs": [],
                         "descripcion": "Una puerta industrial plegable de PVC es una solucion versátil y eficiente para accesos rápido entornos industriales y comerciales. Compuesta por paneles de PVC reforzado que se pliegan horizontalmente al abrirse, ofrece un amplio espacio de entrada y salida. Su diseño compacto maximiza el uso del espacio disponible. Son duraderas, resistentes a condiciones adversas y fáciles de mantener. Se utilizan comúnmente en almacenes, centros de distribución y áreas de carga y descarga.",
                         "aplicaciones": [
@@ -2533,12 +2544,15 @@
             {
                 "nombre": "Puertas Seccionales",
                 "href": "/productos/Puertas y Equipamiento Logístico-Puertas Seccionales",
-                "img": "",
+                "img": "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/PUERTA-SECCIONAL-(A)PONER DE PORTADA.png",
                 "tipos": [
                     {
                         "nombre": "Puertas Seccional Industrial",
                         "href": "/productos/Insuladas",
-                        "img": [],
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/PUERTA-SECCIONAL-(A)PONER DE PORTADA.png",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/PUERTA-SECCIONAL-(B).jpg"
+                        ],
                         "docs": [],
                         "descripcion": "Una puerta seccional industrial es una solución robusta y eficiente para el acceso a grandes espacios comerciales e industriales. Está compuesta por paneles horizontales articulados que se desplazan verticalmente hacia arriba y luego a lo largo del techo al abrirse. Fabricadas con materiales duraderos como acero galvanizado o aluminio, estas puertas ofrecen resistencia a condiciones adversas y puedes incluir aislamiento término y acústico.",
                         "aplicaciones": [
@@ -2577,12 +2591,16 @@
             {
                 "nombre": "Rampa y Mesa Hidráulicas de despacho",
                 "href": "/productos/Puertas y Equipamiento Logístico-Rampa y Mesa Hidráulicas de despacho",
-                "img": "",
+                "img": "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-HIDRAULICA-(2) PONER DE PORTADA.png",
                 "tipos": [
                     {
                         "nombre": "Rampa hidráulica",
                         "href": "/productos/Rampa hidráulica",
-                        "img": [],
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-HIDRAULICA-(2) PONER DE PORTADA.png",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-(1).jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-(3).png"
+                        ],
                         "docs": [],
                         "descripcion": "La rampa hidráulica consta de una plataforma de carga montada sobre un sistema hidráulico que puede ser operado automáticamente. Este sistema utiliza cilindros hidráulicos para elevar o descender la plataforma, lo que permite carga y descarga mercancías de manera eficiente",
                         "aplicaciones": [
@@ -2613,7 +2631,12 @@
                     {
                         "nombre": "Mesa hidráulica",
                         "href": "/productos/Mesa hidráulica",
-                        "img": [],
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/mesa hidraulica PONER EN LA PORTADA.png",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/mesa hidraulica (2).png",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/Mesa hidraulica (3).png",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/mesa hidraulica (4).png"
+                        ],
                         "docs": [],
                         "descripcion": "La mesa hidráulica de doble tijera es un dispositivo utilizado para elevar cargas pesadas de manera controlada y segura. Consiste en una plataforma de trabajo apoyada sobre dos juegos de tijeras hidráulicas que se extienden verticalmente. Estas tijeras están conectadas a uns sistema hidráulico que permite elevar o descender la plataforma de manera uniforme y controlada",
                         "aplicaciones": [
