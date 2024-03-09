@@ -2311,7 +2311,7 @@
                             "• Bajo mantenimiento"
                         ],
                         "especificaciones": [
-                            "• Salida del motor (KW): 0,09; 0,18; 0,4"
+                            "• Salida del motor (KW): 0,09; 0,18; 0,4",
                             "• Ancho de banda W2 (mm): 100-600",
                             "• Ancho del transportador W (mm): W2+125, W2+70",
                             "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
@@ -2345,7 +2345,7 @@
                             "• Bajo mantenimiento"
                         ],
                         "especificaciones": [
-                            "• Salida del motor (KW): 0,09; 0,18; 0,4"
+                            "• Salida del motor (KW): 0,09; 0,18; 0,4",
                             "• Ancho de banda W2 (mm): 100, 150-300",
                             "• Ancho del transportador W (mm): W2+82",
                             "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
@@ -2362,7 +2362,7 @@
                         "href": "",
                         "img": [],
                         "docs": [],
-                        "descripcion": "Una cinta transportadora curva garantiza una operación silenciosa y estable, minimizando la vibración y asegurando la entrega precisa y duradera de productos sensibles. Su funcionamiento suave y fácil de manejar facilita la integración en cualquier línea de producción. Con una estructura simple y de fácil mantenimiento, este sistema proporciona una solucion eficiente y confiable para el transporte de productos. Además, su capacidad para adaptarse a una variedad de rangos de esquina ofrece flexibilidad en el diseño y la disposición en el espacio de trabajo.
+                        "descripcion": "Una cinta transportadora curva garantiza una operación silenciosa y estable, minimizando la vibración y asegurando la entrega precisa y duradera de productos sensibles. Su funcionamiento suave y fácil de manejar facilita la integración en cualquier línea de producción. Con una estructura simple y de fácil mantenimiento, este sistema proporciona una solucion eficiente y confiable para el transporte de productos. Además, su capacidad para adaptarse a una variedad de rangos de esquina ofrece flexibilidad en el diseño y la disposición en el espacio de trabajo.",
                         "aplicaciones": [
                             "• Industria alimentaria",
                             "• Industria farmacéutica",
@@ -2388,7 +2388,7 @@
                             "• Carga (kg): <10, <30" 
                         ],
                         "video": ""
-                    },
+                    }
                 ]
             },
             {
