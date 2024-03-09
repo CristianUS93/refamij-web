@@ -2038,6 +2038,43 @@
                 ]
             },
             {
+                "nombre": "Sorter",
+                "href": "/productos/Transportadores y Movimiento de Productos-Sorter",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Sorter",
+                        "href": "/productos/Sorter",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El sorter es un transportador del cual hacen pasar los productos por una ruta específica después de ser recuebiertos, gracias a la alta precisión de la cinta transportadora que permite una rápida división de cajas. Compuesto por un gran impulsor, guía e impulsado, este sistema utiliza una cinta transportadora no estándar para garantizar un transporte eficiente. Su función principal radica en la clasificación de objetos mediante señales de básculas, detectores de metales y lectores de código y cámara de vídeo. Distribuye los objetos de forma uniforme para su procesamiento posterior, conectando equipos de procesamiento y máquinas de embalaje, ajustando la cantidad según la capacidad o entrada requerida.",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Protección de productos",
+                            "• Reduccion de deslizamiento",
+                            "• Suavidad y estabilidad",
+                            "• Versatilidad"
+                        ],
+                        "especificaciones": [
+                            "• Fuente de alimentación: CA 220 V/sph, CA 380 V/trifásico",
+                            "• Altura del transportador (mm): 300-1500",
+                            "• Carga (kg):10",
+                            "• Nivel de ruido (dB): 85",
+                            "• Ancho del transportador W (mm)",
+                            "• Velocidad (m/min): ≤60",
+                            "• Potencia de motor: 0,75-3"
+                        ],
+                        "video": ""
+                    }
+                ]
+            },
+            {
                 "nombre": "Transportador de Paleta",
                 "href": "/productos/Transportadores y Movimiento de Productos-Transportador de Paleta",
                 "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO.png",
@@ -2430,11 +2467,11 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Transportador divisorio y combinador",
+                        "nombre": "Transportador sorter",
                         "href": "",
                         "img": [],
                         "docs": [],
-                        "descripcion": "El transportador de cadena proporcina flexibilidad en la disposición del equipo con diferentes tipos de tablas de cadena para adaptarse a distintas necesidades de transporte. Puede utilizarse para una sola fila en aplicaciones como etiquetado y llenado de bebidas, así como para múltiples filas en esterilizadores y enfriadores. Su diseño permite una transición de botella vacías y llenas.",
+                        "descripcion": "El sistema de transporte post-carcasa desvía producos según rutas específicas con alta precisión y velocidad rápida. Compuesto por grupos conductor, guía e impulsado, utiliza una cinta transportadora no estándar. Se emplea para clasificar objetos basandose en señales de básculas, detectores de metales, lectores de códigos y cámaras de vídeo. Distribuye objetos uniformemente entre máquinas posteriores, conecta equipos de procesamiento y envasadoras, ajustando la cantidad según diferentes entradas.",
                         "aplicaciones": [
                             "• Industria alimentaria",
                             "• Industria farmacéutica",
@@ -2452,18 +2489,192 @@
                         "especificaciones": [
                             "• Salida del motor (KW): 0,12; 0,18; 0,25; 0,37",
                             "• Material estructural: Perfil de alumunio AL, acero inoxidable SUS",
-                            "• Ancho de cadena W2 (mm): 63.5, 82.6, 114.3, 152.4, 190.5, 254",
-                            "• Ancho del transportador H (mm): 90-500",
-                            "• Altura del transportador H (mm): 700, se puede personalizar",
-                            "• Longitud del transportador L (mm): <30000",
-                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
-                            "• Velocidad: <45",
-                            "• Carga (kg): <50 (horizontal), <25 (vertical)"
+                            "• Ancho de cadena W2 (mm): 740, 900, 1000",
+                            "• Ancho del transportador W (mm): Personalizado según circunstacias específicas",
+                            "• Altura del transportador H (mm): 300-1500",
+                            "• Longitud del transportador L (mm): 1360, 1630, 2090, 2500",
+                            "• Fuente de alimentación: CA 220V/sph, AC 380V/3ph",
+                            "• Velocidad: <60",
+                            "• Carga (kg): 10",
+                            "• Nivel de ruido (dB): 85"
                         ],
                         "video": ""
                     }
                 ]
             },
+            {
+             "nombre": "Transportadora de superficie mate",
+                "href": "",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Cinta transportadora modular de plástico",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "La cinta transportadora modular de plástico ofrece una solución resistente y versátil para el transporte industrial. Con su diseño modular, es fácil de instalar y adaptar a diferentes configuraciones. Resistentes a la corrosión y a los productos químicos, proporciona una superficie de transporte suave y uniforme, ideal para una amplia gama de materiales. Es una opción confiable para entornos exigentes en la industria.
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad",
+                            "• Diseño modular",
+                            "• Versatilidad",
+                            "• Aplicabilidad amplia",
+                            "• Bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Salida del motor (KW): 0,2; 0,4; 0,75",
+                            "• Material estructural: Perfil de alumunio AL, acero inoxidable SUS",
+                            "• Ancho de cadena W2 (mm): 304,8-1143 (El aumento es 76,2",
+                            "• Ancho del transportador H (mm): W2 + 86",
+                            "• Altura del transportador H (mm): 800",
+                            "• Longitud del transportador L (mm): <10000",
+                            "• Fuente de alimentación: CA 220V/sph, AC 380V/3ph",
+                            "• Velocidad (m/min): <45",
+                            "• Tipo de cinturon modular: Cinturón de sobremesa, cinturón acanalado y cinturón con cuentas"
+                        ],
+                        "video": ""
+                    }, 
+                    {
+                        "nombre": "Transportador curvo con cinta modular de plástico",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El transportador curvo de cinta modular de plástico es una solución eficiente para el transporte de materiales en espacios con curvas. Su diseño modular permite un fácil instalación y configuración, adaptándose a diferentes trayectorias y diseños de transporte. Fabricado con módulos de plástico interconectados, ofrece una superficie de transporte duradera y resistente. La curvatura de la cinta facilita la manipulación de materiales alrededor de equinas, optimizando el espacio y flujo de trabajo. Con une estructura resistente a la corrosion y a los productos químicos.",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad",
+                            "• Diseño modular",
+                            "• Versatilidad",
+                            "• Aplicabilidad amplia",
+                            "• Bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Salida del motor (KW): 0,2; 0,4; 0,75",
+                            "• Material estructural: Perfil de alumunio AL, acero inoxidable SUS",
+                            "• Ancho de cadena W2 (mm): 304,8-609,6 (El aumento es 76,2)",
+                            "• Altura del transportador H (mm): 800",
+                            "• Radio interior r (mm): El mejor radio es 2,5 veces el ancho de la parte superior del tapete",
+                            "• Fuente de alimentación: CA 220V/sph, AC 380V/3ph",
+                            "• Velocidad (m/min): <45",
+                            "• Tipo de cinturón modular: Cinturón curvo de mesa"
+                        ],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+             "nombre": "Transportador de rodillos",
+                "href": "",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Transportador de rodillo por gravedad",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El transportador de rodillo por gravedad es una solución simple y flexible que ahorra mano de obra, liviana, económica y práctica. Las mercancías son impulsadas manualmente o se desplazan por gravedad en una inclinación específica. Ideal para ambientes interiores y cargas ligeras, es utilizado para el transporte y almacenamiento temporal de carga unitaria como cajas y fondos en superficie. Ampliamente aplicado en talleres, almacenes y centros logísticos, optimiza la eficiencia del flujo de trabajo y reduce costos operativos.
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad",
+                            "• Diseño modular",
+                            "• Versatilidad",
+                            "• Aplicabilidad amplia",
+                            "• Bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Material del rodillo: Tubo galvanizado CS, acero inoxidable SUS",
+                            "• Material estructural: Perfil de alumunio AL, acero inoxidable SUS",
+                            "• Ancho de cadena W2 (mm): 304,8-1143 (El aumento es 76,2) ",
+                            "• Altura del transportador H (mm): 800 (AL) 900 (CS, SUS)",
+                            "• Longitud del transportador L (mm): 2400mm"
+                            "• Tamaño del marco (mm): 80*40, 30*150 (AL) 90*40*2t (CS, SUS)"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Transportador de rodillo motorizado",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El transportador de rodillo motorizado es un sistema industrial que utiliza rodillos impulsados por un motor para el transporte automático de materiales en diversas aplicaciones, como almacenes y líneas de ensamblaje. Ofrece un movimiento controlado y eficiente de cargas, con capacidad de carga variable y fácil mantenimiento gracias a su diseño modular.",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad",
+                            "• Diseño modular",
+                            "• Versatilidad",
+                            "• Aplicabilidad amplia",
+                            "• Bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Fuente de alimentación: CA 220 V/sph, CA 380 V/trifásico",
+                            "• Material estructural: Perfil de alumunio AL, acero inoxidable SUS",
+                            "• Ancho de rodillo W2 (mm): 300-1000 (aumentado en 50)",
+                            "• Ancho del transportador W (mm): W2+136 (SUS), W2+140 (CS, AL)",
+                            "• Longitud del transportador L (mm): >1000",
+                            "• Altura del transportador H (mm): >200",
+                            "• Velocidad (m/min): <30",
+                            "• Carga (kg/m): <50",
+                            "• Tamaño del marco (mm): 120*40*2t"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Transportador de rodillo curvo",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El transportador de rodillo curvo es un sistema industrial que dirige materiales en trayectorias curvas. Utiliza rodillo para guiar y mover las cargas suavemente en direcciones específicas, facilitando la manipulación de objetos en espacios limitados o en líneas de producción con diseños curvos. Es ideal para optimizar el flujo de trabajo en almacenes, centro de distribución y plantas de fabricación.",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad",
+                            "• Diseño modular",
+                            "• Versatilidad",
+                            "• Aplicabilidad amplia",
+                            "• Bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Fuente de alimentación: CA 220 V/sph, CA 380 V/trifásico",
+                            "• Material estructural: Perfil de alumunio AL, acero inoxidable SUS",
+                            "• Ancho de rodillo W2 (mm): 300. 350, 400, 500, 600",
+                            "• Ancho del transportador W (mm): W2+122 (SUS), W2+126 (CS, AL)",
+                            "• Altura del transportador H (mm): >500",
+                            "• Velocidad central del rodillo (m/min): <30",
+                            "• Carga (kg/ud): <50",
+                            "• Radio interno r (mm): 400, 600, 800"
+                        ],
+                        "video": ""
+                    },
+                    
             {
                 "nombre": "Nestaflex",
                 "href": "/productos/Transportadores y Movimiento de Productos-Nestaflex",
@@ -2503,41 +2714,6 @@
                     }
                 ]
             },
-            {
-                "nombre": "Sorter",
-                "href": "/productos/Transportadores y Movimiento de Productos-Sorter",
-                "img": "",
-                "tipos": [
-                    {
-                        "nombre": "Sorter",
-                        "href": "/productos/Sorter",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "El sorter es un transportador del cual hacen pasar los productos por una ruta específica después de ser recuebiertos, gracias a la alta precisión de la cinta transportadora que permite una rápida división de cajas. Compuesto por un gran impulsor, guía e impulsado, este sistema utiliza una cinta transportadora no estándar para garantizar un transporte eficiente. Su función principal radica en la clasificación de objetos mediante señales de básculas, detectores de metales y lectores de código y cámara de vídeo. Distribuye los objetos de forma uniforme para su procesamiento posterior, conectando equipos de procesamiento y máquinas de embalaje, ajustando la cantidad según la capacidad o entrada requerida.",
-                        "aplicaciones": [
-                            "• Industria alimentaria",
-                            "• Industria farmacéutica",
-                            "• Industria química",
-                            "• Industria automotiz",
-                            "• Industria de empaquetado y envasado"
-                        ],
-                        "ventajas": [
-                            "• Protección de productos",
-                            "• Reduccion de deslizamiento",
-                            "• Suavidad y estabilidad",
-                            "• Versatilidad"
-                        ],
-                        "especificaciones": [
-                            "• Fuente de alimentación: CA 220 V/sph, CA 380 V/trifásico",
-                            "• Altura del transportador (mm): 300-1500",
-                            "• Carga (kg):10",
-                            "• Nivel de ruido (dB): 85",
-                            "• Ancho del transportador W (mm)",
-                            "• Velocidad (m/min): ≤60",
-                            "• Potencia de motor: 0,75-3"
-                        ],
-                        "video": ""
-                    }
                 ]
             }
         ]
