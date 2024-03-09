@@ -2155,21 +2155,9 @@
                     {
                         "nombre": "Transportador de Elevación Continuo",
                         "href": "/productos/Transportador de Elevación",
-                        "img": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/TRANSPORTACION-DE-ELEVACION-(3).png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-21.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-22.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-23.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-24.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-25.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/Sin-título-26.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/image (30).png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/image (31).png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR DE ELEVACION/image (32).png"
-                        ],
+                        "img": [ ],
                         "docs": [],
-                        "descripcion": "El transportador en espiral continuo es un sistema automatizado altamente eficiente que ofrece una entrada y entrega continua de mercancías sin depender de paletas, asegurando seguridad mediante dispositivos de seguridad. Permite entrada y salida desde todas las direcciones, facilitando la disposición del equipo en el taller. Transporta mercancías entre múltiples pisos, mejorando la eficiencia de la producción. Su flexibilidad se adapta a diversas industrias como electrodomésticos, alimentos, bebidas, entre otros.",
+                        "descripcion": "El transportador en elevación continuo es un sistema automatizado altamente eficiente que ofrece una entrada y entrega continua de mercancías sin depender de paletas, asegurando seguridad mediante dispositivos de seguridad. Permite entrada y salida desde todas las direcciones, facilitando la disposición del equipo en el taller. Transporta mercancías entre múltiples pisos, mejorando la eficiencia de la producción. Su flexibilidad se adapta a diversas industrias como electrodomésticos, alimentos, bebidas, entre otros.",
                         "aplicaciones": [
                             "• Industria alimentaria y bebidas",
                             "• Industria de electrodomésticos",
@@ -2179,7 +2167,7 @@
                         "ventajas": [
                             "• Eficiencia mejorada",
                             "• Flexibilidad en la configuración",
-                            "• Mayor eficiencia",
+                            "• Mayor productividad",
                             "• Mejor seguridad",
                             "• Transporte entre múltiples pisos"
                         ],
@@ -2223,85 +2211,91 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Polipasto de sujeción flexible",
+                        "nombre": "Transportador con pinzas de sujeción",
                         "href": "",
                         "img": [
                         ],
                         "docs": [],
-                        "descripcion": " ",
-                        "aplicaciones": [],
-                        "ventajas": [
-                            "• Eficiencia mejorada",
-                            "• Flexibilidad en la configuración",
-                            "• Mayor eficiencia",
-                            "• Mejor seguridad",
-                            "• Transporte entre múltiples pisos"
-                        ],
-                        "especificaciones": [
-                            "• Potencia del motor: 0,75-3 (con freno)",
-                            "• Material de la estructura: Perfil de aluminio Al, acero al carbono CS, acero inoxidable SUS",
-                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
-                            "• Ancho del transportador L (mm): Segun el tamaño del producto",
-                            "• Longitud del transportador L (mm): Segun el tamaño del producto",
-                            "• Altura del transferencia H2 (mm): <12000",
-                            "• Carga (kg): 50",
-                            "• Salida del motor (KW): 0.18-3.0"
-                        ],
-                        "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Transportador de Acumulación",
-                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de Acumulación",
-                "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. TRANSPORTADOR PARA ACUMULACION/TRANSPORTADOR-PARA-ACUMULACION.png",
-                "tipos": [
-                    {
-                        "nombre": "Transportador de Acumulación",
-                        "href": "/productos/Transportador de Acumulación",
-                        "img": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. TRANSPORTADOR PARA ACUMULACION/TRANSPORTADOR-PARA-ACUMULACION.png",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. TRANSPORTADOR PARA ACUMULACION/TRANSPORTADOR-PARA-ACUMULACION-(2).png"
-                        ],
-                        "docs": [],
-                        "descripcion": "El transportador de acumulación es un tipo de transportador utilizado en sistemas de manejor de materiales que permite la acumulación temporal de productos o materiales en la línea de producción sin detener el flujo general del transportador. Estos sistemas son especialmente útiles en situaciones donde es necesario mantener un flujo continuo de productos, pero tambien se requiere alguna forma de control de velocidad o la acumulación de productos en determinados puntos de la línea.",
+                        "descripcion": "Un transportador con pinzas de sujeción es un dispositivo diseñado para transportar diversos tipos de productos de forma segura y estable. Consiste en una serie de pinzas o garras que sujetan el producto mientras se mueve a lo largo del transportador, evitando que se caiga y manteniéndolo en equilibrio durante el transporte. Este tipo de transportador es especialmente útil en aplicaciones donde los productos tiene una formas irregulares, frágiles o inestables, ya que proporcionan un agarre firme y confiable, asegurando que los productos se mantengan en su lugar sin dañarse durante el proceso de transporte.",
                         "aplicaciones": [
-                            "• Acumulación controlada",
-                            "• Flexibilidad en el flujo de productos",
-                            "• Prevención de daños",
-                            "• Mejora de la eficiencia",
-                            "• Aplicaciones específicas"
+                            "• Industria alimentaria y bebidas",
+                            "• Industria química",
+                            "• Industria farmaceutica",
+                            "• Industria empaquetado",
+                            "• Industria logística"
                         ],
                         "ventajas": [
-                            "• Control de flujo",
-                            "• Acumulación temporal",
-                            "• Reducción de daños",
-                            "• Flexibilidad",
-                            "• Incremento de la productividad"
+                            "• Versatilidad",
+                            "• Mayor precisión",
+                            "• Mayor eficiencia",
+                            "• Mejor adaptabilidad",
+                            "• Mantenimiento reducido"
                         ],
                         "especificaciones": [
-                            "• Guia lateral co rodillos",
-                            "• Abrazadera doble",
-                            "• Soporte inoxidable",
-                            "• Superficie con rodillos",
-                            "• Con componentes de COBRA",
-                            "• Alto rendimiento"
+                            "• Ancho del transportador W (mm): 10 - 200",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Velocidad: ≤45",
+                            "• Longitud del transportador L (mm): 2230mm",
+                            "• Altura del transportador H (mm): 50-200",
+                            "• Carga (kg): ≤1",
+                            "• Material de la estructura: Perfil de aluminio Al",
+                            "• Salida del motor (KW): 0.37 - 0.75"
                         ],
                         "video": ""
                     }
                 ]
             },
             {
-                "nombre": "Transportador de Acero Inoxidable",
-                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de Acero Inoxidable",
+                "nombre": "Transportador flexible",
+                "href": "",
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Transportador de Acero Inoxidable",
-                        "href": "/productos/Transportador de Acero Inoxidable",
+                        "nombre": "Transportador flexible",
+                        "href": "",
                         "img": [],
                         "docs": [],
-                        "descripcion": "Un transportador de acero inoxidable es un tipo de transportador utilizado en aplicaciones industriales donde se requiere un material resistente, duradero y que cumpa con los estandares de higiene y limpieza. Estos transportadores están construidos principalmente con acero inoxidable, un material que ofrece una excelente resistencia a la corrosion, al desgaste y a la oxidación, lo que lo hace ideal para entornos exigentes como la industrial alimentaria, farmaceutica, química y otras industrias donde se requiere un alto nivel de higiene y limpieza",
+                        "descripcion": "El transportador flexible está hecho aluminio anodizado de alta densidad, proporcionando una estética atractiva. Su diseño modular permite un montaje y desmontaje sencillo por un solo operador, con la mayoría de las piezas en stock para una entrega rápida y rentable. Con un radio de giro pequeño, ofrece una escalada robusta, sistema esable y bajo nivel de ruido, sin contaminación. Su flexibilidad operativa permite convertirse en varios modos de transporte y realizar diversas funciones comoa acumulación, división, clasificación y combinación. Puede adaptarse a diferentes necesidades con la instalación de dispositivos de control automático, siendo ideal para empresas manufacutureras con alto estándares de higiene, espacio reducido y alta automatización. ",
+                        "aplicaciones": [
+                            "• Industria alimentaria y bebidas",
+                            "• Industria química",
+                            "• Industria farmaceutica",
+                            "• Industria empaquetado",
+                            "• Industria logística"
+                        ],
+                        "ventajas": [
+                            "• Adaptabilidad",
+                            "• Versatilidad",
+                            "• Espacio eficiente",
+                            "• Fácil instalación y reubicación",
+                            "• Reducción de accidentes"
+                        ],
+                        "especificaciones": [
+                            "• Ancho de cadena (mm): 44, 63, 83, 103, 140",
+                            "• Ancho del transportador W (mm): 45, 65, 85, 105, 145",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Velocidad: <60",
+                            "• Longitud del transportador L (mm): <30000",
+                            "• Altura del transportador H (mm): >300",
+                            "• Carga (kg): 10 (horizontal), 4 (vertical)",
+                            "• Material de la estructura: Perfil de aluminio Al, acero inoxidable SUS",
+                            "• Salida del motor (KW): Según el diseño"
+                        ],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Cintas transportadoras de PVC",
+                "href": "",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Cinta transportadora recta",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "La cinta transportadora recta es una solución versátil con una estructura simple y un diseño modular. Utiliza materiales duraderos como acero al carbono y aluminio anodizado, ofreciendo un funcionamiento estable y fácil mantenimiento. Puede transportar una amplia gama de artículos y es adecuado para industrias electrónicas, alimentarias, farmacéuticas y otras.",
                         "aplicaciones": [
                             "• Industria alimentaria",
                             "• Industria farmacéutica",
@@ -2311,34 +2305,31 @@
                         ],
                         "ventajas": [
                             "• Durabilidad",
-                            "• Higiene",
-                            "• Resistencia a la corrosión",
-                            "• Flexibilidad de diseño",
+                            "• Diseño modular",
+                            "• Versatilidad",
+                            "• Aplicabilidad amplia",
                             "• Bajo mantenimiento"
                         ],
                         "especificaciones": [
-                            "• Estructura robusta",
-                            "• Perfil de aluminio",
-                            "• Estructura de aluminio",
-                            "• Guía lateral con ajuste fino",
-                            "• Soporte reducido",
-                            "• Curva disco"
+                            "• Salida del motor (KW): 0,09; 0,18; 0,4"
+                            "• Ancho de banda W2 (mm): 100-600",
+                            "• Ancho del transportador W (mm): W2+125, W2+70",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Velocidad: <60",
+                            "• Longitud del transportador L (mm): 800-12000",
+                            "• Altura del transportador H (mm): 800",
+                            "• Carga (kg): <20",
+                            "• Material de la estructura: Perfil de aluminio Al, acero inoxidable SUS",
+                            "• Tipo de cinturón: Cinturón antiestático, poliuretano, PVC"
                         ],
                         "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Transportador con Superficie Engomada",
-                "href": "/productos/Transportadores y Movimiento de Productos-Transportador con Superficie Engomada",
-                "img": "",
-                "tipos": [
+                    },
                     {
-                        "nombre": "Transportador con Superficie Engomada",
-                        "href": "/productos/Transportador con Superficie Engomada",
+                        "nombre": "Cinta transportadora inclinada",
+                        "href": "",
                         "img": [],
                         "docs": [],
-                        "descripcion": "El transportador con Superficie Engomada, diseñada para aplicaciones especificas donde se requiere un transporte suave y seguro de productos delicados, frágiles o sensibles a los arañazos. Estos transportadores utilizan una banda o superficie recubierta con goma o material elastomérico para proporcionar una tracción adicional y proteger los productos durante el transporte. Aquí hay una descripción general de los transportadores con superficie engomada.",
+                        "descripcion": " Una cinta transportadora inclinada es un dispositivo que transporta materiales desde un punto inferior a uno superior, utilizando una banda continua o superficie similar. Su diseño permite el movimiento eficiente de materiales a lo largo de una pendiente, facilitando la transferencia de carga en aplicaciones donde se requiere elevación.",
                         "aplicaciones": [
                             "• Industria alimentaria",
                             "• Industria farmacéutica",
@@ -2347,18 +2338,127 @@
                             "• Industria de empaquetado y envasado"
                         ],
                         "ventajas": [
-                            "• Protección de productos",
-                            "• Reduccion de deslizamiento",
-                            "• Suavidad y estabilidad",
-                            "• Versatilidad"
+                            "• Durabilidad",
+                            "• Diseño modular",
+                            "• Versatilidad",
+                            "• Aplicabilidad amplia",
+                            "• Bajo mantenimiento"
                         ],
                         "especificaciones": [
-                            "• Pie de sustentacion con rueda giratoria",
-                            "• Serie 150 EMB, Serie 550 EMB, Serie 325 EMB, Componentes COBRA",
-                            "• Estructura robusta",
-                            "• Compatibilidad con productos sensibles",
-                            "• Sisema de limpieza",
-                            "• Acero inoxidable"
+                            "• Salida del motor (KW): 0,09; 0,18; 0,4"
+                            "• Ancho de banda W2 (mm): 100, 150-300",
+                            "• Ancho del transportador W (mm): W2+82",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Velocidad: <45",
+                            "• Longitud del transportador L (mm): L1=L3=400, L2=100, 1500, 2000, 2500-20000",
+                            "• Carga (kg): 50",
+                            "• Tamaño del marco (mm): 30'60 (perfil de aluminio AL), acero al carbono CS, acero inoxidable SUS",
+                            "• Tipo de cinturón: Poliuretano PU, PVC"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Cinta transportadora curva",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "Una cinta transportadora curva garantiza una operación silenciosa y estable, minimizando la vibración y asegurando la entrega precisa y duradera de productos sensibles. Su funcionamiento suave y fácil de manejar facilita la integración en cualquier línea de producción. Con una estructura simple y de fácil mantenimiento, este sistema proporciona una solucion eficiente y confiable para el transporte de productos. Además, su capacidad para adaptarse a una variedad de rangos de esquina ofrece flexibilidad en el diseño y la disposición en el espacio de trabajo.
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad",
+                            "• Diseño modular",
+                            "• Versatilidad",
+                            "• Aplicabilidad amplia",
+                            "• Bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Salida del motor (KW): 0,4; 0,75; 1,5",
+                            "• Material estructural: Perfil de alumunio AL, acero inoxidable SUS",
+                            "• Ancho de la correa W2 (mm): 200-600, 400-1000, 1000-1200",
+                            "• Altura del transportador H (mm): >500",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Velocidad: <45",
+                            "• Longitud del transportador L (mm): L1=L3=400, L2=100, 1500, 2000, 2500-20000",
+                            "• Carga (kg): <10, <30" 
+                        ],
+                        "video": ""
+                    },
+                ]
+            },
+            {
+                "nombre": "Transportador de cadena de mesa",
+                "href": "",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Transportador de cadena",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El transportador de cadena proporcina flexibilidad en la disposición del equipo con diferentes tipos de tablas de cadena para adaptarse a distintas necesidades de transporte. Puede utilizarse para una sola fila en aplicaciones como etiquetado y llenado de bebidas, así como para múltiples filas en esterilizadores y enfriadores. Su diseño permite una transición de botella vacías y llenas.",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad",
+                            "• Diseño modular",
+                            "• Versatilidad",
+                            "• Aplicabilidad amplia",
+                            "• Bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Salida del motor (KW): 0,12; 0,18; 0,25; 0,37",
+                            "• Material estructural: Perfil de alumunio AL, acero inoxidable SUS",
+                            "• Ancho de cadena W2 (mm): 63.5, 82.6, 114.3, 152.4, 190.5, 254",
+                            "• Ancho del transportador H (mm): 90-500",
+                            "• Altura del transportador H (mm): 700, se puede personalizar",
+                            "• Longitud del transportador L (mm): <30000",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Velocidad: <45",
+                            "• Carga (kg): <50 (horizontal), <25 (vertical)"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Transportador divisorio y combinador",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El transportador de cadena proporcina flexibilidad en la disposición del equipo con diferentes tipos de tablas de cadena para adaptarse a distintas necesidades de transporte. Puede utilizarse para una sola fila en aplicaciones como etiquetado y llenado de bebidas, así como para múltiples filas en esterilizadores y enfriadores. Su diseño permite una transición de botella vacías y llenas.",
+                        "aplicaciones": [
+                            "• Industria alimentaria",
+                            "• Industria farmacéutica",
+                            "• Industria química",
+                            "• Industria automotiz",
+                            "• Industria de empaquetado y envasado"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad",
+                            "• Diseño modular",
+                            "• Versatilidad",
+                            "• Aplicabilidad amplia",
+                            "• Bajo mantenimiento"
+                        ],
+                        "especificaciones": [
+                            "• Salida del motor (KW): 0,12; 0,18; 0,25; 0,37",
+                            "• Material estructural: Perfil de alumunio AL, acero inoxidable SUS",
+                            "• Ancho de cadena W2 (mm): 63.5, 82.6, 114.3, 152.4, 190.5, 254",
+                            "• Ancho del transportador H (mm): 90-500",
+                            "• Altura del transportador H (mm): 700, se puede personalizar",
+                            "• Longitud del transportador L (mm): <30000",
+                            "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
+                            "• Velocidad: <45",
+                            "• Carga (kg): <50 (horizontal), <25 (vertical)"
                         ],
                         "video": ""
                     }
