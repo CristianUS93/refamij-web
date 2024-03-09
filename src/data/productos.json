@@ -1868,17 +1868,17 @@
         "division": "Transportadores y Movimiento de Productos",
         "encargado": "Jorge Rojas",
         "phone": "51946038335",
-        "href": "/productos/Transportadores y Movimiento de Productos-Tangente Cero",
+        "href": "/productos/Transportadores y Movimiento de Productos-Transportadores en espiral",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
                 "nombre": "Transportadores en espiral",
-                "href": "/productos/Transportadores y Movimiento de Productos-Tangente Cero",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportadores en espiral",
                 "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-2.png",
                 "tipos": [
                     {
                         "nombre": "Tranportador en espiral para cajas",
-                        "href": "",
+                        "href": "/productos/Tranportador en espiral para cajas",
                         "img": [
                             ""
                         ],
@@ -2039,7 +2039,7 @@
             },
             {
                 "nombre": "Transportador de Paleta",
-                "href": "/productos/Transportador por Paleta",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de Paleta",
                 "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR RECTO/TRANSPORTADOR-RECTO.png",
                 "tipos": [
                     {
@@ -2111,7 +2111,7 @@
             },
             {
                 "nombre": "Transportador de cadena con varias velocidades",
-                "href": "",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de cadena con varias velocidades",
                 "img": "",
                 "tipos": [
                     {
@@ -2247,7 +2247,7 @@
             },
             {
                 "nombre": "Transportador flexible",
-                "href": "",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador flexible",
                 "img": "",
                 "tipos": [
                     {
@@ -2287,7 +2287,7 @@
             },
             {
                 "nombre": "Cintas transportadoras de PVC",
-                "href": "",
+                "href": "/productos/Transportadores y Movimiento de Productos-Cintas transportadoras de PVC",
                 "img": "",
                 "tipos": [
                     {
@@ -2393,7 +2393,7 @@
             },
             {
                 "nombre": "Transportador de cadena de mesa",
-                "href": "",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de cadena de mesa",
                 "img": "",
                 "tipos": [
                     {
