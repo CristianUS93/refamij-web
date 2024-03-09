@@ -368,30 +368,52 @@
                                 ]
                             },
                             {
-                                "nombre": "ENGRANAJE AR 38 BIPARTIDA SIN PESTAÑA",
+                                "nombre": "RUEDA 815 - 881 M ENTERIZA US",
                                 "imgs": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 BIPARTIDA SIN PESTAÑA.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "La RUEDA 815 - 881 M ENTERIZA US (Mecanizada) está disponible para aquellos que buscan ruedas plásticas macizas con dimensiones fuera del estándar, proporcionando una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales. Se utilizan con las CADENAS SERIE SSF y SSA 815 de COBRA.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Alta adhesión."
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Enteriza.",
+                                    "• Mecanizada en poliamida.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
                             },
                             {
-                                "nombre": "ENGRANAJE AR 38 BIPARTIDA US",
+                                "nombre": "RUEDA 815 - 881 M BIPARTIDA US",
                                 "imgs": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 BIPARTIDA US.png"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "La RUEDA 815 - 881 M BIPARTIDA US (Mecanizada) está disponible para aquellos que buscan ruedas plásticas macizas, proporcionando una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales. Se utilizan con las CADENAS SERIE SSF Y SSA 815 de COBRA.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Mecanizada en poliamida.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M8.",
+                                    "• Tuerca en Latón Niquelado DIN 934 M8.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
                             },
                             {
                                 "nombre": "RUEDA 881 M - 815 BIPARTIDA PU",
@@ -498,22 +520,34 @@
                         ]
                     },
                     {
-                        "nombre": "Ruedas para Cadenas Curvas Inoxidables",
+                        "nombre": "Ruedas para Cadenas Curvas",
                         "href": "/tienda/Cobra-Cadenas Metálicas-Ruedas para Cadenas Curvas Inoxidables",
                         "img": "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_curvas_inox/ENGRANAJE ACT _ ACM BIPARTIDA.jpg",
                         "modelos": [
                             {
-                                "nombre": "ENGRANAJE ACT ACM BIPARTIDA",
+                                "nombre": "RUEDA 815 - 881 M BIPARTIDA",
                                 "imgs": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_curvas_inox/ENGRANAJE ACT _ ACM BIPARTIDA.jpg"
                                 ],
                                 "docs": [],
-                                "descripcion": "",
-                                "aplicaciones": [],
+                                "descripcion": "Las RUEDAS 815 - 881 M BIPARTIDA fueron desarrolladas especialmente para ser utilizadas con las CADENAS SERIE SSF Y SSA 815 de COBRA, ofreciendo una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes. Además, están disponibles en una variedad de configuraciones como Z21, Z23 y Z25, y diámetros de eje que van desde 25 mm hasta 45 mm, con o sin chaveta.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración."
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
                                 "caracteristicas": [],
                                 "video": "",
-                                "ventajas": [],
-                                "especificaciones": []
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Inyectada en poliamida reforzada.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M6.",
+                                    "• Tuerca en Latón Niquelado DIN 934 M6.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1."
+                                ]
                             }
                         ]
                     }
