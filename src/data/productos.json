@@ -1968,18 +1968,178 @@
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Proyecto FESTO",
+                        "nombre": "Proyecto AirJelly ",
                         "href": "/productos/Proyecto FESTO",
                         "img": [],
                         "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
+                        "descripcion": "El AirJelly de Festo es una impresionante creación tecnológica que emula la elegante y fluida movilidad de las medusas en el agua. Este robot volador utiliza un innovador sistema de propulsión neumática para desplazarse en el aire con una sorprendete suavidad y eficiencia. Su diseño biomimético es una muestra de cómo la naturaleza inspira avances en la ingenieria y la robotica. El Airjelly no solo es una fascinante pieza de exhibición si no que también destaca el compromiso de Festo con la innovación y la exploración de nuevas fronteras en la tecnología.",
+                        "aplicaciones": [
+                            "• Demostraciones y exhibiciones",
+                            "• Investigación y desarrollo",
+                            "• Educación"
+                        ],
+                        "ventajas": [
+                            "• Movilidad suave",
+                            "• Eficiencia Energética",
+                            "• Inspiracion Biomimética"
+                        ],
                         "especificaciones": [],
                         "video": ""
-                    }
+                    },
+                    {
+                        "nombre": "eMotionButterflies / Mariposas roboticas",
+                        "href": "/productos/Proyecto FESTO",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El eMotionButterflies o las mariposas robot de Festo es una innovadora creación tecnológica que emula el vuelo natural de las mariposas mediante robot robóticos. Inspirado en la biomimética, estos robots están diseñados para reproducir con precisión el movimiento y la elegancia de las mariposas reales. Cada eMotionButterfly es una obra maestra de la ingeniería, equipada con sistemas de control autónomo y una estructura aerodinámica que le permite volar de manera fluida y coordinada en un entorno controlado.",
+                        "aplicaciones": [
+                            "• Entrenamiento y exhibiciones",
+                            "• Investigación y desarrollo",
+                            "• Educación"
+                        ],
+                        "ventajas": [
+                            "• Precisión en el vuelo",
+                            "• Potencial educativo",
+                            "• Biomimética Avanzada"
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "BionicMobileAssistant / Asistente Móvil biónico ",
+                        "href": "/productos/Proyecto FESTO",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El BionicMobileAssistant de Festo es un robot autónomo capaz de reconocer objetos, adaptarse a ellos y trabajar en colaboración con humanos. Utiliza inteligencia artificial y una red neuronal entrenada previamente para procesar información de manera eficiente. Festo enfoca en desarrollar sistemas de alivien a los trabajadores de tareas monótonas o peligrosas, utilizando la inteligencia artificial para una colaboracion segura y efectiva entre humanos y robots en el lugar de trabajo del futuro.",
+                        "aplicaciones": [
+                            "• Industria Manufacturera"
+                            "• Logística y almacenes",
+                            "• Asistencia en salud"
+                        ],
+                        "ventajas": [
+                            "• Autonomía",
+                            "• Eficiencia",
+                            "• Colaboración segura",
+                            "• Reducción de riesgos"
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Workplace",
+                        "href": "/productos/Proyecto FESTO",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El BionicWorkplace de Festo es un entorno de trabajo avanzado diseñado para la colaboración entre personas y robots con inteligenica artificial en la producción de lotes personalizados. El BionicCobot, un brazo robótico inspirado en la anatomía humana, lidera el sistema, trabajando junto a sistemas de asistencia y dispositivos periféricos interconectados. Utiliza inteligencia artificial y aprendizaje automático para optimizar sus operaciones continuamente. Este entorno ergonómico se adapta a las necesidades del operador, con un pantalla central que proporciona informacion relevante de manera dinámica.
+                         "aplicaciones": [   
+                            "• Fabricación personalizada",
+                            "• Tareas monótonas o peligrosas",
+                            "• Optimización continua"
+                        ],
+                        "ventajas": [
+                            "• Eficiencia mejorada",
+                            "• Personalización y adaptabilidad",
+                            "• Colaboración segura",                        
+                        ],
+                        "especificaciones": [],
+                        "video": 
+                        }
                 ]
             },
+            {
+                "nombre": "Aplicaciones",
+                "href": "",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Solucion de control de procesos",
+                        "href": "",
+                        "img": [
+                        ],
+                        "docs": [],
+                        "descripcion": "Una solución de control de procesos es un conjunto de herramientas y tecnologías utilizadas para supervisar, regular y optimizar procesos industriales. Incluye sistemas de control automatizado, software de supervisión, sensores y actuadores. Su objetivo es mejorar la eficiencia, la calidad y seguridad en la producción. Esto se logra mediante la monitorización en tiempo real de variables clave del proceso, la detección y corrección de desviaciones, y la optimización de parámetros. La solucion  de control de procesos contribuye a reducir costos operativos y minimizar riesgos de seguridad.
+                        "aplicaciones": [
+                            "• Industria manufacturera",
+                            "• Procesos quimicos y farmaceuticos",
+                            "• Sector alimentario"
+                        ],
+                        "ventajas": [
+                            "• Eficiencia mejorada",
+                            "• Mayor calidad",
+                            "• Seguridad",
+                            "• Reducción de costos"
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "De la neumática a la industria",
+                        "href": "",
+                        "img": [
+                        ],
+                        "docs": [],
+                        "descripcion": "Representa el progreso de la tecnología neumática desde su uso inicial en herramientas simples hasta su integración como una parte esencial de la industria moderna. Esta evolución ha permitido la automatización de procesos, el control preciso de maquinaria y equipos, y la mejora de la eficiencia y seguridad en diversos sectores industriales. Hoy en día, la reumática desempeña un papel crucial en la fabricación, la automoción y la robótica, contribuyendo al avance tecnológico y la optimización de procesos en la industria.",
+                        "aplicaciones": [
+                            "• Automatizacion industrial",
+                            "• Manipulación de materiales",
+                            "• Procesos de ensamblaje",
+                            "• Actuadores en maquinaria",
+                            "• Control de flujo",
+                            "• Seguridad"
+                        ],
+                        "ventajas": [
+                            "• Economía",
+                            "• Fiabilidad",
+                            "• Rapidez",
+                            "• Versatilidad"
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Desgasificación para celdas de bateria",
+                        "href": "",
+                        "img": [
+                        ],
+                        "docs": [],
+                        "descripcion": "La desgasificación en celdas de batería evita acumulaciones peligrosas de gases como hidrógeno y oxígeno, comunes en baterías de iones de litio. Utiliza sistemas de ventilación o dispositivos especializados para eliminar gases durante la carga y descarga de manera controlada, garantizando seguridad y fiabilidad. Crucial en aplicaciones electrónicas, vehículos eléctricos y sistemas de almacenamiento de energía. Monitoreo constante de niveles de gas y eficacia del sistema son esenciales para mantener la seguridad y rendimiento óptimo de las baterías",
+                        "aplicaciones": [
+                            "• Industria automotriz",
+                            "• Electronica de consumo",
+                            "• Almacenamiento de energía",
+                            "• Aplicaciones industriales",
+                        ],
+                        "ventajas": [
+                            "• Seguridad mejorada",
+                            "• Fiabilidad",
+                            "• Mayor vida útil",
+                            "• compatibilidad"
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Smart Cubic / Cubo inteligente",
+                        "href": "",
+                        "img": [
+                        ],
+                        "docs": [],
+                        "descripcion": "El CPV Smart Cubic es un terminal de válvulas compacto y versátil, con opciones de 4,8,12 o 16 posiciones de válvula, ideal para espacios reducidos y montaje en carril DIN. Ofrece una amplia gama de funciones seleccionables, incluyendo variantes de 5/2 vías monoestables o biestables, asi como 3/2 vías normalmente cerradas o abiertas, y 2/2 vías normalmente cerradas. Con opciones de conexión para conexiones neumáticas y eléctricas, cuenta con salidas neumáticas orientadas en el frente y varias opciones de conexión eléctrica. Además, presenta etiquetas de inscripción multifuncionales y soportes para etiquetado permanente, facilitando su instalación y mantenimiento",
+                        "aplicaciones": [
+                            "• Automatización industrial",
+                            "• Procesos de fabricación",
+                            "• Sistemas de transporte"
+                        ],
+                        "ventajas": [
+                            "• Compacto y versátil",
+                            "• Flexibilidad funcional",
+                            "• Conexiones convenientes",
+                            "• Fácil instalación y mantenimiento"
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    
             {
                 "nombre": "Proyecto DELTA",
                 "href": "/productos/Automatización, Robots y Desarrollo de Proyectos-Proyecto DELTA",
