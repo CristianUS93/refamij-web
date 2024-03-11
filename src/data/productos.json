@@ -1631,13 +1631,156 @@
                 ]
             },
             {
-                "nombre": "Tomadores y Accesorios",
+                "nombre": "Suministros",
                 "href": "",
                 "img": "",
                 "tipos": []
-            }
+                "docs": [],
+                        {
+                        "nombre": "Hilos industriales",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "Nuestros hilos industriales de la marca Fischbein son conocidos por su resistencia y confiabilidad. Ofrecemos costuras fuertes y duraderas que garantizan la calidad en cada producto que confecciona.",
+                        "aplicaciones": [
+                            "• Costura de tejidos pesado como lona, cuero, lonas de camion, bolsas de arpillera, entre otros.",
+                            "• Fabricación de sacos, bolsas, tapicería para muebles, toldos, carpas, entre otros",
+                            "• Aplicaciones en la industria de construcción, agricultura, transporte y embalaje"
+                        ],
+                        "ventajas": [
+                            "• Resistencia superior",
+                            "• Variedad de opciones: como colores, grosores y materiales",
+                            "• Calidad consistente"
+                        ],
+                        "especificaciones":
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Agujas industriales",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "Las agujas industriales de Fischbein son precisas y robustas, ideales para la costura en entornos de alta exigencia. Fabricadas con materiales de alta calidad, garantizan una costura eficiente y sin problemas en una amplia variedad de tejidos y aplicaciones.",
+                         "aplicaciones": [
+                            "• Costura de tejidos pesado como lona, cuero, lonas de camion, entre otros.",
+                            "• Reparacion de bolsas y sacos industriales",
+                            "• Aplicaciones en la industria de la marroquinería, la tapicería, la fabricación de calzado, la automotriz y la marítima"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad excepcional",
+                            "• Precisión y flexibilidad";
+                            "• Compatibilidad versátil"
+                        ],
+                        "especificaciones":
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Aceite industrial",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "Nuestro aceite industrial Fischbein está especialmente formulado para lubricar y proteger los mecanismos de su maquina. Con una fórmula de alto rendimiento con el que asegura un funcionamiento suave y prolonga la vida útil de sus equipos, manteniendo la productividad de su línea de producción",
+                         "aplicaciones": [
+                            "• Lubricación de componentes móviles como cosedoras, máquinas de embalaje, equipos de corte y perforación",
+                            "• Mantimiento de motores, transmisiones y sistemas de transmisión de potencia en entornos industriales",
+                            "• Aplicaciones en la industria textil, alimentaria, automotriz, metalpurgica, entre otras"
+                        ],
+                        "ventajas": [
+                            "• Lubricación efectiva",
+                            "• Protección contra la corrosión",
+                            "• Seguridad y compatibilidad"
+                        ],
+                        "especificaciones":
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Agujas industriales",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "Las agujas industriales de Fischbein son precisas y robustas, ideales para la costura en entornos de alta exigencia. Fabricadas con materiales de alta calidad, garantizan una costura eficiente y sin problemas en una amplia variedad de tejidos y aplicaciones.",
+                         "aplicaciones": [
+                            "• Costura de tejidos pesado como lona, cuero, lonas de camion, entre otros.",
+                            "• Reparacion de bolsas y sacos industriales",
+                            "• Aplicaciones en la industria de la marroquinería, la tapicería, la fabricación de calzado, la automotriz y la marítima"
+                        ],
+                        "ventajas": [
+                            "• Durabilidad excepcional",
+                            "• Precisión y flexibilidad";
+                            "• Compatibilidad versátil"
+                        ],
+                        "especificaciones":
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Accesorios",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "Nuestros accesorios, como los colgadores para cosedoras portátiles, están diseñado para mejorar la eficiencia y la comodidad en su lugar de trabajo. Los colgadores Fischbein proporcionan una solución práctica para mantener su equipo organizado y al alcance durante las operaciones de costura, optimizando así el flujo de trabajo y la productividad.",
+                         "aplicaciones": [
+                            "• Organización de cosedoras portatiles"
+                        ],
+                        "ventajas": [
+                            "• Organización y eficiencia",
+                            "• Diseño robusto",
+                            "• Fácil instalación y versatilidad"
+                        ],
+                        "especificaciones":
+                        "video": ""
+                    },
         ]
     },
+    {
+                "nombre": "Repuestos",
+                "href": "",
+                "img": "",
+                "tipos": []
+                "docs": [],
+                        {
+                        "nombre": "Cabezal de costura",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "Contamos con los repuesto para los cabezales de costura Fischbein. Nuestro inventario incluye agujas, placas de aguja, presantelas, cuchillas de corte, correas de transmision, engranaje y poleas, sensores y componentes electricos tambien con manuales de servicio.",
+                        "aplicaciones": [
+                            "• Industria textil",
+                            "• Industria Automotriz",
+                            "• Industria de Calzado",
+                            "• Industria de los productos de cuero"
+                        ],
+                        "ventajas": [
+                            "• Mantenimeinto eficiente",
+                            "• Minimización de tiempos de inactividad",
+                            "• Reducción de costos de producción",
+                            "• Flexibilidad y adaptabilidad",
+                            "• Mejora del rendimiento operativo"
+                        ],
+                        "especificaciones":
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Cosedora portátil",
+                        "href": "",
+                        "img": [""],
+                        "docs": [],
+                        "descripcion": "Contamos con repuesto específicos para la cosedora portátil. Sabemos lo importante que es mantener tu equipo en óptimas condiciones de funcionamiento para garantizar una producción sin interrupciones y de alta calidad. Nuestros inventario incluye agujas, prensatelas, cuchilla de core, correas de transmisión y mucho más. Todos nuestros repuestos son genuinos de Fischbein, lo que garantiza la compatibilidad y la calidad que necesitas para mantener tu equipo funcionando de manera eficiente.",
+                        "aplicaciones": [
+                            "• Industria textil",
+                            "• Industria Automotriz",
+                            "• Industria de Calzado",
+                            "• Industria de los productos de cuero"
+                        ],
+                        "ventajas": [
+                            "• Mantenimeinto eficiente",
+                            "• Minimización de tiempos de inactividad",
+                            "• Reducción de costos de producción",
+                            "• Flexibilidad y adaptabilidad",
+                            "• Mejora del rendimiento operativo"
+                        ],
+                        "especificaciones":
+                        "video": ""
+                    },
     {
         "division": "Aplicadores de Etiquetas y Sleeve",
         "encargado": "Jorge Rojas",
