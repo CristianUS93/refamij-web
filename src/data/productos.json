@@ -2144,11 +2144,78 @@
                             "• Peso (sin controlador: 21kg"
                         ],
                         "video": ""
+                      }
+                    ]
+                   },
+                {
+                        "nombre": "Robots Articulado DRV70L",
+                        "href": "/productos/Proyecto DELTA",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El robot articulado de seis ejes de Delta es altamente flexible y cuenta con un diseño hueco de la muñeca del robot para cableado y colocación de herramientas, múltiples opciones de instalación y una interfaz fácil de usar. Es ideal para una amplia gama de industrias, incluyendo electrónica, preocesamiento de metales, caucho y plásticos, entre otros, y puede realizar una variedad de tareas como inspección, ensamblaje paletizado, soldadura y más. Ofrecemos una integración sencialla con competentes clave y dispositivos periféricos, lo que permite establecer sistemas de control eficientes. Además, nuestras estaciones de trabajo robóticas altamente integradas mejora la eficiencia de producción, reducen los costos laborales y son fáciles de operar. ",
+                        "aplicaciones": [
+                            "• Soldadura",
+                            "• Inserción",
+                            "• Asamblea",
+                            "• Dispensación de pegamento",
+                            "• Paletizado e inspeccion"
+                        ],
+                        "ventajas": [
+                            "• Alta precisión y velocidad",
+                            "• Diseño hueco de la muñeca del robot para cableado y colocación de herramientas",
+                            "• Diseño de cuerpo delgado y compacto: Ancho total 235mm y huella 190*190mm",
+                            "• Combina con dispositivos clave Delta para mantenimiento e integración rápidos"
+                        ],
+                        "especificaciones": [
+                            "• Máximo rando de trabajo: 710 mm",
+                            "• Máximo de carga útil: 7k",
+                            "• Rango de movimiento: ±170°",
+                            "• Máximo de velocidad: 450°/segundo",
+                            "• Máximo de inercia permitida: 0,47 kg*m²",
+                            "• Tiempo de ciclo estándar: 0,31s",
+                            "• Repetibilidad: ±0,02mm",
+                            "• Huella: conector",
+                            "• Ambiente: 0°C- 40°C",
+                            "• Humedad: 20-85% HR",
+                            "• Vibración: 0.5G"
+                        ],
+                        "video": "" 
                     },
-                ]
-            }
-        ]
-    },
+                    {
+                        "nombre": "Robots Articulado DRV90L",
+                        "href": "/productos/Proyecto DELTA",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "El robot articulado de seis ejes de Delta es altamente flexible y cuenta con un diseño hueco de la muñeca del robot para cableado y colocación de herramientas, múltiples opciones de instalación y una interfaz fácil de usar. Es ideal para una amplia gama de industrias, incluyendo electrónica, preocesamiento de metales, caucho y plásticos, entre otros, y puede realizar una variedad de tareas como inspección, ensamblaje paletizado, soldadura y más. Ofrecemos una integración sencialla con competentes clave y dispositivos periféricos, lo que permite establecer sistemas de control eficientes. Además, nuestras estaciones de trabajo robóticas altamente integradas mejora la eficiencia de producción, reducen los costos laborales y son fáciles de operar. ",
+                        "aplicaciones": [
+                            "• Soldadura",
+                            "• Inserción",
+                            "• Asamblea",
+                            "• Dispensación de pegamento",
+                            "• Paletizado e inspeccion"
+                        ],
+                        "ventajas": [
+                            "• Alta precisión y velocidad",
+                            "• Diseño hueco de la muñeca del robot para cableado y colocación de herramientas",
+                            "• Diseño de cuerpo delgado y compacto: Ancho total 235mm y huella 190*190mm",
+                            "• Combina con dispositivos clave Delta para mantenimiento e integración rápidos"
+                        ],
+                        "especificaciones": [
+                            "• Máximo rango de trabajo: 710 mm",
+                            "• Máximo de carga útil: 7k",
+                            "• Rango de movimiento: ±170°",
+                            "• Máximo de velocidad: 450°/segundo",
+                            "• Máximo de inercia permitida: 0,47 kg*m²",
+                            "• Tiempo de ciclo estándar: 0,31s",
+                            "• Repetibilidad: ±0,02mm",
+                            "• Huella: conector",
+                            "• Ambiente: 0°C- 40°C",
+                            "• Humedad: 20-85% HR",
+                            "• Vibración: 0.5G"
+                        ],
+                        "video": "" 
+                    },
+                         
     {
         "division": "Transportadores y Movimiento de Productos",
         "encargado": "Jorge Rojas",
