@@ -1991,11 +1991,160 @@
                         "img": [],
                         "docs": [],
                         "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
+                        "aplicaciones": [
+                            "• Industrias Electrónica y electricidad",
+                            "• Industria de consumo",
+                            "• Inserción, atornillado, montaje",
+                            "• Dosificación de pegamento, soldadura, carga y descarga",
+                            "• Apilado e inspección"
+                        ],
+                        "ventajas": [
+                            "• Funcion de control de cumplimiento sin sensores",
+                            "• Múltiples métodos de enseñanza y enseñanza directa",
+                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad",
+                        ],
+                        "especificaciones": [
+                            "• Número de ejes: 4",
+                            "• Longitud de brazo (X + Y): 400mm",
+                            "• Clasificador Máx. Carga 1kg/3kg",
+                            "• Velociad máxima: 4.710mm/s",
+                            "• Rango de movimiento: ±130°",
+                            "• Tiempo de ciclo estandar: 0.42 sec",
+                            "• Fuerza de empuje (J3): 100/250N",
+                            "• Peso: 16kg"
+                        ],
                         "video": ""
-                    }
+                    },
+                    {
+                        "nombre": "Robots SCARA SERIE DRS40C4",
+                        "href": "/productos/Proyecto DELTA",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
+                        "aplicaciones": [
+                            "• Industrias Electrónica y electricidad",
+                            "• Industria de consumo",
+                            "• Inserción, atornillado, montaje",
+                            "• Dosificación de pegamento, soldadura, carga y descarga",
+                            "• Apilado e inspección"
+                        ],
+                        "ventajas": [
+                            "• Funcion de control de cumplimiento sin sensores",
+                            "• Múltiples métodos de enseñanza y enseñanza directa",
+                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad",
+                        ],
+                        "especificaciones": [
+                            "• Número de ejes: 4",
+                            "• Montaje: Mesa",
+                            "• Longitud de brazo (X + Y): 400mm",
+                            "• Clasificador Máx. Carga 1kg/4kg",
+                            "• Velociad máxima: 4.710mm/s",
+                            "• Rango de movimiento: ±130°",
+                            "• Tiempo de ciclo estandar: 0.42 segundos",
+                            "• Temperatura ambiente: 5~40°C (41~104°F)",
+                            "• Peso (sin controlador: 16kg"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Robots SCARA SERIE DRS60L6",
+                        "href": "/productos/Proyecto DELTA",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
+                        "aplicaciones": [
+                            "• Industrias Electrónica y electricidad",
+                            "• Industria de consumo",
+                            "• Inserción, atornillado, montaje",
+                            "• Dosificación de pegamento, soldadura, carga y descarga",
+                            "• Apilado e inspección"
+                        ],
+                        "ventajas": [
+                            "• Funcion de control de cumplimiento sin sensores",
+                            "• Múltiples métodos de enseñanza y enseñanza directa",
+                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad",
+                        ],
+                        "especificaciones": [
+                            "• Número de ejes: 3, 4, 5",
+                            "• Montaje: Mesa",
+                            "• Longitud de brazo (X + Y): 600mm",
+                            "• Clasificador Máx. Carga 2kg/6kg, 1kg/3kg",
+                            "• Velociad máxima: 5000mm/s",
+                            "• Rango de movimiento: ±133°",
+                            "• Tiempo de ciclo estandar: 0.39 segundos",
+                            "• Temperatura ambiente: 5~40°C (41~104°F)",
+                            "• Peso (sin controlador: 20kg"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Robots SCARA SERIE DRS60L6SS2",
+                        "href": "/productos/Proyecto DELTA",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
+                        "aplicaciones": [
+                            "• Industrias Electrónica y electricidad",
+                            "• Industria de consumo",
+                            "• Inserción, atornillado, montaje",
+                            "• Dosificación de pegamento, soldadura, carga y descarga",
+                            "• Apilado e inspección"
+                        ],
+                        "ventajas": [
+                            "• Funcion de control de cumplimiento sin sensores",
+                            "• Varias herramientas de enseñanza y funcionamiento intuitivo",
+                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad",
+                            "• Menos espacio de montaje: reducción del 18% en el límite de altura de montaje y reducción del 50% en la salida del conector de cable",
+                            "• La inercia aumentó en un 375% para aplicaciones versátiles",
+                            "• Conector ethernet en el antebrazo para facilitar cableado"
+                        ],
+                        "especificaciones": [
+                            "• Número de ejes: 4,
+                            "• Montaje: Mesa",
+                            "• Longitud de brazo (X + Y): 600mm",
+                            "• Clasificador Máx. Carga 2kg/6kg",
+                            "• Velociad máxima: 6000mm/s",
+                            "• Rango de movimiento: ±153°",
+                            "• Tiempo de ciclo estandar: 0.38 segundos",
+                            "• Temperatura ambiente: 5~40°C (41~104°F)",
+                            "• Peso (sin controlador: 21kg"
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Robots SCARA SERIE DRS60L6SS2",
+                        "href": "/productos/Proyecto DELTA",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
+                        "aplicaciones": [
+                            "• Industrias Electrónica y electricidad",
+                            "• Industria de consumo",
+                            "• Inserción, atornillado, montaje",
+                            "• Dosificación de pegamento, soldadura, carga y descarga",
+                            "• Apilado e inspección"
+                        ],
+                        "ventajas": [
+                            "• Funcion de control de cumplimiento sin sensores",
+                            "• Varias herramientas de enseñanza y funcionamiento intuitivo",
+                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad",
+                            "• Menos espacio de montaje: reducción del 18% en el límite de altura de montaje y reducción del 50% en la salida del conector de cable",
+                            "• La inercia aumentó en un 375% para aplicaciones versátiles",
+                            "• Conector ethernet en el antebrazo para facilitar cableado"
+                        ],
+                        "especificaciones": [
+                            "• Número de ejes: 4,
+                            "• Montaje: Mesa",
+                            "• Longitud de brazo (X + Y): 600mm",
+                            "• Clasificador Máx. Carga 2kg/6kg",
+                            "• Velociad máxima: 6000mm/s",
+                            "• Rango de movimiento: ±153°",
+                            "• Tiempo de ciclo estandar: 0.38 segundos",
+                            "• Temperatura ambiente: 5~40°C (41~104°F)",
+                            "• Peso (sin controlador: 21kg"
+                        ],
+                        "video": ""
+                    },
                 ]
             }
         ]
