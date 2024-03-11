@@ -2192,7 +2192,7 @@
                     {
                         "nombre": "Transportador de Elevación Continuo",
                         "href": "/productos/Transportador de Elevación",
-                        "img": [ ],
+                        "img": [],
                         "docs": [],
                         "descripcion": "El transportador en elevación continuo es un sistema automatizado altamente eficiente que ofrece una entrada y entrega continua de mercancías sin depender de paletas, asegurando seguridad mediante dispositivos de seguridad. Permite entrada y salida desde todas las direcciones, facilitando la disposición del equipo en el taller. Transporta mercancías entre múltiples pisos, mejorando la eficiencia de la producción. Su flexibilidad se adapta a diversas industrias como electrodomésticos, alimentos, bebidas, entre otros.",
                         "aplicaciones": [
@@ -2223,8 +2223,7 @@
                     {
                         "nombre": "Transportador de Elevación Alternativa",
                         "href": "",
-                        "img": [
-                        ],
+                        "img": [],
                         "docs": [],
                         "descripcion": "",
                         "aplicaciones": [],
@@ -2250,8 +2249,7 @@
                     {
                         "nombre": "Transportador con pinzas de sujeción",
                         "href": "",
-                        "img": [
-                        ],
+                        "img": [],
                         "docs": [],
                         "descripcion": "Un transportador con pinzas de sujeción es un dispositivo diseñado para transportar diversos tipos de productos de forma segura y estable. Consiste en una serie de pinzas o garras que sujetan el producto mientras se mueve a lo largo del transportador, evitando que se caiga y manteniéndolo en equilibrio durante el transporte. Este tipo de transportador es especialmente útil en aplicaciones donde los productos tiene una formas irregulares, frágiles o inestables, ya que proporcionan un agarre firme y confiable, asegurando que los productos se mantengan en su lugar sin dañarse durante el proceso de transporte.",
                         "aplicaciones": [
@@ -2422,7 +2420,7 @@
                             "• Fuente de alimentación: AC 220V/sph, AC 380V/3ph",
                             "• Velocidad: <45",
                             "• Longitud del transportador L (mm): L1=L3=400, L2=100, 1500, 2000, 2500-20000",
-                            "• Carga (kg): <10, <30" 
+                            "• Carga (kg): <10, <30"
                         ],
                         "video": ""
                     }
@@ -2503,7 +2501,7 @@
                 ]
             },
             {
-             "nombre": "Transportadora de superficie mate",
+                "nombre": "Transportadora de superficie mate",
                 "href": "",
                 "img": "",
                 "tipos": [
@@ -2512,7 +2510,7 @@
                         "href": "",
                         "img": [],
                         "docs": [],
-                        "descripcion": "La cinta transportadora modular de plástico ofrece una solución resistente y versátil para el transporte industrial. Con su diseño modular, es fácil de instalar y adaptar a diferentes configuraciones. Resistentes a la corrosión y a los productos químicos, proporciona una superficie de transporte suave y uniforme, ideal para una amplia gama de materiales. Es una opción confiable para entornos exigentes en la industria.
+                        "descripcion": "La cinta transportadora modular de plástico ofrece una solución resistente y versátil para el transporte industrial. Con su diseño modular, es fácil de instalar y adaptar a diferentes configuraciones. Resistentes a la corrosión y a los productos químicos, proporciona una superficie de transporte suave y uniforme, ideal para una amplia gama de materiales. Es una opción confiable para entornos exigentes en la industria.",
                         "aplicaciones": [
                             "• Industria alimentaria",
                             "• Industria farmacéutica",
@@ -2539,7 +2537,7 @@
                             "• Tipo de cinturon modular: Cinturón de sobremesa, cinturón acanalado y cinturón con cuentas"
                         ],
                         "video": ""
-                    }, 
+                    },
                     {
                         "nombre": "Transportador curvo con cinta modular de plástico",
                         "href": "",
@@ -2575,7 +2573,7 @@
                 ]
             },
             {
-             "nombre": "Transportador de rodillos",
+                "nombre": "Transportador de rodillos",
                 "href": "",
                 "img": "",
                 "tipos": [
@@ -2584,7 +2582,7 @@
                         "href": "",
                         "img": [],
                         "docs": [],
-                        "descripcion": "El transportador de rodillo por gravedad es una solución simple y flexible que ahorra mano de obra, liviana, económica y práctica. Las mercancías son impulsadas manualmente o se desplazan por gravedad en una inclinación específica. Ideal para ambientes interiores y cargas ligeras, es utilizado para el transporte y almacenamiento temporal de carga unitaria como cajas y fondos en superficie. Ampliamente aplicado en talleres, almacenes y centros logísticos, optimiza la eficiencia del flujo de trabajo y reduce costos operativos.
+                        "descripcion": "El transportador de rodillo por gravedad es una solución simple y flexible que ahorra mano de obra, liviana, económica y práctica. Las mercancías son impulsadas manualmente o se desplazan por gravedad en una inclinación específica. Ideal para ambientes interiores y cargas ligeras, es utilizado para el transporte y almacenamiento temporal de carga unitaria como cajas y fondos en superficie. Ampliamente aplicado en talleres, almacenes y centros logísticos, optimiza la eficiencia del flujo de trabajo y reduce costos operativos.",
                         "aplicaciones": [
                             "• Industria alimentaria",
                             "• Industria farmacéutica",
@@ -2604,7 +2602,7 @@
                             "• Material estructural: Perfil de alumunio AL, acero inoxidable SUS",
                             "• Ancho de cadena W2 (mm): 304,8-1143 (El aumento es 76,2) ",
                             "• Altura del transportador H (mm): 800 (AL) 900 (CS, SUS)",
-                            "• Longitud del transportador L (mm): 2400mm"
+                            "• Longitud del transportador L (mm): 2400mm",
                             "• Tamaño del marco (mm): 80*40, 30*150 (AL) 90*40*2t (CS, SUS)"
                         ],
                         "video": ""
@@ -2674,16 +2672,12 @@
                         ],
                         "video": ""
                     },
-                    
-            {
-                "nombre": "Nestaflex",
-                "href": "/productos/Transportadores y Movimiento de Productos-Nestaflex",
-                "img": "",
-                "tipos": [
                     {
                         "nombre": "Nestaflex",
                         "href": "/productos/Nestaflex",
-                        "img": [],
+                        "img": [
+                            ""
+                        ],
                         "docs": [],
                         "descripcion": "Diseñado para expandirse, contrarse y moverse fácilmente, el Nestaflex 226 es un transportador de ruedas con patines de gravedad y seguimiento automático que tiene una capacidad por pie lineal de 226 libras. Esta unidad esta diseñada para manejar cajas de varios tamaños en aplicaciones de volumen bajo a medio. La construcción totalmente de acero proporciona una integrada estructural inigualaba ya sea que el transportador esté extendido, compactado o configurado en curvas simples o compuestas. Las patas interiores ajustables varían en altura para lograr el flujo por gravedad.",
                         "aplicaciones": [
@@ -2712,8 +2706,6 @@
                         ],
                         "video": ""
                     }
-                ]
-            },
                 ]
             }
         ]
