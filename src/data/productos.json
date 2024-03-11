@@ -234,8 +234,8 @@
                 ]
             },
             {
-                "nombre": "Dosificador Gravimétrico",
-                "href": "/productos/Envasadoras e Inspección-Dosificador Gravimétrico",
+                "nombre": "Dosificador",
+                "href": "/productos/Envasadoras e Inspección-Dosificador",
                 "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/Dosificador-Gravimétrico-con-Motorreductor-y-Canaleta-Vibrante.png",
                 "tipos": [
                     {
@@ -325,14 +325,7 @@
                             "• Neumática estándar ISO"
                         ],
                         "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Dosificador",
-                "href": "/productos/Envasadoras e Inspección-Dosificador",
-                "img": "",
-                "tipos": [
+                    },
                     {
                         "nombre": "Dosificador Canaleta o Tornillo Lineal",
                         "href": "/productos/Dosificador Gravimétrico con Servorreductor",
@@ -1126,12 +1119,12 @@
             },
             {
                 "nombre": "Selladoras de aire caliente",
-                "href": "",
+                "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Selladoras de aire caliente",
                 "img": "",
                 "tipos": [
                     {
                         "nombre": "Supersealer SS1",
-                        "href": "",
+                        "href": "/productos/Supersealer SS1",
                         "img": [
                             ""
                         ],
@@ -1163,7 +1156,7 @@
                     },
                     {
                         "nombre": "Supersealer SS2",
-                        "href": "",
+                        "href": "/productos/Supersealer SS2",
                         "img": [
                             ""
                         ],
@@ -1195,7 +1188,7 @@
                     },
                     {
                         "nombre": "Supersealer SS2 WD",
-                        "href": "",
+                        "href": "/productos/Supersealer SS2 WD",
                         "img": [
                             ""
                         ],
@@ -1228,7 +1221,7 @@
                     },
                     {
                         "nombre": "Supersealer SS4",
-                        "href": "",
+                        "href": "/productos/Supersealer SS4",
                         "img": [
                             ""
                         ],
@@ -1263,12 +1256,12 @@
             },
             {
                 "nombre": "Selladoras de banda",
-                "href": "",
+                "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Selladoras de banda",
                 "img": "",
                 "tipos": [
                     {
                         "nombre": "Supersealer SB10",
-                        "href": "",
+                        "href": "/productos/Supersealer SB10",
                         "img": [
                             ""
                         ],
@@ -1300,7 +1293,7 @@
                     },
                     {
                         "nombre": "Supersealer SB20",
-                        "href": "",
+                        "href": "/productos/Supersealer SB20",
                         "img": [
                             ""
                         ],
@@ -1332,7 +1325,7 @@
                     },
                     {
                         "nombre": "Supersealer SB20WD",
-                        "href": "",
+                        "href": "/productos/Supersealer SB20WD",
                         "img": [
                             ""
                         ],
@@ -1873,14 +1866,23 @@
         "productos": [
             {
                 "nombre": "Transportadores en espiral",
-                "href": "/productos/Transportadores y Movimiento de Productos-Transportadores en espiral",
+                "href": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/1. TRANSPORTADOR ESPIRAL PARA CAJAS PRINCIPAL.jpg",
                 "img": "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TANGENTE CERO/COBRA_Catalogo_SERIE_1000_Zero_Tangente_2021-2.png",
                 "tipos": [
                     {
                         "nombre": "Tranportador en espiral para cajas",
                         "href": "/productos/Tranportador en espiral para cajas",
                         "img": [
-                            ""
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/1. TRANSPORTADOR ESPIRAL PARA CAJAS PRINCIPAL.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/2. TRANSPORTADOR ESPIRAL PARA CAJAS.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/3. TRANSPORTADOR EN ESPIRAL DE CAJAS.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/4. TRANSPORTADOR EN ESPIRAL PARA CAJAS.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/5. TRANSPORTADOR EN ESPIRAL DE CAJAS.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/PLANO GENERAL.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/PLANO-DEL-TRANSPORTADOR-ESPIRAL (1).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/PLANO GENERAL (2).png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/PLANO-DE-TRANSPORTE-ESPIRAL-VA-AL-FINAL (2).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
                         "docs": [],
                         "descripcion": "Un transportador en espiral para cajas es un dispositivo industrial que mueve cajas entre diferentes niveles o áreas de una instalación de forma eficiente. Utiliza una banda o cadena en espiral para transportar las cajas verticalmente mientras se mueven horizontalmente. Esto ahorra espacio y optimiza el flujo de trabajo en almacenes,centros de distribución y plantas de fabricación.",
@@ -1910,9 +1912,19 @@
                     },
                     {
                         "nombre": "Tranportador en espiral para botellas",
-                        "href": "",
+                        "href": "/productos/Tranportador en espiral para botellas",
                         "img": [
-                            ""
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/1.TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS va en la portada.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/1. TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/2.  TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS-(3).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/3. TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS.-(2)jpg.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/4. TRANSPORTADOR EN ESPIRAL PARA BOTELLAS.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO GENERAL - copia.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO GENERAL - copia.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO GENERAL (2) - copia.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO-DEL-TRANSPORTADOR-ESPIRAL (1) - copia.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO-DE-TRANSPORTE-ESPIRAL-VA-AL-FINAL (2) - copia.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3).jpg"
                         ],
                         "docs": [],
                         "descripcion": "Un transportador en espiral para botellas especialmente en la industria de bebidas, embotellado y envasado. Las ventajas y aplicaciones para la transferencia de botellas son similares a las mencionadas anteriormente para las cajas, pero adaptadas específicamente para la manipulación de botellas",
@@ -1942,9 +1954,16 @@
                     },
                     {
                         "nombre": "Tranportador en espiral flexible",
-                        "href": "",
+                        "href": "/productos/Tranportador en espiral flexible",
                         "img": [
-                            ""
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/TRANSPORTAD-EN-ESPIRAL-FLEXIBLE.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/TRANSPORTADORESPIRAL FLEXIBLE-(1).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/TRANSPORTADORESPRIRAL-FLEXIBLE-(2).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/PLANO GENERAL.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/PLANO GENERAL (2).png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/PLANO-DEL-TRANSPORTADOR-ESPIRAL (1).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/PLANO-DE-TRANSPORTE-ESPIRAL-VA-AL-FINAL (2).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
                         "docs": [],
                         "descripcion": "Un transportador en espiral flexible es una variante del transportador en espiral estándar que ofrece una mayor flexibilidad y versatilidad en su aplicación. A diferencia de los transportadores en espiral tradicionalesm que suelen tener una configuración fija, los transportadores en espiral flexibles pueden ajustarse y adaptarse a diferentes coniguraciones y requisitos de transporte.",
@@ -1974,9 +1993,15 @@
                     },
                     {
                         "nombre": "Tranportador en espiral de enfriamento",
-                        "href": "",
+                        "href": "/productos/Tranportador en espiral de enfriamento",
                         "img": [
-                            ""
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/1. TRANSPORTADOR-EN-ESPIRAL-PARA-ENFRIAMIENTO (1).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/PLANO GENERAL.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/PLANO GENERAL (2).png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/TRANSPORTADOR-EN-ESPIRAL-PARA-ENFRIAMIENTO-(2).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/PLANO-DEL-TRANSPORTADOR-ESPIRAL (1).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/PLANO-DE-TRANSPORTE-ESPIRAL-VA-AL-FINAL (2).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
                         "docs": [],
                         "descripcion": "Un transportador en espiral de enfriamiento es un equipo utilizado en procesos industriales para enfriar productos o materiales que han sido sometidos a altas temperaturas durante la producción. Este tipo de transportador utiliza una estructura en espiral para permitir que los productos se enfríen gradualmente mientras se mueven a través de la espiral.",
@@ -2007,9 +2032,16 @@
                     },
                     {
                         "nombre": "Tranportador en espiral por gravedad",
-                        "href": "",
+                        "href": "/productos/Tranportador en espiral por gravedad",
                         "img": [
-                            ""
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/1.- TRANSPORTADOR EN ESPIRAL POR-GRAVEDAD-(1).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/2. TRANSPORTADOR EN ESPIRAL POR-GRAVEDAD- (2).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/3. TRANSPORTADOR EN ESPIRAL POR GRAVEDA.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/PLANO GENERAL.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/PLANO GENERAL (2).png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/PLANO-DEL-TRANSPORTADOR-ESPIRAL (1).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/PLANO-DE-TRANSPORTE-ESPIRAL-VA-AL-FINAL (2).jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
                         "docs": [],
                         "descripcion": "Un transportador en espiral por gravedad consta de una estructura en forma de espiral que se inclina hacia abajo gradualmente desde un punto alto hasta un punto bajo. Los objetos o materiales se colocan en la parte superior de la espiral y se desplazan hacia abajo debido a la gravedad, siguiendo la forma de la espiral hasta llegar al punto final de descarga.",
@@ -2321,13 +2353,13 @@
                 ]
             },
             {
-                "nombre": "Cintas transportadoras de PVC",
-                "href": "/productos/Transportadores y Movimiento de Productos-Cintas transportadoras de PVC",
+                "nombre": "Serie de Cintas Transportadoras",
+                "href": "/productos/Transportadores y Movimiento de Productos-Serie de Cintas Transportadoras",
                 "img": "",
                 "tipos": [
                     {
                         "nombre": "Cinta transportadora recta",
-                        "href": "",
+                        "href": "/productos/Cinta transportadora recta",
                         "img": [],
                         "docs": [],
                         "descripcion": "La cinta transportadora recta es una solución versátil con una estructura simple y un diseño modular. Utiliza materiales duraderos como acero al carbono y aluminio anodizado, ofreciendo un funcionamiento estable y fácil mantenimiento. Puede transportar una amplia gama de artículos y es adecuado para industrias electrónicas, alimentarias, farmacéuticas y otras.",
@@ -2502,7 +2534,7 @@
             },
             {
                 "nombre": "Transportadora de superficie mate",
-                "href": "",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportadora de superficie mate",
                 "img": "",
                 "tipos": [
                     {
@@ -2574,12 +2606,12 @@
             },
             {
                 "nombre": "Transportador de rodillos",
-                "href": "",
+                "href": "/productos/Transportadores y Movimiento de Productos-Transportador de rodillos",
                 "img": "",
                 "tipos": [
                     {
                         "nombre": "Transportador de rodillo por gravedad",
-                        "href": "",
+                        "href": "/productos/Transportador de rodillo por gravedad",
                         "img": [],
                         "docs": [],
                         "descripcion": "El transportador de rodillo por gravedad es una solución simple y flexible que ahorra mano de obra, liviana, económica y práctica. Las mercancías son impulsadas manualmente o se desplazan por gravedad en una inclinación específica. Ideal para ambientes interiores y cargas ligeras, es utilizado para el transporte y almacenamiento temporal de carga unitaria como cajas y fondos en superficie. Ampliamente aplicado en talleres, almacenes y centros logísticos, optimiza la eficiencia del flujo de trabajo y reduce costos operativos.",
@@ -2609,7 +2641,7 @@
                     },
                     {
                         "nombre": "Transportador de rodillo motorizado",
-                        "href": "",
+                        "href": "/productos/Transportador de rodillo motorizado",
                         "img": [],
                         "docs": [],
                         "descripcion": "El transportador de rodillo motorizado es un sistema industrial que utiliza rodillos impulsados por un motor para el transporte automático de materiales en diversas aplicaciones, como almacenes y líneas de ensamblaje. Ofrece un movimiento controlado y eficiente de cargas, con capacidad de carga variable y fácil mantenimiento gracias a su diseño modular.",
