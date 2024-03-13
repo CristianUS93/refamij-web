@@ -11,11 +11,9 @@ const { img, title, route } = Astro.props;
 <div class="product-card">
     <img src={img} alt="producto" />
     <h3>{title}</h3>
-    <a href={route}>
-        <div class="button">
-            Ver Producto
-        </div>
-    <a/>
+    <div class="button">
+        <a href={route}>Ver Producto<a/>
+    </div>
 </div>
 
 <style>
@@ -43,7 +41,7 @@ const { img, title, route } = Astro.props;
         font-weight: 700;
     }
     .button {
-        display: inline-block;
+        align-self: first baseline;
         margin: 0 0 2rem 2rem;
         padding: 1rem;
         background-color: var(--yellow);
