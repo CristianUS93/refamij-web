@@ -2,6 +2,7 @@
 import Banner from "../../components/Banner.astro";
 import Body from "../../components/Body.astro";
 import Layout from "../../layouts/Layout.astro";
+import ImagesGallery from "../../components/productos/ImagesGallery.astro";
 import FileContainer from "../../components/productos/FileContainer.astro";
 import DescriptionContainer from "../../components/productos/DescriptionContainer.astro";
 
@@ -45,28 +46,7 @@ const { modelo, tipoName } = Astro.props;
     <Banner title="TIENDA COMERCIAL" img={banner.src} />
     <Body isGray="gray">
         <section class="main-info">
-            <picture>
-                <div class="img-cont">
-                    <div id="back" class="arrow">
-                        <i class="material-icons">arrow_back_ios</i>
-                    </div>
-                    <img id="img-main" src={modelo["imgs"][0]} alt="" />
-                    <div id="forward" class="arrow">
-                        <i class="material-icons">arrow_forward_ios</i>
-                    </div>
-                </div>
-                <div class="small-img">
-                    {
-                        modelo["imgs"].map((e) => (
-                            <img
-                                class={`small ${e == modelo["imgs"][0] && "img-select"}`}
-                                src={e}
-                                alt={modelo["nombre"]}
-                            />
-                        ))
-                    }
-                </div>
-            </picture>
+            <ImagesGallery producto={modelo}/>
             <section class="tec-info">
                 <h4>{tipoName.toUpperCase()}</h4>
                 <h2>{modelo["nombre"].toUpperCase()}</h2>
@@ -132,45 +112,6 @@ const { modelo, tipoName } = Astro.props;
 </Layout>
 
 <script>
-    //Images changes
-    const imgMain = document.getElementById("img-main");
-    const images = document.getElementsByClassName("small");
-    const back = document.getElementById("back");
-    const forward = document.getElementById("forward");
-    let currentIndex = 0;
-
-    back.addEventListener("click", () => {
-        currentIndex = (currentIndex - 1 + images.length) % images.length;
-        imgMain["src"] = images[currentIndex]["src"];
-
-        var current = document.getElementsByClassName("img-select");
-        current[0].className = current[0].className.replace(" img-select", "");
-        images[currentIndex].className += " img-select";
-    });
-
-    forward.addEventListener("click", () => {
-        currentIndex = (currentIndex + 1) % images.length;
-        imgMain["src"] = images[currentIndex]["src"];
-
-        var current = document.getElementsByClassName("img-select");
-        current[0].className = current[0].className.replace(" img-select", "");
-        images[currentIndex].className += " img-select";
-    });
-
-    for (const image of images) {
-        image.addEventListener("click", () => {
-            if (imgMain != null) {
-                imgMain["src"] = image["src"];
-                var current = document.getElementsByClassName("img-select");
-                current[0].className = current[0].className.replace(
-                    " img-select",
-                    "",
-                );
-                image.className += " img-select";
-            }
-        });
-    }
-
     //Tec-info changes
     const menuOptions = document.getElementsByClassName("option");
     const contentOptions = document.getElementsByClassName("content");
@@ -198,77 +139,6 @@ const { modelo, tipoName } = Astro.props;
         width: 90%;
         margin: 0 auto 4rem auto;
         display: flex;
-    }
-
-    /* Images */
-    .main-info picture {
-        width: 45%;
-    }
-
-    .img-cont {
-        position: relative;
-    }
-    .img-cont:hover .arrow {
-        display: block;
-    }
-
-    .arrow {
-        display: none;
-        position: absolute;
-        top: 50%;
-        color: var(--blue-refamij);
-        cursor: pointer;
-    }
-
-    #back {
-        left: 10px;
-    }
-
-    #forward {
-        right: 10px;
-    }
-
-    #img-main {
-        height: 60vh;
-        width: 100%;
-        object-fit: scale-down;
-        border: 1px solid var(--blue-refamij);
-        border-radius: 10px;
-    }
-    .small-img {
-        width: 100%;
-    }
-    .small-img {
-        width: 100%;
-        display: inline-flex;
-        overflow-x: scroll;
-    }
-    .small {
-        height: 12vh;
-        width: 12vh;
-        margin-right: 10px;
-        object-fit: scale-down;
-        border: 1px solid gray;
-        border-radius: 10px;
-    }
-
-    .img-select {
-        border: 2px solid var(--blue-refamij);
-    }
-
-    .small-img img:last-child {
-        margin-right: 0;
-    }
-
-    .small-img::-webkit-scrollbar {
-        height: 7px;
-    }
-    .small-img::-webkit-scrollbar-thumb {
-        background: var(--light-blue);
-        border-radius: 7px;
-    }
-    .small-img::-webkit-scrollbar-thumb:hover {
-        background: var(--blue-refamij);
     }
 
     /* Article */

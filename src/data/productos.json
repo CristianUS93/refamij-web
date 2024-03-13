@@ -21,11 +21,9 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(2).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(3).png"
                         ],
-                        "docs": {
-                            "fileName": "CATÁLOGO PERFOR 2023.pdf",
-                            "fileUrl": "/productos/1. ENVASADORA E INSPECCION - Perfor/CATÁLOGO PERFOR 2023.pdf",
-                            "miniatura": "/productos/1. ENVASADORA E INSPECCION - Perfor/miniatura-PERFOR.png"
-                        },
+                        "docs": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/CATÁLOGO PERFOR 2023.pdf"
+                        ],
                         "descripcion": "El Sistema de Pesaje Dinámico o Checkweigher Dinámico es una solución integral para el control de calidad en la línea de producción. Ofrece precisión del 100% al pesar productos de diversas velocidades y se integra fácilmente con empaquetadora y envasadoras, proporcionando una retroalimentacion en tiempo real para correciones de peso. Además, incluye pantallas dirigidas al control de calidad y registros detallados de alarmas, eventos y produccion. Con opciones de programación flexible y eficiencia energética, es ideal para mejorar el proceso de producción y garantizar la calidad del producto final. ",
                         "aplicaciones": [
                             "• En línea de producción",
@@ -112,7 +110,7 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/detector-de-metal-vertical.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/detector-de-metal vertical.png"
                         ],
-                        "docs": {},
+                        "docs": [],
                         "descripcion": "Los Detectores de Metales fabricados por PERFOR emplean un principio de funcionamiento, que se basa en el análisis de la interferencia de un metal bajo un campo magnético transmitido. Estos dispositivos son capaces de verificar contaminantes metálicos en productos en movimiento, tanto a baja como alta velocidad, garantizando un inspección del 100% de los artículos en una linea de produccion. Ofrecen varias pantallas para el control de calidad con estadisticas en tiempo real, y opciones programables como la prueba de cuerpo, rechazo y rechazos seguidos. ",
                         "aplicaciones": [
                             "• Productos in-natura",
@@ -153,7 +151,7 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/detector-de-meta-(2)l horizontal.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/detector-de-metales-b horizontal.png"
                         ],
-                        "docs": {},
+                        "docs": [],
                         "descripcion": "Los Detectores de Metales fabricados por PERFOR emplean un principio de funcionamiento, que se basa en el análisis de la interferencia de un metal bajo un campo magnético transmitido. Estos dispositivos son capaces de verificar contaminantes metálicos en productos en movimiento, tanto a baja como alta velocidad, garantizando un inspección del 100% de los artículos en una linea de produccion. Ofrecen varias pantallas para el control de calidad con estadisticas en tiempo real, y opciones programables como la prueba de cuerpo, rechazo y rechazos seguidos.",
                         "aplicaciones": [
                             "• Productos in-natura",
@@ -202,7 +200,7 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert2 (1).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert3 (1).png"
                         ],
-                        "docs": {},
+                        "docs": [],
                         "descripcion": "El sistema combinado EXPERT  de Perfor no solo verifica el peso de los productos en movimiento, sino que también detecta contaminantes metálicos tanto a baja como alta velocidad. Además, ofrece la capacidad de pesar y detectar el 100% de los artículos en una línea de producción, integrándose con empaquetadoras y envasadoras para corregir el peso si es neceario. Con múltiples pantallas dirigidas al control de calidad, proporciona datos estadísticos en tiempo real y genera históricos de alarmas, eventos, rechazos y producción. Con un bajo consumo eléctrico y neumático, es eficiente en términos de energía y recursos. Además, su diseño compacto ahorra espacio físico y garantiza la misma eficacia de detección de contaminantes que un detector de metales estándar.",
                         "aplicaciones": [
                             "• Empaquetadoras / envasadoras",
@@ -245,7 +243,7 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/Dosificador-Gravimétrico-con-Motorreductor-y-Canaleta-Vibrante.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/CATÁLOGO-PERFOR-2023-(5)-18.png"
                         ],
-                        "docs": {},
+                        "docs": [],
                         "descripcion": "El sistema de Dosificador Gravimétrico con Motorreductor y canaleta vibrante Perfor, garantiza un control de peso en cada producto antes del empaquetado, reduciendo la cantidad de producto utilizado y manteniendo una desviación estándar controlada. Ofrece mediciones individuales por canal de dosificación con histograma y una doble comprobación de peso para ajustarlo automaticamente. Con bajo mantenimiento y mínima intervencion operacional, es altamente eficiente. Integrado con Perfor Control, proporciona información en tiempo real sobre la línea de producción y equipos, con bajo consumo de energía. Este dosificador cuenta con un playback inferior a 18 meses y esta diseñado para trabajar las 24 horas del día y los 7 días de la semana, garantizando durabilidad y eficacia.",
                         "aplicaciones": [
                             "• Arriba de Empaquetadoras / envasadoras",
@@ -276,7 +274,7 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador-Gravimétrico-con-Servomotor.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/CATÁLOGO-PERFOR-2023-(5)-16.png"
                         ],
-                        "docs": {},
+                        "docs": [],
                         "descripcion": "El sistema de dosificación fabricado por Perfor asegura un control preciso del peso en cada producto antes del empaquetado, reduciendo la cantidad necesaria y manteniendo una desviacion estándar controlada. Ofrece mediciones individuales por canal con histograma y una doble comprobación del peso para ajustarlo automáticamente. Es fácil de higienizar, con bajo mantenimiento y mínima intervención operacional gracias a su algoritmo optimizado. La integración con Perfor Control proporciona datos en tiempo real sobre la línea de producción, con bajo consumo de energia. Desarrollado para trabajar continuamente, es duradero y cuenta con tazas de fácil retirada mediante acoplamiento rápido, con un playback inferior a 18 meses.",
                         "aplicaciones": [
                             "• Arriba de empaquetadoras / envasadoras",
@@ -749,10 +747,36 @@
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "S560",
-                        "href": "/productos/S560",
+                        "nombre": "Serie SL",
+                        "href": "/productos/S560NA",
                         "img": [
-                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie S/S560 - Empaquetadora angular a campana.png"
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie  SL/SL 55 - Empaquetadora angular a campana.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie  SL/Copia de SL-1.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie  SL/Copia de SL-2.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie  SL/Copia de SL-3.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie  SL/Copia de SL-4.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie  SL/Copia de SL-5.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie  SL/Copia de SL-6.jpg"
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Serie S",
+                        "href": "/productos/Serie S",
+                        "img": [
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie S/S560 - Empaquetadora angular a campana.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie S/S560NA - Empaquetadora angular a campana.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie S/S870 - Empaquetadora angular a campana.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie S/S-1.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie S/S-2.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie S/S-3.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie S/S-5.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/1. EMPAQUETADORAS ANGULARES A CAMPANA/Serie S/S-6.jpg"
                         ],
                         "docs": [],
                         "descripcion": "La serie S560 de empaquetadoras angulares a campana con sistema de soldadura y retracción en una sola operación, se utiliza principalmente en sectores industriales gracias a su capacidad para alcanzar velocidades de producción bastante elevadas.\nLa serie S560 de empaquetadoras angulares a campana incluye cuatro modelos diferentes para producciones hasta de 900 paquetes/hora.",
@@ -773,12 +797,26 @@
                         ],
                         "especificaciones": [],
                         "video": ""
-                    },
+                    }
+                ]
+            },
+            {
+                "nombre": "Empaquetadoras Angulares Automáticas y Semiautomáticas con tunel de Termorretracción",
+                "href": "/productos/Empacado y Termoempaque-Empaquetadoras Angulares Automáticas y Semiautomáticas con tunel de Termorretracción",
+                "img": "",
+                "tipos": [
                     {
-                        "nombre": "S560NA",
-                        "href": "/productos/S560NA",
+                        "nombre": "Serie FP",
+                        "href": "/productos/Serie FP",
                         "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/SERIE FP/FP560A INOX.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/SERIE FP/FP560A.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/SERIE FP/FP870A.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/SERIE FP/FP6000.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/SERIE FP/FP6000CS-INOX.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/SERIE FP/FP6000CS.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/SERIE FP/FP6000E.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/SERIE FP/FP8000CS.png"
                         ],
                         "docs": [],
                         "descripcion": "",
@@ -788,36 +826,14 @@
                         "video": ""
                     },
                     {
-                        "nombre": "S870",
-                        "href": "/productos/S870",
+                        "nombre": "Con Tunel de Termorreracción",
+                        "href": "/productos/Con Tunel de Termorreracción",
                         "img": [
-                            ""
-                        ],
-                        "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "SL 45",
-                        "href": "/productos/SL 45",
-                        "img": [
-                            ""
-                        ],
-                        "docs": [],
-                        "descripcion": "",
-                        "aplicaciones": [],
-                        "ventajas": [],
-                        "especificaciones": [],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "SL 55",
-                        "href": "/productos/SL 55",
-                        "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/TUNEL/T450 INOX.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/TUNEL/T450.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/TUNEL/T452 INOX.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/TUNEL/T452.png",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/2. EMPAQUETADORAS ANGULARES SEMIAUTOMÁTICAS Y AUTOMÁTICAS CON TÚNEL DE TERMORRETRACCIÓN/TUNEL/T650.png"
                         ],
                         "docs": [],
                         "descripcion": "",
@@ -829,15 +845,20 @@
                 ]
             },
             {
-                "nombre": "Empaquetadoras Angulares Automáticas y Semiautomáticas con tunel de Termoretracción",
-                "href": "/productos/Empacado y Termoempaque-Empaquetadoras Angulares Automáticas y Semiautomáticas con tunel de Termoretracción",
+                "nombre": "Empaquetadoras Automáticas en Continuo con tunel de Termorretracción",
+                "href": "/productos/Empacado y Termoempaque-Empaquetadoras Automáticas en Continuo con tunel de Termorretracción",
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "FP560A Semiautomática",
-                        "href": "/productos/FP560A Semiautomática",
+                        "nombre": "Automáticas",
+                        "href": "/productos/Automáticas",
                         "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-1.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-2.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-3.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-4.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-5.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-6.jpg"
                         ],
                         "docs": [],
                         "descripcion": "",
@@ -847,10 +868,15 @@
                         "video": ""
                     },
                     {
-                        "nombre": "FP560A Inox Semiautomática",
-                        "href": "/productos/FP560A Inox Semiautomática",
+                        "nombre": "Cintas",
+                        "href": "/productos/Cintas",
                         "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-1.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-2.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-3.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-4.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-5.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-6.jpg"
                         ],
                         "docs": [],
                         "descripcion": "",
@@ -860,10 +886,15 @@
                         "video": ""
                     },
                     {
-                        "nombre": "FP870A Semiautomática",
-                        "href": "/productos/FP870A Semiautomática",
+                        "nombre": "Túneles",
+                        "href": "/productos/Túneles",
                         "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-1.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-2.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-3.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-4.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-5.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/3. EMPAQUETADORAS AUTOMÁTICAS EN CONTINUO CON TÚNEL DE TERMORRETRACCIÓN/AUTOMATICOS/HS500 SERVO - EMPAQUETADORA AUTOMÁTICA EN CONTINUO BOX MOTION/HS-6.jpg"
                         ],
                         "docs": [],
                         "descripcion": "",
@@ -871,12 +902,24 @@
                         "ventajas": [],
                         "especificaciones": [],
                         "video": ""
-                    },
+                    }
+                ]
+            },
+            {
+                "nombre": "Empacadoras Automaticas Flow Pack",
+                "href": "/productos/Empacado y Termoempaque-Empacadoras Automaticas Flow Pack",
+                "img": "",
+                "tipos": [
                     {
-                        "nombre": "FP6000 Automática",
-                        "href": "/productos/FP6000 Automática",
+                        "nombre": "Serie FW",
+                        "href": "/productos/Serie FW",
                         "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/4. EMPACADORAS AUTOMÁTICAS FLOW PACK/FW550 - EMPACADORA FLOW PACK CON SELLADO ROTATIVO Y BOBINA FILM ALTA/FW-1.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/4. EMPACADORAS AUTOMÁTICAS FLOW PACK/FW550 - EMPACADORA FLOW PACK CON SELLADO ROTATIVO Y BOBINA FILM ALTA/FW-2.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/4. EMPACADORAS AUTOMÁTICAS FLOW PACK/FW550 - EMPACADORA FLOW PACK CON SELLADO ROTATIVO Y BOBINA FILM ALTA/FW-3.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/4. EMPACADORAS AUTOMÁTICAS FLOW PACK/FW550 - EMPACADORA FLOW PACK CON SELLADO ROTATIVO Y BOBINA FILM ALTA/FW-4.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/4. EMPACADORAS AUTOMÁTICAS FLOW PACK/FW550 - EMPACADORA FLOW PACK CON SELLADO ROTATIVO Y BOBINA FILM ALTA/FW-5.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/4. EMPACADORAS AUTOMÁTICAS FLOW PACK/FW550 - EMPACADORA FLOW PACK CON SELLADO ROTATIVO Y BOBINA FILM ALTA/FW-6.jpg"
                         ],
                         "docs": [],
                         "descripcion": "",
@@ -884,12 +927,24 @@
                         "ventajas": [],
                         "especificaciones": [],
                         "video": ""
-                    },
+                    }
+                ]
+            },
+            {
+                "nombre": "Enfajadoras Semiautomáticas y Automáticas con Barra Soldadora",
+                "href": "/productos/Empacado y Termoempaque-Enfajadoras Semiautomáticas y Automáticas con Barra Soldadora",
+                "img": "",
+                "tipos": [
                     {
-                        "nombre": "FP6000CS Automática",
-                        "href": "/productos/FP6000CS Automática",
+                        "nombre": "Serie BP",
+                        "href": "/productos/Serie BP",
                         "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/6. ENFAJADORAS SEMIAUTOMATICAS Y AUTOMATICAS CON BARRA SOLDADORA/BP DUPLEX - ENFAJADORA AUTOMÁTICA MONOBLOQUE (VERSIÓN DÚPLEX)/BP-1.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/6. ENFAJADORAS SEMIAUTOMATICAS Y AUTOMATICAS CON BARRA SOLDADORA/BP DUPLEX - ENFAJADORA AUTOMÁTICA MONOBLOQUE (VERSIÓN DÚPLEX)/BP-2.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/6. ENFAJADORAS SEMIAUTOMATICAS Y AUTOMATICAS CON BARRA SOLDADORA/BP DUPLEX - ENFAJADORA AUTOMÁTICA MONOBLOQUE (VERSIÓN DÚPLEX)/BP-3.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/6. ENFAJADORAS SEMIAUTOMATICAS Y AUTOMATICAS CON BARRA SOLDADORA/BP DUPLEX - ENFAJADORA AUTOMÁTICA MONOBLOQUE (VERSIÓN DÚPLEX)/BP-4.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/6. ENFAJADORAS SEMIAUTOMATICAS Y AUTOMATICAS CON BARRA SOLDADORA/BP DUPLEX - ENFAJADORA AUTOMÁTICA MONOBLOQUE (VERSIÓN DÚPLEX)/BP-5.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/6. ENFAJADORAS SEMIAUTOMATICAS Y AUTOMATICAS CON BARRA SOLDADORA/BP DUPLEX - ENFAJADORA AUTOMÁTICA MONOBLOQUE (VERSIÓN DÚPLEX)/BP-6.jpg"
                         ],
                         "docs": [],
                         "descripcion": "",
@@ -897,12 +952,24 @@
                         "ventajas": [],
                         "especificaciones": [],
                         "video": ""
-                    },
+                    }
+                ]
+            },
+            {
+                "nombre": "ENFAJADORAS AUTOMATICAS CON LANCE DE FILM",
+                "href": "/productos/Empacado y Termoempaque-ENFAJADORAS AUTOMATICAS CON LANCE DE FILM",
+                "img": "",
+                "tipos": [
                     {
-                        "nombre": "FP6000CS Inox Automática",
-                        "href": "/productos/FP6000CS Inox Automática",
+                        "nombre": "Serie XP",
+                        "href": "/productos/Serie XP",
                         "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/7. ENFAJADORAS AUTOMATICAS CON LANCE DE FILM/DV150 - DIVISOR DE PRODUCTOS PARA MÁQUINAS CON ENTRADA A 90 °/XP-1.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/7. ENFAJADORAS AUTOMATICAS CON LANCE DE FILM/DV150 - DIVISOR DE PRODUCTOS PARA MÁQUINAS CON ENTRADA A 90 °/XP-2.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/7. ENFAJADORAS AUTOMATICAS CON LANCE DE FILM/DV150 - DIVISOR DE PRODUCTOS PARA MÁQUINAS CON ENTRADA A 90 °/XP-3.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/7. ENFAJADORAS AUTOMATICAS CON LANCE DE FILM/DV150 - DIVISOR DE PRODUCTOS PARA MÁQUINAS CON ENTRADA A 90 °/XP-4.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/7. ENFAJADORAS AUTOMATICAS CON LANCE DE FILM/DV150 - DIVISOR DE PRODUCTOS PARA MÁQUINAS CON ENTRADA A 90 °/XP-5.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/7. ENFAJADORAS AUTOMATICAS CON LANCE DE FILM/DV150 - DIVISOR DE PRODUCTOS PARA MÁQUINAS CON ENTRADA A 90 °/XP-6.jpg"
                         ],
                         "docs": [],
                         "descripcion": "",
@@ -910,12 +977,24 @@
                         "ventajas": [],
                         "especificaciones": [],
                         "video": ""
-                    },
+                    }
+                ]
+            },
+            {
+                "nombre": "ENCARTONADORAS AUTOMATICAS WRAP AROUND",
+                "href": "/productos/Empacado y Termoempaque-ENCARTONADORAS AUTOMATICAS WRAP AROUND",
+                "img": "",
+                "tipos": [
                     {
-                        "nombre": "FP6000E Automática",
-                        "href": "/productos/FP6000E Automática",
+                        "nombre": "Serie WPS",
+                        "href": "/productos/Serie WPS",
                         "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/8. ENCARTONADORAS AUTOMATICAS WRAP-AROUND/WPS 150R - ENCARTONADORA WRAP-AROUND AUTOMÁTICA CON ENTRADA EN LINEA/WPS-1.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/8. ENCARTONADORAS AUTOMATICAS WRAP-AROUND/WPS 150R - ENCARTONADORA WRAP-AROUND AUTOMÁTICA CON ENTRADA EN LINEA/WPS-2.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/8. ENCARTONADORAS AUTOMATICAS WRAP-AROUND/WPS 150R - ENCARTONADORA WRAP-AROUND AUTOMÁTICA CON ENTRADA EN LINEA/WPS-3.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/8. ENCARTONADORAS AUTOMATICAS WRAP-AROUND/WPS 150R - ENCARTONADORA WRAP-AROUND AUTOMÁTICA CON ENTRADA EN LINEA/WPS-4.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/8. ENCARTONADORAS AUTOMATICAS WRAP-AROUND/WPS 150R - ENCARTONADORA WRAP-AROUND AUTOMÁTICA CON ENTRADA EN LINEA/WPS-5.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/8. ENCARTONADORAS AUTOMATICAS WRAP-AROUND/WPS 150R - ENCARTONADORA WRAP-AROUND AUTOMÁTICA CON ENTRADA EN LINEA/WPS-6.jpg"
                         ],
                         "docs": [],
                         "descripcion": "",
@@ -923,12 +1002,24 @@
                         "ventajas": [],
                         "especificaciones": [],
                         "video": ""
-                    },
+                    }
+                ]
+            },
+            {
+                "nombre": "COLOCADORAS AUTOMATICAS DE ASAS",
+                "href": "/productos/Empacado y Termoempaque-COLOCADORAS AUTOMATICAS DE ASAS",
+                "img": "",
+                "tipos": [
                     {
-                        "nombre": "FP8000CS Automática",
-                        "href": "/productos/FP8000CS Automática",
+                        "nombre": "Serie HA",
+                        "href": "/productos/Serie HA",
                         "img": [
-                            ""
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/9. COLOCADORAS AUTOMATICAS DE ASAS/HA 25 - COLOCADORAS AUTOMÁTICAS DE ASAS/HA-1.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/9. COLOCADORAS AUTOMATICAS DE ASAS/HA 25 - COLOCADORAS AUTOMÁTICAS DE ASAS/HA-2.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/9. COLOCADORAS AUTOMATICAS DE ASAS/HA 25 - COLOCADORAS AUTOMÁTICAS DE ASAS/HA-3.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/9. COLOCADORAS AUTOMATICAS DE ASAS/HA 25 - COLOCADORAS AUTOMÁTICAS DE ASAS/HA-4.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/9. COLOCADORAS AUTOMATICAS DE ASAS/HA 25 - COLOCADORAS AUTOMÁTICAS DE ASAS/HA-5.jpg",
+                            "/productos/2. EMPACADO Y TERMOEMPAQUE - Smipack/9. COLOCADORAS AUTOMATICAS DE ASAS/HA 25 - COLOCADORAS AUTOMÁTICAS DE ASAS/HA-6.jpg"
                         ],
                         "docs": [],
                         "descripcion": "",
@@ -1126,7 +1217,7 @@
                         "nombre": "Supersealer SS1",
                         "href": "/productos/Supersealer SS1",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE SUPERSEALER SS1.png"
                         ],
                         "docs": [],
                         "descripcion": "La Selladora de Aire Caliente Supersealer SS1 - versión pintada, utiliza aire caliente para sellar de forma continua una amplia gama de materiales en bolsas a alta velocidad y eficiencia. El avanzado flujo de aire, los sofisticados controles y la robusta construcción pintada garantiza un rendimieno continuo en todas las aplicaciones. La Supersealer ofrece a los clientes un bajo mantenimiento y un excelente retorno de la inversión junto con los muchos años de tiempo de funcionamiento que tendrá la máquina.",
@@ -1158,7 +1249,7 @@
                         "nombre": "Supersealer SS2",
                         "href": "/productos/Supersealer SS2",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE SUPERSEALER SS2.png"
                         ],
                         "docs": [],
                         "descripcion": "La selladora por aire caliente Supersealer SS2 - Acero inoxidable, utiliza aire caliente para sellar de forma continua una amplia gama de materiales en bolsas a alta velocidad y con gran eficacia. El avanzado flujo de aire, los sofisticados controles y la construcción en acero inoxidable 316 garantizan un rendimiento continuo en todas las aplicaciones. La supersealer ofrece a los clientes un bajo mantenimiento y un excelente retorno de la inversión junto con los muchos años de tiempo de funcionamiento que tendrá la máquina.",
@@ -1190,7 +1281,7 @@
                         "nombre": "Supersealer SS2 WD",
                         "href": "/productos/Supersealer SS2 WD",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALEINTE SS2-WS.png"
                         ],
                         "docs": [],
                         "descripcion": "La selladora por aire caliente lavable Supersealer SS2 está disponible en la clasificación IP65 o IP69K. Una selladora de bolsas con clasificación IP65 puede lavarse únicamente con la presión de una manguera de jardín. Nuestra selladora de bolsas o sistema IP69K puede soportar las exigenias de un lavado agresivo. Nuestras selladoras de bolsas lavables son soluciones ideales para entornos de evasado en salas blancas y envasadores que requieres normas de limpieza estrictas. Nuestras selladoras de bolsas con clasificacion IP65 e IP69K cuentan con la confianza en todo el mundo de fabricantes de marisco, pollo, carne, productos agrícolasm químico, entre otrosm que requieren una limpieza frecuente de sus equipos de envasado.",
@@ -1223,7 +1314,7 @@
                         "nombre": "Supersealer SS4",
                         "href": "/productos/Supersealer SS4",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE Supersealer SS4.png"
                         ],
                         "docs": [],
                         "descripcion": "La selladora por aire caliente de acero inoxidable, Supersealer SS4, esta diseñado para funcionar en aplicaciones industriales duras y entornos exigentes. Gracuas a años de experiecia en el campo y a la opinión de los clientes, la selladora SS4 se suministra para proporcionar una eficacia y fiabilidad superiores en el sellado de bolsas. Su acabado en acero inoxidable 316, su construcción resistente, su motorización y su mayor capacidad colorífica permiten un rendimiento sostenible a alta velocidad para bolsas más gruesas. Con sus 8 calentadores, sellará material de hasta 40mils o 1000 micras y funcionará a una velocidad de hasta 120fpm. La selladora proporcina una fiabilidad constante a largo plazo sin preocupaciones para una amplia gama de productos de sellado resistentes.",
@@ -1263,7 +1354,7 @@
                         "nombre": "Supersealer SB10",
                         "href": "/productos/Supersealer SB10",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE BANDAS SUPERSEALER SB10.png"
                         ],
                         "docs": [],
                         "descripcion": "La Selladora SB10 de banda pintado utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales en bolsa a gran velocidad y eficacia. Están dispoinibles en versiones pintadas o de acero inoxidable. Con su probada tecnología de sellado de banda y controles de fácil manejo, garantiza un rendimiento continuo en aplicaciones exigentes. La Supersealer viene con un pedestal motorizado y una base de acero inoxidable con ruedas bloqueables para facilitar el cambio de tamaño de bolsa, lo que se traduce en un aumento de la productividad. Con solo pulsar un botón, puede cambiar la altura de la selaldora, sin necesidad de trabajo manual. Esta línea de selladoras de bolsas ofrece sellados rápido, precisos y resistentes en cualquier materaial de bolsa. Todos los modelos ofrencen auténticas funciones 'pug and play' para un rendimiento fiable y fácil de usar en una gran variedad de aplicaciones. Estos modelos tambien están disponibles con una pantalla táctil en color opcional con interfaz.",
@@ -1295,7 +1386,7 @@
                         "nombre": "Supersealer SB20",
                         "href": "/productos/Supersealer SB20",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE BANDAS SUPERSEALER SB20.png"
                         ],
                         "docs": [],
                         "descripcion": "La Selladora SB20 de banda de acero inoxidable utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales de bolsas a alta velocidad y eficiencia. Con su tecnología de sellado de banda probada y controles fáciles de usar, garantiza un rendimiento continuo en aplicaciones exigentes. La supersealer viene con un pedestal motorizado y una base de acero inoxidable con ruedas bloqueables para facilitar el cambio de tamaño de bolsa, lo que se traduce en un aumento de productividad. La selladora y el transportador se esclavizan del accionamiento de la selladora, por lo que ambas unidades están siempre sincronizadas.",
@@ -1327,7 +1418,7 @@
                         "nombre": "Supersealer SB20WD",
                         "href": "/productos/Supersealer SB20WD",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE BANDAS SUPERSEALER SB20 WD.png"
                         ],
                         "docs": [],
                         "descripcion": "La Selladora SB20WD está disponible en selladoras de bolsas lavables con clasificación IP65 e IP69K. Una selladora con clasificación IP65 puede lavarse utilizando sólo la presión de una manguera de jardín. Nuestra selladora o sistema IP69K puede soportar las exigencias de un lavado agresivo. Nuestras selladoras de bolsas lavables son soluciones ideales para entornos de envasado en salas blancas y envasadores que requieren normas de limpieza estrictas. El saneamiento de las plantas es la nueva normalidad y tenemos la selladora para satisfacer las exigencias que requieren las empresas.",
@@ -1367,7 +1458,9 @@
                         "img": [
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/MODELO PORTATIL HD.png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/BROCHURE FISCHBEIN MODELO PORTATIL HD.pdf"
+                        ],
                         "descripcion": "La cosedora portatil modelo HD de Fischbein para trabajos pesador portátil de la Serie F pone a su alcance la calidad, durabilidad y la productividad que usted espera de Fischbein. Con un peso de solo 5kg (11 libras),esta cosedora portátil cierra rápidamente y de manera segura bolsas de papel multicapa, tejidas y de polipropileno. Tiene una funcionalidad de 11 metros por minuto a razón de 4 puntadas por pulgada, la serie - F se encargará de realizar las tareas de cierre en bolsas más exigentes de manera segura y eficiente.",
                         "aplicaciones": [
                             "• Industria de transporte",
@@ -1502,9 +1595,11 @@
                         "nombre": "SERIE 100",
                         "href": "/productos/SERIE 100",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 100/CABEZAL SERIE 100.png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 100/BROSHURE FISCHBEIN MODELO SERIE 100.pdf"
+                        ],
                         "descripcion": "El cabezal de cosura sencilla de la Serie Empress 100 de Fischbein es reconocido por su durabilidad y la idoneidad de mano de obra con que se fabrica. Armado con coponentes de metales pesados, ese versátil y compacto cabezal de costura está diseñado para cerrar de manera segura bolsas llenas de boca abierta, de papel multicapa, tejidas y de polipropileno tejido laminado en los entornos de trabajo mas exigentes. Las piezas giratorias de alta precision de este cabezal de cosutra permiten ajustar la velocidad operativa de 11 a 17m por minuto, con muy bajo nivel de vibración.Los cabezales Fischbein se presentan con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, sistemas de alimentación, eléctrica, codificadores de boslas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
                             "• Industria agrícola",
@@ -1534,9 +1629,11 @@
                         "nombre": "SERIE 101",
                         "href": "/productos/SERIE 101",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 101/CABEZAL SERIE 101 (2).png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 101/BROSHURE FISCHBEIN MODELO SERIE 101.pdf"
+                        ],
                         "descripcion": "El cabezal de costura Serie 101 con cinta estándar de la Serie Empress de Fischbein es reconocido por su durabilidad y la idoneidad de la mano de obra con que se fabrica. Las piezas giratorias de alta precisión de este cabezal de costura permiten ajustar la velocidad operativa de 11 a 17m por minuto. Nuestro modelo estándar para cinta confecciona una costura de cadeneta de dos hilos, ajustable de 2 a 3,25 puntadas por pulgada. Fischbein pueden adquirirse con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, dobladoras de boca de bolsas, detector de rotura de hilos cintas, codificadores de bolsas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
                             "• Industria agrícola",
@@ -1566,9 +1663,11 @@
                         "nombre": "SERIE 200",
                         "href": "/productos/SERIE 200",
                         "img": [
-                            ""
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 200/CABEZAL SERIE 200.png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 200/BROSHURE FISCHBEIN MODELO SERIE 200.pdf"
+                        ],
                         "descripcion": "El cabezal de costura sencilla de la Serie Empress de Fischbein Modelo 200 es reconocido por su durabilidad y la idoneidad de la mano de obra con que se fabrica. Las piezas giratorias de alta precisión de este cabezal de costura permiten ajustar la velocidad operativa 17 a 23m por minuto, con muy bajo nivel de vibración. Los modelos de costura sencialla estándar confeccionan una costura de cadeneta de dos hilos, ajustable de 2 a 3,5 puntadas por pulgadas, configurado de fábrica en 2,5 puntadas.Fischbein pueden adquirirse con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, dobladoras de boca de bolsas, detector de rotura de hilos cintas, codificadores de bolsas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
                             "• Industria agrícola",
@@ -1601,7 +1700,9 @@
                         "img": [
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/Fischbein-Sew_Head_Model_201-a.png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/FICHA TECNICA FISCHBEIN MODELO SERIE 201.pdf"
+                        ],
                         "descripcion": "El cabezal de costura sencilla de la Serie Empress de Fischbein Modelo 201 es reconocido por su durabilidad y la idoneidad de la mano de obra con que se fabrica. Las piezas giratorias de alta precisión de este cabezal de costura permiten ajustar la velocidad operativa 17 a 23m por minuto, con muy bajo nivel de vibración. Los modelos de costura sencialla estándar confeccionan una costura de cadeneta de dos hilos, ajustable de 2 a 3,5 puntadas por pulgadas, configurado de fábrica en 2,5 puntadas.Fischbein pueden adquirirse con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, dobladoras de boca de bolsas, detector de rotura de hilos cintas, codificadores de bolsas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
                             "• Industria agrícola",
@@ -1632,14 +1733,15 @@
             },
             {
                 "nombre": "Suministros",
-                "href": "",
+                "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Suministros",
                 "img": "",
-                "tipos": []
-                "docs": [],
-                        {
+                "tipos": [
+                    {
                         "nombre": "Hilos industriales",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/HILOS-INDUSTRIALES (1).png"
+                        ],
                         "docs": [],
                         "descripcion": "Nuestros hilos industriales de la marca Fischbein son conocidos por su resistencia y confiabilidad. Ofrecemos costuras fuertes y duraderas que garantizan la calidad en cada producto que confecciona.",
                         "aplicaciones": [
@@ -1652,35 +1754,39 @@
                             "• Variedad de opciones: como colores, grosores y materiales",
                             "• Calidad consistente"
                         ],
-                        "especificaciones":
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
                         "nombre": "Agujas industriales",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/agujas-industriales (1).png"
+                        ],
                         "docs": [],
                         "descripcion": "Las agujas industriales de Fischbein son precisas y robustas, ideales para la costura en entornos de alta exigencia. Fabricadas con materiales de alta calidad, garantizan una costura eficiente y sin problemas en una amplia variedad de tejidos y aplicaciones.",
-                         "aplicaciones": [
+                        "aplicaciones": [
                             "• Costura de tejidos pesado como lona, cuero, lonas de camion, entre otros.",
                             "• Reparacion de bolsas y sacos industriales",
                             "• Aplicaciones en la industria de la marroquinería, la tapicería, la fabricación de calzado, la automotriz y la marítima"
                         ],
                         "ventajas": [
                             "• Durabilidad excepcional",
-                            "• Precisión y flexibilidad";
+                            "• Precisión y flexibilidad",
                             "• Compatibilidad versátil"
                         ],
-                        "especificaciones":
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
                         "nombre": "Aceite industrial",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/ACEITE-INDUSTRIAL.png"
+                        ],
                         "docs": [],
                         "descripcion": "Nuestro aceite industrial Fischbein está especialmente formulado para lubricar y proteger los mecanismos de su maquina. Con una fórmula de alto rendimiento con el que asegura un funcionamiento suave y prolonga la vida útil de sus equipos, manteniendo la productividad de su línea de producción",
-                         "aplicaciones": [
+                        "aplicaciones": [
                             "• Lubricación de componentes móviles como cosedoras, máquinas de embalaje, equipos de corte y perforación",
                             "• Mantimiento de motores, transmisiones y sistemas de transmisión de potencia en entornos industriales",
                             "• Aplicaciones en la industria textil, alimentaria, automotriz, metalpurgica, entre otras"
@@ -1690,35 +1796,19 @@
                             "• Protección contra la corrosión",
                             "• Seguridad y compatibilidad"
                         ],
-                        "especificaciones":
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Agujas industriales",
-                        "href": "",
-                        "img": [""],
-                        "docs": [],
-                        "descripcion": "Las agujas industriales de Fischbein son precisas y robustas, ideales para la costura en entornos de alta exigencia. Fabricadas con materiales de alta calidad, garantizan una costura eficiente y sin problemas en una amplia variedad de tejidos y aplicaciones.",
-                         "aplicaciones": [
-                            "• Costura de tejidos pesado como lona, cuero, lonas de camion, entre otros.",
-                            "• Reparacion de bolsas y sacos industriales",
-                            "• Aplicaciones en la industria de la marroquinería, la tapicería, la fabricación de calzado, la automotriz y la marítima"
-                        ],
-                        "ventajas": [
-                            "• Durabilidad excepcional",
-                            "• Precisión y flexibilidad";
-                            "• Compatibilidad versátil"
-                        ],
-                        "especificaciones":
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
                         "nombre": "Accesorios",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/COLGADOR PARA COSEDORA.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/COLGAOR PARA COSEDORA.png"
+                        ],
                         "docs": [],
                         "descripcion": "Nuestros accesorios, como los colgadores para cosedoras portátiles, están diseñado para mejorar la eficiencia y la comodidad en su lugar de trabajo. Los colgadores Fischbein proporcionan una solución práctica para mantener su equipo organizado y al alcance durante las operaciones de costura, optimizando así el flujo de trabajo y la productividad.",
-                         "aplicaciones": [
+                        "aplicaciones": [
                             "• Organización de cosedoras portatiles"
                         ],
                         "ventajas": [
@@ -1726,21 +1816,23 @@
                             "• Diseño robusto",
                             "• Fácil instalación y versatilidad"
                         ],
-                        "especificaciones":
+                        "especificaciones": [],
                         "video": ""
-                    },
-        ]
-    },
-    {
+                    }
+                ]
+            },
+            {
                 "nombre": "Repuestos",
-                "href": "",
+                "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Repuestos",
                 "img": "",
-                "tipos": []
-                "docs": [],
-                        {
+                "tipos": [
+                    {
                         "nombre": "Cabezal de costura",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/REPUESTO DE CABEZAL DE COSTURA.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/REPUESTO PARA CABEZAL DE COSTURA.png"
+                        ],
                         "docs": [],
                         "descripcion": "Contamos con los repuesto para los cabezales de costura Fischbein. Nuestro inventario incluye agujas, placas de aguja, presantelas, cuchillas de corte, correas de transmision, engranaje y poleas, sensores y componentes electricos tambien con manuales de servicio.",
                         "aplicaciones": [
@@ -1756,13 +1848,15 @@
                             "• Flexibilidad y adaptabilidad",
                             "• Mejora del rendimiento operativo"
                         ],
-                        "especificaciones":
+                        "especificaciones": [],
                         "video": ""
                     },
                     {
                         "nombre": "Cosedora portátil",
                         "href": "",
-                        "img": [""],
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/REPUESTO PARA COSEDORA PORTATIL.png"
+                        ],
                         "docs": [],
                         "descripcion": "Contamos con repuesto específicos para la cosedora portátil. Sabemos lo importante que es mantener tu equipo en óptimas condiciones de funcionamiento para garantizar una producción sin interrupciones y de alta calidad. Nuestros inventario incluye agujas, prensatelas, cuchilla de core, correas de transmisión y mucho más. Todos nuestros repuestos son genuinos de Fischbein, lo que garantiza la compatibilidad y la calidad que necesitas para mantener tu equipo funcionando de manera eficiente.",
                         "aplicaciones": [
@@ -1778,9 +1872,13 @@
                             "• Flexibilidad y adaptabilidad",
                             "• Mejora del rendimiento operativo"
                         ],
-                        "especificaciones":
+                        "especificaciones": [],
                         "video": ""
-                    },
+                    }
+                ]
+            }
+        ]
+    },
     {
         "division": "Aplicadores de Etiquetas y Sleeve",
         "encargado": "Jorge Rojas",
@@ -1799,15 +1897,16 @@
             {
                 "nombre": "Aplicación",
                 "href": "/productos/Automatización, Robots y Desarrollo de Proyectos-Aplicación",
-                "img": "",
+                "img": "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO-actual-medida.jpg",
                 "tipos": [
                     {
                         "nombre": "Paletizado y despaletizado",
                         "href": "/productos/Paletizado y despaletizado",
                         "img": [
-                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/PALETIZADO-Y-DESPALETIZADO.png",
-                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/PALETIZADO-DE-BALDES.png",
-                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/PALETIZADO-DE-SACOS.png"
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO-actual-medida.jpg",
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO.png",
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-DE-BALDES.png",
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-DE-SACOS.png"
                         ],
                         "docs": [],
                         "descripcion": "El paletizado es el proceso de colocar productos o mercancías sobre pallets de manera organizada y segura para su transporte y almacenamiento. Se realiza típicamente mediante el uso de maquinaria automatizada o manual. Por otro lado, el despaletizado es el proceso opuesto, donde los productos son retirados de los pallets, almacenados o procesados posteriormente.",
@@ -1832,6 +1931,7 @@
                         "nombre": "Soldadura",
                         "href": "",
                         "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/soldadura-actualizado-portada-a-medida.jpg",
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/SOLDADURA-(2).png"
                         ],
                         "docs": [],
@@ -1965,12 +2065,14 @@
             {
                 "nombre": "Proyecto FESTO",
                 "href": "/productos/Automatización, Robots y Desarrollo de Proyectos-Proyecto FESTO",
-                "img": "",
+                "img": "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/PROYECTO FESTO/2. PROYECTO FESTO DESGASIFICACION PARA CELDAS DE BATERIA.jpg",
                 "tipos": [
                     {
-                        "nombre": "Proyecto AirJelly ",
+                        "nombre": "Proyecto AirJelly",
                         "href": "/productos/Proyecto FESTO",
-                        "img": [],
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/PROYECTO FESTO/PROYECTO-FESTO-Festo_Bionic_Airjelly.jpg"
+                        ],
                         "docs": [],
                         "descripcion": "El AirJelly de Festo es una impresionante creación tecnológica que emula la elegante y fluida movilidad de las medusas en el agua. Este robot volador utiliza un innovador sistema de propulsión neumática para desplazarse en el aire con una sorprendete suavidad y eficiencia. Su diseño biomimético es una muestra de cómo la naturaleza inspira avances en la ingenieria y la robotica. El Airjelly no solo es una fascinante pieza de exhibición si no que también destaca el compromiso de Festo con la innovación y la exploración de nuevas fronteras en la tecnología.",
                         "aplicaciones": [
@@ -1987,9 +2089,11 @@
                         "video": ""
                     },
                     {
-                        "nombre": "eMotionButterflies / Mariposas roboticas",
+                        "nombre": "eMotionButterflies - Mariposas roboticas",
                         "href": "/productos/Proyecto FESTO",
-                        "img": [],
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/PROYECTO FESTO/PROYECTO-FESTO-Festo_Bionic_Butterflies.jpg"
+                        ],
                         "docs": [],
                         "descripcion": "El eMotionButterflies o las mariposas robot de Festo es una innovadora creación tecnológica que emula el vuelo natural de las mariposas mediante robot robóticos. Inspirado en la biomimética, estos robots están diseñados para reproducir con precisión el movimiento y la elegancia de las mariposas reales. Cada eMotionButterfly es una obra maestra de la ingeniería, equipada con sistemas de control autónomo y una estructura aerodinámica que le permite volar de manera fluida y coordinada en un entorno controlado.",
                         "aplicaciones": [
@@ -2006,13 +2110,15 @@
                         "video": ""
                     },
                     {
-                        "nombre": "BionicMobileAssistant / Asistente Móvil biónico ",
+                        "nombre": "BionicMobileAssistant - Asistente Móvil biónico",
                         "href": "/productos/Proyecto FESTO",
-                        "img": [],
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/PROYECTO FESTO/PROEYCTO-FESTO-MobileAssistant.jpg"
+                        ],
                         "docs": [],
                         "descripcion": "El BionicMobileAssistant de Festo es un robot autónomo capaz de reconocer objetos, adaptarse a ellos y trabajar en colaboración con humanos. Utiliza inteligencia artificial y una red neuronal entrenada previamente para procesar información de manera eficiente. Festo enfoca en desarrollar sistemas de alivien a los trabajadores de tareas monótonas o peligrosas, utilizando la inteligencia artificial para una colaboracion segura y efectiva entre humanos y robots en el lugar de trabajo del futuro.",
                         "aplicaciones": [
-                            "• Industria Manufacturera"
+                            "• Industria Manufacturera",
                             "• Logística y almacenes",
                             "• Asistencia en salud"
                         ],
@@ -2028,10 +2134,12 @@
                     {
                         "nombre": "Workplace",
                         "href": "/productos/Proyecto FESTO",
-                        "img": [],
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/PROYECTO FESTO/PROYECTO-FESTO_Workplace.jpg"
+                        ],
                         "docs": [],
-                        "descripcion": "El BionicWorkplace de Festo es un entorno de trabajo avanzado diseñado para la colaboración entre personas y robots con inteligenica artificial en la producción de lotes personalizados. El BionicCobot, un brazo robótico inspirado en la anatomía humana, lidera el sistema, trabajando junto a sistemas de asistencia y dispositivos periféricos interconectados. Utiliza inteligencia artificial y aprendizaje automático para optimizar sus operaciones continuamente. Este entorno ergonómico se adapta a las necesidades del operador, con un pantalla central que proporciona informacion relevante de manera dinámica.
-                         "aplicaciones": [   
+                        "descripcion": "El BionicWorkplace de Festo es un entorno de trabajo avanzado diseñado para la colaboración entre personas y robots con inteligenica artificial en la producción de lotes personalizados. El BionicCobot, un brazo robótico inspirado en la anatomía humana, lidera el sistema, trabajando junto a sistemas de asistencia y dispositivos periféricos interconectados. Utiliza inteligencia artificial y aprendizaje automático para optimizar sus operaciones continuamente. Este entorno ergonómico se adapta a las necesidades del operador, con un pantalla central que proporciona informacion relevante de manera dinámica.",
+                        "aplicaciones": [
                             "• Fabricación personalizada",
                             "• Tareas monótonas o peligrosas",
                             "• Optimización continua"
@@ -2039,25 +2147,19 @@
                         "ventajas": [
                             "• Eficiencia mejorada",
                             "• Personalización y adaptabilidad",
-                            "• Colaboración segura",                        
+                            "• Colaboración segura"
                         ],
                         "especificaciones": [],
-                        "video": 
-                        }
-                ]
-            },
-            {
-                "nombre": "Aplicaciones",
-                "href": "",
-                "img": "",
-                "tipos": [
+                        "video": ""
+                    },
                     {
                         "nombre": "Solucion de control de procesos",
                         "href": "",
                         "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/PROYECTO FESTO/PROYECTO-FESTO-SOUCION-DE-CONTROL-DE-PROCESOS.jpg"
                         ],
                         "docs": [],
-                        "descripcion": "Una solución de control de procesos es un conjunto de herramientas y tecnologías utilizadas para supervisar, regular y optimizar procesos industriales. Incluye sistemas de control automatizado, software de supervisión, sensores y actuadores. Su objetivo es mejorar la eficiencia, la calidad y seguridad en la producción. Esto se logra mediante la monitorización en tiempo real de variables clave del proceso, la detección y corrección de desviaciones, y la optimización de parámetros. La solucion  de control de procesos contribuye a reducir costos operativos y minimizar riesgos de seguridad.
+                        "descripcion": "Una solución de control de procesos es un conjunto de herramientas y tecnologías utilizadas para supervisar, regular y optimizar procesos industriales. Incluye sistemas de control automatizado, software de supervisión, sensores y actuadores. Su objetivo es mejorar la eficiencia, la calidad y seguridad en la producción. Esto se logra mediante la monitorización en tiempo real de variables clave del proceso, la detección y corrección de desviaciones, y la optimización de parámetros. La solucion  de control de procesos contribuye a reducir costos operativos y minimizar riesgos de seguridad.",
                         "aplicaciones": [
                             "• Industria manufacturera",
                             "• Procesos quimicos y farmaceuticos",
@@ -2076,6 +2178,7 @@
                         "nombre": "De la neumática a la industria",
                         "href": "",
                         "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/PROYECTO FESTO/PROYECTO-FESTO-DE-LA-NEUMATICA-A-LA-INDUSTRIA.jpg"
                         ],
                         "docs": [],
                         "descripcion": "Representa el progreso de la tecnología neumática desde su uso inicial en herramientas simples hasta su integración como una parte esencial de la industria moderna. Esta evolución ha permitido la automatización de procesos, el control preciso de maquinaria y equipos, y la mejora de la eficiencia y seguridad en diversos sectores industriales. Hoy en día, la reumática desempeña un papel crucial en la fabricación, la automoción y la robótica, contribuyendo al avance tecnológico y la optimización de procesos en la industria.",
@@ -2100,6 +2203,7 @@
                         "nombre": "Desgasificación para celdas de bateria",
                         "href": "",
                         "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/PROYECTO FESTO/2. PROYECTO FESTO DESGASIFICACION PARA CELDAS DE BATERIA.jpg"
                         ],
                         "docs": [],
                         "descripcion": "La desgasificación en celdas de batería evita acumulaciones peligrosas de gases como hidrógeno y oxígeno, comunes en baterías de iones de litio. Utiliza sistemas de ventilación o dispositivos especializados para eliminar gases durante la carga y descarga de manera controlada, garantizando seguridad y fiabilidad. Crucial en aplicaciones electrónicas, vehículos eléctricos y sistemas de almacenamiento de energía. Monitoreo constante de niveles de gas y eficacia del sistema son esenciales para mantener la seguridad y rendimiento óptimo de las baterías",
@@ -2107,7 +2211,7 @@
                             "• Industria automotriz",
                             "• Electronica de consumo",
                             "• Almacenamiento de energía",
-                            "• Aplicaciones industriales",
+                            "• Aplicaciones industriales"
                         ],
                         "ventajas": [
                             "• Seguridad mejorada",
@@ -2119,9 +2223,10 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Smart Cubic / Cubo inteligente",
+                        "nombre": "Smart Cubic - Cubo inteligente",
                         "href": "",
                         "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/PROYECTO FESTO/4. PROYECTO FESTO CUBO INTELIGENTE.jpg"
                         ],
                         "docs": [],
                         "descripcion": "El CPV Smart Cubic es un terminal de válvulas compacto y versátil, con opciones de 4,8,12 o 16 posiciones de válvula, ideal para espacios reducidos y montaje en carril DIN. Ofrece una amplia gama de funciones seleccionables, incluyendo variantes de 5/2 vías monoestables o biestables, asi como 3/2 vías normalmente cerradas o abiertas, y 2/2 vías normalmente cerradas. Con opciones de conexión para conexiones neumáticas y eléctricas, cuenta con salidas neumáticas orientadas en el frente y varias opciones de conexión eléctrica. Además, presenta etiquetas de inscripción multifuncionales y soportes para etiquetado permanente, facilitando su instalación y mantenimiento",
@@ -2138,8 +2243,9 @@
                         ],
                         "especificaciones": [],
                         "video": ""
-                    },
-                    
+                    }
+                ]
+            },
             {
                 "nombre": "Proyecto DELTA",
                 "href": "/productos/Automatización, Robots y Desarrollo de Proyectos-Proyecto DELTA",
@@ -2147,7 +2253,7 @@
                 "tipos": [
                     {
                         "nombre": "Robots SCARA SERIE DRS40L3",
-                        "href": "/productos/Proyecto DELTA",
+                        "href": "/productos/Robots SCARA SERIE DRS40L3",
                         "img": [],
                         "docs": [],
                         "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
@@ -2161,7 +2267,7 @@
                         "ventajas": [
                             "• Funcion de control de cumplimiento sin sensores",
                             "• Múltiples métodos de enseñanza y enseñanza directa",
-                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad",
+                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad"
                         ],
                         "especificaciones": [
                             "• Número de ejes: 4",
@@ -2191,7 +2297,7 @@
                         "ventajas": [
                             "• Funcion de control de cumplimiento sin sensores",
                             "• Múltiples métodos de enseñanza y enseñanza directa",
-                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad",
+                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad"
                         ],
                         "especificaciones": [
                             "• Número de ejes: 4",
@@ -2222,7 +2328,7 @@
                         "ventajas": [
                             "• Funcion de control de cumplimiento sin sensores",
                             "• Múltiples métodos de enseñanza y enseñanza directa",
-                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad",
+                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad"
                         ],
                         "especificaciones": [
                             "• Número de ejes: 3, 4, 5",
@@ -2259,7 +2365,7 @@
                             "• Conector ethernet en el antebrazo para facilitar cableado"
                         ],
                         "especificaciones": [
-                            "• Número de ejes: 4,
+                            "• Número de ejes: 4",
                             "• Montaje: Mesa",
                             "• Longitud de brazo (X + Y): 600mm",
                             "• Clasificador Máx. Carga 2kg/6kg",
@@ -2293,7 +2399,7 @@
                             "• Conector ethernet en el antebrazo para facilitar cableado"
                         ],
                         "especificaciones": [
-                            "• Número de ejes: 4,
+                            "• Número de ejes: 4",
                             "• Montaje: Mesa",
                             "• Longitud de brazo (X + Y): 600mm",
                             "• Clasificador Máx. Carga 2kg/6kg",
@@ -2304,10 +2410,8 @@
                             "• Peso (sin controlador: 21kg"
                         ],
                         "video": ""
-                      }
-                    ]
-                   },
-                {
+                    },
+                    {
                         "nombre": "Robots Articulado DRV70L",
                         "href": "/productos/Proyecto DELTA",
                         "img": [],
@@ -2339,7 +2443,7 @@
                             "• Humedad: 20-85% HR",
                             "• Vibración: 0.5G"
                         ],
-                        "video": "" 
+                        "video": ""
                     },
                     {
                         "nombre": "Robots Articulado DRV90L",
@@ -2373,9 +2477,12 @@
                             "• Humedad: 20-85% HR",
                             "• Vibración: 0.5G"
                         ],
-                        "video": "" 
-                    },
-                         
+                        "video": ""
+                    }
+                ]
+            }
+        ]
+    },
     {
         "division": "Transportadores y Movimiento de Productos",
         "encargado": "Jorge Rojas",
@@ -2403,7 +2510,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/PLANO-DE-TRANSPORTE-ESPIRAL-VA-AL-FINAL (2).jpg",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/TRANSPORTADORES ESPIRAL PARA CAJAS.pdf"
+                        ],
                         "descripcion": "Un transportador en espiral para cajas es un dispositivo industrial que mueve cajas entre diferentes niveles o áreas de una instalación de forma eficiente. Utiliza una banda o cadena en espiral para transportar las cajas verticalmente mientras se mueven horizontalmente. Esto ahorra espacio y optimiza el flujo de trabajo en almacenes,centros de distribución y plantas de fabricación.",
                         "aplicaciones": [
                             "• Almacenes y centros de distribución",
@@ -2433,19 +2542,20 @@
                         "nombre": "Tranportador en espiral para botellas",
                         "href": "/productos/Tranportador en espiral para botellas",
                         "img": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/1.TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS va en la portada.jpg",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/1. TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS.jpg",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/2.  TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS-(3).jpg",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/3. TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS.-(2)jpg.jpg",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/4. TRANSPORTADOR EN ESPIRAL PARA BOTELLAS.jpg",
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO GENERAL - copia.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/1 portada.jpg",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/1. TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/2.--TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS-(3).png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/3.-TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS.png",
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/4.-TRANSPORTADOR-EN-ESPIRAL-PARA-BOTELLAS.jpg",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO GENERAL - copia.png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO GENERAL (2) - copia.png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO-DEL-TRANSPORTADOR-ESPIRAL (1) - copia.jpg",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO-DE-TRANSPORTE-ESPIRAL-VA-AL-FINAL (2) - copia.jpg",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3).jpg"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/TRANSPORTADORES ESPIRAL PARA BOTELLAS.pdf"
+                        ],
                         "descripcion": "Un transportador en espiral para botellas especialmente en la industria de bebidas, embotellado y envasado. Las ventajas y aplicaciones para la transferencia de botellas son similares a las mencionadas anteriormente para las cajas, pero adaptadas específicamente para la manipulación de botellas",
                         "aplicaciones": [
                             "• Industria de bebidas",
@@ -2484,7 +2594,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/PLANO-DE-TRANSPORTE-ESPIRAL-VA-AL-FINAL (2).jpg",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/TRANSPORTADORES ESPIRAL FLEXIBLE.pdf"
+                        ],
                         "descripcion": "Un transportador en espiral flexible es una variante del transportador en espiral estándar que ofrece una mayor flexibilidad y versatilidad en su aplicación. A diferencia de los transportadores en espiral tradicionalesm que suelen tener una configuración fija, los transportadores en espiral flexibles pueden ajustarse y adaptarse a diferentes coniguraciones y requisitos de transporte.",
                         "aplicaciones": [
                             "• Industria de bebidas",
@@ -2522,7 +2634,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/PLANO-DE-TRANSPORTE-ESPIRAL-VA-AL-FINAL (2).jpg",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/TRANSPORTADORES ESPIRAL DE ENFRIAMIENTO.pdf"
+                        ],
                         "descripcion": "Un transportador en espiral de enfriamiento es un equipo utilizado en procesos industriales para enfriar productos o materiales que han sido sometidos a altas temperaturas durante la producción. Este tipo de transportador utiliza una estructura en espiral para permitir que los productos se enfríen gradualmente mientras se mueven a través de la espiral.",
                         "aplicaciones": [
                             "• Industria metalúrgica",
@@ -2562,7 +2676,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/PLANO-DE-TRANSPORTE-ESPIRAL-VA-AL-FINAL (2).jpg",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/TRANSPORTADOR ESPIRAL DE GRAVEDAD.pdf"
+                        ],
                         "descripcion": "Un transportador en espiral por gravedad consta de una estructura en forma de espiral que se inclina hacia abajo gradualmente desde un punto alto hasta un punto bajo. Los objetos o materiales se colocan en la parte superior de la espiral y se desplazan hacia abajo debido a la gravedad, siguiendo la forma de la espiral hasta llegar al punto final de descarga.",
                         "aplicaciones": [
                             "• Industria logísticay centros de distribución",
@@ -2583,43 +2699,6 @@
                             "• Diametro mínimo (mm): 1200-1800",
                             "• Altura de transferencia H2 (mm): ≤10000",
                             "• Carga (kg/m): ≤20"
-                        ],
-                        "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Sorter",
-                "href": "/productos/Transportadores y Movimiento de Productos-Sorter",
-                "img": "",
-                "tipos": [
-                    {
-                        "nombre": "Sorter",
-                        "href": "/productos/Sorter",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "El sorter es un transportador del cual hacen pasar los productos por una ruta específica después de ser recuebiertos, gracias a la alta precisión de la cinta transportadora que permite una rápida división de cajas. Compuesto por un gran impulsor, guía e impulsado, este sistema utiliza una cinta transportadora no estándar para garantizar un transporte eficiente. Su función principal radica en la clasificación de objetos mediante señales de básculas, detectores de metales y lectores de código y cámara de vídeo. Distribuye los objetos de forma uniforme para su procesamiento posterior, conectando equipos de procesamiento y máquinas de embalaje, ajustando la cantidad según la capacidad o entrada requerida.",
-                        "aplicaciones": [
-                            "• Industria alimentaria",
-                            "• Industria farmacéutica",
-                            "• Industria química",
-                            "• Industria automotiz",
-                            "• Industria de empaquetado y envasado"
-                        ],
-                        "ventajas": [
-                            "• Protección de productos",
-                            "• Reduccion de deslizamiento",
-                            "• Suavidad y estabilidad",
-                            "• Versatilidad"
-                        ],
-                        "especificaciones": [
-                            "• Fuente de alimentación: CA 220 V/sph, CA 380 V/trifásico",
-                            "• Altura del transportador (mm): 300-1500",
-                            "• Carga (kg):10",
-                            "• Nivel de ruido (dB): 85",
-                            "• Ancho del transportador W (mm)",
-                            "• Velocidad (m/min): ≤60",
-                            "• Potencia de motor: 0,75-3"
                         ],
                         "video": ""
                     }
@@ -3319,11 +3398,11 @@
                         "nombre": "Puertas Plegables",
                         "href": "/productos/Puertas Plegables",
                         "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE-ROJO.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/2.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/3.jpg",
                             "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE-PVC-(1).jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE-(2).jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA PLEGABLE GRIS.jpg"
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/VA-ULTIMO-ROJO.jpg"
                         ],
                         "docs": [],
                         "descripcion": "Una puerta industrial plegable de PVC es una solucion versátil y eficiente para accesos rápido entornos industriales y comerciales. Compuesta por paneles de PVC reforzado que se pliegan horizontalmente al abrirse, ofrece un amplio espacio de entrada y salida. Su diseño compacto maximiza el uso del espacio disponible. Son duraderas, resistentes a condiciones adversas y fáciles de mantener. Se utilizan comúnmente en almacenes, centros de distribución y áreas de carga y descarga.",
@@ -3369,8 +3448,8 @@
                         "nombre": "Puertas Seccional Industrial",
                         "href": "/productos/Insuladas",
                         "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/PUERTA-SECCIONAL-(A)PONER DE PORTADA.png",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/PUERTA-SECCIONAL-(B).jpg"
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
                         ],
                         "docs": [],
                         "descripcion": "Una puerta seccional industrial es una solución robusta y eficiente para el acceso a grandes espacios comerciales e industriales. Está compuesta por paneles horizontales articulados que se desplazan verticalmente hacia arriba y luego a lo largo del techo al abrirse. Fabricadas con materiales duraderos como acero galvanizado o aluminio, estas puertas ofrecen resistencia a condiciones adversas y puedes incluir aislamiento término y acústico.",
@@ -3485,7 +3564,9 @@
                     {
                         "nombre": "Sello de Anden",
                         "href": "/productos/Sello de Anden",
-                        "img": [],
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/SELLO-DE-ANDEN.png"
+                        ],
                         "docs": [],
                         "descripcion": "Los sellos de andén proveen un ambiente hermético entre la caja del camión y el almacén, logrando un ambiente aislado del exterior durante las maniobras de carga y descarga, evitan el robo de mercancía, el paso de aves, insectos, polvos, etc.",
                         "aplicaciones": [],
@@ -3496,7 +3577,9 @@
                     {
                         "nombre": "Abrigo Hinchable",
                         "href": "/productos/Abrigo Hinchable",
-                        "img": [],
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/SELLO-DE-ANDEN.png"
+                        ],
                         "docs": [],
                         "descripcion": "El abrigo hinchable esta diseñado par adaptarse a las aberturas de la puerta hasta 10' de ancho x 10' altura (3048 x 3048mm), en abrigo de anden ajustable e inflable tiene bolsas de aire verticales que incrementan el área de contacto contra el remolque y se ajustan para mantener seguro el producto. Un resorte interno de la retracción permite a la bolsa de airea de la cabecera retraerse por completo cuando esta siendo usada, lo cual impide daños por choque de remolques entrantes.",
                         "aplicaciones": [],

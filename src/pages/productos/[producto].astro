@@ -2,6 +2,7 @@
 import Banner from "../../components/Banner.astro";
 import Body from "../../components/Body.astro";
 import Layout from "../../layouts/Layout.astro";
+import ImagesGallery from "../../components/productos/ImagesGallery.astro";
 import FileContainer from "../../components/productos/FileContainer.astro";
 import DescriptionContainer from "../../components/productos/DescriptionContainer.astro";
 
@@ -43,28 +44,7 @@ const { tipo, phone, productoName } = Astro.props;
     <Banner title="PRODUCTOS INDUSTRIALES" img={banner.src} />
     <Body isGray="gray">
         <section class="main-info">
-            <picture>
-                <div class="img-cont">
-                    <div id="back" class="arrow">
-                        <i class="material-icons">arrow_back_ios</i>
-                    </div>
-                    <img id="main-img" src={tipo["img"][0]} alt="" />
-                    <div id="forward" class="arrow">
-                        <i class="material-icons">arrow_forward_ios</i>
-                    </div>
-                </div>
-                <div class="small-img">
-                    {
-                        tipo["img"].map((e) => (
-                            <img
-                                class={`small ${e == tipo["img"][0] && "img-select"}`}
-                                src={e}
-                                alt={tipo["nombre"]}
-                            />
-                        ))
-                    }
-                </div>
-            </picture>
+            <ImagesGallery producto={tipo}/>
             <section class="tec-info">
                 <h4>{productoName.toUpperCase()}</h4>
                 <h2>{tipo["nombre"].toUpperCase()}</h2>
@@ -84,9 +64,7 @@ const { tipo, phone, productoName } = Astro.props;
                     </div>
                     <div class="content f">
                         <FileContainer
-                            fileUrl={tipo["docs"]["fileUrl"]}
-                            fileName={tipo["docs"]["fileName"]}
-                            miniatura={tipo["docs"]["miniatura"]}
+                            fileUrl={tipo["docs"][0]}
                         />
                     </div>
                     <div class="content v">
@@ -129,43 +107,6 @@ const { tipo, phone, productoName } = Astro.props;
 </Layout>
 
 <script>
-    //Images changes
-    const imgMain = document.getElementById("main-img");
-    const images = document.getElementsByClassName("small");
-    const back = document.getElementById("back");
-    const forward = document.getElementById("forward");
-    let currentIndex = 0;
-
-    back.addEventListener("click", () => {
-        currentIndex = (currentIndex - 1 + images.length) % images.length;
-        imgMain["src"] = images[currentIndex]['src'];
-
-        var current = document.getElementsByClassName("img-select");
-        current[0].className = current[0].className.replace(" img-select", "");
-        images[currentIndex].className += " img-select";
-    });
-
-    forward.addEventListener("click", () => {
-        currentIndex = (currentIndex + 1) % images.length;
-        imgMain["src"] = images[currentIndex]['src'];
-
-        var current = document.getElementsByClassName("img-select");
-        current[0].className = current[0].className.replace(" img-select", "");
-        images[currentIndex].className += " img-select";
-    });
-
-    for (const image of images) {
-        image.addEventListener("click", () => {
-            imgMain["src"] = image["src"];
-            var current = document.getElementsByClassName("img-select");
-            current[0].className = current[0].className.replace(
-                " img-select",
-                "",
-            );
-            image.className += " img-select";
-        });
-    }
-
     //Tec-info changes
     const menuOptions = document.getElementsByClassName("option");
     const contentOptions = document.getElementsByClassName("content");
@@ -193,78 +134,6 @@ const { tipo, phone, productoName } = Astro.props;
         width: 90%;
         margin: 0 auto 4rem auto;
         display: flex;
-    }
-
-    /* Images */
-    .main-info picture {
-        width: 45%;
-    }
-
-    #main-img {
-        height: 60vh;
-        width: 100%;
-        object-fit: scale-down;
-        border: 1px solid var(--blue-refamij);
-        border-radius: 10px;
-    }
-
-    .img-cont {
-        position: relative;
-    }
-    .img-cont:hover .arrow {
-        display: block;
-    }
-
-    .arrow {
-        display: none;
-        position: absolute;
-        top: 50%;
-        color: var(--blue-refamij);
-        cursor: pointer;
-    }
-
-    #back {
-        left: 10px;
-    }
-
-    #forward {
-        right: 10px;
-    }
-
-    .small-img {
-        width: 100%;
-    }
-    .small-img {
-        width: 100%;
-        display: inline-flex;
-        overflow-x: scroll;
-    }
-    .small {
-        height: 12vh;
-        width: 12vh;
-        margin-right: 10px;
-        object-fit: cover;
-        border: 1px solid gray;
-        border-radius: 10px;
-    }
-
-    .img-select {
-        border: 2px solid var(--blue-refamij);
-    }
-
-    .small-img img:last-child {
-        margin-right: 0;
-    }
-
-    .small-img::-webkit-scrollbar {
-        height: 7px;
-    }
-    .small-img::-webkit-scrollbar-thumb {
-        background: var(--light-blue);
-        border-radius: 7px;
-    }
-    .small-img::-webkit-scrollbar-thumb:hover {
-        background: var(--blue-refamij);
     }
 
     /* Article */

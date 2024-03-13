@@ -58,7 +58,7 @@ const { marca, categoria, tipo, modelos } = Astro.props;
                 <section class="cards-container">
                     {
                         modelos.map((element) => (
-                            <ProductCard title={element['nombre']} img={element['imgs'][0]} route={`/tienda/${element['nombre']}`} />
+                            <ProductCard title={element['nombre']} img={element['img'][0]} route={`/tienda/${element['nombre']}`} />
                         ))
                     }
                 </section>
