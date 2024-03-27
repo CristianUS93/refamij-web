@@ -74,7 +74,7 @@ const { modelo, tipoName } = Astro.props;
                     <div class="content v">
                         <iframe
                             width="560"
-                            height="315"
+                            height="330"
                             src={modelo.video}
                             title="YouTube video player"
                             frameborder="0"
@@ -159,6 +159,8 @@ const { modelo, tipoName } = Astro.props;
 
     /* Tec Info */
     .tec-info {
+        min-height: 515px;
+        max-height: 515px;
         width: 50%;
         margin-left: 3rem;
         padding: 1.5rem;
@@ -184,7 +186,6 @@ const { modelo, tipoName } = Astro.props;
     }
 
     .info-content {
-        height: 50vh;
         width: 100%;
     }
 
@@ -215,13 +216,8 @@ const { modelo, tipoName } = Astro.props;
         .main-info {
             flex-direction: column;
         }
-        .main-info picture,
         .main-info .tec-info {
             width: 100%;
-        }
-
-        .main-info picture {
-            margin-bottom: 1rem;
         }
         .main-info .tec-info {
             margin-left: 0;
