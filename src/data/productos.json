@@ -2513,7 +2513,7 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
                         "docs": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/TRANSPORTADORES ESPIRAL PARA CAJAS.pdf"
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA CAJAS/Transportado espiral para cajas .pdf"
                         ],
                         "descripcion": "Un transportador en espiral para cajas es un dispositivo industrial que mueve cajas entre diferentes niveles o áreas de una instalación de forma eficiente. Utiliza una banda o cadena en espiral para transportar las cajas verticalmente mientras se mueven horizontalmente. Esto ahorra espacio y optimiza el flujo de trabajo en almacenes,centros de distribución y plantas de fabricación.",
                         "aplicaciones": [
@@ -2556,7 +2556,7 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3).jpg"
                         ],
                         "docs": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/TRANSPORTADORES ESPIRAL PARA BOTELLAS.pdf"
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/PARA BOTELLAS/Transportador espiral para botellas.pdf"
                         ],
                         "descripcion": "Un transportador en espiral para botellas especialmente en la industria de bebidas, embotellado y envasado. Las ventajas y aplicaciones para la transferencia de botellas son similares a las mencionadas anteriormente para las cajas, pero adaptadas específicamente para la manipulación de botellas",
                         "aplicaciones": [
@@ -2597,7 +2597,7 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
                         "docs": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/TRANSPORTADORES ESPIRAL FLEXIBLE.pdf"
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/FLEXIBLE/Transportador espiral flexible.pdf"
                         ],
                         "descripcion": "Un transportador en espiral flexible es una variante del transportador en espiral estándar que ofrece una mayor flexibilidad y versatilidad en su aplicación. A diferencia de los transportadores en espiral tradicionalesm que suelen tener una configuración fija, los transportadores en espiral flexibles pueden ajustarse y adaptarse a diferentes coniguraciones y requisitos de transporte.",
                         "aplicaciones": [
@@ -2637,7 +2637,7 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
                         "docs": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/TRANSPORTADORES ESPIRAL DE ENFRIAMIENTO.pdf"
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/DE ENFRIAMIENTO/Transportador espiral de enfriamiento .pdf"
                         ],
                         "descripcion": "Un transportador en espiral de enfriamiento es un equipo utilizado en procesos industriales para enfriar productos o materiales que han sido sometidos a altas temperaturas durante la producción. Este tipo de transportador utiliza una estructura en espiral para permitir que los productos se enfríen gradualmente mientras se mueven a través de la espiral.",
                         "aplicaciones": [
@@ -2679,7 +2679,7 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/PLANO-DE-TRANSPORTADOR-ESPIRAL-VA-AL-FINAL-(3) - copia.jpg"
                         ],
                         "docs": [
-                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/TRANSPORTADOR ESPIRAL DE GRAVEDAD.pdf"
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/1. TRANSPORTADOR EN ESPIRAL/POR GRAVEDAD/Transportador espiral de gravedad .pdf"
                         ],
                         "descripcion": "Un transportador en espiral por gravedad consta de una estructura en forma de espiral que se inclina hacia abajo gradualmente desde un punto alto hasta un punto bajo. Los objetos o materiales se colocan en la parte superior de la espiral y se desplazan hacia abajo debido a la gravedad, siguiendo la forma de la espiral hasta llegar al punto final de descarga.",
                         "aplicaciones": [
@@ -2726,7 +2726,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR DE PALLETS/plano-palets.png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR DE PALLETS/plano-paltes.png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR DE PALLETS/CARGA Y DESCARGA/Transportador de palets.pdf"
+                        ],
                         "descripcion": "El transporador de paletas consta de una cadena o banda transportadora que está equipada con paletas o placas espaciadas uniformemente a lo largo de su longitud. Estas paletas se mueven a través de un sistema de poleas o tambores motorizados, creando un movimiento continuo que transporta los objetivos o materiales a lo largo del recorrido del transportados.",
                         "aplicaciones": [
                             "• Industria de alimetnos y bebidas",
@@ -2768,7 +2770,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR DE PALLETS/plano-palets.png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR DE PALLETS/plano-paltes.png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/2. TRANSPORTADOR DE PALLETS/Transportador de carga y descarga palets.pdf"
+                        ],
                         "descripcion": "Un transportador de carga y descarga de palets generalmente consta de una estructura robusta equipada con rodillos, cadena o correas transportadoras diseñadas para mover los palets de manera suave y controlada. Puede incluir caracteristicas como rodillos retráctiles, sistemas de elevación o dispositivos de alineación para facilitar la carga y descarga eficiente de los palets en los puntos deseados dentro de la instalación.",
                         "aplicaciones": [
                             "• Almacenes y centros de distribución",
@@ -2814,7 +2818,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/3. TRANSPORTADOR DE CADENA EN VARIAS VELOCIDADES/Sin-título-26.png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/3. TRANSPORTADOR DE CADENA EN VARIAS VELOCIDADES/Sin-título-27.png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/3. TRANSPORTADOR DE CADENA EN VARIAS VELOCIDADES/Transportador de cadena a varias velocidades .pdf"
+                        ],
                         "descripcion": "El transportador de cadena con varias velocidades consta de una cadena que se mueve a lo largo de una serie de rieles o guías, con los productos o materiales colocados sobre la cadena para su transporte. Este tipo de transportador puede incluir múltiples secciones de cadena o zonas de velocidad controladas por motores independientes, lo que permite ajustar la velocidad de cada sección según las necesidades específicas de la aplicación",
                         "aplicaciones": [
                             "• Industria automotriz",
@@ -2862,7 +2868,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE ELEVACION/ELEVACION CONTINUA/planno.png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE ELEVACION/ELEVACION CONTINUA/PLANO-DEL-TRANSPORTADOR-DE-EELEVACION-CONTINUA-(3).jpg"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE ELEVACION/ELEVACION CONTINUA/Transportador de elevacacion continúa.pdf"
+                        ],
                         "descripcion": "El transportador en elevación continuo es un sistema automatizado altamente eficiente que ofrece una entrada y entrega continua de mercancías sin depender de paletas, asegurando seguridad mediante dispositivos de seguridad. Permite entrada y salida desde todas las direcciones, facilitando la disposición del equipo en el taller. Transporta mercancías entre múltiples pisos, mejorando la eficiencia de la producción. Su flexibilidad se adapta a diversas industrias como electrodomésticos, alimentos, bebidas, entre otros.",
                         "aplicaciones": [
                             "• Industria alimentaria y bebidas",
@@ -2904,7 +2912,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE ELEVACION/ELEVACION ALTERNATIVA/PLANO-DE-TRANPORTADOR-DE-ELEVACION-ALTERNATIVA-(3).png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE ELEVACION/ELEVACION ALTERNATIVA/PLANO-DE-TRANPORTADOR-DE-ELEVACION-ALTERNATIVA-(4).png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE ELEVACION/ELEVACION ALTERNATIVA/Transportador de elevación alternativa .pdf"
+                        ],
                         "descripcion": "",
                         "aplicaciones": [],
                         "ventajas": [
@@ -2937,7 +2947,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE ELEVACION/TRANSPORTADOR DE PINZAS/PLANO-DE-TRANSPORTADOR-DE-PINZAS-(2).png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE ELEVACION/TRANSPORTADOR DE PINZAS/PLANO-DE-TRANSPORTADOR-DE-PINZAS-(3).png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/4. TRANSPORTADOR DE ELEVACION/TRANSPORTADOR DE PINZAS/Transportador de sujeción.pdf"
+                        ],
                         "descripcion": "Un transportador con pinzas de sujeción es un dispositivo diseñado para transportar diversos tipos de productos de forma segura y estable. Consiste en una serie de pinzas o garras que sujetan el producto mientras se mueve a lo largo del transportador, evitando que se caiga y manteniéndolo en equilibrio durante el transporte. Este tipo de transportador es especialmente útil en aplicaciones donde los productos tiene una formas irregulares, frágiles o inestables, ya que proporcionan un agarre firme y confiable, asegurando que los productos se mantengan en su lugar sin dañarse durante el proceso de transporte.",
                         "aplicaciones": [
                             "• Industria alimentaria y bebidas",
@@ -2984,7 +2996,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR FLEXIBLE/PLANO-DEL-TRANSPORTADOR-FLEXIBLE-(2).png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR FLEXIBLE/PLANO-DEL-TRANSPORTADOR-FLEXIBLE-(3).png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/5. TRANSPORTADOR FLEXIBLE/Transportador flexible.pdf"
+                        ],
                         "descripcion": "El transportador flexible está hecho aluminio anodizado de alta densidad, proporcionando una estética atractiva. Su diseño modular permite un montaje y desmontaje sencillo por un solo operador, con la mayoría de las piezas en stock para una entrega rápida y rentable. Con un radio de giro pequeño, ofrece una escalada robusta, sistema esable y bajo nivel de ruido, sin contaminación. Su flexibilidad operativa permite convertirse en varios modos de transporte y realizar diversas funciones comoa acumulación, división, clasificación y combinación. Puede adaptarse a diferentes necesidades con la instalación de dispositivos de control automático, siendo ideal para empresas manufacutureras con alto estándares de higiene, espacio reducido y alta automatización. ",
                         "aplicaciones": [
                             "• Industria alimentaria y bebidas",
@@ -3073,7 +3087,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. SERIE DE CINTAS TRANSPORTADORAS/CINTA TRANSPORTADORA INCLINADA/PLANO-DE-LA-CINTA-TRANSPORTADORA-INCLINADA.png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. SERIE DE CINTAS TRANSPORTADORAS/CINTA TRANSPORTADORA INCLINADA/PLANO-DE-LA-CINTA-TRANSPORTADORA-INCLINADA-(2).png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. SERIE DE CINTAS TRANSPORTADORAS/CINTA TRANSPORTADORA INCLINADA/Transportador de Banda inclinada.pdf"
+                        ],
                         "descripcion": " Una cinta transportadora inclinada es un dispositivo que transporta materiales desde un punto inferior a uno superior, utilizando una banda continua o superficie similar. Su diseño permite el movimiento eficiente de materiales a lo largo de una pendiente, facilitando la transferencia de carga en aplicaciones donde se requiere elevación.",
                         "aplicaciones": [
                             "• Industria alimentaria",
@@ -3113,7 +3129,9 @@
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. SERIE DE CINTAS TRANSPORTADORAS/CINTA TRANSPORTADORA CURVA/PLANO-DE-LA-CINTA-TRANSPORTADO-CURVA.png",
                             "/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. SERIE DE CINTAS TRANSPORTADORAS/CINTA TRANSPORTADORA CURVA/PLANO-DE-LA-CINTA-TRANSPORTADO-CURVA-(2)-.png"
                         ],
-                        "docs": [],
+                        "docs": [
+                            "public/productos/6. TRANSPORTADORES Y MOVIMIENTOS DE PRODUCTOS/6. SERIE DE CINTAS TRANSPORTADORAS/CINTA TRANSPORTADORA CURVA/Transportador de banda curva .pdf"
+                        ],
                         "descripcion": "Una cinta transportadora curva garantiza una operación silenciosa y estable, minimizando la vibración y asegurando la entrega precisa y duradera de productos sensibles. Su funcionamiento suave y fácil de manejar facilita la integración en cualquier línea de producción. Con una estructura simple y de fácil mantenimiento, este sistema proporciona una solucion eficiente y confiable para el transporte de productos. Además, su capacidad para adaptarse a una variedad de rangos de esquina ofrece flexibilidad en el diseño y la disposición en el espacio de trabajo.",
                         "aplicaciones": [
                             "• Industria alimentaria",
