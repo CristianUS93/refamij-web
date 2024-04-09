@@ -1,0 +1,124 @@
+---
+import DropdownMenu from "../../components/tienda/DropdownMenu.astro";
+
+import data from "../../data/tienda.json";
+
+const { marca, categoria, tipo } = Astro.props;
+
+var marcaSelect = {};
+
+for (const key in data) {
+    if (Object.prototype.hasOwnProperty.call(data, key)) {
+        const element = data[key];
+        if (element["marca"] === marca) {
+            marcaSelect = element;
+        }
+    }
+}
+---
+
+<section class="main">
+    <div class="nav-products">
+        {
+            data.map((element) => (
+                <a href={element["href"]} class="division-button">
+                    <div
+                        class={`division-card ${marca === element["marca"] && "div-select"}`}
+                    >
+                        {element["marca"]}
+                    </div>
+                </a>
+            ))
+        }
+    </div>
+    <div class="main-container">
+        <div class="products-menu">
+            <ul>
+                {
+                    marcaSelect["categorias"].map((element) => (
+                        <DropdownMenu categoria={element} categoriaSelect={categoria} tipoSelect={tipo}/>
+                    ))
+                }
+            </ul>
+        </div>
+        <div class="products-cards">
+            <slot />
+        </div>
+    </div>
+</section>
+
+<style>
+    .main {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .nav-products {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        column-gap: 10px;
+        row-gap: 10px;
+        margin-bottom: 1rem;
+    }
+
+    .main-container {
+        display: flex;
+    }
+
+    .division-button {
+        width: 100%;
+    }
+
+    .division-card {
+        height: 45px;
+        font-size: 13px;
+        padding: 0.5rem;
+        border: 2px solid var(--blue-refamij);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        color: black;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    .division-card:hover {
+        background-color: rgba(0, 44, 193, 0.4);
+        font-weight: 600;
+    }
+
+    .products-menu {
+        width: 25%;
+        margin-right: 2rem;
+    }
+
+    .products-cards {
+        width: 75%;
+    }
+
+    .div-select {
+        background-color: rgba(0, 44, 193, 0.4);
+    }
+
+    @media screen and (max-width: 800px) {
+        .division-card {
+            height: 55px;
+        }
+    }
+
+    @media screen and (max-width: 750px) {
+        .main-container {
+            flex-direction: column;
+        }
+        .nav-products {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        .products-menu {
+            width: 100%;
+        }
+        .products-cards {
+            width: 100%;
+        }
+    }
+</style>

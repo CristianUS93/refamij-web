@@ -1,0 +1,64 @@
+---
+import whatsappIcon from "../assets/icons-social/whatsapp-logo.png";
+---
+<a href="https://wa.me/51933056213?text=¡Hola!%20Me%20gustaría%20obtener%20más%20información%20sobre%20sus%20productos." target="_blank">
+    <div class="section">
+        <div class="text">
+            <p>¿Necesitas ayuda?</p>
+            <p><b>Chatea con Nosotros</b></p>
+        </div>
+        <div class="icon">
+            <img src={whatsappIcon.src} />
+        </div>
+    </div>
+</a>
+
+<style>
+    /*whatsapp container*/
+    .section {
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        display: flex;
+        align-items: center;
+        z-index: 9999;
+    }
+
+    .section:hover {
+        transform: scale(1.05);
+        transition: all 200ms ease-in-out;
+    }
+
+    .text {
+        height: 50px;
+        background: white;
+        color: black;
+        margin-right: 10px;
+        padding: 5px;
+        box-sizing: border-box;
+        border-radius: 5px;
+        text-align: left;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    }
+
+    .text p {
+        font-size: 12px;
+        padding: 0px 5px 5px 5px;
+        margin: 0;
+    }
+
+    .icon {
+        width: 60px;
+        height: 60px;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+        background-color: var(--green-wsp);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .icon img {
+        height: 35px;
+        width: 35px;
+    }
+</style>

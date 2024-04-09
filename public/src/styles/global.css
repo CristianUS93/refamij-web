@@ -1,0 +1,39 @@
+:root {
+    --blue-refamij: #002cc1;
+    --dark-blue: rgb(8, 34, 95);
+    --blue: #3d86ec;
+    --light-blue: #789bcd;
+    --white-blue: #dfecfc;
+    --yellow: rgb(255, 247, 4);
+    --light-yellow: rgb(234, 232, 210);
+    --light-gray: rgb(237, 237, 237);
+    --green-wsp: rgb(21, 179, 21);
+    --accent-gradient: linear-gradient(
+        45deg,
+        var(--dark-blue) 70%,
+        var(--light-blue),
+        white 60%
+    );
+    /*Swiper custom*/
+    --swiper-navigation-color: var(--light-blue);
+    --swiper-pagination-color: var(--light-blue);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: system-ui, sans-serif;
+    background-size: 224px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}

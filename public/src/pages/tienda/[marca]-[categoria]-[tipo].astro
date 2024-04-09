@@ -1,0 +1,130 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Banner from "../../components/Banner.astro";
+import Body from "../../components/Body.astro";
+import MarcaCard from "../../components/tienda/MarcaCard.astro";
+import NavMarcas from "../../components/tienda/NavTienda.astro";
+import ProductCard from "../../components/tienda/ProductoTCard.astro";
+
+import banner from "../../assets/tienda/banner.jpg";
+import cobraLogo from "../../assets/tienda/cobra-logo.png";
+import cobraImage from "../../assets/tienda/cobra-img.jpg";
+import deltaLogo from "../../assets/tienda/delta-logo.png";
+import deltaImage from "../../assets/tienda/delta-img.jpg";
+import data from "../../data/tienda.json";
+
+export async function getStaticPaths() {
+    return data.flatMap((m) => {
+        const marca = m;
+        const marcaNombre = m.marca;
+        const categorias = m.categorias;
+
+        return categorias.flatMap((c: Object) => {
+            const categoria = c;
+            const categoriaNombre = c["nombre"];
+            const tipos = c["tipos"];
+
+            return tipos.flatMap((t: Object) => {
+                const tipo = t;
+                const tipoNombre = t['nombre'];
+                const modelos = t['modelos'];
+
+                return {
+                    params: { marca: marcaNombre, categoria: categoriaNombre, tipo: tipoNombre },
+                    props: { marca, categoria, tipo, modelos },
+                };
+            });
+
+        });
+    });
+}
+
+interface Astro {
+    marca: Object,
+    categoria: Object,
+    tipo: Object
+    modelos: Array<Object>,
+}
+
+const { marca, categoria, tipo, modelos } = Astro.props;
+---
+
+<Layout path="/tienda" , title_page="Refamij - Tienda">
+    <Banner title="TIENDA COMERCIAL" img={banner.src} />
+    <Body isGray="gray">
+        <NavMarcas marca={marca['marca']}, categoria={categoria['nombre']}, tipo={tipo['nombre']}>
+            <section class="main-section">
+                <MarcaCard logo={marca['marca'] === 'Cobra' ? cobraLogo : deltaLogo} image={marca['marca'] === 'Cobra' ? cobraImage : deltaImage} />
+                <section class="cards-container">
+                    {
+                        modelos.map((element) => (
+                            <ProductCard title={element['nombre']} img={element['img'][0]} route={`/tienda/${element['nombre']}`} />
+                        ))
+                    }
+                </section>
+            </section>
+        </NavMarcas>
+    </Body>
+</Layout>
+
+<style>
+    .main-section {
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    /* CARDS CONTAINER */
+    .cards-container {
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        column-gap: 1.5rem;
+        row-gap: 1.5rem;
+    }
+
+    @media screen and (max-width: 1200px) {
+        .marca-card {
+            width: 90%;
+        }
+        .cards-container {
+            width: 90%;
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    @media screen and (max-width: 1150px) {
+        .marca-card img {
+            height: 60px;
+        }
+    }
+
+    @media screen and (max-width: 1000px) {
+        .cards-container {
+            width: 90%;
+            grid-template-columns: repeat(2, 1fr);
+        }
+        .marca-card h3 {
+            font-size: 16px;
+        }
+        .marca-card p {
+            font-size: 14px;
+        }
+    }
+
+    @media screen and (max-width: 750px) {
+        .marca-card {
+            flex-direction: column;
+        }
+        .marca-card img {
+            height: 50px;
+            margin-bottom: 1rem;
+        }
+    }
+
+    @media screen and (max-width: 700px) {
+        .cards-container {
+            width: 90%;
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
+</style>

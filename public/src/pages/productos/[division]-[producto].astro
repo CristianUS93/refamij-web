@@ -1,0 +1,114 @@
+---
+import Banner from "../../components/Banner.astro";
+import Body from "../../components/Body.astro";
+import NavProductos from "../../components/productos/NavProducts.astro";
+import ProductCard from "../../components/productos/ProductoPCard.astro";
+import Layout from "../../layouts/Layout.astro";
+
+import banner from "../../assets/tienda/banner.jpg";
+import data from "../../data/productos.json";
+
+export async function getStaticPaths() {
+    return data.flatMap((e) => {
+        const division = e;
+        const divisionNombre = e.division;
+        const productos = e.productos;
+        
+        return productos.flatMap((e: Object) => {
+            const producto = e;
+            const productoNombre = e["nombre"];
+            const tipos = e["tipos"];
+            return {
+                params: { division: divisionNombre, producto: productoNombre },
+                props: { division, producto, tipos },
+            };
+        });
+    });
+}
+
+interface Astro {
+    division: Object,
+    producto: Object,
+    tipos: Array<Object>,
+}
+
+const { division, producto, tipos } = Astro.props;
+---
+<Layout path="/productos" , title_page="Refamij - Productos">
+    <Banner title="PRODUCTOS INDUSTRIALES" img={banner.src}/>
+    <Body isGray="gray">
+        <NavProductos division={division['division']} producto={producto['nombre']}>
+            <section class="main-section">
+                <section class="cards-container">
+                    {
+                        tipos.map((element) => (
+                            <ProductCard title={element['nombre']} img={element['img'][0]} route={`/productos/${element['nombre']}`} />
+                        ))
+                    }
+                </section>
+            </section>
+        </NavProductos>
+    </Body>
+</Layout>
+
+<style>
+     .main-section {
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    /* CARDS CONTAINER */
+    .cards-container {
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        column-gap: 1.5rem;
+        row-gap: 1.5rem;
+    }
+
+    @media screen and (max-width: 1200px) {
+        .marca-card {
+            width: 90%;
+        }
+        .cards-container {
+            width: 90%;
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    @media screen and (max-width: 1150px) {
+        .marca-card img {
+            height: 60px;
+        }
+    }
+
+    @media screen and (max-width: 1000px) {
+        .cards-container {
+            width: 90%;
+            grid-template-columns: repeat(2, 1fr);
+        }
+        .marca-card h3 {
+            font-size: 16px;
+        }
+        .marca-card p {
+            font-size: 14px;
+        }
+    }
+
+    @media screen and (max-width: 750px) {
+        .marca-card {
+            flex-direction: column;
+        }
+        .marca-card img {
+            height: 50px;
+            margin-bottom: 1rem;
+        }
+    }
+
+    @media screen and (max-width: 700px) {
+        .cards-container {
+            width: 90%;
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
+</style>

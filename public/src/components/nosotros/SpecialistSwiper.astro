@@ -1,0 +1,91 @@
+---
+import data from '../../data/especialistas.json';
+---
+
+<div class="swiper-especialistas swiper">
+    <div class="swiper-wrapper">
+        {
+            data.map((especialista) => (
+                <div class="swiper-slide slide">
+                    <img src={especialista['img']}/>
+                    <span class="name"><p>{especialista['name']}</p></span>
+                    <span class="position"><p>{especialista['position']}</p></span>
+                    <span class="email"><p>{especialista['email']}</p></span>
+                </div>
+            ))
+        }
+    </div>
+</div>
+
+<script is:inline type="module">
+    import Swiper from 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.mjs'
+
+    let swiper = new Swiper('.swiper-especialistas', {
+        direction: 'horizontal',
+        slidesPerView: 4,
+        spaceBetween: 50,
+        loop: 'true',
+        speed: 2000,
+        autoplay: true,
+        breakpoints: {
+            250: {
+                slidesPerView: 1
+            },
+            500: {
+                slidesPerView: 2
+            },
+            900: {
+                slidesPerView: 3
+            },
+            1000: {
+                slidesPerView: 4
+            }
+        }
+    });
+</script>
+
+<style>
+    .swiper-especialistas {
+        width: 1150px;
+        margin: 40px auto 0 auto;
+    }
+
+    img {
+        height: 250px;
+        width: 250px;
+        margin: 0 auto;
+        background-color: white;
+        mix-blend-mode: multiply;
+    }
+
+    p {
+        color: white;
+        text-align: center;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .name > p {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .position > p {
+        color: yellow;
+        font-style: italic;
+    }
+    .email > p {
+        text-decoration: underline;
+    }
+
+    @media screen and (max-width: 1250px) {
+        .swiper-especialistas {
+            width: 98%;
+        }
+
+        .slide {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+    }
+</style>

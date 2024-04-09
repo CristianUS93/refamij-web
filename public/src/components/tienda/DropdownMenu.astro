@@ -1,0 +1,111 @@
+---
+interface Props {
+    categoria: Object;
+    categoriaSelect: string;
+    tipoSelect: string;
+}
+
+const { categoria, categoriaSelect, tipoSelect } = Astro.props;
+const categoriaName = categoria["nombre"]
+    .trim()
+    .replace(/\s/g, "")
+    .toLowerCase();
+---
+
+<div
+    class={`categoria ${categoriaSelect === categoria["nombre"] && "cat-select"}`}
+>
+    <div id={`drop-${categoriaName}`} class="drop-title show">
+        {categoria["nombre"]}
+        <i class="material-icons">expand_more</i>
+    </div>
+    <hr id={`hr-${categoriaName}`} class={`${categoriaSelect === categoria["nombre"] && "cont-select"}`} />
+    <div id={categoriaName} class={`drop-container ${categoriaSelect === categoria["nombre"] && "cont-select"}`}>
+        <ul>
+            {
+                categoria["tipos"].map((e) => (
+                    <a href={e["href"]}>
+                        <li
+                            class={`${categoriaSelect === categoria["nombre"] && tipoSelect === e["nombre"] && "tipo-select"}`}
+                        >
+                            {e["nombre"]}
+                        </li>
+                    </a>
+                ))
+            }
+        </ul>
+    </div>
+</div>
+
+<script define:vars={{ categoriaName }}>
+    const dropdown = document.getElementById("drop-" + categoriaName);
+    const hr = document.getElementById("hr-" + categoriaName);
+    const container = document.getElementById(categoriaName);
+
+    dropdown.addEventListener("click", () => {
+        if (
+            container.style.display === "none" ||
+            container.style.display === ""
+        ) {
+            container.style.display = "block";
+            hr.style.display = "block";
+        } else {
+            container.style.display = "none";
+            hr.style.display = "none";
+        }
+    });
+</script>
+
+<style>
+    .categoria {
+        padding: 0.5rem;
+        font-size: 14px;
+        background-color: rgba(0, 44, 193, 0.7);
+        margin-bottom: 0.5rem;
+        border-radius: 5px;
+    }
+
+    .drop-title {
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        font-weight: 500;
+        cursor: pointer;
+    }
+
+    .drop-container {
+        color: var(--white-blue);
+        transition: 3s;
+        display: none;
+    }
+
+    .drop-container li {
+        color: white;
+        font-weight: 300;
+        cursor: pointer;
+        margin-bottom: 0.3rem;
+    }
+
+    .categoria hr {
+        border-color: white;
+        margin-bottom: 0.5rem;
+        display: none;
+    }
+
+    .categoria:hover {
+        background-color: var(--blue-refamij);
+    }
+
+    .cat-select {
+        background-color: var(--blue-refamij);
+    }
+    .categoria .cont-select {
+        display: block;
+    }
+
+    .drop-container .tipo-select,
+    .drop-container li:hover {
+        color: white;
+        font-weight: 500;
+    }
+</style>

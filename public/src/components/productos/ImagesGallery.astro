@@ -1,0 +1,282 @@
+---
+const { producto } = Astro.props;
+---
+
+<div class="container">
+    <!-- main image -->
+    <div class="img-container">
+        <div class="img-main">
+            <img src={producto["img"][0]} alt={producto["nombre"]} />
+        </div>
+        <i id="back" class="material-icons arrow">arrow_back_ios</i>
+        <i id="forward" class="material-icons arrow">arrow_forward_ios</i>
+    </div>
+    <!-- image list -->
+    <ul class="list-products">
+        {
+            producto["img"].map((e) => (
+                <li class={`${e == producto["img"][0] && "active"}`}>
+                    <img src={e} alt={producto["nombre"]} />
+                </li>
+            ))
+        }
+    </ul>
+</div>
+
+<script>
+    const imgContElem = document.querySelector(".img-container");
+    const imgMain = imgContElem.querySelector(".img-main");
+    const imgElem = imgMain.querySelector("img");
+    const listProducts = document.querySelector(".list-products");
+
+    let mobile = {
+        Android: function () {
+            return navigator.userAgent.match(/Android/i);
+        },
+        BlackBerry: function () {
+            return navigator.userAgent.match(/BlackBerry/i);
+        },
+        iOS: function () {
+            return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+        },
+        Opera: function () {
+            return navigator.userAgent.match(/Opera Mini/i);
+        },
+        Windows: function () {
+            return navigator.userAgent.match(/IEMobile/i);
+        },
+        any: function () {
+            return (
+                mobile.Android() ||
+                mobile.BlackBerry() ||
+                mobile.iOS() ||
+                mobile.Opera() ||
+                mobile.Windows()
+            );
+        },
+    };
+
+    // Zoom images
+
+    if (mobile.any() === null) {
+        const zoom = 300;
+
+        imgContElem.addEventListener("mouseenter", function () {
+            imgMain["style"]["height"] = zoom + "%";
+            imgMain["style"]["transform"] = "translateX(0)";
+        });
+
+        imgContElem.addEventListener("mouseleave", function () {
+            imgMain["style"]["height"] = "100%";
+            imgMain["style"]["top"] = "0";
+            imgMain["style"]["left"] = "50%";
+            imgMain["style"]["transform"] = "translateX(-50%)";
+        });
+
+        imgContElem.addEventListener("mousemove", function (event) {
+            let obj = imgContElem;
+            let obj_top = 0;
+            let obj_left = 0;
+            let xpos = 0;
+            let ypos = 0;
+
+            while (obj["offsetParent"]) {
+                obj_top = obj["offsetTop"];
+                obj_left = obj["offsetLeft"];
+                obj = obj["offsetParent"];
+            }
+
+            if (event) {
+                // FireFox
+                xpos = event["pageX"];
+                ypos = event["pageY"];
+            }
+
+            xpos -= obj_left;
+            ypos -= obj_top;
+
+            const imgWidth = imgMain.clientWidth;
+            const imgHeight = imgMain.clientHeight;
+
+            imgMain["style"]["top"] =
+                -(
+                    ((imgHeight - this.clientHeight) * ypos) /
+                    this.clientHeight
+                ) + "px";
+            imgMain["style"]["left"] =
+                -(((imgWidth - this.clientWidth) * xpos) / this.clientWidth) +
+                "px";
+        });
+    }
+
+    // Change images
+    let index = 0;
+    const back = document.getElementById("back");
+    const forward = document.getElementById("forward");
+
+    Array.from(listProducts.children).forEach((product, i, list) => {
+        product.addEventListener("click", function () {
+            const newSrc = product.querySelector("img").src;
+            imgElem["src"] = newSrc;
+
+            list.forEach((prod) => prod.classList.remove("active"));
+            product.classList.add("active");
+        });
+    });
+
+    back.addEventListener("click", function () {
+        index =
+            (index - 1 + listProducts.children.length) %
+            listProducts.children.length;
+        const newSrc = listProducts.children[index].querySelector("img").src;
+        imgElem["src"] = newSrc;
+
+        Array.from(listProducts.children).forEach((prod) =>
+            prod.classList.remove("active"),
+        );
+        listProducts.children[index].classList.add("active");
+    });
+    forward.addEventListener("click", function () {
+        index = (index + 1) % listProducts.children.length;
+        const newSrc = listProducts.children[index].querySelector("img").src;
+        imgElem["src"] = newSrc;
+
+        Array.from(listProducts.children).forEach((prod) =>
+            prod.classList.remove("active"),
+        );
+        listProducts.children[index].classList.add("active");
+    });
+
+    function changeHeigth() {
+        imgContElem["style"]["height"] = imgContElem.clientHeight + "px";
+    }
+    changeHeigth();
+</script>
+
+<style>
+    .container {
+        display: block;
+        max-width: 600px;
+        width: 600px;
+        min-width: 270px;
+        min-height: 515px;
+        max-height: 515px;
+        min-height: 270px;
+        box-sizing: inherit;
+        align-self: flex-start;
+        border-radius: 5px;
+    }
+
+    .img-container {
+        max-width: 600px;
+        min-height: 420px;
+        max-height: 420px;
+        border-radius: 5px;
+        overflow: hidden;
+        position: relative;
+        box-sizing: inherit;
+        border: 2px solid var(--blue-refamij);
+        display: flex;
+        justify-content: center;
+    }
+
+    .img-container .img-main {
+        height: 100%;
+        position: absolute;
+        transition: all 0.03s linear;
+    }
+    .img-container .img-main:hover {
+        cursor: zoom-in;
+    }
+
+    .img-container .img-main img {
+        height: 100%;
+        display: block;
+    }
+
+    .img-container .arrow {
+        z-index: 5;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        color: var(--blue-refamij);
+        cursor: pointer;
+        display: none;
+    }
+
+    #back {
+        left: 10px;
+    }
+
+    #forward {
+        right: 10px;
+    }
+
+    .img-container:hover .arrow {
+        display: block;
+    }
+
+    .list-products {
+        list-style: none;
+        display: inline-flex;
+        justify-content: flex-start;
+        max-width: 600px;
+        width: 100%;
+        min-width: 168px;
+        margin-top: 1rem;
+        padding-bottom: 5px;
+        overflow-x: scroll;
+    }
+
+    .list-products::-webkit-scrollbar {
+        height: 7px;
+    }
+    .list-products::-webkit-scrollbar-thumb {
+        background: var(--light-blue);
+        border-radius: 7px;
+    }
+    .list-products::-webkit-scrollbar-thumb:hover {
+        background: var(--blue-refamij);
+    }
+
+    .list-products li {
+        min-height: 80px;
+        max-height: 80px;
+        max-width: 80px;
+        margin-right: 8px;
+        cursor: pointer;
+        box-sizing: content-box;
+        border-radius: 3px;
+        border: 1px solid var(--blue-refamij);
+        transition: all 0.15s linear;
+    }
+    .list-products li:last-child {
+        margin-right: 0;
+    }
+
+    .list-products li img {
+        max-width: 80px;
+        min-width: 80px;
+        min-height: 80px;
+        max-height: 80px;
+        object-fit: scale-down;
+    }
+
+    .list-products li.active {
+        border: 2px solid var(--blue-refamij);
+    }
+
+    @media screen and (max-width: 1025px) {
+        .container,
+        .img-container,
+        .list-products {
+            max-width: 1000px;
+            width: 100%;
+            min-width: 168px;
+        }
+
+        .container {
+            margin-bottom: 2rem;
+        }
+    }
+</style>

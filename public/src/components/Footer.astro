@@ -1,0 +1,283 @@
+---
+import "../styles/global.css";
+
+import { Image } from "astro:assets";
+
+import logo from "../assets/refamij-logo.svg";
+import facebook from "../assets/icons-social/facebook.png";
+import instagram from "../assets/icons-social/instagram.png";
+import linkedin from "../assets/icons-social/linkedin.png";
+import tiktok from "../assets/icons-social/tiktok.png";
+import youtube from "../assets/icons-social/youtube.png";
+---
+
+<footer>
+    <section>
+        <Image class="logo" src={logo} alt="Logo Astro" />
+        <div class="container">
+            <h2>PLANTAS Y OFICINAS LIMA</h2>
+            <ul class="info">
+                <li>
+                    <div class="icon-div">
+                        <i class="material-icons">phone</i>
+                    </div>
+                    <span><p>(+51) 946 038 335</p></span>
+                </li>
+                <li>
+                    <div class="icon-div">
+                        <i class="material-icons">email</i>
+                    </div>
+                    <span><p>proyectos@refamij.com</p></span>
+                </li>
+                <li>
+                    <div class="icon-div">
+                        <i class="material-icons">location_on</i>
+                    </div>
+                    <span><p>Calle Buenos Amigos N° 184 - Ate Lima</p></span>
+                </li>
+            </ul>
+        </div>
+        <div class="container">
+            <h2>TIENDA COMERCIAL LIMA</h2>
+            <ul class="info">
+                <li>
+                    <div class="icon-div">
+                        <i class="material-icons">phone</i>
+                    </div>
+                    <span><p>(+51) 994 278 664</p></span>
+                </li>
+                <li>
+                    <div class="icon-div">
+                        <i class="material-icons">email</i>
+                    </div>
+                    <span><p>ventas1@refamij.com</p></span>
+                </li>
+                <li>
+                    <div class="icon-div">
+                        <i class="material-icons">location_on</i>
+                    </div>
+                    <span
+                        ><p>
+                            Av. Argentina 523 C.C Acoprom Puesto A35 - Lima Lima
+                        </p></span
+                    >
+                </li>
+            </ul>
+        </div>
+        <div class="container">
+            <h2>OFICINA TÉCNICA COMERCIAL TRUJILLO</h2>
+            <ul class="info">
+                <li>
+                    <div class="icon-div">
+                        <i class="material-icons">phone</i>
+                    </div>
+                    <span><p>(+51) 955 955 323</p></span>
+                </li>
+                <li>
+                    <div class="icon-div">
+                        <i class="material-icons">mail</i>
+                    </div>
+                    <span><p>proyectosnorte@refamij.com</p></span>
+                </li>
+                <li>
+                    <div class="icon-div">
+                        <i class="material-icons">location_on</i>
+                    </div>
+                    <span>
+                        <p>
+                            Mz. “P” Lte. 43 Urb. Villa Hermosa-II Etapa -
+                            Trujillo La Libertad
+                        </p>
+                    </span>
+                </li>
+            </ul>
+        </div>
+        <div class="container social-c">
+            <h2>SÍGUENOS EN</h2>
+            <ul class="social">
+                <li>
+                    <a
+                        href="https://www.facebook.com/RefamijSac/?locale=es_LA"
+                        target="_blank"
+                    >
+                        <div>
+                            <Image src={facebook} alt="Facebook" />
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a
+                        href="https://www.instagram.com/refamij/"
+                        target="_blank"
+                    >
+                        <div>
+                            <Image src={instagram} alt="Instagram" />
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/@refamij" target="_blank">
+                        <div>
+                            <Image src={youtube} alt="Youtube" />
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a
+                        href="https://pe.linkedin.com/company/refamij"
+                        target="_blank"
+                    >
+                        <div>
+                            <Image src={linkedin} alt="LinkedIn" />
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://tiktok.com/@refamij" target="_blank">
+                        <div>
+                            <Image src={tiktok} alt="Tiktok" />
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <hr />
+    <p class="rights">
+        © 2023 REFAMIJ | Todos los derechos reservados. Powered by CristianUS
+    </p>
+</footer>
+
+<style>
+    footer {
+        width: 100%;
+        background-color: var(--blue-refamij);
+        text-align: center;
+    }
+
+    section {
+        padding: 1.5rem 0 0.5rem 0;
+        width: 90%;
+        display: inline-flex;
+        justify-content: space-between;
+    }
+
+    .logo {
+        height: 100px;
+        width: 100px;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        text-align: left;
+        margin: 0 1rem 1rem 1em;
+    }
+
+    .social-c {
+        justify-content: flex-start;
+    }
+
+    h2 {
+        color: white;
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    ul {
+        padding: 0;
+    }
+
+    .info li {
+        margin-bottom: 5px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .icon-div {
+        height: 24px;
+        width: 24px;
+        border-radius: 12px;
+        background-color: white;
+        margin-right: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .info li div i {
+        font-size: 14px;
+        color: var(--blue-refamij);
+    }
+
+    .info p {
+        color: white;
+        font-size: 12px;
+    }
+
+    .social {
+        display: inline-flex;
+    }
+
+    .social div {
+        width: 30px;
+        height: 30px;
+        background: white;
+        margin-right: 10px;
+        border-radius: 15px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .social div:hover {
+        transform: scale(1.1);
+        transition: all 200ms ease-in-out;
+    }
+
+    .social div img {
+        height: 30px;
+        display: block;
+        margin: auto;
+    }
+
+    .rights {
+        margin: 0;
+        padding: 5px 1rem;
+        color: white;
+    }
+
+    @media screen and (max-width: 1200px) {
+        section {
+            width: 100%;
+        }
+    }
+
+    @media screen and (max-width: 900px) {
+        section {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 50px 0px;
+        }
+
+        .logo {
+            display: none;
+        }
+
+        .container {
+            width: 40%;
+        }
+
+        p {
+            margin: 0px 0px;
+        }
+    }
+
+    @media screen and (max-width: 550px) {
+        .container {
+            width: 70%;
+        }
+    }
+</style>

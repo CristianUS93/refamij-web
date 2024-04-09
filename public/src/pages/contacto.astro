@@ -1,0 +1,90 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Banner from "../components/Banner.astro";
+import Body from "../components/Body.astro";
+import Form from "../components/contacto/Form.astro";
+---
+
+<Layout path="/contacto" , title_page="Refamij - Contacto">
+    <Banner title="CONTACTO" img="" />
+    <Body>
+        <section class="oficina" style="margin-bottom: 3rem;">
+            <iframe
+                class="left"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.884229040422!2d-76.95368069927281!3d-12.051485799796923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c68e2d956dd7%3A0x18fbbdbe72840925!2sREFAMIJ.%20S.AC.!5e0!3m2!1ses!2spe!4v1706016835704!5m2!1ses!2spe"
+                width="800"
+                height="500"
+                style="border:0;"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <Form title="PLANTA Y OFICINA" formId="form-oficina" />
+        </section>
+        <section class="tienda">
+            <Form title="TIENDA COMERCIAL" formId="form-tienda" />
+            <iframe
+                class="right"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.4922893197785!2d-77.06689873047695!3d-12.045643087685692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c90043d0a605%3A0x276997e4e180dd8b!2sCC%20ACOPROM!5e0!3m2!1ses!2spe!4v1707832297907!5m2!1ses!2spe"
+                width="800"
+                height="500"
+                style="border:0;"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
+        <script src="../scripts/send_email-oficina.js"></script>
+        <script src="../scripts/send_email-tienda.js"></script>
+    </Body>
+</Layout>
+
+<style>
+    section {
+        background-color: white;
+        width: 90%;
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+    }
+    section iframe {
+        background-color: aliceblue;
+    }
+    .left {
+        margin: 0 4rem 0 0;
+    }
+    .right {
+        margin: 0 0 0 4rem;
+    }
+
+    @media screen and (max-width: 1200px) {
+        section {
+            width: 100%;
+        }
+    }
+
+    @media screen and (max-width: 750px) {
+        section {
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        iframe {
+            height: 40vh;
+            width: 90%;
+        }
+        .left {
+            margin: 0;
+        }
+        .right {
+            margin: 0;
+        }
+        .tienda {
+            flex-direction: column-reverse;
+        }
+    }
+
+    @media screen and (max-width: 300px) {
+        iframe {
+            height: 30vh;
+        }
+    }
+</style>

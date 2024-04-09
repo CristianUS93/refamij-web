@@ -1,0 +1,87 @@
+---
+import wspLogo from "../../assets/icons-social/whatsapp-logo.png";
+
+const { origen, title, text, wspPhone } = Astro.props;
+
+const productName = title.split(' ').join('%20');
+const url = encodeURI(`https://refamij.com/${origen}/${productName}`)
+---
+<div class="main-div">
+    <p>{text}</p>
+    <div class="buttons-div">
+        <a href={`https://wa.me/${wspPhone}?text=Hola,%20deseo%20comprar%20el%20siguiente%20producto:%0A%0A*${title}*.%0A*URL*:${url}%0A¡Muchas%20gracias!`} target="_blank">
+            <div class="wsp button">
+                <img src={wspLogo.src} alt="Whatsapp Logo">
+                <span>Conversa con nuestro especialista en línea</span>
+            </div>
+        </a>
+        <a href="">
+            <div class="cot button">
+                <span>Cotizar ahora</span>
+            </div>
+        </a>
+    </div>
+</div>
+
+<style>
+    .main-div {
+        height: 330px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .buttons-div {
+        margin-top: 1rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .button {
+        height: 60px;
+        max-width: 250px;
+        padding: 0.7rem;
+        color: white;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        border-radius: 5px;
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+        transition: all 0.5s;
+    }
+    
+    .button:hover {
+        transform: scale(1.1);
+        box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+    }
+
+    .wsp {
+        background-color: var(--green-wsp);
+        margin-right: 2rem;
+    }
+    .wsp img {
+        height: 40px;
+        width: 40px;
+        margin-right: 5px;
+    }
+
+    .cot {
+        background-color: red;
+    }
+
+    @media screen and (max-width: 500px) {
+        .buttons-div {
+            flex-direction: column;
+            align-items: center;
+        }
+        .wsp {
+            margin-right: 0;
+            margin-bottom: 1rem;
+        }
+    }
+    @media screen and (max-width: 450px) {
+        p {
+            font-size: 13px;
+        }
+    }
+</style>

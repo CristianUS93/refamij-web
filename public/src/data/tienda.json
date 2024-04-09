@@ -1,0 +1,2783 @@
+[
+    {
+        "marca": "Cobra",
+        "href": "/tienda",
+        "categorias": [
+            {
+                "nombre": "Cadenas Metálicas",
+                "href": "/tienda",
+                "tipos": [
+                    {
+                        "nombre": "Cadenas rectas",
+                        "href": "/tienda",
+                        "img": "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.png",
+                        "modelos": [
+                            {
+                                "nombre": "Serie SSA 815",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.png",
+                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.jpg"
+                                ],
+                                "docs": [],
+                                "descripcion": "La Cadena Transportadora Serie SSA 815 de Cobra es una solución líder en el segmento de cadenas table top. Fabricada en acero austenítico, esta cadena está especialmente diseñada para ambientes extremadamente corrosivos y alimenticios, garantizando resistencia y durabilidad excepcionales.",
+                                "aplicaciones": [
+                                    "• Transportadores de productos corrosivos.",
+                                    "• Transportadores en ambientes corrosivos.",
+                                    "• Industria alimentaria."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Mayor resistencia a la corrosión.",
+                                    "• Mayor resistencia a agentes químicos.",
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabamiento Superficial: Pulido",
+                                    "• Rugosidad: 0,25 ±0,05 μm",
+                                    "• Gap: 1,85 mm",
+                                    "• Pasador Ø 6,35mm: 1,85 mm",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
+                            },
+                            {
+                                "nombre": "Serie SSF 812",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 812/SERIE SSF 812.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La Serie 815 Emborrachada de Cobra es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pliegue y superficie emborrachada. Diseñada para soportar cargas de trabajo superiores y ofrecer máxima adherencia, es una solución ideal para ambientes industriales que requieren precisión y seguridad en el transporte de productos. La combinación del doble pliegue con la superficie emborrachada garantiza una alta capacidad de carga y una adherencia superior, haciéndola perfecta para aplicaciones industriales desafiantes.",
+                                "aplicaciones": [
+                                    "• Industria farmacéutica.",
+                                    "• Transportadores en general.",
+                                    "• Espacios reducidos.",
+                                    "• Complemento en mesas de multivías."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Ancho reducido.",
+                                    "• Fácil mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Pulido",
+                                    "• Rugosidad: 0,22 ±0,05 μm",
+                                    "• Gap: 1,85 mm",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
+                            },
+                            {
+                                "nombre": "Serie SSF 815",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 815/SERIE SSF 815.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La cadena transportadora SERIE 815 de Cobra es una referencia en el segmento de cadenas table top, también conocidas como cadenas de tablilla. Fabricada en acero inoxidable ferrítico, esta cadena fue desarrollada para satisfacer las necesidades de ambientes industriales de alto rendimiento. Con su presencia destacada en sistemas de transporte de larga distancia y líneas de envasado de múltiples vías, garantiza estabilidad, precisión y confiabilidad en cada segmento de su aplicación.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Pulido",
+                                    "• Rugosidad: 0,22 ±0,05 μm",
+                                    "• Gap: 1,85 mm ",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
+                            },
+                            {
+                                "nombre": "Serie SSF 815 EMB",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 815 EMB/SERIE SSF 815 EMB.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La SERIE SSF 815 EMB de COBRA es una cadena de transporte diseñada para satisfacer las exigentes demandas de los entornos industriales. Con un enfoque en la precisión, seguridad y eficiencia en el movimiento de productos; esta serie ofrece una combinación única de características que la hacen ideal para una variedad de aplicaciones industriales.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Engomada",
+                                    "• Rugosidad: - ",
+                                    "• Gap: 1,85 mm",
+                                    "• Pasadorr Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
+                            },
+                            {
+                                "nombre": "Serie SSF 2815",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 2815/SERIE SSF 2815.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La SERIE SSF 2815 de COBRA es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pliegue, diseñada para soportar cargas de trabajo superiores. Construida con los estándares de calidad de COBRA, es ideal para ambientes industriales que requieren mayor resistencia y durabilidad en el transporte de productos. Su característica de doble pliegue garantiza una alta capacidad de carga, haciéndola perfecta para aplicaciones industriales intensivas.",
+                                "aplicaciones": [
+                                    "• Transportadores de cajas.",
+                                    "• Transportadores de botellones llenos.",
+                                    "• Transportadores de barriles."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Elevada carga de trabajo (doble bisagra).",
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Pulido",
+                                    "• Rugosidad: 0,22 ±0,05 μm ",
+                                    "• Gap: 1,85 mm",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
+                            },
+                            {
+                                "nombre": "Serie SSF 2815 EMB",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 2815 EMB/SERIE SSF 2815 EMB.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La SERIE SSF 2815 EMB (Engomada) de COBRA es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pligue y superficie emborrachada. Diseñada para soportar cargas de trabajo superiores y ofrecer máxima adherencia, es una solución ideal para ambientes industriales que requieren precisión y seguridad en el transporte de productos. La combinación del doble pliegue con la superficie engomada garatiza una alta capacidad de carga y una adherencia superior, haciéndola perfecta para aplicaciones industriales desafiantes.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación.",
+                                    "• Transportadores de cajas y botellones.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Elevada carga de trabajo(doble bisagra)."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Engomada",
+                                    "• Rugosidad: -",
+                                    "• Gap: 1,85 mm",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Recto",
+                                    "• Radio de Flexión Opuesto: 150 mm"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Cadenas curvas",
+                        "href": "/tienda/Cobra-Cadenas Metálicas-Cadenas curvas",
+                        "img": "/tienda/cobra/cadenas_metalicas/cadenas_curvas/SERIE SM 1200.png",
+                        "modelos": [
+                            {
+                                "nombre": "Serie SM 1200",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/cadenas_curvas/SERIE SM 1200.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [
+                                    "• Transportadores de cajas.",
+                                    "• Transportadores de pallets.",
+                                    "• Transportadores de arrastre."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Elevada carga de trabajo.",
+                                    "• Bajo mantenimiento.",
+                                    "• Trabajo seco."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 63,5 mm",
+                                    "• Acabado Superficial: Cincado",
+                                    "• Rugosidad: -",
+                                    "• Pasador Ø 6,35mm: Acero Carbono",
+                                    "• Tramo: Curvo",
+                                    "• Radio de Flexión Opuesto: 80 mm",
+                                    "• Radio Mediano Mínimo: 500 mm"
+                                ]
+                            },
+                            {
+                                "nombre": "Serie SSF 881 M",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/cadenas_curvas/SERIE SSF 881 M.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La SERIE SSF 881 M de COBRA es una cadena tipo table top, también conocida como cadena plataforma, equipada con uns sistema de retención magnética. Diseñada especificamente para guiar la cadena con precisión en las curvas, su construcción duradera la hace ideal para ambientes industriales que buscan eficiencia y confiabilidad en el transporte de productos, especialmente en trayectos con curvas de alta velocidad.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
+                                    "• Uso en curvas magnéticas."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Facilidad de mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Pulido",
+                                    "• Rugosidad: 0,22 ±0,05 μm",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Curvo Magnético",
+                                    "• Radio de Flexión Opuesto: 80 mm",
+                                    "• Radio Mediano Mínimo: 500 y 610 mm"
+                                ]
+                            },
+                            {
+                                "nombre": "Serie SSF 881 TAB",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/cadenas_curvas/SERIE SSF 881 TAB.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La Serie SSF 881 TAB de cobra es una cadena tipo table top, también conocida como cadena plataforma, equipada con un sistema de retención magnética. Diseñada específicamente para guiar la cadena con precisión en las curvas, su construcción duradera la hace ideal para ambientes industriales que buscan eficiencia y confiabilidad en el transporte de productos, especialmente en trayectos con curvas de alta velocidad.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
+                                    "• Sistemas de Transporte con Curvas de Alta Velocidad.",
+                                    "• Ambientes Industriales de Alta Demanda.",
+                                    "• Líneas de Producción que Requieren Precisión en Curvas."
+                                ],
+                                "video": "",
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste."
+                                ],
+                                "especificaciones": [
+                                    "• Paso: 38,1 mm",
+                                    "• Acabado Superficial: Pulido",
+                                    "• Rugosidad: 0,22 ±0,05 μm",
+                                    "• Pasador Ø 6,35mm: Acero Austenítico",
+                                    "• Tramo: Curvo TAB",
+                                    "• Radio de Flexión Opuesto: 80 mm",
+                                    "• Radio Mediano Mínimo: 610 mm"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Ruedas para Cadenas Rectas",
+                        "href": "/tienda/Cobra-Cadenas Metálicas-Ruedas para Cadenas Rectas",
+                        "img": "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png",
+                        "modelos": [
+                            {
+                                "nombre": "RUEDA 815 - 881 M BIPARTIDA",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png",
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (2).png",
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (3).png",
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (4).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "Las RUEDAS 815 - 881 M BIPARTIDA fueron desarrolladas especialmente para ser utilizadas con las CADENAS SERIE SSF Y SSA 815 de COBRA, ofreciendo una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes. Además, están disponibles en una variedad de configuraciones como Z21, Z23 y Z25, y diámetros de eje que van desde 25 mmm hasta 45 mm, con o sin chaveta.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendad 25°."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    " Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Inyectada en poliamida reforzada.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M6",
+                                    "• Tuerca en Latón Niquelado DIN 934 M6.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1."
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA 2815 - 821 BIPARTIDA US",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 BIPARTIDA US/ENGRANAJE 821 _ 2815 BIPARTIDA US.png",
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 BIPARTIDA US/ENGRANAJE 821 _ 2815 BIPARTIDA US.jpg"
+                                ],
+                                "docs": [],
+                                "descripcion": "La RUEDA 2815 BIPARTIDA US (Mecanizada) esta disponible para ser utilizada con las CADENAS DOBLE PLEGADO SERIE 2815 de COBRA. Esta rueda mecanizada maciza proporciona una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes que requieren grandes cargas de trabaji en pas líneas de transporte.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación.",
+                                    "• Transportadores de cajas y botellones.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Elevada carga de trabajo (doble bisagra)."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Mecanizada en poliamida.",
+                                    "• Tornillo en Inoxidable Austenitico DIN 912 M8.",
+                                    "• Tuerca en Latón Niquelado DIN 934 M8.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1."
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA 2815 - 821 ENTERIZA",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 ENTERIZA/ENGRANAJE 821 _ 2815 ENTERIZA.png",
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 ENTERIZA/ENGRANAJE 821 _ 2815 ENTERIZA.jpg"
+                                ],
+                                "docs": [],
+                                "descripcion": "La RUEDA 2815 esta diseñada especialmente para ser utilizada con las CADENAS CON DOBLE PLEGADO METÁLICO de la SERIE 2815 de COBRA, proporcionando una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes y que requieren grandes cargas de trabajo en las líneas de transporte.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación.",
+                                    "• Transportadores de cajas y botellones.",
+                                    "• Inclinación máxima recomendad 25°."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Elevada carga de trabajo (doble bisagra)."
+                                ],
+                                "especificaciones": [
+                                    "• Enteriza.",
+                                    "• Inyectada en poliamida reforzada.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA 815 - 881 M ENTERIZA US",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 BIPARTIDA SIN PESTAÑA.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La RUEDA 815 - 881 M ENTERIZA US (Mecanizada) está disponible para aquellos que buscan ruedas plásticas macizas con dimensiones fuera del estándar, proporcionando una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales. Se utilizan con las CADENAS SERIE SSF y SSA 815 de COBRA.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Enteriza.",
+                                    "• Mecanizada en poliamida.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA 815 - 881 M BIPARTIDA US",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 BIPARTIDA US.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La RUEDA 815 - 881 M BIPARTIDA US (Mecanizada) está disponible para aquellos que buscan ruedas plásticas macizas, proporcionando una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales. Se utilizan con las CADENAS SERIE SSF Y SSA 815 de COBRA.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Mecanizada en poliamida.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M8.",
+                                    "• Tuerca en Latón Niquelado DIN 934 M8.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA 881 M - 815 BIPARTIDA PU",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 ENTERIZA US.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La RUEDA 881 M - 815 BIPARTIDA PU (Poliuretano) es extramadamente resistente al desgaste, la abrasión y el impacto, lo que hace que las ruedas fabricadas con este material sean muy duraderas en enternos industriales exigentes. Además, debido a que es más flexible que otros plímeros, el poliuretano permite la absorción de golpes y vibraciones, lo que reduce el ruido y prolonga la vida útil de las ruedas y cadenas. Diseñadas para ser utilizadas en las CADENAS SERIE SSF y SSA 815 de COBRA, las RUEDAS DE PU ofrecen un rendimiento superior para la línea de envasado de vidrio.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
+                                    "• Uso en curvas magnéticas."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Facilidad de mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Inyectada en poliuretano.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M8.",
+                                    "• Inserto central en Acero Fundido.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA 881 M - 815 ENTERIZA FOFO",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas/ENGRANAJE AR 835.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La RUEDA 881 M - 815 ENTERIZA FOFO (Acero Fundido), también conocido como hierro fundido nodular, es extremadamente resistente al desgaste, además de poseer una mayor dureza y tenacidad, soportando bien cargas de impaco y choque. Diseñadas para ser utilizadas en las CADENAS SERIE SSF Y SSA 815 de COBRA, las RUEDAS DE FOFO entregan una rendimiento superior para líneas de envasado.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
+                                    "• Uso en curvas magnéticas."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Facilidad de mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Enteriza.",
+                                    "• Fundido en Acero.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA CARRETEL BIPARTIDO",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas/ENGRANAJE CARRETEL BIPARTIDO.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "La RUEDA CARRETEL BIPARTIDA de COBRA está diseñada para proporcionar alta eficiencia y confiabilidad en transportadores rectos que utilizan cadenas plásticas o metálicas como elementos de tracción. Esa RUEDA CARRETEL BIPARTIDA se utiliza ampliamente en las cabezas de retorno de los transportadores industriales para facilitar el retorno de las cadenas.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartido.",
+                                    "• Inyectado en poliamida reforzada.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M8.",
+                                    "• Tuerca en Latón Niquelado DIN 557 M8."
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA CARRETEL ENTERIZA",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.png",
+                                    "public/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.jpg"
+                                ],
+                                "docs": [],
+                                "descripcion": "La RUEDA CARRETEL ENTERIZA de COBRA está diseñada para proporcionar alta eficiencia y confiabilidad en transportadores rectos que utilizan CADENAS PLÁSTICAS o METÁLICAS como elementos de tracción. Esta RUEDA CARRETEL ENTERIZA se utiliza ampliamente en las cabezas de retorno de los transportadores industriales para facilitar el retorno de las cadenas.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendad 25°."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Enteriza.",
+                                    "• Mecanizado en poliamida."
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Ruedas para Cadenas Curvas",
+                        "href": "/tienda/Cobra-Cadenas Metálicas-Ruedas para Cadenas Curvas",
+                        "img": "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_curvas_inox/ENGRANAJE ACT _ ACM BIPARTIDA.jpg",
+                        "modelos": [
+                            {
+                                "nombre": "RUEDA 815 - 881 M BIPARTIDA",
+                                "img": [
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_curvas_inox/ENGRANAJE ACT _ ACM BIPARTIDA.jpg"
+                                ],
+                                "docs": [],
+                                "descripcion": "Las RUEDAS 815 - 881 M BIPARTIDA fueron desarrolladas especialmente para ser utilizadas con las CADENAS SERIE SSF Y SSA 815 de COBRA, ofreciendo una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes. Además, están disponibles en una variedad de configuraciones como Z21, Z23 y Z25, y diámetros de eje que van desde 25 mm hasta 45 mm, con o sin chaveta.",
+                                "aplicaciones": [
+                                    "• Transportadores con inclinación, frenado o aceleración.",
+                                    "• Inclinación máxima recomendada 25°."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Alta adhesión.",
+                                    "• Excelente resistencia mecánica."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Inyectada en poliamida reforzada.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M6.",
+                                    "• Tuerca en Latón Niquelado DIN 934 M6.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1."
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA 815 - 812 M BIPARTIDA",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "La RUEDA 881 TAB - 812 BIPARTIDA está especialmente diseñada para ser utilizada con las CADENAS METALICAS SERIE SSF 811 TAB de COBRA, proporcionando una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes. Además, están disponibles en una variedad de configuraciones, como Z21, Z23 y Z25, y diámetros de eje que varían de 25 mm a 45 mm, con o sin chaveta.",
+                                "aplicaciones": [
+                                    "• Lavadora (Rinser).",
+                                    "• Elevador por Presión.",
+                                    "• Uso en curvas guiadas."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Mantiene la integridad del producto.",
+                                    "• Excelente durabilidad.",
+                                    "• Goma cambiable."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida",
+                                    "•Inyectada en poliamida reforzada",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M6.",
+                                    "• Tuerca en Latón Niquelado DIN 557 M6.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1."
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA CARRETEL BIPARTIDA",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "La RUEDA CARRETEL BIPARTIDA de COBRA está diseñada para proporcionar alta eficiencia y confiabilidad en transportadores rectos que utilizan cadenas plásticas o metálicas como elementos de tracción. Esta RUEDA CARRETE BIPARTIDA se utiliza ampliamente en las cabezas o retorno de los transportadores industriales para facilitar el retorno de las cadenas.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
+                                    "• Uso en curvas magnéticas."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Facilidad de mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Inyectada en poliamida reforzada.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M8.",
+                                    "• Tuerca en Latón Niquelado DIN 557 M8."
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA 815 - 881 M BIPARTIDA PU",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "La RUEDA 815 - 881 M BIPARTIDA PU (Poliuretano) es extremadamente resistente al desgaste, la abrasión y el impacto, lo que hace que las ruedas fabricadas con este material sean muy duraderas en entornos industriales exigentes. Además, debido a que es más flexible que otros polímeros, el poliuretano permite la absorción de golpes y vibraciones, lo que reduce el ruido y prolonga la vida útil de las ruedas y cadenas. Diseñadas para ser utilizadas en las CADENAS SERIE SSF y SSA 815 de COBRA, las ruedas de pu ofrecen un rendimiento superior para la línea de envasado de vidrio.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios.",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
+                                    "• Uso en curvas magnéticas."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Facilidad de mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Inyectada en poliuretano.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M8.",
+                                    "• Inserto central en Acero Fundido.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1."
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA 815 - 881 M ENTERIZA FOFO",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "La RUEDA 815 - 811 ENTERIZA FOFO (Acero Fundido) también conocida como hierro fundido nodular, es extremadamente resistente al desgaste, además de poseer una mayor dureza y tenacidad, soportando bien cargas de impacto y choque. Diseñadas para ser utilizadas en las CADENAS SERIE SSF y SSA 815 de COBRA, las ruedas de fofo entregan un rendimiento superior para líneas de envasado.",
+                                "aplicaciones": [
+                                    "• Transportadores de botellas.",
+                                    "• Transportadores de vidrios. ",
+                                    "• Transportadores de barriles.",
+                                    "• Transportadores de cajas.",
+                                    "• Uso en curvas magnéticas."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Excelente planicidad.",
+                                    "• Excelente resistencia al desgaste.",
+                                    "• Facilidad de mantenimiento."
+                                ],
+                                "especificaciones": [
+                                    "• Enteriza.",
+                                    "• Fundido en Acero.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1."
+                                ]
+                            },
+                            {
+                                "nombre": "RUEDA 881 TAB BIPARTIDA PU",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "La RUEDA 881 TAB BIPARTIDA PU (Poliuretano) es extremadamente resistente al desgaste, la abrasión y el impacto, lo que hace que las ruedas fabricadas con este material sean muy duraderas en entornos industriales exigentes. Además, al ser más flexible que otros polímeros, el poliuretano permite la absorción de golpes y vibraciones, lo que reduce el ruido y prolonga la vida útil de las ruedas y cadenas.",
+                                "aplicaciones": [
+                                    "• Lavadora (Rinser).",
+                                    "• Elevador por Presión.",
+                                    "• Uso en curvas guiadas."
+                                ],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [
+                                    "• Mantiene la integridad del producto.",
+                                    "• Excelente durabilidad.",
+                                    "• Goma cambiable."
+                                ],
+                                "especificaciones": [
+                                    "• Bipartida.",
+                                    "• Inyectada en poliuretano.",
+                                    "• Tornillo en Inoxidable Austenítico DIN 912 M8.",
+                                    "• Inserto central en Acero Fundido.",
+                                    "• Agujero y chavetero: Norma DIN 6885/1"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Cadenas Plásticas",
+                "href": "/tienda/Cobra-Cadenas Plásticas/Cadenas rectas",
+                "tipos": [
+                    {
+                        "nombre": "Cadenas rectas",
+                        "href": "/tienda/Cobra-Cadenas Plásticas-Cadenas rectas",
+                        "img": "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 35/SERIE AR 35(1).png",
+                        "modelos": [
+                            {
+                                "nombre": "Serie AR 35",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 35/SERIE AR 35(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie AR 38",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38/SERIE AR 38.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie AR 38 AP",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38 AP/SERIE AR 38 AP(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie AR 38 RQ",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38 RQ/SERIE AR 38 RQ(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie AR 38 VAC",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38 VAC/SERIE AR 38 VAC(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie AR 821",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 821/SERIE AR 821(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie AR 821 BPA",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 821 BPA/SERIE AR 821 BPA(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie AR 835",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 835/PLANO SERIE AR 835(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie AR 835 BPA",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 835 BPA/SERIE AR 835 BPA(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Cadenas curvas",
+                        "href": "/tienda/Cobra-Cadenas Plásticas-Cadenas curvas",
+                        "img": "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 38/SERIE ACM 38(1).png",
+                        "modelos": [
+                            {
+                                "nombre": "Serie ACM 38",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 38/SERIE ACM 38(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACM 601-607",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 601 _ 607/SERIE ACM 601 _ 607(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACM 602-608",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 602 _ 608/SERIE ACM 602 _ 608(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACM 882 BPA",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 882 BPA/SERIE-ACM-882-BPA.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACT 15",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 15/SERIE ACT 15(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACT 20",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 20/SERIE ACT 20(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACT 20 con empujador",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 20 CON EMPUJADOR/SERIE-ACT-20-CON-EMPUJADOR.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACT 38",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 38/SERIE ACT 38(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACT 38 AP",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 38 AP/SERIE-ACT-38-AP.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACT 38 RQ ATX",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 38 RQ _ ATX/SERIE ACT 38 RQ _ ATX(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACT 882",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 882/SERIE ACT 882(1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Serie ACT 882 BPA",
+                                "img": [
+                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 882 BPA/SERIE ACT 882 BPA.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Bandas Modulares",
+                "href": "/tienda/Cobra-Bandas Modulares-Bandas Modulares Rectas",
+                "tipos": [
+                    {
+                        "nombre": "Bandas Modulares Rectas",
+                        "href": "/tienda/Cobra-Bandas Modulares-Bandas Modulares Rectas",
+                        "modelos": [
+                            {
+                                "nombre": "SERIE 080 SF",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 127 SF",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 150 SF EMB",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SEIRE 150N SA",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 150N SF",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 254 SA",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 254 SAE",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 254 SF",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 254 SF EMB",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 270 SCIL",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 270 SF",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 270 SF EMB",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 275 SA",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 275 SF",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 500 SA 10",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 500 SA 30",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 500 SAE",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 500 SF",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 550 SA",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 550 SCON",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 550 SF",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 550 SF EMB",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 550 SROL",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 555 SA",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 555 Sf",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 700 SA",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 700 Sf",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 1200 SA",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 1520",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Bandas Modulares Curvas",
+                        "href": "/tienda/Cobra-Bandas Modulares-Bandas Modulares Curvas",
+                        "modelos": [
+                            {
+                                "nombre": "SERIE 300 SF Zero Tangente",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 325 SA",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 325 SA EMB",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 381 C",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 381 CT",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 381 CTB",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 391 C",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "SERIE 391 CT",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Ruedas para Bandas Modulares Rectas",
+                        "href": "/tienda/Cobra-Bandas Modulares-Ruedas para Bandas Modulares Rectas",
+                        "modelos": [
+                            {
+                                "nombre": "Rueda S080 Entera US Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S080 Entera US Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S127 Bipartida Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S127 Bipartida US Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S127 Entera Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S127 Entera Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S150N Bipartida Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S150N Bipartida Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S254 Bipartida Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S254 Bipartida Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S254 Entera Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S254 Entera Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S270-S275 Bipartida Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S270-S275 Bipartida Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S270-S275 Enteriza Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S270-S275 Enteriza Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S500 Enteriza Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S500 Enteriza Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S550 - S555 Bipartida Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S550 - S555 Bipartida Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S550 - S555 Enteriza Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S550 - S555 Enteriza Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S700 Bipartida Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S700 Bipartida Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S1200 Bipartida US Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S1200 Bipartida US Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S1200 Entera Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S1200 Entera Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S1520 Bipartida Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S1520 Bipartida Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S1520 Enteriza Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S1520 Enteriza Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Ruedas para Bandas Modulares Curvas",
+                        "href": "/tienda/Cobra-Bandas Modulares-Ruedas para Bandas Modulares Curvas",
+                        "img": "",
+                        "modelos": [
+                            {
+                                "nombre": "Rueda S300 Enteriza US Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S325 Enterizo Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S325 Enteriza Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S381 Enteriza Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S391 Enteriza Agujero Cuadrado",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rueda S391 Enteriza Agujero Redondo",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Accesorios para bandas modulares",
+                        "href": "/tienda/Cobra-Bandas Modulares-Accesorios para bandas modulares",
+                        "img": "/tienda/cobra/bandas_modulares/ACCESORIOS PARA BANDAS MODULARES/EMPUJADOR I S391 CT/8096bd1ecc75a6eae637e14931827d9b.jpg",
+                        "modelos": [
+                            {
+                                "nombre": "Empujador C SERIE 500",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Empujador I SERIE 500",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Empujador I S391 C",
+                                "img": [
+                                    "/tienda/cobra/bandas_modulares/ACCESORIOS PARA BANDAS MODULARES/EMPUJADOR I S391 C/e3f91bee24129d652fde70a2a36c5717.jpg"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Empujador I S391 CT",
+                                "img": [
+                                    "/tienda/cobra/bandas_modulares/ACCESORIOS PARA BANDAS MODULARES/EMPUJADOR I S391 CT/8096bd1ecc75a6eae637e14931827d9b.jpg"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Guardas laterales Aleta Serie 550-555",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Componentes",
+                "href": "",
+                "tipos": [
+                    {
+                        "nombre": "Cerramiento y Protecction",
+                        "href": "/tienda/Cobra-Componentes-Cerramiento y Protecction",
+                        "img": "",
+                        "modelos": []
+                    },
+                    {
+                        "nombre": "Chapas Laterales y Tubos",
+                        "href": "/tienda/Cobra-Componentes-Chapas Laterales y Tubos",
+                        "img": "",
+                        "modelos": []
+                    },
+                    {
+                        "nombre": "Curvas UHMW",
+                        "href": "/tienda/Cobra-Componentes-Curvas UHMW",
+                        "img": "",
+                        "modelos": []
+                    },
+                    {
+                        "nombre": "Espaciador",
+                        "href": "/tienda/Cobra-Componentes-Espaciador",
+                        "img": "",
+                        "modelos": []
+                    },
+                    {
+                        "nombre": "Estructura",
+                        "href": "/tienda/Cobra-Componentes-Estructura",
+                        "img": "",
+                        "modelos": [
+                            {
+                                "nombre": "Abrazadera de Eje",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Abrazadera de Fijaciòn",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Bujes de Expansiòn",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Punteras de Retorno",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Rodillo de Retorno",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Soporte Radamiento",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Guía Lateral",
+                        "href": "/tienda/Cobra-Componentes-Guía Lateral",
+                        "img": "",
+                        "modelos": [
+                            {
+                                "nombre": "Guía con Rodillos",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Manivela y Ojales",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Presilla Abrazadera",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Soportes Laterales",
+                        "href": "/tienda/Cobra-Componentes-Soportes Laterales",
+                        "img": "",
+                        "modelos": []
+                    },
+                    {
+                        "nombre": "Soportes de Sensor",
+                        "href": "/tienda/Cobra-Componentes-Soportes de Sensor",
+                        "img": "",
+                        "modelos": []
+                    },
+                    {
+                        "nombre": "Sustentación",
+                        "href": "/tienda/Cobra-Componentes-Sustentación",
+                        "img": "",
+                        "modelos": []
+                    },
+                    {
+                        "nombre": "Transferencia de Rodillo",
+                        "href": "/tienda/Cobra-Componentes-Transferencia de Rodillo",
+                        "img": "",
+                        "modelos": []
+                    },
+                    {
+                        "nombre": "Varillas para Soportes Laterales",
+                        "href": "/tienda/Cobra-Componentes-Varillas para Soportes Laterales",
+                        "img": "",
+                        "modelos": []
+                    }
+                ]
+            },
+            {
+                "nombre": "Perfiles",
+                "href": "/tienda/Cobra-Perfiles",
+                "tipos": [
+                    {
+                        "nombre": "Perfil PEAD",
+                        "href": "/tienda/Cobra-Perfiles-Perfil PEAD",
+                        "img": "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL CLIP/928aaa3d4bc46defa6c32e3b6120186f.png",
+                        "modelos": [
+                            {
+                                "nombre": "Perfil CLIP",
+                                "img": [
+                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL CLIP/928aaa3d4bc46defa6c32e3b6120186f.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Perfil RECTO",
+                                "img": [
+                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL RECTO/a0615afc40a483382782b200c7075131.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Perfil T DUPLO",
+                                "img": [
+                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL T DUPLO/a04d10313ce75db87907129156d6295d.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Perfil Guía",
+                        "href": "/tienda/Cobra-Perfiles-Perfil Guía",
+                        "img": "/tienda/cobra/perfiles/PERFILES GUIA/PERFIL CONICO/005191_perfil_conico.png",
+                        "modelos": [
+                            {
+                                "nombre": "Perfil cónico",
+                                "img": [
+                                    "/tienda/cobra/perfiles/PERFILES GUIA/PERFIL CONICO/005191_perfil_conico.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Perfil PM",
+                                "img": [
+                                    "/tienda/cobra/perfiles/PERFILES GUIA/PERFIL PM/perfil-pm-1-01.jpg"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Perfil PUAL 18x30 + PG 40x27",
+                                "img": [
+                                    "/tienda/cobra/perfiles/PERFILES GUIA/PERFIL PUAL 18X30 + PG 40X27/e276d5cee0df1eb5b99cc060119816d3.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Perfil Redondo",
+                                "img": [
+                                    "/tienda/cobra/perfiles/PERFILES GUIA/PERFIL REDONDO/b063fdf2b6b5f0252ee2c8fd5c6ea078.jpg"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "marca": "Delta",
+        "href": "/tienda/Delta-Variadores de Frecuencia-Variador compacto de alto desempeño 0.25 CV a 30 CV",
+        "categorias": [
+            {
+                "nombre": "Variadores de Frecuencia",
+                "href": "/tienda/Delta-Variadores de Frecuencia-Variador compacto de alto desempeño 0.25 CV a 30 CV",
+                "tipos": [
+                    {
+                        "nombre": "Variador compacto de alto desempeño 0.25 CV a 30 CV",
+                        "href": "/tienda/Delta-Variadores de Frecuencia-Variador compacto de alto desempeño 0.25 CV a 30 CV",
+                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/MH300.png",
+                        "modelos": [
+                            {
+                                "nombre": "MS300",
+                                "img": [
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MS300/MS300.png",
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MS300/MS300(1).png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/MS300.docx"
+                                ],
+                                "descripcion": "La serie MS300 está diseñada para servir a los fabricantes de máquinas (OEM), aplicaciones y procesos de alto control de movimiento que requieren conectividad. La serie MS300 cumple con requisitos complejos y controla motores síncronos y asíncronos desde 0,2 kW hasta 22 kW.",
+                                "aplicaciones": [
+                                    "Máquinas herramienta, maquinaria textil, carpintería, caucho y plástico, aplicaciones de bobinado/desenrollado."
+                                ],
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "Método de control avanzado y flexible",
+                                        "detalles": [
+                                            "V / F (escalar).",
+                                            "SVC (vector).",
+                                            "FOC (control orientado al campo).",
+                                            "Admite motores IM (inducción) y PM (imán permanente).",
+                                            "Control de potencia de desaceleración (modo TEC).",
+                                            "Función de carga pesada."
+                                        ]
+                                    },
+                                    {
+                                        "subtitle": "Excelente actuación",
+                                        "detalles": [
+                                            "Función de seguridad STO (Safe Touch Off) - Cumple con NR12.",
+                                            "Alto par: 150% en 60 segundos y 200% en 3 segundos.",
+                                            "USB integrado",
+                                            "Modbus integrado y tarjetas de comunicación opcionales: CANopen, DeviceNet, EtherNet / IP, EtherCAT, PROFIBUS DP, Modbus TCP y PROFITNET."
+                                        ]
+                                    },
+                                    {
+                                        "subtitle": "Función incorporada múltiple",
+                                        "detalles": [
+                                            "PLC incorporado con 2000 líneas de programación.",
+                                            "Control PID integrado.",
+                                            "Inyección de freno DC",
+                                            "Fácil parametrización con grupo predefinido."
+                                        ]
+                                    }
+                                ],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "MH300",
+                                "img": [
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/MH300.png",
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/MH300(1).png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/MS300.docx"
+                                ],
+                                "descripcion": "La serie MH300 de accionamiento compacto de alto rendimiento de Delta es un control microvectorial de nueva generación que hereda la tecnología de accionamiento superior de Delta. Con sus ventajas de excelente rendimiento de la unidad, sólido soporte del sistema y una variedad de funciones esenciales, la serie MH300 es la clave para mejorar la competitividad del mercado y garantizar el éxito. Además, cuenta con un puerto USB para que las cargas y descargas de datos sean rápidas y sencillas, lo que ahorra la necesidad de hardware adicional y proporciona más espacio de instalación para el gabinete de energía.",
+                                "aplicaciones": [
+                                    "Máquinas herramienta, maquinaria textil, carpintería, caucho y plástico, aplicaciones de bobinado/desenrollado."
+                                ],
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "Excelente rendimiento de conducción",
+                                        "detalles": [
+                                            "Capacidad de sobrecarga hasta 150%/60 seg, y 200%/3 seg. Adecuado para aplicaciones de par constante.",
+                                            "Admite motores de inducción y de imán permanente con tarjetas PG opcionales para un control de velocidad y posición altamente preciso.",
+                                            "Proporciona una potente salida de par a baja frecuencia (0,5 Hz/200 % sin control vectorial PG; 0 Hz/200 % con control vectorial PG) para un funcionamiento estable y de servicio pesado a baja velocidad y par alto.",
+                                            "Función de control de tensión constante incorporada.",
+                                            "Control de velocidad, par y posición."
+                                        ]
+                                    },
+                                    {
+                                        "subtitle": "Fuerte soporte del sistema",
+                                        "detalles": [
+                                            "PLC incorporado con 5k pasos; Admite la programación del sistema para ahorrar costos.",
+                                            "Función de seguridad STO (SIL2/PL d) integrada y medidas para cortes de energía repentinos.",
+                                            "Todos los modelos se pueden conectar a través de un bus CC común.",
+                                            "Interfaz Modbus y CANopen incorporada; Tarjeta de comunicación opcional, que incluye EtherNet/IP, Modbus TCP, EtherCAT, DeviceNet, PROFIBUS DP y PROFINET.",
+                                            "Modelos opcionales con filtro incorporado.",
+                                            "Tarjeta de fuente de alimentación de 24 V opcional para reducir el tiempo de inactividad inesperado."
+                                        ]
+                                    },
+                                    {
+                                        "subtitle": "Expansión flexible",
+                                        "detalles": [
+                                            "Dos terminales de entrada de pulso de alta velocidad de 33 kHz (MI6 y 7) incorporados y un terminal de salida (DFM).",
+                                            "Dos ranuras para tarjetas accesorias integradas para tarjeta PG, tarjeta de expansión de E/S, tarjeta de comunicación o tarjeta de alimentación de 24 V al mismo tiempo.",
+                                            "Ampliable a 3 DI y 3 DO, incluidos 6 puertos en total.",
+                                            "Ampliable a 2 o 3 relés."
+                                        ]
+                                    },
+                                    {
+                                        "subtitle": "Control de tensión avanzado",
+                                        "detalles": [
+                                            "Cálculo del diámetro del rollo incorporado mediante velocidad lineal, espesor del material y medidor de distancia.",
+                                            "Dos parámetros PID: Linealmente ajustable para controlar la tensión en el arranque, de rollos pequeños/grandes y a velocidad lineal alta/baja.",
+                                            "Cálculo de la tensión cónica: ajusta automáticamente la tensión según el diámetro del rodillo de bobinado para evitar arrugas o deformaciones.",
+                                            "Compensación de fricción e inercia para el control de par: Compensa automáticamente la fricción y la inercia durante el bobinado/desenrollado para una tensión constante",
+                                            "Cambio automático de rollo mediante simple señal externa sin parada de la máquina"
+                                        ]
+                                    }
+                                ],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Variador compacto para uso general 0.25 CV a 2 CV",
+                        "href": "/tienda/Delta-Variadores de Frecuencia-Variador compacto para uso general 0.25 CV a 2 CV",
+                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/2. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 2 CV/VFD-L/VFD-L_.png",
+                        "modelos": [
+                            {
+                                "nombre": "VFD-L",
+                                "img": [
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/2. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 2 CV/VFD-L/VFD-L_.png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/VFD-L.docx"
+                                ],
+                                "descripcion": "Compensación automática de par y de deslizamiento, pudiendo entregar hasta un 150% del par nominal a 5 Hz. Operación extremadamente silenciosa. Tensión de salida con un contenido mínimo en armónicos gracias a la innovadora técnica SVPWM (Space Vector Pulse Width Modulation) con portadora de hasta 10 kHz. Por supuesto, el VFD-L comparte con sus hermanos mayores de la familia VFD de Delta su robustez, su fiabilidad y su extremada facilidad de configuración, virtudes que les han hecho legendarios.",
+                                "aplicaciones": [
+                                    "Simple corte de madera, cinta transportadora, máquina de trefilado, etc.."
+                                ],
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "",
+                                        "detalles": [
+                                            "Frecuencia de salida 1.0 ~ 400Hz.",
+                                            "V ajustable curva / f.",
+                                            "Carrier frecuencia de hasta 10 kHz.",
+                                            "Auto refuerzo de par y compensación de deslizamiento.",
+                                            "Construir-en la comunicación MODBUS, la velocidad de transmisión de hasta 9600 bps.",
+                                            "El filtro incorporado EMI."
+                                        ]
+                                    }
+                                ],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Variador compacto para uso general 0.25 CV a 5 CV",
+                        "href": "/tienda/Delta-Variadores de Frecuencia-Variador compacto para uso general 0.25 CV a 5 CV",
+                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/3. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 5 CV/VFD-EL/VFD - EL_.png",
+                        "modelos": [
+                            {
+                                "nombre": "VFD-EL",
+                                "img": [
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/3. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 5 CV/VFD-EL/VFD - EL_.png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/VFD-EL.docx"
+                                ],
+                                "descripcion": "La serie VFD-EL es una nueva generación de micro inversores de C.A. con múltiples funciones.  Esta construido con  filtros EMI, interruptores RFI, fácil compartición con instalación común mediante el  bus de C.D.,  detección de corriente de alta precisión, protección en sobrecarga y diseñado con teclado numérico.",
+                                "aplicaciones": [
+                                    "Bombas y abanicos pequeños, maquinas sopladoras, equipo de procesamiento muy sencillo 'Hágalo Usted Mismo' HTM o DIY(por sus siglas en inglés."
+                                ],
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "",
+                                        "detalles": [
+                                            "Frecuencia de Salida: 0.1 ~ 600Hz",
+                                            "Curva de V/f con 3 posiciones de ajuste.",
+                                            "Diseñado con control PID de lazo cerrado",
+                                            "Interruptor RFI para red eléctrica",
+                                            "Diseñado en filtros EMI (para modelos de 230v monofásicos y 460v trifásicos)",
+                                            "Usa interfaces de comunicación RS-485 (RJ-45) con protocolo Modbus.",
+                                            "Módulos de comunicación opcionales para múltiples protocolos de comunicación, tales como Profibus, DeviceNet, LonWorks y CANopen.",
+                                            "Funciona con protección total"
+                                        ]
+                                    }
+                                ],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Variador compacto con control vectorial 0.25 CV a 30 CV",
+                        "href": "/tienda/Delta-Variadores de Frecuencia-Variador compacto con control vectorial 0.25 CV a 30 CV",
+                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/4. VARIADOR COMPACTO CON CONTROL VECTORIAL DE 0.25 CV A 30 CV/VFD-E/VFD-E.png",
+                        "modelos": [
+                            {
+                                "nombre": "VFD-E",
+                                "img": [
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/4. VARIADOR COMPACTO CON CONTROL VECTORIAL DE 0.25 CV A 30 CV/VFD-E/VFD-E.png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/VFD-E.docx"
+                                ],
+                                "descripcion": "Los variadores de la serie VFD-E han sido fabricados utilizando componentes y materiales de alta calidad e incorporan la tecnología de microprocesadores más moderna del mercado. /nPresenta una cubierta tipo IP20, y la capacidad varía desde las fracciones hasta 30hp, con voltajes de entrada en el rango de 115VAC a 460VAC. /nEl diseño termo-eficiente permite colocar los variadores uno junto a otro para aprovechar al máximo el espacio disponible. /nCubre potencias desde 0.2 hasta 22 kW.",
+                                "aplicaciones": [
+                                    "• Elevadores",
+                                    "• Molinos",
+                                    "• Taladros",
+                                    "• Máquinas inyectoras con brazo robotizado",
+                                    "• Trotadoras",
+                                    "• Lavadoras",
+                                    "• Tejedoras",
+                                    "• Maquinaria para carpintería"
+                                ],
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "",
+                                        "detalles": [
+                                            "Frecuencia de Salida: 0.1 ~ 600Hz",
+                                            "Curva de V/f con 3 posiciones de ajuste.",
+                                            "Diseñado con control PID de lazo cerrado",
+                                            "Interruptor RFI para red eléctrica",
+                                            "Diseñado en filtros EMI (para modelos de 230v monofásicos y 460v trifásicos)",
+                                            "Usa interfaces de comunicación RS-485 (RJ-45) con protocolo Modbus.",
+                                            "Módulos de comunicación opcionales para múltiples protocolos de comunicación, tales como Profibus, DeviceNet, LonWorks y CANopen.",
+                                            "Funciona con protección total"
+                                        ]
+                                    }
+                                ],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Variador con control de campo de 1 CV a 600 CV",
+                        "href": "/tienda/Delta-Variadores de Frecuencia-Variador con control de campo de 1 CV a 600 CV",
+                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/5. VARIADOR CON CONTROL DE CAMPO DE 1 CV A 600 CV/VFD-C2000/VFD-C2000.png",
+                        "modelos": [
+                            {
+                                "nombre": "VFD-C2000",
+                                "img": [
+                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/5. VARIADOR CON CONTROL DE CAMPO DE 1 CV A 600 CV/VFD-C2000/VFD-C2000.png"
+                                ],
+                                "docs": [
+                                    "src/assets/tienda/delta/variadores/docs/VFD-E.docx"
+                                ],
+                                "descripcion": "Los variadores de la serie VFD-E han sido fabricados utilizando componentes y materiales de alta calidad e incorporan la tecnología de microprocesadores más moderna del mercado. /nPresenta una cubierta tipo IP20, y la capacidad varía desde las fracciones hasta 30hp, con voltajes de entrada en el rango de 115VAC a 460VAC. /nEl diseño termo-eficiente permite colocar los variadores uno junto a otro para aprovechar al máximo el espacio disponible. /nCubre potencias desde 0.2 hasta 22 kW.",
+                                "aplicaciones": [
+                                    "Elevadores, molinos, taladros, máquinas inyectoras con brazo robotizado, trotadoras, lavadoras, tejedoras, y maquinaria para carpintería, entre muchas otras."
+                                ],
+                                "caracteristicas": [
+                                    {
+                                        "subtitle": "",
+                                        "detalles": [
+                                            "Frecuencia de Salida: 0.1 ~ 600Hz",
+                                            "Curva de V/f con 3 posiciones de ajuste.",
+                                            "Diseñado con control PID de lazo cerrado",
+                                            "Interruptor RFI para red eléctrica",
+                                            "Diseñado en filtros EMI (para modelos de 230v monofásicos y 460v trifásicos)",
+                                            "Usa interfaces de comunicación RS-485 (RJ-45) con protocolo Modbus.",
+                                            "Módulos de comunicación opcionales para múltiples protocolos de comunicación, tales como Profibus, DeviceNet, LonWorks y CANopen.",
+                                            "Funciona con protección total"
+                                        ]
+                                    }
+                                ],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Servo-Accionamiento",
+                "href": "/tienda/Delta-Servo-Accionamiento",
+                "tipos": [
+                    {
+                        "nombre": "Servoaccionnamiento Avanzado",
+                        "href": "/tienda/Delta-Servo-Accionamiento-Servoaccionnamiento Avanzado",
+                        "img": "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA--A2.png",
+                        "modelos": [
+                            {
+                                "nombre": "ASDA-A2",
+                                "img": [
+                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA--A2.png",
+                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA-A2.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "ASDA-A3",
+                                "img": [
+                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A3/ASDA-A3.png",
+                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A3/ASDA--A3.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Servoaccionnamiento Estándar",
+                        "href": "/tienda/Delta-Servo-Accionamiento-Servoaccionnamiento Estándar",
+                        "img": "/tienda/delta/2. SERVOACCIONAMIENTO/2. SERVOACCIONAMIENTO ESTÁNDAR/ASBA-B2/ASBA-B2.png",
+                        "modelos": [
+                            {
+                                "nombre": "ASBA-B2",
+                                "img": [
+                                    "/tienda/delta/2. SERVOACCIONAMIENTO/2. SERVOACCIONAMIENTO ESTÁNDAR/ASBA-B2/ASBA-B2.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Actuador-Servomotor Lineal",
+                "href": "/tienda/Delta-Actuador-Servomotor Lineal",
+                "tipos": [
+                    {
+                        "nombre": "LAS",
+                        "href": "/tienda/Delta-Actuador-Servomotor Lineal-LAS",
+                        "img": "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LA-S/LA-S.png",
+                        "modelos": [
+                            {
+                                "nombre": "LAS",
+                                "img": [
+                                    "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LA-S/LA-S.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "LU",
+                        "href": "/tienda/Delta-Actuador-Servomotor Lineal-LU",
+                        "img": "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LU/LU.png",
+                        "modelos": [
+                            {
+                                "nombre": "LU",
+                                "img": [
+                                    "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LU/LU.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Reductores",
+                "href": "/tienda/Delta-Reductores",
+                "tipos": [
+                    {
+                        "nombre": "PA",
+                        "href": "/tienda/Delta-Reductores-PA",
+                        "img": "/tienda/delta/4. REDUCTORES/PA/PA.png",
+                        "modelos": [
+                            {
+                                "nombre": "PA",
+                                "img": [
+                                    "/tienda/delta/4. REDUCTORES/PA/PA.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "PS",
+                        "href": "/tienda/Delta-Reductores-PS",
+                        "img": "/tienda/delta/4. REDUCTORES/PS/PS.png",
+                        "modelos": [
+                            {
+                                "nombre": "PS",
+                                "img": [
+                                    "/tienda/delta/4. REDUCTORES/PS/PS.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "CNC",
+                "href": "/tienda/Delta-CNC",
+                "tipos": [
+                    {
+                        "nombre": "Solucion DELTA para CNC",
+                        "href": "/tienda/Delta-CNC-Solucion DELTA para CNC",
+                        "img": "/tienda/delta/5. CNC/SOLUCION DELTA PARA CNC/CNC.png",
+                        "modelos": [
+                            {
+                                "nombre": "CNC",
+                                "img": [
+                                    "/tienda/delta/5. CNC/SOLUCION DELTA PARA CNC/CNC.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nombre": "Controlador Lógico Programable",
+                "href": "/tienda/Delta-Controlador Lógico Programable",
+                "tipos": [
+                    {
+                        "nombre": "PLC Compacto de Gama Media DELTA",
+                        "href": "/tienda/Delta-Controlador Lógico Programable-PLC Compacto de Gama Media DELTA",
+                        "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png",
+                        "modelos": [
+                            {
+                                "nombre": "AS300",
+                                "img": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Alto Desempeño para aplicaciones de procesos",
+                        "href": "/tienda/Delta-Controlador Lógico Programable-Alto Desempeño para aplicaciones de procesos",
+                        "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/2. ALTO DESEMPEÑO PARA APLICACIONES DE PROCESOS/AH500/PLC-grande-de-la-serie-AH500.png",
+                        "modelos": [
+                            {
+                                "nombre": "AH500",
+                                "img": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/2. ALTO DESEMPEÑO PARA APLICACIONES DE PROCESOS/AH500/PLC-grande-de-la-serie-AH500.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    },
+                    {
+                        "nombre": "Nueva Generación de PLC Compactos DELTA",
+                        "href": "/tienda/Delta-Controlador Lógico Programable-Nueva Generación de PLC Compactos DELTA",
+                        "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DPV-MC/DPV-MC.png",
+                        "modelos": [
+                            {
+                                "nombre": "DPV-MC",
+                                "img": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DPV-MC/DPV-MC.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "DVP-SA2",
+                                "img": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SA2/DVP-SA2-delta.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "DVP-SE",
+                                "img": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SE/DVP-SE-delta.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "DVP-SS2",
+                                "img": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SS2/DVP-SS2.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "DVP-SV2",
+                                "img": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SV2/DVP-SV2.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "DVP-SX2",
+                                "img": [
+                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SX2/DVP-SX2.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

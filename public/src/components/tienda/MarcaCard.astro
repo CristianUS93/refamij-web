@@ -1,0 +1,132 @@
+---
+import { Image } from "astro:assets";
+
+const {logo, image} = Astro.props;
+---
+
+<input type="checkbox" id="cobra-img" />
+<label for="cobra-img" class="marca-card">
+    <Image src={logo} alt="Cobra logo" />
+    <div class="marca-container">
+        <h3>COBRA Cadenas y Bandas Transportadoras</h3>
+        <p>
+            Las Ruedas para Cadenas Rectas de Acero Inoxidable son esenciales
+            para garantizar el buen funcionamiento de su sistema de transporte
+            industrial. Cuente con COBRA para encontrar las ruedas inyectadas y
+            maquinadas ideales para su aplicación con calidad y durabilidad
+            garantizadas.
+        </p>
+    </div>
+</label>
+<label for="cobra-img" class="img-view">
+    <section class="img-section">
+        <button class="back arrow">
+            <i class="material-icons">arrow_back_ios</i>
+        </button>
+        <div class="img-container">
+            <Image src={image} alt="Visita" />
+        </div>
+        <button class="forward arrow">
+            <i class="material-icons">arrow_forward_ios</i>
+        </button>
+    </section>
+</label>
+
+<style>
+    .marca-card {
+        padding: 1.5rem;
+        margin: 0 auto 2rem auto;
+        display: flex;
+        align-items: center;
+        background-color: white;
+        box-shadow: 2px 2px 2px rgb(200, 200, 200);
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .marca-card img {
+        height: 80px;
+        margin-right: 1.5rem;
+    }
+
+    .img-view {
+        top: 0;
+        right: 0;
+        position: fixed;
+        z-index: 99999;
+        display: none;
+    }
+
+    .img-section {
+        height: 100vh;
+        width: 100vw;
+        background-color: rgba(0, 0, 0, 0.6);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .img-container img {
+        height: 70vh;
+        width: fit-content;
+        object-fit: scale-down;
+        border: 2px solid white;
+    }
+
+    .arrow {
+        color: white;
+        margin: 2rem;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+
+    #cobra-img {
+        display: none;
+    }
+
+    #cobra-img:checked ~ .img-view {
+        display: block;
+    }
+
+    @media screen and (max-width: 1150px) {
+        .marca-card img {
+            height: 60px;
+        }
+    }
+
+    @media screen and (max-width: 1000px) {
+        .marca-card h3 {
+            font-size: 16px;
+        }
+        .marca-card p {
+            font-size: 14px;
+        }
+    }
+
+    @media screen and (max-width: 750px) {
+        .marca-card {
+            flex-direction: column;
+        }
+        .marca-card img {
+            height: 50px;
+            margin-bottom: 1rem;
+            margin-right: 0;
+        }
+    }
+
+    @media screen and (max-width: 400px) {
+        .marca-card {
+            flex-direction: column;
+        }
+        .marca-card img {
+            width: 200px;
+        }
+        .marca-container h3 {
+            text-align: center;
+        }
+        .marca-container p {
+            display: none;
+        }
+    }
+</style>

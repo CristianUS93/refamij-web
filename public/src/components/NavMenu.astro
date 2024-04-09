@@ -1,0 +1,188 @@
+---
+import "../styles/global.css";
+import { Image } from 'astro:assets';
+
+import logo from "../../public/refamij_logo.png";
+
+interface Props {
+    currentPath: string;
+}
+
+const { currentPath } = Astro.props;
+
+const select = "select";
+const lineColor = currentPath === '/contacto' ? 'white': 'var(--blue-refamij)';
+
+const pages = [
+    { title: "Inicio", href: "/" },
+    { title: "Productos Industriales", href: "/productos" },
+    { title: "Tienda Comercial", href: "/tienda" },
+    { title: "Nosotros", href: "/nosotros" },
+    { title: "Contacto", href: "/contacto" },
+];
+
+---
+
+<header>
+    <nav class="nav-menu">
+        <a href="/">
+            <Image
+                class="logo"
+                src={logo}
+                alt="Logo Refamij"
+            />
+        </a>
+        <input type="checkbox" id="check" />
+        <label for="check" class="checkbtn">
+            <i class="material-icons">menu</i>
+        </label>
+        <ul>
+            {
+                pages.map((page) => (
+                    <li>
+                        <a class="nav-link" href={page.href}>
+                            {page.title}
+                        </a>
+                        <div class={`separator ${currentPath === page.href && select}`} />
+                    </li>
+                ))
+            }
+        </ul>
+    </nav>
+</header>
+
+<style define:vars={{lineColor: lineColor}}>
+    header {
+        position: absolute;
+        width: 100%;
+        background-color: transparent;
+        text-align: center;
+        z-index: 9999;
+    }
+
+    .nav-menu {
+        height: 80px;
+        width: 90%;
+        display: inline-flex;
+        justify-content: space-between;
+    }
+
+    .logo {
+        height: 80px;
+        width: 80px;
+        object-fit: contain;
+        padding: 8px 0px;
+        filter: 
+            drop-shadow(-0.5px -0.5px 0px white)
+            drop-shadow(1px -0.5px 0px white)
+            drop-shadow(1px 1px 0px white)
+            drop-shadow(-0.5px 1px 0px white);
+    }
+
+    nav ul {
+        height: 80px;
+        list-style-type: none;
+        display: flex;
+        align-items: center;
+    }
+
+    nav ul li {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    nav ul li a {
+        font-size: 22;
+        font-weight: 600;
+        padding: 10px 25px;
+        align-content: center;
+        text-decoration: none;
+        color: white;
+    }
+
+    
+    nav ul li .separator {
+        height: 3px;
+        width: 50%;
+        background: transparent;
+    }
+
+    nav ul li .select {
+        background-color:var(--lineColor);
+    }
+
+    .checkbtn {
+        font-size: 30px;
+        float: right;
+        color: white;
+        margin-right: 20px;
+        display: none;
+    }
+
+    #check {
+        display: none;
+    }
+
+    @media screen and (max-width: 1200px) {
+        .nav-menu {
+            width: 100%;
+        }
+    }
+
+    @media screen and (max-width: 952px) {
+        nav ul a {
+            font-size: 14px;
+        }
+    }
+
+    @media screen and (max-width: 900px) {
+        .nav-menu {
+            height: 60px;
+        }
+
+        .logo {
+            height: 60px;
+        }
+
+        nav ul {
+            top: 60px;
+            left: -100%;
+            width: 100%;
+            height: 100vh;
+            background: var(--blue-refamij);
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            transition: all 500ms;
+        }
+
+        nav ul li {
+            width: 100%;
+            padding: 10px 0px;
+        }
+
+        nav ul .separator {
+            display: none;
+        }
+
+        nav ul .select {
+            color: var(--blue-refamij);
+        }
+
+        nav ul li a:hover {
+            color: var(--ligth-refamij);
+        }
+
+        .checkbtn {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+        }
+
+        #check:checked ~ ul {
+            left: 0;
+        }
+    }
+</style>

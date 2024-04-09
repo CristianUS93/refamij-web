@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Elías Manuel Alayo Solier",
+        "position": "Jefe de Operaciones",
+        "email": "ealayo@refamij.com",
+        "img": "/especialistas/e_alayo.png"
+    },
+    {
+        "name": "Martin Adán Huarcaya Martínez",
+        "position": "Jefe de Robótica y Automatización",
+        "email": "mhuarcaya@refamij.com",
+        "img": "/especialistas/m_huarcaya.png"
+    },
+    {
+        "name": "Luz Lizeth Lozano Bazán",
+        "position": "Supervisor Técnico",
+        "email": "llozano@refamij.com",
+        "img": "/especialistas/l_lozano.png"
+    },
+    {
+        "name": "Jorge Enrique Rojas Carrillo",
+        "position": "Gerente de Proyectos",
+        "email": "jrojas@refamij.com",
+        "img": "/especialistas/j_rojas.png"
+    },
+    {
+        "name": "Fany Fiorella Rojas Rojas",
+        "position": "Ventas Industriales",
+        "email": "ventas1@refamij.com",
+        "img": "/especialistas/f_rojas.png"
+    },
+    {
+        "name": "Paul Nilton Salcedo Martínez",
+        "position": "Jefe de Productos, Puertas y Rampas",
+        "email": "psalcedo@refamij.com",
+        "img": "/especialistas/p_salcedo.jpg"
+    },
+    {
+        "name": "Nayme Armando Tan Ramos",
+        "position": "Jefe Técnico FISCHBEIN",
+        "email": "dtecnico2@refamij.com",
+        "img": "/especialistas/n_ramos.png"
+    },
+    {
+        "name": "Cesar Augusto Yañez Guerrero",
+        "position": "Gerencia Comercial",
+        "email": "cyanez@refamij.com",
+        "img": "/especialistas/c_yanez.png"
+    }
+]

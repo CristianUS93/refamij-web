@@ -1,0 +1,48 @@
+---
+const {fileUrl, producto } = Astro.props;
+---
+<div>
+    <div class="download">
+        <object data={fileUrl} type="application/pdf">
+            <p> Tu navegador no tiene un plugin PDF.
+                Tu puedes <a href={fileUrl} target="_blank" download={`${producto}.pdf`}>descargarlo aquí</a>
+            </p>
+        </object>
+    </div>
+</div>
+
+<style>
+    div {
+        height: 100%;
+    }
+    .download {
+        height: 330px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: gray;
+        margin: 0 auto;
+    }
+
+    object {
+        height: 100%;
+        width: 100%;
+    }
+
+    img {
+        height: 100%;
+        object-fit: scale-down;
+        filter: brightness(0.5) blur(1px);
+    }
+
+    p {
+        padding: 1rem;
+        text-align: center;
+    }
+
+    a {
+        font-weight: 500;
+        color: var(--blue-refamij);
+    }
+</style>
