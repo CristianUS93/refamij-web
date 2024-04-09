@@ -1083,7 +1083,8 @@
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/bolsa-cocida.png"
                         ],
-                        "docs": ["refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/FISCHBEIN BROCHURE MODELO 400NSFO.pdf"],
+                        "docs": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/FISCHBEIN BROCHURE MODELO 400NSFO.pdf"],
                         "descripcion": "Nuestro Sistema de costura modelo 400NSFO para aplicaciones en bolsas o sacos multicapas de papel, polipropileno, yute, etc. Es utilizado para líneas de ensacado de mediano y alto volumen, opera a velocidades de hasta 17 bolsas por minuto. Este sistema se integra fácilmente a líneas semiautomáticas, tiene un pedestal compacto de baja vibración y completamente móvil. El sistema 400NS utiliza un cabezal modelo 100 express e incluye un alimentador de sacos INFEED A2940 FO que automáticamente entrega el saco al cabezal de costura y el rango de regulación de altura es desde 0,77m hasta 1,43m.",
                         "aplicaciones": [
                             "• Fabricación de bolsas",
@@ -1127,7 +1128,7 @@
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/ACEITE-INDUSTRIAL (1).png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/Hilos-del-400PRO.png"
                         ],
-                        "docs": ["refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/FISCHBEIN BROCHURE MODELO 400 PRO.pdf"],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/FISCHBEIN BROCHURE MODELO 400 PRO.pdf"],
                         "descripcion": "El modelo 400 PRO puede cerrar una gran variedad de bolsas estilo almohada o con fuelle, que incluye papel de paredes múltiples, con su sistema de autolubricación, el cabezal de costura Empress 100 ofrece un rendimiento suave y sin problemas con pocas vibraciones. Cuenta con una velocidad de 35 a 55 pies lineales por minuto. El pedestal móvil de altura ajustable con ruedas y tornillos niveladores se puede integrar fácilmente en cualquier línea de ensacado manual.",
                         "aplicaciones": [
                             "• Fabricación de bolsas",
@@ -1161,11 +1162,11 @@
                         "nombre": "MODELO 400 TNS",
                         "href": "/productos/MODELO 400 TNS",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/MODELO 400 TNS.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/MODELO-400-TNS.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/CABEZAL SERIE 101.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/ACEITE-INDUSTRIAL (1).png"
                         ],
-                        "docs": ["refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/FISCHBEIN BROCHURE MODELO 400TNS.pdf"],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/FISCHBEIN BROCHURE MODELO 400TNS.pdf"],
                         "descripcion": "El modelo 400 TNS,es reconocido como el sistema de costura con cinta líder de la industrial actual. El cabezal de costura ofrece un rendimiento suave sin problemas con baja vibración.Diseñado para bolsas de papel multicapa y de polipropileno tejido laminado, el sistema de costura puede funcionar con una velocidad de 55 pies lineales por minuto. Inclusive tiene un cortador de cinta e hilo activado por un ojo fotoeléctrico controlador por PLC que corta automáticamente la cinta de crepé y el hilo al finalizar el ciclo de costura e incorpora el cabezal cosedor modelo 101 de la serie Empress con su consagrado diseño autolubricante, un pedestal de altura regulable con ruedas, una cortadora neumática de hilo/cinta. Para obtener un máximo rendimiento se recomienda usar hilo y pinzas Fischbein originales.",
                         "aplicaciones": [
                             "• Fabricación de bolsas",
@@ -1491,7 +1492,7 @@
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/MODELO PORTATIL HD.png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/FISCHBEIN BROCHURE MODELO PORTATIL HD.pdf"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/FISCHBEIN BROCHURE MODELO PORTATIL HD.pdf"
                         ],
                         "descripcion": "La cosedora portatil modelo HD de Fischbein para trabajos pesador portátil de la Serie F pone a su alcance la calidad, durabilidad y la productividad que usted espera de Fischbein. Con un peso de solo 5kg (11 libras),esta cosedora portátil cierra rápidamente y de manera segura bolsas de papel multicapa, tejidas y de polipropileno. Tiene una funcionalidad de 11 metros por minuto a razón de 4 puntadas por pulgada, la serie - F se encargará de realizar las tareas de cierre en bolsas más exigentes de manera segura y eficiente.",
                         "aplicaciones": [
@@ -1525,7 +1526,7 @@
                         "img": [
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/b179e9_5d9ea095ec1f42f98adb9bc918cd1d2c~mv2.png"
                         ],
-                        "docs": ["refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/FISCHBEIN BROCHURE MODELO SERIE F.pdf"],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/FISCHBEIN BROCHURE MODELO SERIE F.pdf"],
                         "descripcion": "La cosedora portatil modelo serie F, se caracteriza por su portabilidad y agarre vertical, lo que proporciona comodidad y control durante su uso. Con su velocidad de 35 pies (11metros) por minuto y uana capacidad de 4 puntadas por pulgadas, este equipo garantiza eficiencia y precisión en cada costura. Además, está equipado con un motor de 1/8 HP, que asegura un rendimiento confiable y duradero en diversas aplicaciones.",
                         "aplicaciones": [
                             "• Industria de transporte",
@@ -1590,7 +1591,7 @@
                         "img": [
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F CON CREPE/MODELO SERIE-F CON CREPE.png"
                         ],
-                        "docs": ["refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F CON CREPE/FISCHBEIN BROCHURE MODELO SERIE F CON CREPE.pdf"],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F CON CREPE/FISCHBEIN BROCHURE MODELO SERIE F CON CREPE.pdf"],
                         "descripcion": "La cosedora portatil Fischbein para cinta de papel crepé portátil de la Serie F pone a su alcance la calidad, durabilidad y la productividad que usted espera de Fischbein. Con un peso de solo 5kg (11 libras), esta cosedora portátil cierra rapidamente y de manera segura bolsas de multicapas, tejidas y de polipropileno tejido laminado que llevan una costura de cinta de papel crepé. Cuenta con una velocidad de 11 metros por minuto a razón de 4 puntadas por pulgada, la serie F se encargará de realizar las tareas de cierre de bolsas más exigentes.",
                         "aplicaciones": [
                             "• Industria de transporte",
@@ -1630,7 +1631,7 @@
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 100/CABEZAL SERIE 100.png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 100/FISCHBEIN BROCHURE MODELO SERIE 100.pdf"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 100/FISCHBEIN BROCHURE MODELO SERIE 100.pdf"
                         ],
                         "descripcion": "El cabezal de cosura sencilla de la Serie Empress 100 de Fischbein es reconocido por su durabilidad y la idoneidad de mano de obra con que se fabrica. Armado con coponentes de metales pesados, ese versátil y compacto cabezal de costura está diseñado para cerrar de manera segura bolsas llenas de boca abierta, de papel multicapa, tejidas y de polipropileno tejido laminado en los entornos de trabajo mas exigentes. Las piezas giratorias de alta precision de este cabezal de cosutra permiten ajustar la velocidad operativa de 11 a 17m por minuto, con muy bajo nivel de vibración.Los cabezales Fischbein se presentan con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, sistemas de alimentación, eléctrica, codificadores de boslas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
@@ -1664,7 +1665,7 @@
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 101/CABEZAL SERIE 101 (2).png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 101/FISCHBEIN BROCHURE MODELO SERIE 101.pdf"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 101/FISCHBEIN BROCHURE MODELO SERIE 101.pdf"
                         ],
                         "descripcion": "El cabezal de costura Serie 101 con cinta estándar de la Serie Empress de Fischbein es reconocido por su durabilidad y la idoneidad de la mano de obra con que se fabrica. Las piezas giratorias de alta precisión de este cabezal de costura permiten ajustar la velocidad operativa de 11 a 17m por minuto. Nuestro modelo estándar para cinta confecciona una costura de cadeneta de dos hilos, ajustable de 2 a 3,25 puntadas por pulgada. Fischbein pueden adquirirse con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, dobladoras de boca de bolsas, detector de rotura de hilos cintas, codificadores de bolsas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
@@ -1698,7 +1699,7 @@
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 200/CABEZAL SERIE 200.png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 200/FISCHBEIN BROCHURE MODELO SERIE 200.pdf"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 200/FISCHBEIN BROCHURE MODELO SERIE 200.pdf"
                         ],
                         "descripcion": "El cabezal de costura sencilla de la Serie Empress de Fischbein Modelo 200 es reconocido por su durabilidad y la idoneidad de la mano de obra con que se fabrica. Las piezas giratorias de alta precisión de este cabezal de costura permiten ajustar la velocidad operativa 17 a 23m por minuto, con muy bajo nivel de vibración. Los modelos de costura sencialla estándar confeccionan una costura de cadeneta de dos hilos, ajustable de 2 a 3,5 puntadas por pulgadas, configurado de fábrica en 2,5 puntadas.Fischbein pueden adquirirse con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, dobladoras de boca de bolsas, detector de rotura de hilos cintas, codificadores de bolsas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
@@ -1733,7 +1734,7 @@
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/Fischbein-Sew_Head_Model_201-a.png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/FISCHBEIN BROCHURE MODELO SERIE 201.pdf"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/FISCHBEIN BROCHURE MODELO SERIE 201.pdf"
                         ],
                         "descripcion": "El cabezal de costura sencilla de la Serie Empress de Fischbein Modelo 201 es reconocido por su durabilidad y la idoneidad de la mano de obra con que se fabrica. Las piezas giratorias de alta precisión de este cabezal de costura permiten ajustar la velocidad operativa 17 a 23m por minuto, con muy bajo nivel de vibración. Los modelos de costura sencialla estándar confeccionan una costura de cadeneta de dos hilos, ajustable de 2 a 3,5 puntadas por pulgadas, configurado de fábrica en 2,5 puntadas.Fischbein pueden adquirirse con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, dobladoras de boca de bolsas, detector de rotura de hilos cintas, codificadores de bolsas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
@@ -3769,7 +3770,7 @@
                         "nombre": "Abrigo Hinchable",
                         "href": "/productos/Abrigo Hinchable",
                         "img": [
-                            "refamij-web/public/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/ABRIGO HINCHABLE/ABRIGO-HINCHABLE.jpg"
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/ABRIGO HINCHABLE/ABRIGO-HINCHABLE.jpg"
                         ],
                         "docs": [],
                         "descripcion": "El abrigo hinchable esta diseñado par adaptarse a las aberturas de la puerta hasta 10' de ancho x 10' altura (3048 x 3048mm), en abrigo de anden ajustable e inflable tiene bolsas de aire verticales que incrementan el área de contacto contra el remolque y se ajustan para mantener seguro el producto. Un resorte interno de la retracción permite a la bolsa de airea de la cabecera retraerse por completo cuando esta siendo usada, lo cual impide daños por choque de remolques entrantes.",
