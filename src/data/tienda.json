@@ -294,7 +294,10 @@
                             {
                                 "nombre": "RUEDA 815 - 881 M BIPARTIDA",
                                 "img": [
-                                    "public/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png"
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png",
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (2).png",
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (3).png",
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (4).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "Las RUEDAS 815 - 881 M BIPARTIDA fueron desarrolladas especialmente para ser utilizadas con las CADENAS SERIE SSF Y SSA 815 de COBRA, ofreciendo una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes. Además, están disponibles en una variedad de configuraciones como Z21, Z23 y Z25, y diámetros de eje que van desde 25 mmm hasta 45 mm, con o sin chaveta.",
@@ -499,7 +502,8 @@
                             {
                                 "nombre": "RUEDA CARRETEL ENTERIZA",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.png"
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.png",
+                                    "public/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "La RUEDA CARRETEL ENTERIZA de COBRA está diseñada para proporcionar alta eficiencia y confiabilidad en transportadores rectos que utilizan CADENAS PLÁSTICAS o METÁLICAS como elementos de tracción. Esta RUEDA CARRETEL ENTERIZA se utiliza ampliamente en las cabezas de retorno de los transportadores industriales para facilitar el retorno de las cadenas.",
@@ -2407,8 +2411,8 @@
                                     "• Molinos",
                                     "• Taladros",
                                     "• Máquinas inyectoras con brazo robotizado",
-                                    "• Trotadoras", 
-                                    "• Lavadoras", 
+                                    "• Trotadoras",
+                                    "• Lavadoras",
                                     "• Tejedoras",
                                     "• Maquinaria para carpintería"
                                 ],

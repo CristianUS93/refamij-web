@@ -58,56 +58,54 @@ const { producto } = Astro.props;
 
     // Zoom images
 
-    if(mobile.any() === null){
-
+    if (mobile.any() === null) {
         const zoom = 300;
-    
+
         imgContElem.addEventListener("mouseenter", function () {
             imgMain["style"]["height"] = zoom + "%";
             imgMain["style"]["transform"] = "translateX(0)";
         });
-    
+
         imgContElem.addEventListener("mouseleave", function () {
             imgMain["style"]["height"] = "100%";
             imgMain["style"]["top"] = "0";
             imgMain["style"]["left"] = "50%";
             imgMain["style"]["transform"] = "translateX(-50%)";
         });
-    
+
         imgContElem.addEventListener("mousemove", function (event) {
             let obj = imgContElem;
             let obj_top = 0;
             let obj_left = 0;
             let xpos = 0;
             let ypos = 0;
-    
+
             while (obj["offsetParent"]) {
                 obj_top = obj["offsetTop"];
                 obj_left = obj["offsetLeft"];
                 obj = obj["offsetParent"];
             }
-    
+
             if (event) {
                 // FireFox
                 xpos = event["pageX"];
                 ypos = event["pageY"];
-            } else {
-                //IE
-                xpos = window.event.x + document.body.scrollLeft - 2;
-                xpos = window.event.y + document.body.scrollTop - 2;
             }
-    
+
             xpos -= obj_left;
             ypos -= obj_top;
-    
+
             const imgWidth = imgMain.clientWidth;
             const imgHeight = imgMain.clientHeight;
-    
+
             imgMain["style"]["top"] =
-                -(((imgHeight - this.clientHeight) * ypos) / this.clientHeight) +
-                "px";
+                -(
+                    ((imgHeight - this.clientHeight) * ypos) /
+                    this.clientHeight
+                ) + "px";
             imgMain["style"]["left"] =
-                -(((imgWidth - this.clientWidth) * xpos) / this.clientWidth) + "px";
+                -(((imgWidth - this.clientWidth) * xpos) / this.clientWidth) +
+                "px";
         });
     }
 
@@ -161,8 +159,8 @@ const { producto } = Astro.props;
         max-width: 600px;
         width: 600px;
         min-width: 270px;
-        max-height: 550px;
-        height: 550px;
+        min-height: 515px;
+        max-height: 515px;
         min-height: 270px;
         box-sizing: inherit;
         align-self: flex-start;
@@ -171,8 +169,8 @@ const { producto } = Astro.props;
 
     .img-container {
         max-width: 600px;
+        min-height: 420px;
         max-height: 420px;
-        height: 420px;
         border-radius: 5px;
         overflow: hidden;
         position: relative;
@@ -242,6 +240,7 @@ const { producto } = Astro.props;
     }
 
     .list-products li {
+        min-height: 80px;
         max-height: 80px;
         max-width: 80px;
         margin-right: 8px;
@@ -258,8 +257,9 @@ const { producto } = Astro.props;
     .list-products li img {
         max-width: 80px;
         min-width: 80px;
+        min-height: 80px;
         max-height: 80px;
-        object-fit: cover;
+        object-fit: scale-down;
     }
 
     .list-products li.active {
@@ -273,6 +273,10 @@ const { producto } = Astro.props;
             max-width: 1000px;
             width: 100%;
             min-width: 168px;
+        }
+
+        .container {
+            margin-bottom: 2rem;
         }
     }
 </style>
