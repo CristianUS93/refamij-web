@@ -1908,6 +1908,12 @@
                         "modelos": []
                     },
                     {
+                        "nombre": "Perfiles guia lateral",
+                        "href": "/tienda/Cobra-Componentes-Perfiles guia lateral",
+                        "img": "",
+                        "modelos": []
+                    },
+                    {
                         "nombre": "Chapas Laterales y Tubos",
                         "href": "/tienda/Cobra-Componentes-Chapas Laterales y Tubos",
                         "img": "",
@@ -2082,7 +2088,8 @@
                             {
                                 "nombre": "Perfil CLIP",
                                 "img": [
-                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL CLIP/928aaa3d4bc46defa6c32e3b6120186f.png"
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/26. PERFIL CLIP/Sin-título-6.png",
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/26. PERFIL CLIP/Sin-título-7.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2095,7 +2102,8 @@
                             {
                                 "nombre": "Perfil RECTO",
                                 "img": [
-                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL RECTO/a0615afc40a483382782b200c7075131.png"
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/25. RECTO/a0615afc40a483382782b200c7075131.png",
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/25. RECTO/cf0a524149446b35f91c78ad8102feab.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2108,7 +2116,8 @@
                             {
                                 "nombre": "Perfil T DUPLO",
                                 "img": [
-                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL T DUPLO/a04d10313ce75db87907129156d6295d.png"
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/24. T DUPLO/a04d10313ce75db87907129156d6295d.png",
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/24. T DUPLO/e1bd6e4b29808aca18246b6a3838e83b.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
