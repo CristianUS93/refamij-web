@@ -15,14 +15,17 @@
                         "nombre": "Checkweigher Dimánico",
                         "href": "/productos/Checkweigher Dimánico",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/CATÁLOGO-PERFOR-ESPAÑOL-7.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/CATÁLOGO-PERFOR-ESPAÑOL-7-nuevo.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(4).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(1).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(2).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(3).png"
+
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/perfor sistema combinado expert.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/PERFOR BROCHURE CHECKWEIGHER UPDATE.pdf"
                         ],
                         "descripcion": "El Sistema de Pesaje Dinámico o Checkweigher Dinámico es una solución integral para el control de calidad en la línea de producción. Ofrece precisión del 100% al pesar productos de diversas velocidades y se integra fácilmente con empaquetadora y envasadoras, proporcionando una retroalimentacion en tiempo real para correciones de peso. Además, incluye pantallas dirigidas al control de calidad y registros detallados de alarmas, eventos y produccion. Con opciones de programación flexible y eficiencia energética, es ideal para mejorar el proceso de producción y garantizar la calidad del producto final. ",
                         "aplicaciones": [
@@ -59,13 +62,15 @@
                         "nombre": "Sistemas de Pesaje Estático",
                         "href": "/productos/Sistemas de Pesaje Estático",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/NUEVO-2.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/NUEVO.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/Sistema de Pesaje-estatico.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/PESAJE-ESTATICO.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/CATÁLOGO-PERFOR-2023-11.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/CATÁLOGO-PERFOR-2023-12.png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/perfor sistema de pesaje estático.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/PERFOR BROCHURE PESAJE ESTATICO UPDATE.pdf"
                         ],
                         "descripcion": "El sistema de pesaje estático Perfor garantiza la precisión al 100% de los productos en una línea de producción, integrándose con facilidad a empaquetadoras y envasadoras para correcciones de peso. Ofrece múltiples pantallas para control de calidad con datos estadísticos en tiempo real, así como registros detallados de alarmas, eventos, rechazos y producción. Con opciones programable como la calibración de INMETRO y del peso, junto con un bajo consumo de energía, estos equipos están diseñados para pesar productos en un rango de 500g a 5000g, con posibilidad de adaptación a pesos superiores o inferiores según la necesidad del cliente. ",
                         "aplicaciones": [
@@ -103,9 +108,11 @@
                 "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales.png",
                 "tipos": [
                     {
-                        "nombre": "Detector de Metáles Vertical",
+                        "nombre": "Detector de Metales Vertical",
                         "href": "/productos/Detector de Metáles Vertical",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL VERTICAL/nuevo-catalogo.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL VERTICAL/detector-de-metales-(2)-neuvo.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales(1).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/detector-de-metales-b (1) vertical.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales.png",
@@ -113,7 +120,7 @@
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/detector-de-metal vertical.png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/perfor detector de metal vertical.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL VERTICAL/PERFOR BROCHURE DETECTOR DE METAL VERTICAL UPDATE.pdf"
                         ],
                         "descripcion": "Los Detectores de Metales fabricados por PERFOR emplean un principio de funcionamiento, que se basa en el análisis de la interferencia de un metal bajo un campo magnético transmitido. Estos dispositivos son capaces de verificar contaminantes metálicos en productos en movimiento, tanto a baja como alta velocidad, garantizando un inspección del 100% de los artículos en una linea de produccion. Ofrecen varias pantallas para el control de calidad con estadisticas en tiempo real, y opciones programables como la prueba de cuerpo, rechazo y rechazos seguidos. ",
                         "aplicaciones": [
@@ -148,15 +155,17 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Detector de Metáles Horizontal",
+                        "nombre": "Detector de Metales Horizontal",
                         "href": "/productos/Detector de Metáles Horizontal",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL HORIZONTAL/(3)-nuevo.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL HORIZONTAL/detector-de-metalesnuevo.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales horizontal.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/detector-de-meta-(2)l horizontal.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/detector-de-metales-b horizontal.png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/perfor detector de metal horizontal.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL HORIZONTAL/PERFOR BROCHURE DETECTOR DE METAL HORIZONTAL UPDATE.pdf"
                         ],
                         "descripcion": "Los Detectores de Metales fabricados por PERFOR emplean un principio de funcionamiento, que se basa en el análisis de la interferencia de un metal bajo un campo magnético transmitido. Estos dispositivos son capaces de verificar contaminantes metálicos en productos en movimiento, tanto a baja como alta velocidad, garantizando un inspección del 100% de los artículos en una linea de produccion. Ofrecen varias pantallas para el control de calidad con estadisticas en tiempo real, y opciones programables como la prueba de cuerpo, rechazo y rechazos seguidos.",
                         "aplicaciones": [
@@ -189,6 +198,48 @@
                             "• Piezas de prueba de Fe(hierro) / NFe(no ferroso) / SS(acero inoxidabe)"
                         ],
                         "video": ""
+                    },
+                    {
+                        "nombre": "Detector de Metales Multiespectral",
+                        "href": "",
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL MULTIESPECTRAL/NUEVO-2.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL MULTIESPECTRAL/NUEVO.png"
+                        ],
+                        "docs": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL MULTIESPECTRAL/PERFOR BROCHURE DETECTOR DE METAL MULTIESPECTRAL UPDATE.pdf"
+                        ],
+                        "descripcion": "Un detector de metal multiespectral es un dispositivo que utliza tecnología avanzada para detectar y distinguir entre diferentes tipos de metales mediante el análisis de su firma electromágnetica en múltiples frecuencias, lo que proporciona una mayor precisión, sensibilidad y capacidad para identificar objetos metálicos incluso cuadno están ocultos, en otros materiales.", 
+                        "aplicaciones": [
+                            "• Productos in-natura",
+                            "• Aplicaciones de la línea de caída libre",
+                            "• Big bag",
+                            "• Ensacaderas",
+                            "• Por encima de los empaquetadores / envasadores",
+                            "• Lineas presurizadas"
+                        ],
+                        "ventajas": [
+                            "• Adaptabilidad",
+                            "• Mayor precision de detección",
+                            "• Sensibilidad mejorada",
+                            "• Detección de objetos ocultos",
+                            "• Reducción de falsas alarmas"
+                        ],
+                        "especificaciones": [
+                            "• Velocidad de hasta 600 productos por minuto y para velocidades superiores bajo consulta, hasta 1000 recetas diferentes",
+                            "• Tension eléctrica: 220Volts",
+                            "• DMV Corriente (A): 0,3",
+                            "• DMV Potencia (kW): 0,5",
+                            "• DMV Consumo (kWh): según proyecto",
+                            "• DMH Corriente (A): según proyecto",
+                            "• Temperatura de operación: 0°C a 60°C",
+                            "• Grado de protección: IP64/IP66/IP69",
+                            "• Pantalla tipo Touch Screen de 10 pulgadas",
+                            "• Motores y servomotores de alto rendimiento",
+                            "• Fabricado en acero inoxidable",
+                            "• Piezas de prueba de Fe(hierro) / NFe(no ferroso) / SS(acero inoxidabe)"
+                        ],
+                        "video": ""
                     }
                 ]
             },
@@ -201,13 +252,15 @@
                         "nombre": "Sistemas Combinados EXPERT",
                         "href": "/productos/Sistemas Combinados EXPERT",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/nuevo.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/nuevoo.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert (1).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert2 (1).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/Sistema-Combinado-Expert3 (1).png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/perfor sistema combinado expert.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/3. SISTEMA COMBINADO/SISTEMA COMBINADO EXPERT/PERFOR BROCHURE SISTEMA COMBINADO EXPERT.pdf"
                         ],
                         "descripcion": "El sistema combinado EXPERT  de Perfor no solo verifica el peso de los productos en movimiento, sino que también detecta contaminantes metálicos tanto a baja como alta velocidad. Además, ofrece la capacidad de pesar y detectar el 100% de los artículos en una línea de producción, integrándose con empaquetadoras y envasadoras para corregir el peso si es neceario. Con múltiples pantallas dirigidas al control de calidad, proporciona datos estadísticos en tiempo real y genera históricos de alarmas, eventos, rechazos y producción. Con un bajo consumo eléctrico y neumático, es eficiente en términos de energía y recursos. Además, su diseño compacto ahorra espacio físico y garantiza la misma eficacia de detección de contaminantes que un detector de metales estándar.",
                         "aplicaciones": [
@@ -248,11 +301,12 @@
                         "nombre": "Dosificador Gravimétrico con Motorreductor y canaleta vibrante",
                         "href": "/productos/Dosificador Gravimétrico con Motorreductor y canaleta vibrante",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/Dosificador-Gravimétrico-con-Motorreductor-y-TOLVA-Vibrante.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/Dosificador-Gravimétrico-con-Motorreductor-y-Canaleta-Vibrante.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/CATÁLOGO-PERFOR-2023-(5)-18.png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/perfor dosificador con motorreductor y canaleta.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y CANALETA VIBRANTE/PERFOR BROCHURE DOSIFICADOR GRAVIMETRICO CON MOTORREDUCTOR Y TOLVA VIBRANTE UPDATE.pdf"
                         ],
                         "descripcion": "El sistema de Dosificador Gravimétrico con Motorreductor y canaleta vibrante Perfor, garantiza un control de peso en cada producto antes del empaquetado, reduciendo la cantidad de producto utilizado y manteniendo una desviación estándar controlada. Ofrece mediciones individuales por canal de dosificación con histograma y una doble comprobación de peso para ajustarlo automaticamente. Con bajo mantenimiento y mínima intervencion operacional, es altamente eficiente. Integrado con Perfor Control, proporciona información en tiempo real sobre la línea de producción y equipos, con bajo consumo de energía. Este dosificador cuenta con un playback inferior a 18 meses y esta diseñado para trabajar las 24 horas del día y los 7 días de la semana, garantizando durabilidad y eficacia.",
                         "aplicaciones": [
@@ -280,12 +334,13 @@
                         "nombre": "Dosificador Gravimétrico con Servomotor",
                         "href": "/productos/Dosificador Gravimétrico con Servomotor",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/NUEVO.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador Gravimétrico con Servomotor.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador-Gravimétrico-con-Servomotor.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/CATÁLOGO-PERFOR-2023-(5)-16.png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/Dosificador con servomotor.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR GRAVIMETRICO CON SERVOMOTOR/PERFOR BROCHURE DOSIFICADOR CON SERVOMOTOR.pdf"
                         ],
                         "descripcion": "El sistema de dosificación fabricado por Perfor asegura un control preciso del peso en cada producto antes del empaquetado, reduciendo la cantidad necesaria y manteniendo una desviacion estándar controlada. Ofrece mediciones individuales por canal con histograma y una doble comprobación del peso para ajustarlo automáticamente. Es fácil de higienizar, con bajo mantenimiento y mínima intervención operacional gracias a su algoritmo optimizado. La integración con Perfor Control proporciona datos en tiempo real sobre la línea de producción, con bajo consumo de energia. Desarrollado para trabajar continuamente, es duradero y cuenta con tazas de fácil retirada mediante acoplamiento rápido, con un playback inferior a 18 meses.",
                         "aplicaciones": [
@@ -312,9 +367,12 @@
                     {
                         "nombre": "Dosificador Gravimétrico con Servorreductor",
                         "href": "/productos/Dosificador Gravimétrico con Servorreductor",
-                        "img": [],
+                        "img": [
+                        "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/con servorreductor/NUEVO-2.png",
+                        "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/con servorreductor/NUEVO.png",
+                        "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/con servorreductor/Dosificador con servoreductor.pdf"],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/con servorreductor/Dosificador con servoreductor.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/con servorreductor/PERFOR BROCHURE DOSIFICADOR CON SERVORREDUCTOR.pdf"
                         ],
                         "descripcion": "El dosificador gravimétrico de la marca Perfor garantiza un control preciso del peso del producto antes del empaquetado, reduciendo la cantidad de producto utilizado y manteniendo una desviación estándar mínima. Ofrece mediciones individuales por canal con histograma y una doble comprobación del peso para ajustarlo automáticamente. Destaca por su estanqueidad, facilidad de higiene y bajo mantenimiento, con Perfor Control, proporciona datos en tiempo real sobre la línea de producción y equipos, con bajo consumo de energía y preparado para trabajar continuamente",
                         "aplicaciones": [
@@ -341,8 +399,12 @@
                     {
                         "nombre": "Dosificador Canaleta o Tornillo Lineal",
                         "href": "/productos/Dosificador Gravimétrico con Servorreductor",
-                        "img": [],
-                        "docs": [],
+                        "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/NUEVO.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/VISTA-SUPERIORI-NEUVO.png"
+                        ],
+                        "docs": [
+                            "refamij-web/public/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/PERFOR BROCHURE DOSIFICADOR TOLVO O TORNILLO LINEAL UPDATE.pdf"],
                         "descripcion": "El sistema de pesaje previo al envasado garantiza una dosificación precisa del producto, reduciendo la cantidad necesaria con un control preciso del peso y desviación controlada. Ofrece mediciones individuales por canal con histograma y doble comprobación de peso integrada. Con caracteristicas como fácil higienización, bajo mantenimiento y mínima intervención operativa, es fácil de programar y operar. Integrado con Perfor Control, proporciona gestión completa de la línea de producción y equipos en tiempo real. Además, su eficiencia energética y capacidad de trabajo continuo las convierten en una solución ideal para entornos exigentes.",
                         "aplicaciones": [
                             "• Arriba de Empaquetadoras / llenadores",
@@ -380,13 +442,16 @@
                         "nombre": "Ensacadora BIG BAG",
                         "href": "/productos/Ensacadora BIG BAG",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/NUEVO-CATALOGAO.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/NEW.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/CATÁLOGO-PERFOR-ESPAÑOL-29.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/ENSACADORA BIG BAG(1).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/ENSACADORA BIG BAG.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/CATÁLOGO-PERFOR-2023-(5)-27.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/bigbag.png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/Ensacadora BIG BAG .pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BIG BAG/PERFOR BROCHURE ENSACADORA BIG BAG UPDATE.pdf"
                         ],
                         "descripcion": "La ensacadora Big Bag de Perfor ofrece versatilidad en su diseño, con opciones de suspensión mediante cilindros neumáticos, elevación de plataforma o configuración estática según las necesidades del producto. Contamos con una amplia gama de Ensacadoras tipo Big Bag para adaptarse a diversas aplicaciones. Nuestro sistema garantiza una operación eficiente con autocorrección de peso, masajeo del bag y fácil integración con Perfor Control. Además, ofrecemos opciones adicionales de programación para una mayor flexibilidad. Con un bajo consumo de energía, nuestro equipo está diseñado para pesar cargas de 500kg a 1200kg con opciones personalizadas disponibles bajo pedido.",
                         "aplicaciones": [
@@ -426,12 +491,14 @@
                         "nombre": "Ensacadora Boca Abierta",
                         "href": "/productos/Ensacadora Boca Abierta",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/NUEVO.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/NUEVOOO.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/ENSACADORA BOCA ABIERTA.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/ensacadora-boca-abierta (1).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/ensacadora-boca-abierta.png-2 (1).png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/perfor ensacadora boca abierta.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA BOCA ABIERTA/PERFOR BROCHURE ENSACADORA BOCA ABIERTA UPDATE.pdf"
                         ],
                         "descripcion": "El sistema de pesaje puede realizar mediante un tornillo, cintas transportadoras y válvulas calandradas, que transportan el producto a una Cubeta Dosificacdora. El software de Control de Peso supervisa el llenado en tiempo real y activa el volcado en la bolsa. Con múltiples pantallas de control de calidad, autocorrección de peso, fácil operación e integracion de datos, ofrece eficiencia y precisión. Con capacidad de pesaje de 5kg a 60kg, se adapta a diversas necesidades industriales.",
                         "aplicaciones": [
@@ -466,12 +533,14 @@
                         "nombre": "Ensacadora de Soplo y Tornillo",
                         "href": "/productos/Ensacadora de Soplo y Tornillo",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE TOLVO Y TORNILLO/nuevo-tolvo-o-tornillo-lineal.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE TOLVO Y TORNILLO/ENSACADORA-DE-SOPLO-Y-TORNILLO-NUEVO-CATALOGO.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE SOPLO Y TORNILLO/ENSACADORA DE SOPLO Y TORNILLO.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE SOPLO Y TORNILLO/enscadora-soplo-y-tornillo (1).png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE SOPLO Y TORNILLO/enscadora-soplo-y-tornillo.png2 (1).png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE SOPLO Y TORNILLO/enscadora-soplo-y-tornillo.png2 (1).png"
+                            "refamij-web/public/productos/1. ENVASADORA E INSPECCION - Perfor/6. ENSACADORA/ENSACADORA DE TOLVO Y TORNILLO/PERFOR BROCHURE ENSACADORA SOPLO Y TORNILLO UPDATE.pdf"
                         ],
                         "descripcion": "La ensacadaora de Soplo y Tornillo de Perfor, ofrece flexibilidad en la producción con opciones de tornillo o soplo a través de una turbina de aire para llenar bolsas, con supervisión e tiempo real del software de control de peso. Perfor proporciona una variedad de Ensacadora de Soplo y Tornillo para adaptarse a diversas necesidades, junto con características como autocorrección de peso y fácil integración con sistemas de aplicación automática de bolsa. Con registros de producción y bajo consumo de energía, este equipo está diseñado para pesar de 5 a 60kg, con capacidad de ajuste segun requerimiento específicos.",
                         "aplicaciones": [
@@ -514,11 +583,16 @@
                         "nombre": "Aplicador Automático de bolsas SAEF 10",
                         "href": "/productos/Aplicador Automático de bolsas SAEF 10",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/NUEVO.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/CATÁLOGO-PERFOR-2023-(5)-29-nuevo.jpg",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/CATÁLOGO-PERFOR-2023-(5)-29-nuevo.jpg",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/SAEF-10.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/SAE10.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/Sin-título-6.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/CATÁLOGO-PERFOR-2023-(5)-28.png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/perforsaef 10.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/7. APLICADOR AUTOMATICO DE BOLSAS/SAEF 10/PERFOR BROCHURE SAEF 10 UPDATE.pdf"
                         ],
                         "descripcion": "El sistema de ensacado automático con bolsas valvuladas de Perfor agiliza el proceso al aplicar automáticamente la bolsa en la Ensacadora, completando luego el peso deseado. Posteriormente, la bolsa se dirige al sistema de cierre automático, que incluye limpieza automática y opciones de soldadura por barra caliente o ultrasonido. Este equipo modular puede ser utilizado con otros fabricantes y ofrecer una autonomía de ensacado de 20 a 30 minutos, dependiendo del tamaño de la bolsa. Destaca por su bajo cosumo de energía y un alto índice de eficacia en la aplicación de bolsas, alcanzando aproximadamente el 98,8%.",
                         "aplicaciones": [
@@ -557,10 +631,15 @@
                         "nombre": "Balanza de Flujo",
                         "href": "/productos/Balanza de Flujo",
                         "img": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/Balanza-de-Flujo.png"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/BALANZA DE FLUJO/NEW.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/BALANZA DE FLUJO/editado.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/BALANZA DE FLUJO/Balanza-de-Flujo.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/BALANZA DE FLUJO/Sin-título-8.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/BALANZA DE FLUJO/Sin-título-9.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/BALANZA DE FLUJO/Sin-título-11.png"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/perfor balanza de flujo.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/8. BALANZA DE FLUJO/BALANZA DE FLUJO/PERFOR BROCHURE BALANZA DE FLUJO UPDATE.pdf"
                         ],
                         "descripcion": "Los equipos de balanza de flujo de Perfor ofrecen opciones tanto para el pesaje en continuo o por lotes, lo que permite adaptarse a una variedad de necesidades industriales. Además de proporcionar mediciones precisas, estas herramientas integran pantallas dedicadas al control de calidad, ofreciendo datos estadísticos en tiempo real para garantizar la consistencia y precisión del proceso. Todo esto se logra con un bajo consumo de energía eléctrica y neumática, asegurando una eficiencia operativa sostenible.",
                         "aplicaciones": [
@@ -603,11 +682,12 @@
                         "nombre": "Rayos X",
                         "href": "/productos/Rayos X",
                         "img": [
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/CATÁLOGO-PERFOR-2023-(5)-32.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/Rayos-X.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/Plano de la maquina Rayos X.jpg"
                         ],
                         "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/perfor (rayos x.pdf"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/9. RAYOS X/PERFOR BROCHURE RAYOS X.pdf"
                         ],
                         "descripcion": "La inspeccion por RAYOS-X de Perfor, se basa en análisis no destructivo que, sin alterar de forma alguna la composición química y las propiedades organolépticas de los productos, permite la detección de contaminantes en el interior de los mismos y la verificación de su integridad y conformidad.",
                         "aplicaciones": [
