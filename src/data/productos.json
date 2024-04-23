@@ -975,7 +975,7 @@
                         "nombre": "MODELO 400 NSFO",
                         "href": "/productos/MODELO 400 NSFO",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400NS-5-1580x3000.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400A.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/bolsa-cocida.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/bolsa-cocida.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/ACEITE-INDUSTRIAL (1).png"
@@ -1055,7 +1055,7 @@
                         "nombre": "MODELO 400 TNS",
                         "href": "/productos/MODELO 400 TNS",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/MODELO 400 TNS.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/MODELO-400-TNS.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/CABEZAL SERIE 101.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 TNS/ACEITE-INDUSTRIAL (1).png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/bolsa-cocida.png"
@@ -1091,17 +1091,19 @@
                         "nombre": "Minisistema de costura",
                         "href": "/productos/S560NA",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-1-Recuperado.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/PRINCIPAL.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/minis.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-1.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-2.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-3.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-10.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-11.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-12.png",
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-14.png",
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/Sin-título-15.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/minis.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/ACEITE-INDUSTRIAL (1).png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/bolsa-cocida.png"
                         ],
-                        "docs": [],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MINISISTEMA DE COSTURA/FISCHBEIN BROCHURE MINISISTEMA DE COSTURA.pdf"],
                         "descripcion": "Nuestro minisistema de costura presenta una innovadora solucion integral para la industria de envasado. Con una faja transportadora y una cosedora portátil integrada, este sistema esta diseñado especificamente para sellar bolsas de manera rápida y precisa. Equipado con sensores que detectan el arranque garantizando un cierre seguro de bolsas. Además, el sistema de corte de hilo proporcina un acabado impecable. Fabricado con Acero A36 de alta calidad, ofrece durabilidad y resistencia para un rendimiento óptimo a largo plazo, con una velocidad de hasta 10 metros por minuto para una producción eficiente en la línea de envasado.",
                         "aplicaciones": [
                             "• Industria alimentaria",
@@ -1144,9 +1146,14 @@
                         "nombre": "Supersealer SS1",
                         "href": "/productos/Supersealer SS1",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE SUPERSEALER SS1.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/SELLADORA DE AIRE CALIENTE SUPERSEALER SS1.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/en todas.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/en todas (2).png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/boton-de-la-maquina.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/(en todas).png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/(en todas 2).png"
                         ],
-                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/FISCHBEIN BROCHURE SUPERSEALER SS1.pdf"],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/FISCHBEIN BROCHURE SS1.pdf"],
                         "descripcion": "La Selladora de Aire Caliente Supersealer SS1 - versión pintada, utiliza aire caliente para sellar de forma continua una amplia gama de materiales en bolsas a alta velocidad y eficiencia. El avanzado flujo de aire, los sofisticados controles y la robusta construcción pintada garantiza un rendimieno continuo en todas las aplicaciones. La Supersealer ofrece a los clientes un bajo mantenimiento y un excelente retorno de la inversión junto con los muchos años de tiempo de funcionamiento que tendrá la máquina.",
                         "aplicaciones": [
                             "• Embalaje de Alimentos",
@@ -1176,9 +1183,14 @@
                         "nombre": "Supersealer SS2",
                         "href": "/productos/Supersealer SS2",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE SUPERSEALER SS2.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS2/SELLADORA DE AIRE CALIENTE SUPERSEALER SS2.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/en todas.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/en todas (2).png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/boton-de-la-maquina.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/(en todas).png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/(en todas 2).png"
                         ],
-                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/FISCHBEIN BROCHURE SUPERSEALER SS2.pdf"],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS2/FISCHBEIN BROCHURE SS2.pdf"],
                         "descripcion": "La selladora por aire caliente Supersealer SS2 - Acero inoxidable, utiliza aire caliente para sellar de forma continua una amplia gama de materiales en bolsas a alta velocidad y con gran eficacia. El avanzado flujo de aire, los sofisticados controles y la construcción en acero inoxidable 316 garantizan un rendimiento continuo en todas las aplicaciones. La supersealer ofrece a los clientes un bajo mantenimiento y un excelente retorno de la inversión junto con los muchos años de tiempo de funcionamiento que tendrá la máquina.",
                         "aplicaciones": [
                             "• Embalaje de Alimentos",
@@ -1208,9 +1220,14 @@
                         "nombre": "Supersealer SS2 WD",
                         "href": "/productos/Supersealer SS2 WD",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALEINTE SS2-WS.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS2 WD/SELLADORA DE AIRE CALEINTE SS2-WS.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/en todas.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/en todas (2).png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/boton-de-la-maquina.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/(en todas).png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/(en todas 2).png"
                         ],
-                        "docs": [],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS2 WD/FISCHBEIN BROCHURE SS2 WD.pdf"],
                         "descripcion": "La selladora por aire caliente lavable Supersealer SS2 está disponible en la clasificación IP65 o IP69K. Una selladora de bolsas con clasificación IP65 puede lavarse únicamente con la presión de una manguera de jardín. Nuestra selladora de bolsas o sistema IP69K puede soportar las exigenias de un lavado agresivo. Nuestras selladoras de bolsas lavables son soluciones ideales para entornos de evasado en salas blancas y envasadores que requieres normas de limpieza estrictas. Nuestras selladoras de bolsas con clasificacion IP65 e IP69K cuentan con la confianza en todo el mundo de fabricantes de marisco, pollo, carne, productos agrícolasm químico, entre otrosm que requieren una limpieza frecuente de sus equipos de envasado.",
                         "aplicaciones": [
                             "• Embalaje de Alimentos",
@@ -1241,9 +1258,15 @@
                         "nombre": "Supersealer SS4",
                         "href": "/productos/Supersealer SS4",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE Supersealer SS4.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS4/SELLADORA DE AIRE CALIENTE Supersealer SS4.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/en todas.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/en todas (2).png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/boton-de-la-maquina.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/(en todas).png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS1/(en todas 2).png"
+
                         ],
-                        "docs": [],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE AIRE CALIENTE/SS4/FISCHBEIN BROCHURE SS4.pdf"],
                         "descripcion": "La selladora por aire caliente de acero inoxidable, Supersealer SS4, esta diseñado para funcionar en aplicaciones industriales duras y entornos exigentes. Gracuas a años de experiecia en el campo y a la opinión de los clientes, la selladora SS4 se suministra para proporcionar una eficacia y fiabilidad superiores en el sellado de bolsas. Su acabado en acero inoxidable 316, su construcción resistente, su motorización y su mayor capacidad colorífica permiten un rendimiento sostenible a alta velocidad para bolsas más gruesas. Con sus 8 calentadores, sellará material de hasta 40mils o 1000 micras y funcionará a una velocidad de hasta 120fpm. La selladora proporcina una fiabilidad constante a largo plazo sin preocupaciones para una amplia gama de productos de sellado resistentes.",
                         "aplicaciones": [
                             "• Embalaje de Alimentos",
@@ -1281,7 +1304,7 @@
                         "nombre": "Supersealer SB10",
                         "href": "/productos/Supersealer SB10",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE BANDAS SUPERSEALER SB10.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE BANDA/SB10/SELLADORA DE BANDAS SUPERSEALER SB10.png"
                         ],
                         "docs": [],
                         "descripcion": "La Selladora SB10 de banda pintado utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales en bolsa a gran velocidad y eficacia. Están dispoinibles en versiones pintadas o de acero inoxidable. Con su probada tecnología de sellado de banda y controles de fácil manejo, garantiza un rendimiento continuo en aplicaciones exigentes. La Supersealer viene con un pedestal motorizado y una base de acero inoxidable con ruedas bloqueables para facilitar el cambio de tamaño de bolsa, lo que se traduce en un aumento de la productividad. Con solo pulsar un botón, puede cambiar la altura de la selaldora, sin necesidad de trabajo manual. Esta línea de selladoras de bolsas ofrece sellados rápido, precisos y resistentes en cualquier materaial de bolsa. Todos los modelos ofrencen auténticas funciones 'pug and play' para un rendimiento fiable y fácil de usar en una gran variedad de aplicaciones. Estos modelos tambien están disponibles con una pantalla táctil en color opcional con interfaz.",
@@ -1313,7 +1336,7 @@
                         "nombre": "Supersealer SB20",
                         "href": "/productos/Supersealer SB20",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE BANDAS SUPERSEALER SB20.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE BANDA/SB20/SELLADORA DE BANDAS SUPERSEALER SB20.png"
                         ],
                         "docs": [],
                         "descripcion": "La Selladora SB20 de banda de acero inoxidable utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales de bolsas a alta velocidad y eficiencia. Con su tecnología de sellado de banda probada y controles fáciles de usar, garantiza un rendimiento continuo en aplicaciones exigentes. La supersealer viene con un pedestal motorizado y una base de acero inoxidable con ruedas bloqueables para facilitar el cambio de tamaño de bolsa, lo que se traduce en un aumento de productividad. La selladora y el transportador se esclavizan del accionamiento de la selladora, por lo que ambas unidades están siempre sincronizadas.",
@@ -1345,7 +1368,7 @@
                         "nombre": "Supersealer SB20WD",
                         "href": "/productos/Supersealer SB20WD",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE BANDAS SUPERSEALER SB20 WD.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE BANDA/SB20 WD/SELLADORA DE BANDAS SUPERSEALER SB20 WD.png"
                         ],
                         "docs": [],
                         "descripcion": "La Selladora SB20WD está disponible en selladoras de bolsas lavables con clasificación IP65 e IP69K. Una selladora con clasificación IP65 puede lavarse utilizando sólo la presión de una manguera de jardín. Nuestra selladora o sistema IP69K puede soportar las exigencias de un lavado agresivo. Nuestras selladoras de bolsas lavables son soluciones ideales para entornos de envasado en salas blancas y envasadores que requieren normas de limpieza estrictas. El saneamiento de las plantas es la nueva normalidad y tenemos la selladora para satisfacer las exigencias que requieren las empresas.",
@@ -1371,6 +1394,38 @@
                             "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
                         ],
                         "video": ""
+                    },
+                    {
+                        "nombre": "Supersealer SB30",
+                        "href": "/productos/Supersealer SB30",
+                        "img": [
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/6. SELLADORAS CONTINUAS/SELLADORA DE BANDA/SB30/SELLADORA DE BANDAS SUPERSEALER SB30.png"
+                        ],
+                        "docs": [],
+                        "descripcion": "La SuperSealer SB30, nuestra selladora de alta velocidad para trabajos pesados, utiliza bandas de teflón para sellar de forma continua una amplia gama de materiales en bolsas a alta velcoidad y con gran eficacia. La construcción de acero inoxidable 316 en combinación con la tencología de sellado de banda probada y los controles fáciles de usar garantizan un rendimiento continuo en aplicaciones exigentes.",
+                        "aplicaciones": [
+                            "• Industria alimentaria y otras industrias",
+                            "• Envases industriales",
+                            "• Industria Farmacéutica",
+                            "• Envase de productos varios"
+                        ],
+                        "ventajas": [
+                            "• Limpio y duradero",
+                            "• Exclusivo sistema de tensado de banda automático",
+                            "• La producción puede aumentarse o disminuirse con un giro de tornillo",
+                            "• Facil de mantener",
+                            "• Con solo pulsar un botón, para ajustar la altura, simplificando las aplicaciones de bolsas mútiples. Base con ruedas."
+                        ],
+                        "especificaciones": [
+                            "• Tamaño de la bolsa: Todos los tamaños",
+                            "• Materiales de la bolsa: Termosellable hasta 12mils",
+                            "• Velocidad: Hasta 70 pies/min o 30 pies/min, otras velocidades a pedido",
+                            "• Anchura del sello: 1/2' de ancho u 11mm. Opcional 3/4' de ancho",
+                            "• Manipulación a máquina: De derecha a izquierda o izquierda a derecha",
+                            "• Requisitos eléctricos: 110 VAC, 1PH, 60Hz, 10 Amp 220 VAC, 1PH, 50Hz, 7Amp",
+                            "• Neumática: No se requiere en la configuración estándar. Se requiere para Jet Flow Trim Remover opcional"
+                        ],
+                        "video": ""
                     }
                 ]
             },
@@ -1386,7 +1441,7 @@
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/MODELO PORTATIL HD.png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/FISCHBEIN BROCHURE MODELO PORTATIL HD.pdf"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO PORTATIL HD/FISCHBEIN BROCHURE MODELO PORTATIL HD.pdf"
                         ],
                         "descripcion": "La cosedora portatil modelo HD de Fischbein para trabajos pesador portátil de la Serie F pone a su alcance la calidad, durabilidad y la productividad que usted espera de Fischbein. Con un peso de solo 5kg (11 libras),esta cosedora portátil cierra rápidamente y de manera segura bolsas de papel multicapa, tejidas y de polipropileno. Tiene una funcionalidad de 11 metros por minuto a razón de 4 puntadas por pulgada, la serie - F se encargará de realizar las tareas de cierre en bolsas más exigentes de manera segura y eficiente.",
                         "aplicaciones": [
@@ -1418,9 +1473,10 @@
                         "nombre": "MODELO SERIE F",
                         "href": "/productos/MODELO SERIE F",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/b179e9_5d9ea095ec1f42f98adb9bc918cd1d2c~mv2.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/MODELO-SERIE-F.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/b179e9_b966d99b76d94c099b61fae65214ca06~mv2.png"
                         ],
-                        "docs": ["refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/FISCHBEIN BROCHURE MODELO SERIE F.pdf"],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/FISCHBEIN BROCHURE MODELO SERIE F.pdf"],
                         "descripcion": "La cosedora portatil modelo serie F, se caracteriza por su portabilidad y agarre vertical, lo que proporciona comodidad y control durante su uso. Con su velocidad de 35 pies (11metros) por minuto y uana capacidad de 4 puntadas por pulgadas, este equipo garantiza eficiencia y precisión en cada costura. Además, está equipado con un motor de 1/8 HP, que asegura un rendimiento confiable y duradero en diversas aplicaciones.",
                         "aplicaciones": [
                             "• Industria de transporte",
@@ -1450,9 +1506,9 @@
                         "nombre": "MODELO SERIE F CON BATERIA",
                         "href": "/productos/MODELO SERIE F",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F/b179e9_5d9ea095ec1f42f98adb9bc918cd1d2c~mv2.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/YAOHAN CON BATERIA/YAOHAN-CON-BATERIA.png"
                         ],
-                        "docs": [""],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/YAOHAN CON BATERIA/FISCHBEIN BROCHURE YAOHAN CON BATERIA.pdf"],
                         "descripcion": "La cosedora portatil modelo serie F con batería, diseñada para brindar una solución conveniente y versátil para el cierre de bolsas en cualquier lugar y en cualquier momento. Equipada con una bateria recargable de alta capacidad, esta cosedora ofrece una total libertad de movimiento, eliminando la necesidad de estar cerca de una fuente de alimentación eléctrica. Su disñeo compacto y ergonómico la hace fácil de transportar y operar, mientras que su potente motor garantiza un rendimiento confiable y eficiente.",
                         "aplicaciones": [
                             "• Industria de transporte",
@@ -1485,7 +1541,7 @@
                         "img": [
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F CON CREPE/MODELO SERIE-F CON CREPE.png"
                         ],
-                        "docs": ["refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F CON CREPE/FISCHBEIN BROCHURE MODELO SERIE F CON CREPE.pdf"],
+                        "docs": ["/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/2. COSEDORAS PORTATILES/MODELO SERIE-F CON CREPE/FISCHBEIN BROCHURE MODELO SERIE F CON CREPE.pdf"],
                         "descripcion": "La cosedora portatil Fischbein para cinta de papel crepé portátil de la Serie F pone a su alcance la calidad, durabilidad y la productividad que usted espera de Fischbein. Con un peso de solo 5kg (11 libras), esta cosedora portátil cierra rapidamente y de manera segura bolsas de multicapas, tejidas y de polipropileno tejido laminado que llevan una costura de cinta de papel crepé. Cuenta con una velocidad de 11 metros por minuto a razón de 4 puntadas por pulgada, la serie F se encargará de realizar las tareas de cierre de bolsas más exigentes.",
                         "aplicaciones": [
                             "• Industria de transporte",
@@ -1522,10 +1578,10 @@
                         "nombre": "SERIE 100",
                         "href": "/productos/SERIE 100",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 100/CABEZAL SERIE 100.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 100/CABEZAL-SERIE-100.png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 100/FISCHBEIN BROCHURE MODELO SERIE 100.pdf"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 100/FISCHBEIN BROCHURE MODELO SERIE 100.pdf"
                         ],
                         "descripcion": "El cabezal de cosura sencilla de la Serie Empress 100 de Fischbein es reconocido por su durabilidad y la idoneidad de mano de obra con que se fabrica. Armado con coponentes de metales pesados, ese versátil y compacto cabezal de costura está diseñado para cerrar de manera segura bolsas llenas de boca abierta, de papel multicapa, tejidas y de polipropileno tejido laminado en los entornos de trabajo mas exigentes. Las piezas giratorias de alta precision de este cabezal de cosutra permiten ajustar la velocidad operativa de 11 a 17m por minuto, con muy bajo nivel de vibración.Los cabezales Fischbein se presentan con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, sistemas de alimentación, eléctrica, codificadores de boslas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
@@ -1556,10 +1612,10 @@
                         "nombre": "SERIE 101",
                         "href": "/productos/SERIE 101",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 101/CABEZAL SERIE 101 (2).png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 101/CAEBZAL-101.png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 101/FISCHBEIN BROCHURE MODELO SERIE 101.pdf"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 101/FISCHBEIN BROCHURE MODELO SERIE 101.pdf"
                         ],
                         "descripcion": "El cabezal de costura Serie 101 con cinta estándar de la Serie Empress de Fischbein es reconocido por su durabilidad y la idoneidad de la mano de obra con que se fabrica. Las piezas giratorias de alta precisión de este cabezal de costura permiten ajustar la velocidad operativa de 11 a 17m por minuto. Nuestro modelo estándar para cinta confecciona una costura de cadeneta de dos hilos, ajustable de 2 a 3,25 puntadas por pulgada. Fischbein pueden adquirirse con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, dobladoras de boca de bolsas, detector de rotura de hilos cintas, codificadores de bolsas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
@@ -1590,10 +1646,10 @@
                         "nombre": "SERIE 200",
                         "href": "/productos/SERIE 200",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 200/CABEZAL SERIE 200.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 200/CAEBZAL-200.png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 200/FISCHBEIN BROCHURE MODELO SERIE 200.pdf"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 200/FISCHBEIN BROCHURE MODELO SERIE 200.pdf"
                         ],
                         "descripcion": "El cabezal de costura sencilla de la Serie Empress de Fischbein Modelo 200 es reconocido por su durabilidad y la idoneidad de la mano de obra con que se fabrica. Las piezas giratorias de alta precisión de este cabezal de costura permiten ajustar la velocidad operativa 17 a 23m por minuto, con muy bajo nivel de vibración. Los modelos de costura sencialla estándar confeccionan una costura de cadeneta de dos hilos, ajustable de 2 a 3,5 puntadas por pulgadas, configurado de fábrica en 2,5 puntadas.Fischbein pueden adquirirse con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, dobladoras de boca de bolsas, detector de rotura de hilos cintas, codificadores de bolsas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
@@ -1625,10 +1681,10 @@
                         "nombre": "SERIE 201",
                         "href": "/productos/SERIE 201",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/Fischbein-Sew_Head_Model_201-a.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/CABEZAL-201.png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/FISCHBEIN BROCHURE MODELO SERIE 201.pdf"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/3. CABEZALES/CABEZAL SERIE 201/FISCHBEIN BROCHURE MODELO SERIE 201.pdf"
                         ],
                         "descripcion": "El cabezal de costura sencilla de la Serie Empress de Fischbein Modelo 201 es reconocido por su durabilidad y la idoneidad de la mano de obra con que se fabrica. Las piezas giratorias de alta precisión de este cabezal de costura permiten ajustar la velocidad operativa 17 a 23m por minuto, con muy bajo nivel de vibración. Los modelos de costura sencialla estándar confeccionan una costura de cadeneta de dos hilos, ajustable de 2 a 3,5 puntadas por pulgadas, configurado de fábrica en 2,5 puntadas.Fischbein pueden adquirirse con una variedad de accesorios, entre los cuales podemos citar pedestales para montaje, dobladoras de boca de bolsas, detector de rotura de hilos cintas, codificadores de bolsas y controles fotoeléctricos para la integración al sistema.",
                         "aplicaciones": [
@@ -1667,7 +1723,7 @@
                         "nombre": "Hilos industriales",
                         "href": "",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/HILOS-INDUSTRIALES (1).png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/SUMINISTROS/HILOS-INDUSTRIALES (1).png"
                         ],
                         "docs": [],
                         "descripcion": "Nuestros hilos industriales de la marca Fischbein son conocidos por su resistencia y confiabilidad. Ofrecemos costuras fuertes y duraderas que garantizan la calidad en cada producto que confecciona.",
@@ -1688,7 +1744,7 @@
                         "nombre": "Agujas industriales",
                         "href": "",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/agujas-industriales (1).png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/SUMINISTROS/agujas-industriales (1).png"
                         ],
                         "docs": [],
                         "descripcion": "Las agujas industriales de Fischbein son precisas y robustas, ideales para la costura en entornos de alta exigencia. Fabricadas con materiales de alta calidad, garantizan una costura eficiente y sin problemas en una amplia variedad de tejidos y aplicaciones.",
@@ -1709,7 +1765,7 @@
                         "nombre": "Aceite industrial",
                         "href": "",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/ACEITE-INDUSTRIAL.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/SUMINISTROS/ACEITE-INDUSTRIAL.png"
                         ],
                         "docs": [],
                         "descripcion": "Nuestro aceite industrial Fischbein está especialmente formulado para lubricar y proteger los mecanismos de su maquina. Con una fórmula de alto rendimiento con el que asegura un funcionamiento suave y prolonga la vida útil de sus equipos, manteniendo la productividad de su línea de producción",
@@ -1730,8 +1786,8 @@
                         "nombre": "Accesorios",
                         "href": "",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/COLGADOR PARA COSEDORA.png",
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/COLGAOR PARA COSEDORA.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/SUMINISTROS/COLGADOR PARA COSEDORA.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/SUMINISTROS/COLGAOR PARA COSEDORA.png"
                         ],
                         "docs": [],
                         "descripcion": "Nuestros accesorios, como los colgadores para cosedoras portátiles, están diseñado para mejorar la eficiencia y la comodidad en su lugar de trabajo. Los colgadores Fischbein proporcionan una solución práctica para mantener su equipo organizado y al alcance durante las operaciones de costura, optimizando así el flujo de trabajo y la productividad.",
@@ -1757,8 +1813,8 @@
                         "nombre": "Cabezal de costura",
                         "href": "",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/REPUESTO DE CABEZAL DE COSTURA.png",
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/REPUESTO PARA CABEZAL DE COSTURA.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/REPUESTOS/REPUESTO PARA CABEZAL DE COSTURA.png",
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/REPUESTOS/REPUESTO DE CABEZAL DE COSTURA.png"
                         ],
                         "docs": [],
                         "descripcion": "Contamos con los repuesto para los cabezales de costura Fischbein. Nuestro inventario incluye agujas, placas de aguja, presantelas, cuchillas de corte, correas de transmision, engranaje y poleas, sensores y componentes electricos tambien con manuales de servicio.",
@@ -1782,7 +1838,7 @@
                         "nombre": "Cosedora portátil",
                         "href": "",
                         "img": [
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/REPUESTO PARA COSEDORA PORTATIL.png"
+                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/4. SUMINISTROS/REPUESTOS/REPUESTO PARA COSEDORA PORTATIL.png"
                         ],
                         "docs": [],
                         "descripcion": "Contamos con repuesto específicos para la cosedora portátil. Sabemos lo importante que es mantener tu equipo en óptimas condiciones de funcionamiento para garantizar una producción sin interrupciones y de alta calidad. Nuestros inventario incluye agujas, prensatelas, cuchilla de core, correas de transmisión y mucho más. Todos nuestros repuestos son genuinos de Fischbein, lo que garantiza la compatibilidad y la calidad que necesitas para mantener tu equipo funcionando de manera eficiente.",
