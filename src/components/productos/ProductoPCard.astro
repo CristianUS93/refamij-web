@@ -9,7 +9,7 @@ const { img, title, route } = Astro.props;
 
 ---
 <div class="product-card">
-    <img src={img} alt="producto" />
+    <img src={img} alt={title} title={title} />
     <h3>{title}</h3>
     <div class="button">
         <a href={route}>Ver Producto<a/>

@@ -28,7 +28,7 @@ for (const key in marcaSelect['productos']) {
 <section class="main">
     <div class="nav-products">
         {data.map((element) => (
-            <a href={element['href']} class="division-button">
+            element['productos'].length > 1 && <a href={element['href']} class="division-button">
                 <div class={`division-card ${division === element['division'] && "div-select"}` }>
                     {element['division']}
                 </div>
