@@ -46,7 +46,8 @@
                             {
                                 "nombre": "Serie SSF 812",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 812/SERIE SSF 812.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSF 812/SERIE SSF 812.png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSF 812/SERIE SSF 812.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "La Serie 815 Emborrachada de Cobra es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pliegue y superficie emborrachada. Diseñada para soportar cargas de trabajo superiores y ofrecer máxima adherencia, es una solución ideal para ambientes industriales que requieren precisión y seguridad en el transporte de productos. La combinación del doble pliegue con la superficie emborrachada garantiza una alta capacidad de carga y una adherencia superior, haciéndola perfecta para aplicaciones industriales desafiantes.",
@@ -989,8 +990,13 @@
                         "modelos": [
                             {
                                 "nombre": "SERIE 080 SF",
-                                "img": ["/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/Sin-título-32.png",
-                            "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/Sin-título-33.png"],
+                                "img": [
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/Sin-título-32.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/Sin-título-33.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/3bd23f4da2fb8966f6b79c050bcb01f9.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/04d7b10dbc3ccb077d96e94715026717.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/254929dbf620be03392d9e44f27c84f4.jpg"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": [],
@@ -1001,7 +1007,12 @@
                             },
                             {
                                 "nombre": "SERIE 127 SF",
-                                "img": [],
+                                "img": [
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/2. SERIE 127 SF/Sin-título-29.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/2. SERIE 127 SF/Sin-título-30.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/2. SERIE 127 SF/Sin-título-31.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/2. SERIE 127 SF/6397d33e2b81b3182d58014b9e57b737.png"
+                            ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": [],
