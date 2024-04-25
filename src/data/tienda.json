@@ -982,7 +982,7 @@
             },
             {
                 "nombre": "Bandas Modulares",
-                "href": "/tienda/1. Cobra/3. bandas_modulares",
+                "href": "/tienda/Cobra-Bandas Modulares-Bandas Modulares Rectas",
                 "tipos": [
                     {
                         "nombre": "Bandas Modulares Rectas",
@@ -1326,7 +1326,16 @@
                         "modelos": [
                             {
                                 "nombre": "SERIE 300 SF Zero Tangente",
-                                "img": [],
+                                "img": [
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/esteira-modular-s300_superior.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/esteira-modular-s300_inferior.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/Sin-título-49.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/f7b1dc9c00cd7202d83be50b8e328520.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/_engrenamento_s300.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/33e3dfdbf6175b4d07210dea2981f835.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/6763073644833ad6544848d6c4c16624.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/a05c7ecf2d3ada8bbd9a0666edf5c09b.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": [],
