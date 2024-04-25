@@ -15,8 +15,8 @@
                             {
                                 "nombre": "Serie SSA 815",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.png",
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.jpg"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "La Cadena Transportadora Serie SSA 815 de Cobra es una solución líder en el segmento de cadenas table top. Fabricada en acero austenítico, esta cadena está especialmente diseñada para ambientes extremadamente corrosivos y alimenticios, garantizando resistencia y durabilidad excepcionales.",
@@ -981,15 +981,16 @@
             },
             {
                 "nombre": "Bandas Modulares",
-                "href": "/tienda/Cobra-Bandas Modulares-Bandas Modulares Rectas",
+                "href": "/tienda/1. Cobra/3. bandas_modulares",
                 "tipos": [
                     {
                         "nombre": "Bandas Modulares Rectas",
-                        "href": "/tienda/Cobra-Bandas Modulares-Bandas Modulares Rectas",
+                        "href": "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA",
                         "modelos": [
                             {
                                 "nombre": "SERIE 080 SF",
-                                "img": [],
+                                "img": ["/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/Sin-título-32.png",
+                            "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/Sin-título-33.png"],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": [],
@@ -1941,7 +1942,114 @@
                         "img": "",
                         "modelos": [
                             {
-                                "nombre": "Abrazadera de Eje",
+                                "nombre": "Curva Completa Aluminio TAB",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/Sin-título-5.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/Sin-título-7.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/Sin-título-6.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/ENGRANAJE 815  881 M BIPARTIDA (1).png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/ENGRANAJE 815  881 M BIPARTIDA (2).png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/ENGRANAJE 815  881 M BIPARTIDA.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "Canalizaciones superiores e inferiores mecanizadas en UHMW; Estructuras laterales en aluminio anodizado; Tornillos de acero inoxidable; Inserto de latón. Pistas superiores e inferiores mecanizadas en UHMW; Estructuras laterales en aluminio anodizado; Tornillos de acero inoxidable; Inserto de latón.",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Perfil central 3.0",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/2. PERFIL CENTRAL 3.0/Sin-título-8.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/2. PERFIL CENTRAL 3.0/14b3585b68f1b7bb72217c618584898b.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/2. PERFIL CENTRAL 3.0/15b450d949aec165f6fdfd4ecd17a76d.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Perfil Lateral 3.0",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/3. PERFIL LATERAL 3.0/Sin-título-9.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/3. PERFIL LATERAL 3.0/7591d68e0fa4645cfc17f0128caddc5b.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/3. PERFIL LATERAL 3.0/8ad6d4b7e6b750045ce23d7f57aec28a.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Tubo Cuadrado",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/4. TUBO CUADRADO/Sin-título-10.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/4. TUBO CUADRADO/139cf5b881273aa70a72c64edcb9dc73.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/4. TUBO CUADRADO/0c3ae8453502025454e0f4f91d2d9e49.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Cabecera Accionamiento Motor Lateral 3.0",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/5. CABECERA ACCIONAMIENTO MOTOR LATERAL 3.0/Sin-título-2.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/5. CABECERA ACCIONAMIENTO MOTOR LATERAL 3.0/Sin-título-4.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/5. CABECERA ACCIONAMIENTO MOTOR LATERAL 3.0/Sin-título-5.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/5. CABECERA ACCIONAMIENTO MOTOR LATERAL 3.0/25381752c81588746db55993b1c2562f.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Cabecera Retorno 3.0",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/6. CABECERA RETORNO 3.0/Sin-título-1.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/6. CABECERA RETORNO 3.0/Sin-título-6.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/6. CABECERA RETORNO 3.0/Sin-título-7.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/6. CABECERA RETORNO 3.0/ENGRANAJE 815  881 M BIPARTIDA.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/6. CABECERA RETORNO 3.0/ENGRANAJE 815  881 M BIPARTIDA (1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Curva Disco 3.0 45°",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones":[],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Curva Disco 3.0 180°",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -1952,7 +2060,7 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "Abrazadera de Fijaciòn",
+                                "nombre": "Soporte Para El Perfil",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -1963,7 +2071,7 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "Bujes de Expansiòn",
+                                "nombre": "Conexion Guia Central",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -1974,7 +2082,7 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "Punteras de Retorno",
+                                "nombre": "Tuerca Para El Perfil",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -1985,7 +2093,7 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "Rodillo de Retorno",
+                                "nombre": "Enmienda 3.0",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -1996,7 +2104,18 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "Soporte Radamiento",
+                                "nombre": "Cantonera 90°",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Cantonera",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -2026,7 +2145,7 @@
                             },
                             {
                                 "nombre": "Manivela y Ojales",
-                                "img": [],
+                                "img": [ "/tienda/1. Cobra/4. componentes/3. SOPORTE LATERALES/1. SOPORTE ARTICULADO/ENGRANAJE 815  881 M BIPARTIDA.png"],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": [],
