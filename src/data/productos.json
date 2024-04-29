@@ -3486,7 +3486,7 @@
         "division": "Puertas y Equipamiento Logístico",
         "encargado": "Paul Salcedo",
         "phone": "51922238094",
-        "href": "/productos/Puertas y Equipamiento Logístico-Puertas Rápidas de PVC",
+        "href": "/productos/Puertas y Equipamiento Logístico-Puertas Rápidas de PVC", 
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
@@ -3737,16 +3737,16 @@
         "division": "Servicio Técnico Post Venta",
         "encargado": "Luz Lizeth Lozano Bazán",
         "phone": "51977442522",
-        "href": "/productos/8. SERVICIO TECNICO",
+        "href": "/productos/Servicio Técnico Post Venta-Mantenimiento Preventivo y Correctivo",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
                 "nombre": "Mantenimiento Preventivo y Correctivo",
-                "href": "",
+                "href": " /productos/Mantenimiento Preventivo y Correctivo",
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Mantenimiento Preventivo y Correctivo Puertas Rápidas Enrollables y Plegable",
+                        "nombre": "Puertas Rápidas Enrollables y Plegable",
                         "href": "",
                         "img": [],
                         "docs": [],
@@ -3757,7 +3757,7 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Mantenimiento Preventivo y Correctivo Puertas Seccionales",
+                        "nombre": "Puertas Seccionales",
                         "href": "",
                         "img": [],
                         "docs": [],
@@ -3768,7 +3768,7 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Mantenimiento Preventivo y Correctivo Puertas Cortafuego Peatonales y Enrollable Metalica",
+                        "nombre": "Puertas Cortafuego Peatonales y Enrollable Metalica",
                         "href": "",
                         "img": [],
                         "docs": [],
@@ -3779,7 +3779,7 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Mantenimiento Preventivo y Correctivo Rampas Hidraulicas y Neumáticas",
+                        "nombre": "Rampas Hidraulicas y Neumáticas",
                         "href": "",
                         "img": [],
                         "docs": [],
@@ -3790,7 +3790,7 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Mantenimiento Preventivo y Correctivo Rampas Movil",
+                        "nombre": "Rampas Movil",
                         "href": "",
                         "img": [],
                         "docs": [],
@@ -3801,7 +3801,7 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Mantenimiento Preventivo y Correctivo Abrigos de Muelle",
+                        "nombre": "Abrigos de Muelle",
                         "href": "",
                         "img": [],
                         "docs": [],
@@ -3812,7 +3812,7 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Mantenimiento Preventivo y Correctivo Fajas Transportadoras",
+                        "nombre": "Fajas Transportadoras",
                         "href": "",
                         "img": [],
                         "docs": [],
@@ -3826,11 +3826,11 @@
             },
             {
                 "nombre": "Desmontaje e Instalación",
-                "href": "",
+                "href": "/productos/Desmontaje e Instalación",
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Desmontaje e Instalación Puertas Seccionales" ,
+                        "nombre": "Puertas Seccionales" ,
                         "href": "",
                         "img": [],
                         "docs": [],
