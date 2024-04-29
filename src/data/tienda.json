@@ -15,8 +15,8 @@
                             {
                                 "nombre": "Serie SSA 815",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.png",
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.jpg"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "La Cadena Transportadora Serie SSA 815 de Cobra es una solución líder en el segmento de cadenas table top. Fabricada en acero austenítico, esta cadena está especialmente diseñada para ambientes extremadamente corrosivos y alimenticios, garantizando resistencia y durabilidad excepcionales.",
@@ -46,7 +46,8 @@
                             {
                                 "nombre": "Serie SSF 812",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 812/SERIE SSF 812.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSF 812/SERIE SSF 812.png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSF 812/SERIE SSF 812.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "La Serie 815 Emborrachada de Cobra es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pliegue y superficie emborrachada. Diseñada para soportar cargas de trabajo superiores y ofrecer máxima adherencia, es una solución ideal para ambientes industriales que requieren precisión y seguridad en el transporte de productos. La combinación del doble pliegue con la superficie emborrachada garantiza una alta capacidad de carga y una adherencia superior, haciéndola perfecta para aplicaciones industriales desafiantes.",
@@ -985,11 +986,17 @@
                 "tipos": [
                     {
                         "nombre": "Bandas Modulares Rectas",
-                        "href": "/tienda/Cobra-Bandas Modulares-Bandas Modulares Rectas",
+                        "href": "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA",
                         "modelos": [
                             {
                                 "nombre": "SERIE 080 SF",
-                                "img": [],
+                                "img": [
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/Sin-título-32.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/Sin-título-33.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/3bd23f4da2fb8966f6b79c050bcb01f9.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/04d7b10dbc3ccb077d96e94715026717.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/1. SERIE 080 SF/254929dbf620be03392d9e44f27c84f4.jpg"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": [],
@@ -1000,7 +1007,12 @@
                             },
                             {
                                 "nombre": "SERIE 127 SF",
-                                "img": [],
+                                "img": [
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/2. SERIE 127 SF/Sin-título-29.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/2. SERIE 127 SF/Sin-título-30.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/2. SERIE 127 SF/Sin-título-31.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA/2. SERIE 127 SF/6397d33e2b81b3182d58014b9e57b737.png"
+                            ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": [],
@@ -1314,7 +1326,16 @@
                         "modelos": [
                             {
                                 "nombre": "SERIE 300 SF Zero Tangente",
-                                "img": [],
+                                "img": [
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/esteira-modular-s300_superior.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/esteira-modular-s300_inferior.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/Sin-título-49.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/f7b1dc9c00cd7202d83be50b8e328520.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/_engrenamento_s300.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/33e3dfdbf6175b4d07210dea2981f835.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/6763073644833ad6544848d6c4c16624.png",
+                                    "/tienda/1. Cobra/3. bandas_modulares/2. BANDA MODULAR CURVA/1. SERIE 300 SF TANGENTE CERO/a05c7ecf2d3ada8bbd9a0666edf5c09b.png"
+                                ],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": [],
@@ -1912,6 +1933,12 @@
                         "modelos": []
                     },
                     {
+                        "nombre": "Perfiles guia lateral",
+                        "href": "/tienda/Cobra-Componentes-Perfiles guia lateral",
+                        "img": "",
+                        "modelos": []
+                    },
+                    {
                         "nombre": "Chapas Laterales y Tubos",
                         "href": "/tienda/Cobra-Componentes-Chapas Laterales y Tubos",
                         "img": "",
@@ -1935,7 +1962,114 @@
                         "img": "",
                         "modelos": [
                             {
-                                "nombre": "Abrazadera de Eje",
+                                "nombre": "Curva Completa Aluminio TAB",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/Sin-título-5.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/Sin-título-7.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/Sin-título-6.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/ENGRANAJE 815  881 M BIPARTIDA (1).png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/ENGRANAJE 815  881 M BIPARTIDA (2).png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/1. CURVA COMPLETA ALUMINIO TAB/ENGRANAJE 815  881 M BIPARTIDA.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "Canalizaciones superiores e inferiores mecanizadas en UHMW; Estructuras laterales en aluminio anodizado; Tornillos de acero inoxidable; Inserto de latón. Pistas superiores e inferiores mecanizadas en UHMW; Estructuras laterales en aluminio anodizado; Tornillos de acero inoxidable; Inserto de latón.",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Perfil central 3.0",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/2. PERFIL CENTRAL 3.0/Sin-título-8.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/2. PERFIL CENTRAL 3.0/14b3585b68f1b7bb72217c618584898b.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/2. PERFIL CENTRAL 3.0/15b450d949aec165f6fdfd4ecd17a76d.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Perfil Lateral 3.0",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/3. PERFIL LATERAL 3.0/Sin-título-9.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/3. PERFIL LATERAL 3.0/7591d68e0fa4645cfc17f0128caddc5b.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/3. PERFIL LATERAL 3.0/8ad6d4b7e6b750045ce23d7f57aec28a.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Tubo Cuadrado",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/4. TUBO CUADRADO/Sin-título-10.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/4. TUBO CUADRADO/139cf5b881273aa70a72c64edcb9dc73.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/4. TUBO CUADRADO/0c3ae8453502025454e0f4f91d2d9e49.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Cabecera Accionamiento Motor Lateral 3.0",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/5. CABECERA ACCIONAMIENTO MOTOR LATERAL 3.0/Sin-título-2.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/5. CABECERA ACCIONAMIENTO MOTOR LATERAL 3.0/Sin-título-4.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/5. CABECERA ACCIONAMIENTO MOTOR LATERAL 3.0/Sin-título-5.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/5. CABECERA ACCIONAMIENTO MOTOR LATERAL 3.0/25381752c81588746db55993b1c2562f.png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Cabecera Retorno 3.0",
+                                "img": [
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/6. CABECERA RETORNO 3.0/Sin-título-1.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/6. CABECERA RETORNO 3.0/Sin-título-6.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/6. CABECERA RETORNO 3.0/Sin-título-7.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/6. CABECERA RETORNO 3.0/ENGRANAJE 815  881 M BIPARTIDA.png",
+                                    "/tienda/1. Cobra/4. componentes/19. ESTRUCTURA/6. CABECERA RETORNO 3.0/ENGRANAJE 815  881 M BIPARTIDA (1).png"
+                                ],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Curva Disco 3.0 45°",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones":[],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Curva Disco 3.0 180°",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -1946,7 +2080,7 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "Abrazadera de Fijaciòn",
+                                "nombre": "Soporte Para El Perfil",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -1957,7 +2091,7 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "Bujes de Expansiòn",
+                                "nombre": "Conexion Guia Central",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -1968,7 +2102,7 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "Punteras de Retorno",
+                                "nombre": "Tuerca Para El Perfil",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -1979,7 +2113,7 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "Rodillo de Retorno",
+                                "nombre": "Enmienda 3.0",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -1990,7 +2124,18 @@
                                 "especificaciones": []
                             },
                             {
-                                "nombre": "Soporte Radamiento",
+                                "nombre": "Cantonera 90°",
+                                "img": [],
+                                "docs": [],
+                                "descripcion": "",
+                                "aplicaciones": [],
+                                "caracteristicas": [],
+                                "video": "",
+                                "ventajas": [],
+                                "especificaciones": []
+                            },
+                            {
+                                "nombre": "Cantonera",
                                 "img": [],
                                 "docs": [],
                                 "descripcion": "",
@@ -2020,7 +2165,7 @@
                             },
                             {
                                 "nombre": "Manivela y Ojales",
-                                "img": [],
+                                "img": [ "/tienda/1. Cobra/4. componentes/3. SOPORTE LATERALES/1. SOPORTE ARTICULADO/ENGRANAJE 815  881 M BIPARTIDA.png"],
                                 "docs": [],
                                 "descripcion": "",
                                 "aplicaciones": [],
@@ -2086,7 +2231,8 @@
                             {
                                 "nombre": "Perfil CLIP",
                                 "img": [
-                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL CLIP/928aaa3d4bc46defa6c32e3b6120186f.png"
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/26. PERFIL CLIP/Sin-título-6.png",
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/26. PERFIL CLIP/Sin-título-7.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2099,7 +2245,8 @@
                             {
                                 "nombre": "Perfil RECTO",
                                 "img": [
-                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL RECTO/a0615afc40a483382782b200c7075131.png"
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/25. RECTO/a0615afc40a483382782b200c7075131.png",
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/25. RECTO/cf0a524149446b35f91c78ad8102feab.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2112,7 +2259,8 @@
                             {
                                 "nombre": "Perfil T DUPLO",
                                 "img": [
-                                    "/tienda/cobra/perfiles/PERFIL PEAD/PERFIL T DUPLO/a04d10313ce75db87907129156d6295d.png"
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/24. T DUPLO/a04d10313ce75db87907129156d6295d.png",
+                                    "/tienda/1. Cobra/5. perfiles/1. PERFIL PEAD/24. T DUPLO/e1bd6e4b29808aca18246b6a3838e83b.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
