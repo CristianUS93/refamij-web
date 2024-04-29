@@ -3498,12 +3498,12 @@
                         "nombre": "Puertas Enrollables",
                         "href": "/productos/Puertas Enrollables",
                         "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-(2) PONER DE PORTADA.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-ENROLLABLE-(3).jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-ENROLLABLE-LONA-BLANCO.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-ENROLLABLE.jpg"
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-(2)-PONER-DE-PORTADA.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/2.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/3.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/4.jpg"
                         ],
-                        "docs": [],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/BROCHURE PUERTA RAPIDA ENROLLABLE PVC.pdf"],
                         "descripcion": "Una puerta rápida enrollable de PVC es una solución eficiente para accesos rápidos en entornos industriales y comerciales. Está hecha de paneles de PVC reforzado que se enrollan verticalmente para abrirse y cerrarse rápidamente. Son duraderas, resistentes a condiciones adversas y ocupan poco espacio. Ideal para almacenes fábricas y garajes.",
                         "aplicaciones": [
                             "• Almacenes y centros de distribución",
@@ -3546,7 +3546,7 @@
                             "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE-PVC-(1).jpg",
                             "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/VA-ULTIMO-ROJO.jpg"
                         ],
-                        "docs": [],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/BROCHURE PUERTA PLEGABLE DE PVC.pdf"],
                         "descripcion": "Una puerta industrial plegable de PVC es una solucion versátil y eficiente para accesos rápido entornos industriales y comerciales. Compuesta por paneles de PVC reforzado que se pliegan horizontalmente al abrirse, ofrece un amplio espacio de entrada y salida. Su diseño compacto maximiza el uso del espacio disponible. Son duraderas, resistentes a condiciones adversas y fáciles de mantener. Se utilizan comúnmente en almacenes, centros de distribución y áreas de carga y descarga.",
                         "aplicaciones": [
                             "• Almacenes y centros de distribución",
@@ -3593,7 +3593,7 @@
                             "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
                             "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
                         ],
-                        "docs": [],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
                         "descripcion": "Una puerta seccional industrial es una solución robusta y eficiente para el acceso a grandes espacios comerciales e industriales. Está compuesta por paneles horizontales articulados que se desplazan verticalmente hacia arriba y luego a lo largo del techo al abrirse. Fabricadas con materiales duraderos como acero galvanizado o aluminio, estas puertas ofrecen resistencia a condiciones adversas y puedes incluir aislamiento término y acústico.",
                         "aplicaciones": [
                             "• Almacenes y centros de distribución",
@@ -3677,7 +3677,7 @@
                             "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/Mesa hidraulica (3).png",
                             "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/mesa hidraulica (4).png"
                         ],
-                        "docs": [],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/BROCHURE MESA HIDRAULICA.pdf"],
                         "descripcion": "La mesa hidráulica de doble tijera es un dispositivo utilizado para elevar cargas pesadas de manera controlada y segura. Consiste en una plataforma de trabajo apoyada sobre dos juegos de tijeras hidráulicas que se extienden verticalmente. Estas tijeras están conectadas a uns sistema hidráulico que permite elevar o descender la plataforma de manera uniforme y controlada",
                         "aplicaciones": [
                             "• Industria manufacturera",
@@ -3709,7 +3709,7 @@
                         "img": [
                             "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/SELLO-DE-ANDEN.png"
                         ],
-                        "docs": [],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/SELLO DE ANDEN/BROCHURE SELLO DE ANDEN.pdf"],
                         "descripcion": "Los sellos de andén proveen un ambiente hermético entre la caja del camión y el almacén, logrando un ambiente aislado del exterior durante las maniobras de carga y descarga, evitan el robo de mercancía, el paso de aves, insectos, polvos, etc.",
                         "aplicaciones": [],
                         "ventajas": [],
@@ -3739,6 +3739,120 @@
         "phone": "51977442522",
         "href": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
-        "productos": []
+        "productos": [
+            {
+                "nombre": "Mantenimiento Preventivo y Correctivo",
+                "href": "",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Mantenimiento Preventivo y Correctivo Puertas Rápidas Enrollables y Plegable",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Mantenimiento Preventivo y Correctivo Puertas Seccionales",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Mantenimiento Preventivo y Correctivo Puertas Cortafuego Peatonales y Enrollable Metalica",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Mantenimiento Preventivo y Correctivo Rampas Hidraulicas y Neumáticas",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Mantenimiento Preventivo y Correctivo Rampas Movil",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Mantenimiento Preventivo y Correctivo Abrigos de Muelle",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Mantenimiento Preventivo y Correctivo Fajas Transportadoras",
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            },
+            {
+                "nombre": "Desmontaje e Instalación",
+                "href": "",
+                "img": "",
+                "tipos": [
+                    {
+                        "nombre": "Desmontaje e Instalación Puertas Seccionales" ,
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [ ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Rampas Hidraulica y Neumáticas" ,
+                        "href": "",
+                        "img": [],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [],
+                        "ventajas": [ ],
+                        "especificaciones": [],
+                        "video": ""
+                    }
+                ]
+            }
+        ]
     }
 ]
