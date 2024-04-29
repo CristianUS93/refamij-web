@@ -976,7 +976,6 @@
                         "href": "/productos/MODELO 400 NSFO",
                         "img": [
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/400A.png",
-                            "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/bolsa-cocida.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 PRO/bolsa-cocida.png",
                             "/productos/3. CERRADO Y SELLADO DE SACOS Y BOLSAS - Fischbein/1. SISTEMA DE COSTURA/MODELO 400 NSFO/ACEITE-INDUSTRIAL (1).png"
                         ],
@@ -3638,8 +3637,8 @@
                         "href": "/productos/Rampa hidráulica",
                         "img": [
                             "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-HIDRAULICA-(2) PONER DE PORTADA.png",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-(1).jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-(3).png"
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-(3).png",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-(1).jpg"
                         ],
                         "docs": [],
                         "descripcion": "La rampa hidráulica consta de una plataforma de carga montada sobre un sistema hidráulico que puede ser operado automáticamente. Este sistema utiliza cilindros hidráulicos para elevar o descender la plataforma, lo que permite carga y descarga mercancías de manera eficiente",
@@ -3707,7 +3706,8 @@
                         "nombre": "Sello de Anden",
                         "href": "/productos/Sello de Anden",
                         "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/SELLO-DE-ANDEN.png"
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/SELLO DE ANDEN/SELLO-DE-ANDEN.png",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/SELLO DE ANDEN/SELLO-DE-ANDEN-AAA.png"
                         ],
                         "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/SELLO DE ANDEN/BROCHURE SELLO DE ANDEN.pdf"],
                         "descripcion": "Los sellos de andén proveen un ambiente hermético entre la caja del camión y el almacén, logrando un ambiente aislado del exterior durante las maniobras de carga y descarga, evitan el robo de mercancía, el paso de aves, insectos, polvos, etc.",
@@ -3720,7 +3720,7 @@
                         "nombre": "Abrigo Hinchable",
                         "href": "/productos/Abrigo Hinchable",
                         "img": [
-                            "refamij-web/public/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/ABRIGO HINCHABLE/ABRIGO-HINCHABLE.jpg"
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/ABRIGO HINCHABLE/ABRIGO-HINCHABLE.jpg"
                         ],
                         "docs": [],
                         "descripcion": "El abrigo hinchable esta diseñado par adaptarse a las aberturas de la puerta hasta 10' de ancho x 10' altura (3048 x 3048mm), en abrigo de anden ajustable e inflable tiene bolsas de aire verticales que incrementan el área de contacto contra el remolque y se ajustan para mantener seguro el producto. Un resorte interno de la retracción permite a la bolsa de airea de la cabecera retraerse por completo cuando esta siendo usada, lo cual impide daños por choque de remolques entrantes.",
