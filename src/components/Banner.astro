@@ -15,7 +15,8 @@ const isContacto = 'is-contacto';
     <div>
         <img
             src={img}
-            alt="Image demo"
+            title={title}
+            alt={title}
         />
         <h1>{title}</h1>
     </div>
@@ -49,6 +50,7 @@ const isContacto = 'is-contacto';
         transform: translateX(-50%) translateY(-50%);
         font-size: 50px;
         color: white;
+        text-align: center;
     }
 
     @media screen and (max-width: 1050px) and (max-height: 1400px) {

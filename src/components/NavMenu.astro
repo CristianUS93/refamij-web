@@ -14,11 +14,11 @@ const select = "select";
 const lineColor = currentPath === '/contacto' ? 'white': 'var(--blue-refamij)';
 
 const pages = [
-    { title: "Inicio", href: "/" },
-    { title: "Productos Industriales", href: "/productos" },
-    { title: "Tienda Comercial", href: "/tienda" },
-    { title: "Nosotros", href: "/nosotros" },
-    { title: "Contacto", href: "/contacto" },
+    { title: "Inicio", href: "/", path: "/"  },
+    { title: "Productos Industriales", href: "/productos/Envasadoras e Inspección-Sistemas de Pesaje", path: "/productos" },
+    { title: "Tienda Comercial", href: "/tienda", path: "/tienda" },
+    { title: "Nosotros", href: "/nosotros", path: "/nosotros" },
+    { title: "Contacto", href: "/contacto", path: "/contacto" },
 ];
 
 ---
@@ -43,7 +43,7 @@ const pages = [
                         <a class="nav-link" href={page.href}>
                             {page.title}
                         </a>
-                        <div class={`separator ${currentPath === page.href && select}`} />
+                        <div class={`separator ${currentPath === page.path && select}`} />
                     </li>
                 ))
             }

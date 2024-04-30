@@ -35,23 +35,31 @@ interface Astro {
 const { division, producto, tipos } = Astro.props;
 ---
 <Layout path="/productos" , title_page="Refamij - Productos">
-    <Banner title="PRODUCTOS INDUSTRIALES" img={banner.src}/>
+    <Banner title={division['division']} img={division['banner'] === "" ? banner.src : division['banner']}/>
     <Body isGray="gray">
-        <NavProductos division={division['division']} producto={producto['nombre']}>
-            <section class="main-section">
-                <section class="cards-container">
-                    {
-                        tipos.map((element) => (
-                            <ProductCard title={element['nombre']} img={element['img'][0]} route={`/productos/${element['nombre']}`} />
-                        ))
-                    }
+        <div class="main-div">
+            <NavProductos division={division['division']} producto={producto['nombre']}>
+                <section class="main-section">
+                    <section class="cards-container">
+                        {
+                            tipos.map((element) => (
+                                <ProductCard title={element['nombre']} img={element['img'][0]} route={`/productos/${element['nombre']}`} />
+                            ))
+                        }
+                    </section>
                 </section>
-            </section>
-        </NavProductos>
+            </NavProductos>
+        </div>
     </Body>
 </Layout>
 
 <style>
+    .main-div {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
      .main-section {
         width: 100%;
         margin: 0 auto;

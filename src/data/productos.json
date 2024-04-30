@@ -3,12 +3,13 @@
         "division": "Envasadoras e Inspección",
         "encargado": "Cesar Yañez",
         "phone": "51981035982",
-        "href": "/productos",
+        "href": "/productos/Envasadoras e Inspección-Sistemas de Pesaje",
+        "banner": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
                 "nombre": "Sistemas de Pesaje",
-                "href": "/productos",
+                "href": "/productos/Envasadoras e Inspección-Sistemas de Pesaje",
                 "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/Checkweigher-Dinamico(4).png",
                 "tipos": [
                     {
@@ -852,6 +853,7 @@
         "encargado": "Elías Alayo",
         "phone": "51946106955",
         "href": "/productos/Empacado y Termoempaque-Empaquetadoras Angulares a Campana",
+        "banner": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
@@ -964,6 +966,7 @@
         "encargado": "Nayme Tan",
         "phone": "51922197076",
         "href": "/productos/Cerrado y Sellado de Sacos y Bolsas-Sistemas de Costura",
+        "banner": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
@@ -1866,6 +1869,7 @@
         "encargado": "Jorge Rojas",
         "phone": "51946038335",
         "href": "",
+        "banner": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": []
     },
@@ -1874,6 +1878,7 @@
         "encargado": "Martín Huarcaya",
         "phone": "51974969340",
         "href": "/productos/Automatización, Robots y Desarrollo de Proyectos-Aplicación",
+        "banner": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
@@ -2470,6 +2475,7 @@
         "encargado": "Jorge Rojas",
         "phone": "51946038335",
         "href": "/productos/Transportadores y Movimiento de Productos-Transportadores en espiral",
+        "banner": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
@@ -3485,7 +3491,8 @@
         "division": "Puertas y Equipamiento Logístico",
         "encargado": "Paul Salcedo",
         "phone": "51922238094",
-        "href": "/productos/Puertas y Equipamiento Logístico-Puertas Rápidas de PVC", 
+        "href": "/productos/Puertas y Equipamiento Logístico-Puertas Rápidas de PVC",
+        "banner": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
@@ -3738,6 +3745,7 @@
         "encargado": "Luz Lizeth Lozano Bazán",
         "phone": "51977442522",
         "href": "/productos/Servicio Técnico Post Venta-Mantenimiento Preventivo y Correctivo",
+        "banner": "",
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
