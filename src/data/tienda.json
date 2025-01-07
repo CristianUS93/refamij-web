@@ -2357,7 +2357,7 @@
                                 "docs": [
                                     "src/assets/tienda/delta/variadores/docs/MS300.docx"
                                 ],
-                                "descripcion": "La serie MS300 está diseñada para servir a los fabricantes de máquinas (OEM), aplicaciones y procesos de alto control de movimiento que requieren conectividad. La serie MS300 cumple con requisitos complejos y controla motores síncronos y asíncronos desde 0,2 kW hasta 22 kW.",
+                                "descripcion": "Los variadores MS300 de Delta son completamente compactos, están listos para optimizar tus espacios en tus gabinetes de control. Ya que su diseño funciona con equipos más potentes en tamaños y pequeños con reducción de hasta un 40%.",
                                 "aplicaciones": [
                                     "Máquinas herramienta, maquinaria textil, carpintería, caucho y plástico, aplicaciones de bobinado/desenrollado."
                                 ],
@@ -2797,10 +2797,10 @@
             },
             {
                 "nombre": "Controlador Lógico Programable",
-                "href": "/tienda/Delta-Controlador Lógico Programable",
+                "href": "/tienda/-Controlador Lógico Programable",
                 "tipos": [
                     {
-                        "nombre": "PLC Compacto de Gama Media DELTA",
+                        "nombre": "PLC Compacto de Gama Media ",
                         "href": "/tienda/Delta-Controlador Lógico Programable-PLC Compacto de Gama Media DELTA",
                         "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png",
                         "modelos": [
