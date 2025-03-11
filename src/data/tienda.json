@@ -505,7 +505,7 @@
                                 "nombre": "RUEDA CARRETEL ENTERIZA",
                                 "img": [
                                     "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.png",
-                                    "public/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.jpg"
+                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "La RUEDA CARRETEL ENTERIZA de COBRA está diseñada para proporcionar alta eficiencia y confiabilidad en transportadores rectos que utilizan CADENAS PLÁSTICAS o METÁLICAS como elementos de tracción. Esta RUEDA CARRETEL ENTERIZA se utiliza ampliamente en las cabezas de retorno de los transportadores industriales para facilitar el retorno de las cadenas.",
@@ -2347,16 +2347,16 @@
                     {
                         "nombre": "Variador compacto de alto desempeño 0.25 CV a 30 CV",
                         "href": "/tienda/Delta-Variadores de Frecuencia-Variador compacto de alto desempeño 0.25 CV a 30 CV",
-                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/MH300.png",
+                        "img": "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/MH300.png",
                         "modelos": [
                             {
                                 "nombre": "MS300",
                                 "img": [
-                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MS300/MS300.png",
-                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MS300/MS300(1).png"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MS300/MS300.png",
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MS300/MS300(1).png"
                                 ],
                                 "docs": [
-                                    "src/assets/tienda/delta/variadores/docs/MS300.docx"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MS300/MS300.docx"
                                 ],
                                 "descripcion": "Los variadores MS300 de Delta son completamente compactos, están listos para optimizar tus espacios en tus gabinetes de control. Ya que su diseño funciona con equipos más potentes en tamaños y pequeños con reducción de hasta un 40%.",
                                 "aplicaciones": [
@@ -2401,10 +2401,10 @@
                                 "nombre": "MH300",
                                 "img": [
                                     "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/fibra1.jpg",
-                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/MH300(1).png"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/MH300(1).png"
                                 ],
                                 "docs": [
-                                    "src/assets/tienda/delta/variadores/docs/MS300.docx"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/MH300.docx"
                                 ],
                                 "descripcion": "La serie MH300 de accionamiento compacto de alto rendimiento de Delta es un control microvectorial de nueva generación que hereda la tecnología de accionamiento superior de Delta. Con sus ventajas de excelente rendimiento de la unidad, sólido soporte del sistema y una variedad de funciones esenciales, la serie MH300 es la clave para mejorar la competitividad del mercado y garantizar el éxito. Además, cuenta con un puerto USB para que las cargas y descargas de datos sean rápidas y sencillas, lo que ahorra la necesidad de hardware adicional y proporciona más espacio de instalación para el gabinete de energía.",
                                 "aplicaciones": [
@@ -2461,15 +2461,15 @@
                     {
                         "nombre": "Variador compacto para uso general 0.25 CV a 2 CV",
                         "href": "/tienda/Delta-Variadores de Frecuencia-Variador compacto para uso general 0.25 CV a 2 CV",
-                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/2. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 2 CV/VFD-L/VFD-L_.png",
+                        "img": "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/2. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 2 CV/VFD-L/VFD-L_.png",
                         "modelos": [
                             {
                                 "nombre": "VFD-L",
                                 "img": [
-                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/2. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 2 CV/VFD-L/VFD-L_.png"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/2. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 2 CV/VFD-L/VFD-L_.png"
                                 ],
                                 "docs": [
-                                    "src/assets/tienda/delta/variadores/docs/VFD-L.docx"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/2. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 2 CV/VFD-L/VFD-L.docx"
                                 ],
                                 "descripcion": "Compensación automática de par y de deslizamiento, pudiendo entregar hasta un 150% del par nominal a 5 Hz. Operación extremadamente silenciosa. Tensión de salida con un contenido mínimo en armónicos gracias a la innovadora técnica SVPWM (Space Vector Pulse Width Modulation) con portadora de hasta 10 kHz. Por supuesto, el VFD-L comparte con sus hermanos mayores de la familia VFD de Delta su robustez, su fiabilidad y su extremada facilidad de configuración, virtudes que les han hecho legendarios.",
                                 "aplicaciones": [
@@ -2497,15 +2497,15 @@
                     {
                         "nombre": "Variador compacto para uso general 0.25 CV a 5 CV",
                         "href": "/tienda/Delta-Variadores de Frecuencia-Variador compacto para uso general 0.25 CV a 5 CV",
-                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/3. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 5 CV/VFD-EL/VFD - EL_.png",
+                        "img": "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/3. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 5 CV/VFD-EL/VFD - EL_.png",
                         "modelos": [
                             {
                                 "nombre": "VFD-EL",
                                 "img": [
-                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/3. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 5 CV/VFD-EL/VFD - EL_.png"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/3. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 5 CV/VFD-EL/VFD - EL_.png"
                                 ],
                                 "docs": [
-                                    "src/assets/tienda/delta/variadores/docs/VFD-EL.docx"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/3. VARIADOR COMPACTO PARA USO GENERAL DE 0.25 CV A 5 CV/VFD-EL/VFD-EL.docx"
                                 ],
                                 "descripcion": "La serie VFD-EL es una nueva generación de micro inversores de C.A. con múltiples funciones.  Esta construido con  filtros EMI, interruptores RFI, fácil compartición con instalación común mediante el  bus de C.D.,  detección de corriente de alta precisión, protección en sobrecarga y diseñado con teclado numérico.",
                                 "aplicaciones": [
@@ -2535,15 +2535,15 @@
                     {
                         "nombre": "Variador compacto con control vectorial 0.25 CV a 30 CV",
                         "href": "/tienda/Delta-Variadores de Frecuencia-Variador compacto con control vectorial 0.25 CV a 30 CV",
-                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/4. VARIADOR COMPACTO CON CONTROL VECTORIAL DE 0.25 CV A 30 CV/VFD-E/VFD-E.png",
+                        "img": "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/4. VARIADOR COMPACTO CON CONTROL VECTORIAL DE 0.25 CV A 30 CV/VFD-E/VFD-E.png",
                         "modelos": [
                             {
                                 "nombre": "VFD-E",
                                 "img": [
-                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/4. VARIADOR COMPACTO CON CONTROL VECTORIAL DE 0.25 CV A 30 CV/VFD-E/VFD-E.png"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/4. VARIADOR COMPACTO CON CONTROL VECTORIAL DE 0.25 CV A 30 CV/VFD-E/VFD-E.png"
                                 ],
                                 "docs": [
-                                    "src/assets/tienda/delta/variadores/docs/VFD-E.docx"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/4. VARIADOR COMPACTO CON CONTROL VECTORIAL DE 0.25 CV A 30 CV/VFD-E/VFD-E.docx"
                                 ],
                                 "descripcion": "Los variadores de la serie VFD-E han sido fabricados utilizando componentes y materiales de alta calidad e incorporan la tecnología de microprocesadores más moderna del mercado. /nPresenta una cubierta tipo IP20, y la capacidad varía desde las fracciones hasta 30hp, con voltajes de entrada en el rango de 115VAC a 460VAC. /nEl diseño termo-eficiente permite colocar los variadores uno junto a otro para aprovechar al máximo el espacio disponible. /nCubre potencias desde 0.2 hasta 22 kW.",
                                 "aplicaciones": [
@@ -2580,15 +2580,15 @@
                     {
                         "nombre": "Variador con control de campo de 1 CV a 600 CV",
                         "href": "/tienda/Delta-Variadores de Frecuencia-Variador con control de campo de 1 CV a 600 CV",
-                        "img": "/tienda/delta/1. VARIADORES DE FRECUENCIA/5. VARIADOR CON CONTROL DE CAMPO DE 1 CV A 600 CV/VFD-C2000/VFD-C2000.png",
+                        "img": "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/5. VARIADOR CON CONTROL DE CAMPO DE 1 CV A 600 CV/VFD-C2000/VFD-C2000.png",
                         "modelos": [
                             {
                                 "nombre": "VFD-C2000",
                                 "img": [
-                                    "/tienda/delta/1. VARIADORES DE FRECUENCIA/5. VARIADOR CON CONTROL DE CAMPO DE 1 CV A 600 CV/VFD-C2000/VFD-C2000.png"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/5. VARIADOR CON CONTROL DE CAMPO DE 1 CV A 600 CV/VFD-C2000/VFD-C2000.png"
                                 ],
                                 "docs": [
-                                    "src/assets/tienda/delta/variadores/docs/VFD-E.docx"
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/5. VARIADOR CON CONTROL DE CAMPO DE 1 CV A 600 CV/VFD-C2000/VFD-C2000.docx"
                                 ],
                                 "descripcion": "Los variadores de la serie VFD-E han sido fabricados utilizando componentes y materiales de alta calidad e incorporan la tecnología de microprocesadores más moderna del mercado. /nPresenta una cubierta tipo IP20, y la capacidad varía desde las fracciones hasta 30hp, con voltajes de entrada en el rango de 115VAC a 460VAC. /nEl diseño termo-eficiente permite colocar los variadores uno junto a otro para aprovechar al máximo el espacio disponible. /nCubre potencias desde 0.2 hasta 22 kW.",
                                 "aplicaciones": [
@@ -2624,13 +2624,13 @@
                     {
                         "nombre": "Servoaccionnamiento Avanzado",
                         "href": "/tienda/Delta-Servo-Accionamiento-Servoaccionnamiento Avanzado",
-                        "img": "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA--A2.png",
+                        "img": "/tienda/2. Delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA--A2.png",
                         "modelos": [
                             {
                                 "nombre": "ASDA-A2",
                                 "img": [
-                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA--A2.png",
-                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA-A2.png"
+                                    "/tienda/2. Delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA--A2.png",
+                                    "/tienda/2. Delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A2/ASDA-A2.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2643,8 +2643,8 @@
                             {
                                 "nombre": "ASDA-A3",
                                 "img": [
-                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A3/ASDA-A3.png",
-                                    "/tienda/delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A3/ASDA--A3.png"
+                                    "/tienda/2. Delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A3/ASDA-A3.png",
+                                    "/tienda/2. Delta/2. SERVOACCIONAMIENTO/1. SERVOACCIONAMIENTO AVANZADO/ASDA-A3/ASDA--A3.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2659,12 +2659,12 @@
                     {
                         "nombre": "Servoaccionnamiento Estándar",
                         "href": "/tienda/Delta-Servo-Accionamiento-Servoaccionnamiento Estándar",
-                        "img": "/tienda/delta/2. SERVOACCIONAMIENTO/2. SERVOACCIONAMIENTO ESTÁNDAR/ASBA-B2/ASBA-B2.png",
+                        "img": "/tienda/2. Delta/2. SERVOACCIONAMIENTO/2. SERVOACCIONAMIENTO ESTÁNDAR/ASBA-B2/ASBA-B2.png",
                         "modelos": [
                             {
                                 "nombre": "ASBA-B2",
                                 "img": [
-                                    "/tienda/delta/2. SERVOACCIONAMIENTO/2. SERVOACCIONAMIENTO ESTÁNDAR/ASBA-B2/ASBA-B2.png"
+                                    "/tienda/2. Delta/2. SERVOACCIONAMIENTO/2. SERVOACCIONAMIENTO ESTÁNDAR/ASBA-B2/ASBA-B2.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2685,12 +2685,12 @@
                     {
                         "nombre": "LAS",
                         "href": "/tienda/Delta-Actuador-Servomotor Lineal-LAS",
-                        "img": "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LA-S/LA-S.png",
+                        "img": "/tienda/2. Delta/3. ACTUADOR-SERVOMOTOR LINEAL/LA-S/LA-S.png",
                         "modelos": [
                             {
                                 "nombre": "LAS",
                                 "img": [
-                                    "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LA-S/LA-S.png"
+                                    "/tienda/2. Delta/3. ACTUADOR-SERVOMOTOR LINEAL/LA-S/LA-S.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2705,12 +2705,12 @@
                     {
                         "nombre": "LU",
                         "href": "/tienda/Delta-Actuador-Servomotor Lineal-LU",
-                        "img": "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LU/LU.png",
+                        "img": "/tienda/2. Delta/3. ACTUADOR-SERVOMOTOR LINEAL/LU/LU.png",
                         "modelos": [
                             {
                                 "nombre": "LU",
                                 "img": [
-                                    "/tienda/delta/3. ACTUADOR-SERVOMOTOR LINEAL/LU/LU.png"
+                                    "/tienda/2. Delta/3. ACTUADOR-SERVOMOTOR LINEAL/LU/LU.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2731,12 +2731,12 @@
                     {
                         "nombre": "PA",
                         "href": "/tienda/Delta-Reductores-PA",
-                        "img": "/tienda/delta/4. REDUCTORES/PA/PA.png",
+                        "img": "/tienda/2. Delta/4. REDUCTORES/PA/PA.png",
                         "modelos": [
                             {
                                 "nombre": "PA",
                                 "img": [
-                                    "/tienda/delta/4. REDUCTORES/PA/PA.png"
+                                    "/tienda/2. Delta/4. REDUCTORES/PA/PA.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2751,12 +2751,12 @@
                     {
                         "nombre": "PS",
                         "href": "/tienda/Delta-Reductores-PS",
-                        "img": "/tienda/delta/4. REDUCTORES/PS/PS.png",
+                        "img": "/tienda/2. Delta/4. REDUCTORES/PS/PS.png",
                         "modelos": [
                             {
                                 "nombre": "PS",
                                 "img": [
-                                    "/tienda/delta/4. REDUCTORES/PS/PS.png"
+                                    "/tienda/2. Delta/4. REDUCTORES/PS/PS.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2777,12 +2777,12 @@
                     {
                         "nombre": "Solucion DELTA para CNC",
                         "href": "/tienda/Delta-CNC-Solucion DELTA para CNC",
-                        "img": "/tienda/delta/5. CNC/SOLUCION DELTA PARA CNC/CNC.png",
+                        "img": "/tienda/2. Delta/5. CNC/SOLUCION DELTA PARA CNC/CNC.png",
                         "modelos": [
                             {
                                 "nombre": "CNC",
                                 "img": [
-                                    "/tienda/delta/5. CNC/SOLUCION DELTA PARA CNC/CNC.png"
+                                    "/tienda/2. Delta/5. CNC/SOLUCION DELTA PARA CNC/CNC.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2803,12 +2803,12 @@
                     {
                         "nombre": "PLC Compacto de Gama Media ",
                         "href": "/tienda/Delta-Controlador Lógico Programable-PLC Compacto de Gama Media DELTA",
-                        "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png",
+                        "img": "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png",
                         "modelos": [
                             {
                                 "nombre": "AS300",
                                 "img": [
-                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png"
+                                    "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2823,12 +2823,12 @@
                     {
                         "nombre": "Alto Desempeño para aplicaciones de procesos",
                         "href": "/tienda/Delta-Controlador Lógico Programable-Alto Desempeño para aplicaciones de procesos",
-                        "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/2. ALTO DESEMPEÑO PARA APLICACIONES DE PROCESOS/AH500/PLC-grande-de-la-serie-AH500.png",
+                        "img": "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/2. ALTO DESEMPEÑO PARA APLICACIONES DE PROCESOS/AH500/PLC-grande-de-la-serie-AH500.png",
                         "modelos": [
                             {
                                 "nombre": "AH500",
                                 "img": [
-                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/2. ALTO DESEMPEÑO PARA APLICACIONES DE PROCESOS/AH500/PLC-grande-de-la-serie-AH500.png"
+                                    "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/2. ALTO DESEMPEÑO PARA APLICACIONES DE PROCESOS/AH500/PLC-grande-de-la-serie-AH500.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2843,12 +2843,12 @@
                     {
                         "nombre": "Nueva Generación de PLC Compactos DELTA",
                         "href": "/tienda/Delta-Controlador Lógico Programable-Nueva Generación de PLC Compactos DELTA",
-                        "img": "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DPV-MC/DPV-MC.png",
+                        "img": "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DPV-MC/DPV-MC.png",
                         "modelos": [
                             {
                                 "nombre": "DPV-MC",
                                 "img": [
-                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DPV-MC/DPV-MC.png"
+                                    "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DPV-MC/DPV-MC.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2861,7 +2861,7 @@
                             {
                                 "nombre": "DVP-SA2",
                                 "img": [
-                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SA2/DVP-SA2-delta.png"
+                                    "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SA2/DVP-SA2-delta.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2874,7 +2874,7 @@
                             {
                                 "nombre": "DVP-SE",
                                 "img": [
-                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SE/DVP-SE-delta.png"
+                                    "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SE/DVP-SE-delta.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2887,7 +2887,7 @@
                             {
                                 "nombre": "DVP-SS2",
                                 "img": [
-                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SS2/DVP-SS2.png"
+                                    "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SS2/DVP-SS2.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2900,7 +2900,7 @@
                             {
                                 "nombre": "DVP-SV2",
                                 "img": [
-                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SV2/DVP-SV2.png"
+                                    "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SV2/DVP-SV2.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -2913,7 +2913,7 @@
                             {
                                 "nombre": "DVP-SX2",
                                 "img": [
-                                    "/tienda/delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SX2/DVP-SX2.png"
+                                    "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/3. LA NUEVA GENERACIÓN DE PLCS COMPACTOS DE DELTA/DVP-SX2/DVP-SX2.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
