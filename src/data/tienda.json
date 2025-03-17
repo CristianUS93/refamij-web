@@ -10,7 +10,7 @@
                     {
                         "nombre": "Cadenas rectas",
                         "href": "/tienda",
-                        "img": "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.png",
+                        "img": "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSA 815/SERIE SSA 815.png",
                         "modelos": [
                             {
                                 "nombre": "Serie SSA 815",
@@ -76,7 +76,7 @@
                             {
                                 "nombre": "Serie SSF 815",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 815/SERIE SSF 815.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSF 815/SERIE SSF 815.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La cadena transportadora SERIE 815 de Cobra es una referencia en el segmento de cadenas table top, también conocidas como cadenas de tablilla. Fabricada en acero inoxidable ferrítico, esta cadena fue desarrollada para satisfacer las necesidades de ambientes industriales de alto rendimiento. Con su presencia destacada en sistemas de transporte de larga distancia y líneas de envasado de múltiples vías, garantiza estabilidad, precisión y confiabilidad en cada segmento de su aplicación.",
@@ -106,7 +106,7 @@
                             {
                                 "nombre": "Serie SSF 815 EMB",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 815 EMB/SERIE SSF 815 EMB.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSF 815 EMB/SERIE SSF 815 EMB.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La SERIE SSF 815 EMB de COBRA es una cadena de transporte diseñada para satisfacer las exigentes demandas de los entornos industriales. Con un enfoque en la precisión, seguridad y eficiencia en el movimiento de productos; esta serie ofrece una combinación única de características que la hacen ideal para una variedad de aplicaciones industriales.",
@@ -133,7 +133,7 @@
                             {
                                 "nombre": "Serie SSF 2815",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 2815/SERIE SSF 2815.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSF 2815/SERIE SSF 2815.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La SERIE SSF 2815 de COBRA es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pliegue, diseñada para soportar cargas de trabajo superiores. Construida con los estándares de calidad de COBRA, es ideal para ambientes industriales que requieren mayor resistencia y durabilidad en el transporte de productos. Su característica de doble pliegue garantiza una alta capacidad de carga, haciéndola perfecta para aplicaciones industriales intensivas.",
@@ -162,7 +162,7 @@
                             {
                                 "nombre": "Serie SSF 2815 EMB",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_rectas/SERIE SSF 2815 EMB/SERIE SSF 2815 EMB.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_rectas/SERIE SSF 2815 EMB/SERIE SSF 2815 EMB.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La SERIE SSF 2815 EMB (Engomada) de COBRA es una cadena tipo table top, también conocida como cadena tipo plataforma, con doble pligue y superficie emborrachada. Diseñada para soportar cargas de trabajo superiores y ofrecer máxima adherencia, es una solución ideal para ambientes industriales que requieren precisión y seguridad en el transporte de productos. La combinación del doble pliegue con la superficie engomada garatiza una alta capacidad de carga y una adherencia superior, haciéndola perfecta para aplicaciones industriales desafiantes.",
@@ -192,13 +192,13 @@
                     {
                         "nombre": "Cadenas curvas",
                         "href": "/tienda/Cobra-Cadenas Metálicas-Cadenas curvas",
-                        "img": "/tienda/cobra/cadenas_metalicas/cadenas_curvas/SERIE SM 1200.png",
+                        "img": "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_curvas/SERIE SM 1200.png",
                         "modelos": [
                             {
                                 "nombre": "Serie SM 1200",
                                 "img": [
-                                    "/tienda/1.Cobra/1.cadenas_metalicas/cadenas_curvas/SERIE SM 1200.png",
-                                    "/tienda/1.Cobra/1.cadenas_metalicas/cadenas_curvas/SERIE SM 1200.jpg"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_curvas/SERIE SM 1200.png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_curvas/SERIE SM 1200.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -227,7 +227,7 @@
                             {
                                 "nombre": "Serie SSF 881 M",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_curvas/SERIE SSF 881 M.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_curvas/SERIE SSF 881 M.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La SERIE SSF 881 M de COBRA es una cadena tipo table top, también conocida como cadena plataforma, equipada con uns sistema de retención magnética. Diseñada especificamente para guiar la cadena con precisión en las curvas, su construcción duradera la hace ideal para ambientes industriales que buscan eficiencia y confiabilidad en el transporte de productos, especialmente en trayectos con curvas de alta velocidad.",
@@ -258,7 +258,7 @@
                             {
                                 "nombre": "Serie SSF 881 TAB",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/cadenas_curvas/SERIE SSF 881 TAB.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/cadenas_curvas/SERIE SSF 881 TAB.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La Serie SSF 881 TAB de cobra es una cadena tipo table top, también conocida como cadena plataforma, equipada con un sistema de retención magnética. Diseñada específicamente para guiar la cadena con precisión en las curvas, su construcción duradera la hace ideal para ambientes industriales que buscan eficiencia y confiabilidad en el transporte de productos, especialmente en trayectos con curvas de alta velocidad.",
@@ -291,15 +291,15 @@
                     {
                         "nombre": "Ruedas para Cadenas Rectas",
                         "href": "/tienda/Cobra-Cadenas Metálicas-Ruedas para Cadenas Rectas",
-                        "img": "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png",
+                        "img": "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png",
                         "modelos": [
                             {
                                 "nombre": "RUEDA 815 - 881 M BIPARTIDA",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png",
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (2).png",
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (3).png",
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (4).png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 _ 881 M BIPARTIDA.png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (2).png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (3).png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 815 - 881 M BIPARTIDA/ENGRANAJE 815 - 881 (4).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "Las RUEDAS 815 - 881 M BIPARTIDA fueron desarrolladas especialmente para ser utilizadas con las CADENAS SERIE SSF Y SSA 815 de COBRA, ofreciendo una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes. Además, están disponibles en una variedad de configuraciones como Z21, Z23 y Z25, y diámetros de eje que van desde 25 mmm hasta 45 mm, con o sin chaveta.",
@@ -324,8 +324,8 @@
                             {
                                 "nombre": "RUEDA 2815 - 821 BIPARTIDA US",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 BIPARTIDA US/ENGRANAJE 821 _ 2815 BIPARTIDA US.png",
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 BIPARTIDA US/ENGRANAJE 821 _ 2815 BIPARTIDA US.jpg"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 BIPARTIDA US/ENGRANAJE 821 _ 2815 BIPARTIDA US.png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 BIPARTIDA US/ENGRANAJE 821 _ 2815 BIPARTIDA US.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "La RUEDA 2815 BIPARTIDA US (Mecanizada) esta disponible para ser utilizada con las CADENAS DOBLE PLEGADO SERIE 2815 de COBRA. Esta rueda mecanizada maciza proporciona una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes que requieren grandes cargas de trabaji en pas líneas de transporte.",
@@ -351,8 +351,8 @@
                             {
                                 "nombre": "RUEDA 2815 - 821 ENTERIZA",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 ENTERIZA/ENGRANAJE 821 _ 2815 ENTERIZA.png",
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 ENTERIZA/ENGRANAJE 821 _ 2815 ENTERIZA.jpg"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 ENTERIZA/ENGRANAJE 821 _ 2815 ENTERIZA.png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA 2815 - 821 ENTERIZA/ENGRANAJE 821 _ 2815 ENTERIZA.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "La RUEDA 2815 esta diseñada especialmente para ser utilizada con las CADENAS CON DOBLE PLEGADO METÁLICO de la SERIE 2815 de COBRA, proporcionando una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes y que requieren grandes cargas de trabajo en las líneas de transporte.",
@@ -376,7 +376,7 @@
                             {
                                 "nombre": "RUEDA 815 - 881 M ENTERIZA US",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 BIPARTIDA SIN PESTAÑA.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 BIPARTIDA SIN PESTAÑA.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La RUEDA 815 - 881 M ENTERIZA US (Mecanizada) está disponible para aquellos que buscan ruedas plásticas macizas con dimensiones fuera del estándar, proporcionando una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales. Se utilizan con las CADENAS SERIE SSF y SSA 815 de COBRA.",
@@ -399,7 +399,7 @@
                             {
                                 "nombre": "RUEDA 815 - 881 M BIPARTIDA US",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 BIPARTIDA US.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 BIPARTIDA US.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La RUEDA 815 - 881 M BIPARTIDA US (Mecanizada) está disponible para aquellos que buscan ruedas plásticas macizas, proporcionando una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales. Se utilizan con las CADENAS SERIE SSF Y SSA 815 de COBRA.",
@@ -424,7 +424,7 @@
                             {
                                 "nombre": "RUEDA 881 M - 815 BIPARTIDA PU",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 ENTERIZA US.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/ENGRANAJE AR 38 ENTERIZA US.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La RUEDA 881 M - 815 BIPARTIDA PU (Poliuretano) es extramadamente resistente al desgaste, la abrasión y el impacto, lo que hace que las ruedas fabricadas con este material sean muy duraderas en enternos industriales exigentes. Además, debido a que es más flexible que otros plímeros, el poliuretano permite la absorción de golpes y vibraciones, lo que reduce el ruido y prolonga la vida útil de las ruedas y cadenas. Diseñadas para ser utilizadas en las CADENAS SERIE SSF y SSA 815 de COBRA, las RUEDAS DE PU ofrecen un rendimiento superior para la línea de envasado de vidrio.",
@@ -453,7 +453,7 @@
                             {
                                 "nombre": "RUEDA 881 M - 815 ENTERIZA FOFO",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas/ENGRANAJE AR 835.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas/ENGRANAJE AR 835.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La RUEDA 881 M - 815 ENTERIZA FOFO (Acero Fundido), también conocido como hierro fundido nodular, es extremadamente resistente al desgaste, además de poseer una mayor dureza y tenacidad, soportando bien cargas de impaco y choque. Diseñadas para ser utilizadas en las CADENAS SERIE SSF Y SSA 815 de COBRA, las RUEDAS DE FOFO entregan una rendimiento superior para líneas de envasado.",
@@ -480,7 +480,10 @@
                             {
                                 "nombre": "RUEDA CARRETEL BIPARTIDO",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas/ENGRANAJE CARRETEL BIPARTIDO.png"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL BIPARTIDA/1.jpg",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL BIPARTIDA/2.jpg",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL BIPARTIDA/3.png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL BIPARTIDA/4.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "La RUEDA CARRETEL BIPARTIDA de COBRA está diseñada para proporcionar alta eficiencia y confiabilidad en transportadores rectos que utilizan cadenas plásticas o metálicas como elementos de tracción. Esa RUEDA CARRETEL BIPARTIDA se utiliza ampliamente en las cabezas de retorno de los transportadores industriales para facilitar el retorno de las cadenas.",
@@ -504,8 +507,8 @@
                             {
                                 "nombre": "RUEDA CARRETEL ENTERIZA",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.png",
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.jpg"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.png",
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_rectas_inox/RUEDA CARRETEL ENTERIZO/CARRETEL ENTERIZO.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "La RUEDA CARRETEL ENTERIZA de COBRA está diseñada para proporcionar alta eficiencia y confiabilidad en transportadores rectos que utilizan CADENAS PLÁSTICAS o METÁLICAS como elementos de tracción. Esta RUEDA CARRETEL ENTERIZA se utiliza ampliamente en las cabezas de retorno de los transportadores industriales para facilitar el retorno de las cadenas.",
@@ -529,12 +532,12 @@
                     {
                         "nombre": "Ruedas para Cadenas Curvas",
                         "href": "/tienda/Cobra-Cadenas Metálicas-Ruedas para Cadenas Curvas",
-                        "img": "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_curvas_inox/ENGRANAJE ACT _ ACM BIPARTIDA.jpg",
+                        "img": "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_curvas_inox/ENGRANAJE ACT _ ACM BIPARTIDA.jpg",
                         "modelos": [
                             {
                                 "nombre": "RUEDA 815 - 881 M BIPARTIDA",
                                 "img": [
-                                    "/tienda/cobra/cadenas_metalicas/ruedas_cadenas_curvas_inox/ENGRANAJE ACT _ ACM BIPARTIDA.jpg"
+                                    "/tienda/1. Cobra/1. cadenas_metalicas/ruedas_cadenas_curvas_inox/ENGRANAJE ACT _ ACM BIPARTIDA.jpg"
                                 ],
                                 "docs": [],
                                 "descripcion": "Las RUEDAS 815 - 881 M BIPARTIDA fueron desarrolladas especialmente para ser utilizadas con las CADENAS SERIE SSF Y SSA 815 de COBRA, ofreciendo una resistencia excepcional a la fatiga, durabilidad y rendimiento confiable en entornos industriales desafiantes. Además, están disponibles en una variedad de configuraciones como Z21, Z23 y Z25, y diámetros de eje que van desde 25 mm hasta 45 mm, con o sin chaveta.",
@@ -695,12 +698,12 @@
                     {
                         "nombre": "Cadenas rectas",
                         "href": "/tienda/Cobra-Cadenas Plásticas-Cadenas rectas",
-                        "img": "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 35/SERIE AR 35(1).png",
+                        "img": "/tienda/1. Cobra/2. cadenas_plasticas/2. CADENAS RECTAS/4. SERIE AR 35/SERIE AR 35(1).png",
                         "modelos": [
                             {
                                 "nombre": "Serie AR 35",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 35/SERIE AR 35(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/2. CADENAS RECTAS/4. SERIE AR 35/SERIE AR 35(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -713,7 +716,7 @@
                             {
                                 "nombre": "Serie AR 38",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38/SERIE AR 38.png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/2. CADENAS RECTAS/1. SERIE AR 38/SERIE AR 38.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -726,7 +729,7 @@
                             {
                                 "nombre": "Serie AR 38 AP",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38 AP/SERIE AR 38 AP(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/2. CADENAS RECTAS/2. SERIE AR 38 AP/SERIE AR 38 AP(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -739,7 +742,7 @@
                             {
                                 "nombre": "Serie AR 38 RQ",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38 RQ/SERIE AR 38 RQ(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/2. CADENAS RECTAS/3. SERIE AR 38 RQ/SERIE AR 38 RQ(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -752,7 +755,7 @@
                             {
                                 "nombre": "Serie AR 38 VAC",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 38 VAC/SERIE AR 38 VAC(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/2. CADENAS RECTAS/9. SERIE AR 38 VAC/SERIE AR 38 VAC(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -765,7 +768,7 @@
                             {
                                 "nombre": "Serie AR 821",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 821/SERIE AR 821(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/2. CADENAS RECTAS/7. SERIE AR 821/SERIE AR 821(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -778,7 +781,7 @@
                             {
                                 "nombre": "Serie AR 821 BPA",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 821 BPA/SERIE AR 821 BPA(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/2. CADENAS RECTAS/8. SERIE AR 821 BPA/SERIE AR 821 BPA(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -791,7 +794,7 @@
                             {
                                 "nombre": "Serie AR 835",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 835/PLANO SERIE AR 835(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/2. CADENAS RECTAS/5. SERIE AR 835/PLANO SERIE AR 835(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -804,7 +807,7 @@
                             {
                                 "nombre": "Serie AR 835 BPA",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS RECTA/SERIE AR 835 BPA/SERIE AR 835 BPA(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/2. CADENAS RECTAS/6. SERIE AR 835 BPA/SERIE AR 835 BPA(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -819,12 +822,12 @@
                     {
                         "nombre": "Cadenas curvas",
                         "href": "/tienda/Cobra-Cadenas Plásticas-Cadenas curvas",
-                        "img": "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 38/SERIE ACM 38(1).png",
+                        "img": "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACM 38/SERIE ACM 38(1).png",
                         "modelos": [
                             {
                                 "nombre": "Serie ACM 38",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 38/SERIE ACM 38(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACM 38/SERIE ACM 38(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -837,7 +840,7 @@
                             {
                                 "nombre": "Serie ACM 601-607",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 601 _ 607/SERIE ACM 601 _ 607(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACM 601 _ 607/SERIE ACM 601 _ 607(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -850,7 +853,7 @@
                             {
                                 "nombre": "Serie ACM 602-608",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 602 _ 608/SERIE ACM 602 _ 608(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACM 602 _ 608/SERIE ACM 602 _ 608(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -863,7 +866,7 @@
                             {
                                 "nombre": "Serie ACM 882 BPA",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACM 882 BPA/SERIE-ACM-882-BPA.png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACM 882 BPA/SERIE-ACM-882-BPA.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -876,7 +879,7 @@
                             {
                                 "nombre": "Serie ACT 15",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 15/SERIE ACT 15(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACT 15/SERIE ACT 15(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -889,7 +892,7 @@
                             {
                                 "nombre": "Serie ACT 20",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 20/SERIE ACT 20(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACT 20/SERIE ACT 20(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -902,7 +905,7 @@
                             {
                                 "nombre": "Serie ACT 20 con empujador",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 20 CON EMPUJADOR/SERIE-ACT-20-CON-EMPUJADOR.png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACT 20 CON EMPUJADOR/SERIE-ACT-20-CON-EMPUJADOR.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -915,7 +918,7 @@
                             {
                                 "nombre": "Serie ACT 38",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 38/SERIE ACT 38(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACT 38/SERIE ACT 38(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -928,7 +931,7 @@
                             {
                                 "nombre": "Serie ACT 38 AP",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 38 AP/SERIE-ACT-38-AP.png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACT 38 AP/SERIE-ACT-38-AP.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -941,7 +944,7 @@
                             {
                                 "nombre": "Serie ACT 38 RQ ATX",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 38 RQ _ ATX/SERIE ACT 38 RQ _ ATX(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACT 38 RQ _ ATX/SERIE ACT 38 RQ _ ATX(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -954,7 +957,7 @@
                             {
                                 "nombre": "Serie ACT 882",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 882/SERIE ACT 882(1).png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACT 882/SERIE ACT 882(1).png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -967,7 +970,7 @@
                             {
                                 "nombre": "Serie ACT 882 BPA",
                                 "img": [
-                                    "/tienda/cobra/cadenas_plasticas/CADENAS CURVAS/SERIE ACT 882 BPA/SERIE ACT 882 BPA.png"
+                                    "/tienda/1. Cobra/2. cadenas_plasticas/1. CADENAS CURVAS/SERIE ACT 882 BPA/SERIE ACT 882 BPA.png"
                                 ],
                                 "docs": [],
                                 "descripcion": "",
@@ -987,7 +990,7 @@
                 "tipos": [
                     {
                         "nombre": "Bandas Modulares Rectas",
-                        "href": "/tienda/1. Cobra/3. bandas_modulares/1. BANDA MODULAR RECTA",
+                        "href": "/tienda/Cobra-Bandas Modulares-Bandas Modulares Rectas",
                         "modelos": [
                             {
                                 "nombre": "SERIE 080 SF",
@@ -2400,7 +2403,7 @@
                             {
                                 "nombre": "MH300",
                                 "img": [
-                                    "/tienda/Delta/VARIADORES DE FRECUENCIA/VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/fibra1.jpg",
+                                    "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MS300/MS300.png",
                                     "/tienda/2. Delta/1. VARIADORES DE FRECUENCIA/1. VARIADOR COMPACTO DE ALTO DESEMPEÑO 0.25 CV A 30 CV/MH300/MH300(1).png"
                                 ],
                                 "docs": [
@@ -2798,11 +2801,11 @@
             },
             {
                 "nombre": "Controlador Lógico Programable",
-                "href": "/tienda/-Controlador Lógico Programable",
+                "href": "/tienda/Delta-Controlador Logico Programable",
                 "tipos": [
                     {
-                        "nombre": "PLC Compacto de Gama Media ",
-                        "href": "/tienda/Delta-Controlador Lógico Programable-PLC Compacto de Gama Media DELTA",
+                        "nombre": "PLC Compacto de Gama Media",
+                        "href": "/tienda/Delta-Controlador Lógico Programable-PLC Compacto de Gama Media",
                         "img": "/tienda/2. Delta/6. CONTROLADOR LÓGICO PROGRAMABLE/1. PLC COMPACTO DE GAMA MEDIA DELTA/AS300/AS300.png",
                         "modelos": [
                             {
