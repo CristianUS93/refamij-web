@@ -40,7 +40,16 @@
                         "docs": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/CHECKWEIGHER DINAMICO REFAMIJ - PERFOR.pdf"
                         ],
-                        "descripcion": "El Sistema de Pesaje Dinámico o Checkweigher Dinámico es una solución integral para el control de calidad en la línea de producción. Ofrece precisión del 100% al pesar productos de diversas velocidades y se integra fácilmente con empaquetadora y envasadoras, proporcionando una retroalimentacion en tiempo real para correciones de peso. Además, incluye pantallas dirigidas al control de calidad y registros detallados de alarmas, eventos y produccion. Con opciones de programación flexible y eficiencia energética, es ideal para mejorar el proceso de producción y garantizar la calidad del producto final. ",
+                        "descripcion": [
+                            "• Comprueba el peso del producto en movimiento, y puede pesar a velocidades bajas y altas.",
+                            "• Pesaje de 100% de los ítems de una línea de producción.",
+                            "• Posibilidad de integrarse con las empaquetadoras/envasadores y realizar un feedback de corrección de peso.",
+                            "• Varias pantallas dirigidas al control de calidad, con datos estadísticos en tiempo real.",
+                            "• Genera histórico (logs) de alarmas, CEP, eventos, rechazos, pesos y producción.",
+                            "• Opcional dentro de la programación de los equipos, tales como, doble paquete, calibración del INMETRO (para especificación brasileña), calibración de peso, amplitud, contador de unidades, CEP (Control Estadístico de la Producción), producción y rechazos seguidos.",
+                            "• 2 Bajo consumo de energía eléctrica (0,5 kWh) y neumática (50 l/min).",
+                            "• Equipo desarrollado para pesar de 1 a 50 000 g, pesos superiores o inferiores bajo consulta."
+                        ],
                         "aplicaciones": [
                             "• En línea de producción",
                             "• Empaquetadoras/envasadoras",
