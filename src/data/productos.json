@@ -421,11 +421,13 @@
                         "nombre": "Dosificador Canaleta o Tornillo Lineal",
                         "href": "/productos/Dosificador Gravimétrico con Servorreductor",
                         "img": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/NUEVO.png",
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/VISTA-SUPERIORI-NEUVO.png"
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/tornillolineal1.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/tornillolineal2.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/tornillolineal3.png",
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/tornillolineal4.png"
                         ],
                         "docs": [
-                            "refamij-web/public/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/PERFOR BROCHURE DOSIFICADOR TOLVO O TORNILLO LINEAL UPDATE.pdf"],
+                            "/productos/1. ENVASADORA E INSPECCION - Perfor/4. DOSIFICADOR GRAVIMETRICO/DOSIFICADOR TOLVO O TORNILLO LINEAL/DOSIFICADOR TOLVO O TORNILLO LINEAL REFAMIJ - PERFOR.pdf"],
                         "descripcion": "El sistema de pesaje previo al envasado garantiza una dosificación precisa del producto, reduciendo la cantidad necesaria con un control preciso del peso y desviación controlada. Ofrece mediciones individuales por canal con histograma y doble comprobación de peso integrada. Con caracteristicas como fácil higienización, bajo mantenimiento y mínima intervención operativa, es fácil de programar y operar. Integrado con Perfor Control, proporciona gestión completa de la línea de producción y equipos en tiempo real. Además, su eficiencia energética y capacidad de trabajo continuo las convierten en una solución ideal para entornos exigentes.",
                         "aplicaciones": [
                             "• Arriba de Empaquetadoras / llenadores",
