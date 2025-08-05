@@ -1913,7 +1913,7 @@
                 "img": "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO-actual-medida.jpg",
                 "tipos": [
                     {
-                        "nombre": "Paletizado y despaletizado",
+                        "nombre": "KR AGILUS",
                         "href": "/productos/Paletizado y despaletizado",
                         "img": [
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO-actual-medida.jpg",
@@ -1922,22 +1922,39 @@
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-DE-SACOS.png"
                         ],
                         "docs": [],
-                        "descripcion": "El paletizado es el proceso de colocar productos o mercancías sobre pallets de manera organizada y segura para su transporte y almacenamiento. Se realiza típicamente mediante el uso de maquinaria automatizada o manual. Por otro lado, el despaletizado es el proceso opuesto, donde los productos son retirados de los pallets, almacenados o procesados posteriormente.",
+                        "descripcion": [
+                            "El KR AGILUS es un robot industrial compacto de seis ejes, diseñado para operar con velocidades extremadamente altas y una precisión excepcional en espacios reducidos. Gracias a su diseño versátil, puede instalarse en el suelo, la pared o el techo, adaptándose con facilidad a cualquier configuración de celda o entorno de trabajo.",
+                            "Incorpora la tecnología de control KUKA, reconocida por su fiabilidad y eficiencia, además de un sistema de alimentación de energía integrado que permite un diseño más compacto y ordenado. Este robot está disponible en diversas versiones especializadas que lo hacen apto para trabajar en entornos húmedos, estériles o con riesgo de explosión, así como en salas limpias con certificación ISO.",
+                            "El KR AGILUS es la solución ideal para empresas que buscan automatizar procesos de alta precisión, reducir tiempos de ciclo y aumentar la eficiencia operativa, sin comprometer la calidad del producto final.",
+                        ],
                         "aplicaciones": [
-                            "• Almacenes y centros de distribucion",
-                            "• Industria manufacturera",
-                            "• Comericio minorista",
-                            "• Industria alimentaria",
-                            "• Transporte y logística"
+                            "• Manipulación de piezas.",
+                            "• Montaje de componentes.",
+                            "• Pick and Place.",
+                            "• Medición y comprobación de calidad.",
+                            "• Aplicaciones en salas limpias (industria farmacéutica, médica, electrónica).",
+                            "• Carga y descarga de máquinas.",
+                            "• Fabricación aditiva e impresión 3D.",
+                            "• Paletizado y embalaje.",
+                            "• Aplicación de pintura, adhesivos o recubrimientos.",
+                            "• Aplicación de pintura, adhesivos o recubrimientos.",
+                            "• Pulido y procesamiento mecánico."
                         ],
                         "ventajas": [
-                            "• Optimización del espacio",
-                            "• Mejora de la eficiencia",
-                            "• Reducción de daños",
-                            "• Aumento de la seguridad",
-                            "• Facilita la trazabilidad"
+                            "• Velocidad y precisión sin compromiso: Reduce significativamente los tiempos de ciclo con una repetibilidad de alta exactitud.",
+                            "• Versatilidad de instalación: Se adapta a cualquier orientación de montaje (suelo, pared o techo), optimizando el espacio en planta.",
+                            "• Diseñado para entornos exigentes: Versiones especiales como Waterproof, EX (atmósferas explosivas) e Hygienic Machine permiten su uso en entornos industriales complejos.",
+                            "• Mantenimiento mínimo: Gracias a la lubricación permanente de sus engranajes, reduce costos operativos y tiempo de inactividad.",
+                            "• Protección electrostática (ESD): Incluida de serie para manipulación segura de componentes electrónicos.",
+                            "• Certificación ISO 14644-1 para salas limpias: avalado por Fraunhofer TESTED DEVICE® & CSM®, ideal para industrias de alta exigencia."
                         ],
-                        "especificaciones": [],
+                        "especificaciones": [
+                            "• Estructura: Robot de 6 ejes.",
+                            "• Capacidad de carga: de 6 a 11 kg.",
+                            "• Alcance máximo: entre 706 mm y 1101 mm (según modelo).",
+                            "• Posiciones de montaje: suelo, pared, techo.",
+                            "• Variantes disponibles: Versión estándar, Hygienic Machine (uso en industria alimentaria/farmacéutica), EX (atmósferas con riesgo de explosión), Waterproof (resistente a líquidos y polvo), Certificado para salas limpias."
+                        ],
                         "video": ""
                     },
                     {
