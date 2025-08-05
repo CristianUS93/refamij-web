@@ -1999,28 +1999,46 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Minería",
+                        "nombre": "KR IONTEC",
                         "href": "",
                         "img": [
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/MINERIA.png"
                         ],
                         "docs": [],
-                        "descripcion": "Los robots utilizados en la minería están equipados con sensores avanzados, sistemas de navegación y capacidad de procesamiento de datos para llevar a cabo tareas específicas de manera autónoma o controlada por operadores humanos. Pueden realizar labores como la exploración de yacimientos, la perforación y voladura de rocas, la carga y transporte de materiales, asi como el monitoreo de condiciones ambientales y de seguridad en la mina.",
+                        "descripcion": [
+                          "El KR IONTEC es un robot industrial de carga media diseñado para ofrecer máxima flexibilidad, rendimiento superior y una amplia zona de trabajo en aplicaciones de 20 a 70 kg. Gracias a su diseño compacto y sus múltiples opciones de montaje (suelo, pared o en posición inclinada), permite una integración eficiente en celdas con espacio reducido, optimizando el rendimiento del área de trabajo.",
+                          "Está equipado con motores protegidos, una muñeca central sellada contra agua y polvo, y versiones especializadas como KR IONTEC Foundry, capaz de operar en entornos de alta temperatura (desde 0°C hasta 55°C). Su bajo consumo energético, escasos requerimientos de mantenimiento y larga vida útil lo convierten en una inversión rentable para cualquier entorno de producción industrial, tanto convencional como digital.",
+                          "El KR IONTEC está preparado para poner a los desafíos actuales de la industria, adaptándose dinámicamente a diferentes procesos y fases de producción, lo que lo convierte en una solución robusta, rentable y preparada para el futuro."  
+                        ],
                         "aplicaciones": [
-                            "• Exploración y cartografía de yacimiento minerales",
-                            "• Perforación y voladura controlada de rocas",
-                            "• Carga y transporte de materiales dentro de la mina",
-                            "• Monitoreo y mantenimiento de equipos e infraestructura minera",
-                            "• Inspección de seguridad y vigilancia de condiciones ambientales en la mina"
+                            "Por su versatilidad, resistencia y amplio rango de carga útil, el KR IONTEC es ideal para aplicaciones en diversas industrias, incluyendo:",
+                            "• Manipulación de componentes pesados y medianos.",
+                            "• Montaje automatizado.",
+                            "• Paletizado de productos.",
+                            "• Carga y descarga de máquinas.",
+                            "• Procesos de soldadura.",
+                            "• Procesamiento mecánico.",
+                            "• Aplicaciones en ambientes con altas temperaturas (versión Foundry).",
+                            "• Automatización de líneas de producción industriales."
                         ],
                         "ventajas": [
-                            "• Seguridad mejorada",
-                            "• Eficiencia operativa",
-                            "• Reducción de costos",
-                            "• Acceso a lugares dificiles",
-                            "• Mejora en la calidad de los datos"
+                            "• Flexibilidad de procesos: Con los Motion Modes digitales, el robot puede ajustar su comportamiento según se requiera mayor precisión o velocidad.",
+                            "• Mantenimiento reducido: El cambio de aceite solo es necesario tras 20,000 horas de operación y su diseño sin correas minimiza intervenciones técnicas.",
+                            "• Diseño compacto: Permite construir celdas reducidas gracias a su zona de trabajo optimizada y contorno esbelto.",
+                            "• Costes operativos bajos: Bajo consumo energético, menor necesidad de repuestos (50% menos que su antecesor) y disponibilidad de piezas durante 25 años.",
+                            "• Carga reajustable: Es posible modificar la carga útil incluso en robots ya instalados, aumentando la adaptabilidad de la planta.",
+                            "• Fácil puesta en marcha: Herramientas de ingeniería optimizadas y tecnología KUKA reducen los tiempos y costos de implementación.",
+                            "• Alimentación de energía eficiente: Eje hueco A1 de 119 mm de diámetro para simplificar la integración de cables y medios.",
+                            "• Protección electrostática (ESD): Incluida de serie para garantizar seguridad en la manipulación de componentes electrónicos sensibles."
                         ],
-                        "especificaciones": [],
+                        "especificaciones": [
+                            "• Estructura: Robot de 6 ejes.",
+                            "• Capacidad de carga: de 20 a 70 kg.",
+                            "• Alcance máximo: de 2101 mm a 3101 mm (según modelo).",
+                            "• Posiciones de montaje: suelo, pared, posición inclinada.",
+                            "• Rango de temperatura operativa: de 0 °C a 55 °C (versión Foundry).",
+                            "• Variantes disponibles: Modelo estándar, versión Foundry (altas temperaturas), versiones con protección ESD."
+                        ],
                         "video": ""
                     },
                     {
