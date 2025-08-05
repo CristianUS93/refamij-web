@@ -1958,29 +1958,44 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Soldadura",
+                        "nombre": "KR CYBERTECH",
                         "href": "",
                         "img": [
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/soldadura-actualizado-portada-a-medida.jpg",
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/SOLDADURA-(2).png"
                         ],
                         "docs": [],
-                        "descripcion": "La soldadura de robots es un proceso de unión de metales en el que un robot industrial realiza las operaciones de soldadura de manera automatizada. Este proceso implica el uso de un equipo de soldadura, generalmente un arco eléctrico o láser, para fundir y unir las piezas metálicas.",
+                        "descripcion": [
+                            "La familia de robots KR CYBERTECH de KUKA ofrece la gama más amplia del mundo en su clase de carga baja, combinando alto rendimiento, versatilidad y compactación extrema. Con capacidades de carga de hasta 22 kg y alcances que superan los 2 metros, estos robots han sido diseñados especialmente para conceptos de celdas compactas, logrando una productividad sobresaliente con costos operativos reducidos.",
+                            "El KR CYBERTECH destaca por su diseño esbelto, su gran capacidad de integración y su rendimiento constante en aplicaciones complejas de manipulación, procesamiento, montaje, soldadura y paletizado. Su estructura optimizada permite un comportamiento en marcha ágil y silencioso, mientras que su protección ESD integrada garantiza seguridad al trabajar con componentes electrónicos sensibles.",
+                            "Además, la serie incluye la versión KR CYBERTECH Edition, ideal para pequeñas empresas o industrias que se inician en la automatización, ya que ofrece una alternativa rentable con funciones esenciales y confiabilidad técnica garantizada."
+                        ],
                         "aplicaciones": [
-                            "• Industria automotriz",
-                            "• Fabricación de equipos pesados",
-                            "• Industria aeroespacial",
-                            "• Fabricación de electrodomésticos",
-                            "• Construcción naval"
+                            "Los robots KR CYBERTECH han sido desarrollados para cubrir una gran variedad de procesos industriales que requieren precisión, velocidad y flexibilidad:",
+                            "• Manipulación de componentes medianos y grandes.",
+                            "• Procesamiento mecánico y aplicaciones técnicas.",
+                            "• Montaje de piezas.",
+                            "• Paletizado automatizado.",
+                            "• Soldadura con gas de protección.",
+                            "• Automatización general en líneas de producción.",
+                            "• Manipulación de componentes electrónicos sensibles (con protección ESD)."
                         ],
                         "ventajas": [
-                            "• Precisión",
-                            "• Velocidad",
-                            "• Calidad mejorada",
-                            "• Seguridad",
-                            "• Flexibilidad"
+                            "• Alta velocidad con precisión constante: Operación más rápida sin pérdida de exactitud, lo que permite optimizar los tiempos de ciclo.",
+                            "• Diseño compacto y esbelto: Ocupa un espacio reducido, ideal para celdas de trabajo optimizadas.",
+                            "• Montaje versátil: Puede instalarse en el suelo, techo, pared o incluso en ángulo, facilitando su integración.",
+                            "• Compatibilidad energética: Diversas opciones de alimentación gracias al sistema de cables y conexiones flexibles.",
+                            "• Funcionamiento suave y silencioso: Trayectorias optimizadas para un movimiento fluido, reduciendo ruidos y vibraciones.",
+                            "• Protección ESD integrada: Equipado de serie para prevenir descargas electrostáticas, garantizando seguridad en procesos electrónicos.",
+                            "• Versión económica (KR 20 Edition): Ideal para pequeñas empresas o procesos con requerimientos básicos de automatización."
                         ],
-                        "especificaciones": [],
+                        "especificaciones": [
+                            "• Estructura: Robot de 6 ejes.",
+                            "• Capacidad de carga: de 8 a 22 kg.",
+                            "• Alcance máximo: de 1612 mm a 2013 mm (según modelo).",
+                            "• Posiciones de montaje: suelo, pared, techo o ángulo inclinado.",
+                            "• Variantes disponibles: Modelo estándar, KR 20 Edition (versión básica y económica), versiones con protección ESD."
+                        ],
                         "video": ""
                     },
                     {
