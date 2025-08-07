@@ -13,8 +13,8 @@
                 "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/checkweigher1.png",
                 "tipos": [
                     {
-                        "nombre": "Checkweigher Dimánico",
-                        "href": "/productos/Checkweigher Dimánico",
+                        "nombre": "CHECKWEIGHER DINÁMICO",
+                        "href": "/productos/CHECKWEIGHER DINÁMICO",
                         "img": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/checkweigher1.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/checkweigher2.png",
@@ -40,34 +40,47 @@
                         "docs": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/DINAMICO/CHECKWEIGHER DINAMICO REFAMIJ - PERFOR.pdf"
                         ],
-                        "descripcion": "El equipo permite el pesaje preciso de productos en movimiento a diferentes velocidades, asegurando el 100% de control en una línea de producción, con integración opcional a empaquetadoras para corrección de peso, múltiples pantallas para control de calidad en tiempo real, generación de registros de alarmas y eventos, programación adaptable con funciones avanzadas, bajo consumo energético y capacidad de pesaje de 1 a 50 000 g, con opciones personalizadas bajo consulta.",
+                        "descripcion": [
+                            "El Checkweigher Dinámico es un sistema automatizado de pesaje en movimiento, diseñado para verificar el peso de productos en una línea de producción sin necesidad de detener el flujo. Es capaz de operar en velocidades bajas y altas, ofreciendo precisión y confiabilidad en entornos exigentes. Este equipo realiza un control del 100% de los ítems procesados, generando datos estadísticos en tiempo real y registros completos de producción, rechazos y alarmas, optimizando así el control de calidad y la trazabilidad del proceso.",
+                            "Gracias a su arquitectura flexible, permite la integración directa con empaquetadoras y envasadoras, habilitando el feedback automático para corrección de peso. Está disponible con múltiples opciones de programación, como detección de doble paquete, calibración según normativas brasileñas (INMETRO), control estadístico de procesos (CEP), entre otros. Su diseño robusto, bajo consumo energético y compatibilidad con normas internacionales lo convierten en una solución integral y eficiente para diversas industrias."
+                        ],
                         "aplicaciones": [
-                            "• En línea de producción",
-                            "• Empaquetadoras/envasadoras",
-                            "• Pequeños y grandes volúmenes",
-                            "• Proyectos especiales "
+                            "El Checkweigher Dinámico es ideal para:",
+                            "• Líneas de producción con control de peso continuo.",
+                            "• Integración con empaquetadoras y envasadoras.",
+                            "• Procesos de producción con altos estándares de calidad.",
+                            "• Control de productos de pequeños y grandes volúmenes.",
+                            "• Proyectos especiales con requerimientos personalizados.",
+                            "• Aplicaciones en la industria alimentaria, farmacéutica, cosmética, química, entre otras."
                         ],
                         "ventajas": [
-                            "• Eficiencia en tiempo real",
-                            "• Mayor precisión",
-                            "• Mayor velocidad",
-                            "• Menor manipulacion",
-                            "• Versatilidad"
+                            "• Pesaje dinámico y preciso: Capacidad para pesar productos en movimiento con alta exactitud, incluso a velocidades elevadas.",
+                            "• 100% de inspección: Control total de todos los productos en línea, reduciendo el margen de error en el control de calidad.",
+                            "• Integración inteligente: Comunicación directa con otros equipos del proceso (empaquetadoras, clasificadores, impresoras).",
+                            "• Retroalimentación automática: Ajuste en tiempo real del sistema de llenado según el peso detectado.",
+                            "• Visualización en tiempo real: Múltiples pantallas táctiles con datos estadísticos y alertas.",
+                            "• Historial completo de eventos: Registro detallado de alarmas, producción, rechazos y pesajes para trazabilidad y auditorías.",
+                            "• Eficiencia energética: Bajo consumo eléctrico y neumático, optimizando recursos operativos.",
+                            "• Cumplimiento normativo: Diseñado bajo estándares ISO, IEC, directivas europeas, y normativas como INMETRO y RDC para la industria farmacéutica."
                         ],
                         "especificaciones": [
-                            "• Velocidades de hasta 350ppm (pesadas por minuto) para otras velocidad superiores bajo consulta; hasta 1000 recetas",
-                            "• De acero al carbono o acero inoxidable",
-                            "• Tensión electrica: 200Volts 1ph o 2ph, otros voltajes bajo consulta",
-                            "• Corriente (A): según proyecto",
-                            "• Potencia (kW) y consumo (kWh): según proyecto",
-                            "• Consumo neumático (l/min): según proyecto",
-                            "• Temperatura de operación: -5C° a 45°C",
-                            "• Grado de protección: IP64 /IP66/ IP69",
-                            "• Pantalla tipo Touch Screen de 7 a 10 pulgadas",
-                            "• Precisión de pesaje: ±0,1g; ±0,2g; ±0,5g; ±1,0g ; ±5,0g ; ±10,0g",
-                            "• Motores y servomotores de alto rendimiento",
-                            "• Lector de códigos de barras (opcional)",
-                            "• Impresora (opcional)"
+                            "• Capacidad de pesaje: Desde 1 g hasta 50 000 g (valores mayores o menores disponibles bajo consulta).",
+                            "• Velocidad: Hasta 350 ppm (pesajes por minuto), versiones de alta velocidad disponibles.",
+                            "• Precisión de pesaje: ±0,1 g / ±0,2 g / ±0,5 g / ±1,0 g / ±5,0 g / ±10 g.",
+                            "• Número de recetas: CLP hasta 100 recetas y CW-CPU hasta 1000 recetas.",
+                            "• Pantallas: Táctiles de 7 pulgadas y 10 pulgadas",
+                            "• Historial (logs): Alarmas, eventos, rechazos, producción y CEP (con CW-CPU).",
+                            "• Programaciones opcionales: Detección de doble paquete, Calibración INMETRO, CEP y Control de producción y rechazos secuenciales.",
+                            "• Normativas aplicables: Ordenanza 248 e IN 93/2022 (INMETRO - Brasil); RDC-658, RDC-301, IN 138/134 (industria farmacéutica); ISO, IEC, y Directiva Europea 2006/42/CE.",
+                            "• Sistemas de rechazo: Personalizables según proyecto.",
+                            "• Material de fabricación: Acero al carbono o acero inoxidable.",
+                            "• Motores/Servomotores: De alto rendimiento, según requerimiento.",
+                            "• Grado de protección: IP64, IP66 o IP69.",
+                            "• Temperatura de operación: -5 °C a 45 °C.",
+                            "• Cinta transportadora: PVC o según especificaciones FDA.",
+                            "• Tensión eléctrica: 220 V (1 o 2 fases), otros voltajes bajo consulta.",
+                            "• Consumo energético y neumático: Según configuración del proyecto.",
+                            "• Opcionales: Lector de códigos de barras (solo versión CLP), impresora"
                         ],
                         "video": "https://www.youtube.com/embed/LG9erixpDAU?si=u07oSP92Jal0ONeK"
                     },
@@ -1916,10 +1929,7 @@
                         "nombre": "KR AGILUS",
                         "href": "/productos/KR AGILUS",
                         "img": [
-                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO-actual-medida.jpg",
-                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO.png",
-                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-DE-BALDES.png",
-                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-DE-SACOS.png"
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO-actual-medida.jpg"
                         ],
                         "docs": [],
                         "descripcion": [
