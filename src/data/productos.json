@@ -1914,7 +1914,7 @@
                 "tipos": [
                     {
                         "nombre": "KR AGILUS",
-                        "href": "/productos/Paletizado y despaletizado",
+                        "href": "/productos/KR AGILUS",
                         "img": [
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO-actual-medida.jpg",
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO.png",
@@ -1959,7 +1959,7 @@
                     },
                     {
                         "nombre": "KR CYBERTECH",
-                        "href": "",
+                        "href": "/productos/KR CYBERTECH",
                         "img": [
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/soldadura-actualizado-portada-a-medida.jpg",
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/SOLDADURA-(2).png"
@@ -2000,7 +2000,7 @@
                     },
                     {
                         "nombre": "KR IONTEC",
-                        "href": "",
+                        "href": "/productos/KR IONTEC",
                         "img": [
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/MINERIA.png"
                         ],
@@ -2042,28 +2042,120 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Electronica",
-                        "href": "",
+                        "nombre": "KR QUANTEC",
+                        "href": "/productos/KR QUANTEC",
                         "img": [
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/ELECTRONICA (2).png"
                         ],
                         "docs": [],
-                        "descripcion": "Los sistemas electrónicos de los robots están diseñados para proporcionar capacidades de percepción, procesamiento y acción. Los sensores permiten al robot detectar su entorno y recopilar información sobre variables como la posición, el movimiento, la temperatura y la presión. Los controladores procesan esta información y generan comandos para los actuadores, que son los dispositivos responsables de realizar las acciones físicas, como mover brazos, piernas, ruedas o herramientas.",
+                        "descripcion": "La serie KR QUANTEC de KUKA representa una solución de alto rendimiento en la categoría de robots de carga pesada, con capacidades que van desde 120 kg hasta 300 kg y un alcance de hasta 3.904 mm. Diseñado para ofrecer máxima flexibilidad operativa, alto rendimiento y eficiencia a largo plazo, el KR QUANTEC es apto para una amplia variedad de industrias como automotriz, médica, metalmecánica, fundición, entre otras. Su estructura delgada, contornos optimizados y diseño compacto lo convierten en un equipo ideal para aplicaciones exigentes con limitaciones de espacio y altas demandas de precisión.",
                         "aplicaciones": [
-                            "• Robotica industrial",
-                            "• Automotización de procesos",
-                            "• Domótica",
-                            "• Robótica educativa",
-                            "• Investigación y desarrollo"
+                            "El KR QUANTEC está diseñado para múltiples operaciones industriales como:",
+                            "• Procesamiento mecánico y pulido.",
+                            "• Manipulación y montaje.",
+                            "• Corte, separación y aplicaciones con láser.",
+                            "• Pintado, pegado y otras aplicaciones de recubrimiento.",
+                            "• Paletizado y embalaje.",
+                            "• Soldadura MIG/MAG, TIG, por puntos y láser.",
+                            "• Impresión 3D y fabricación aditiva.",
+                            "• Medición y control de calidad.",
+                            "• Concatenación de prensas.",
+                            "• Operaciones en fundición con exigencias de protección elevadas."
                         ],
                         "ventajas": [
-                            "• Automatización",
-                            "• Precisión",
-                            "• Flexibilidad",
-                            "• Eficiencia energética",
-                            "• Mejora en la segurida"
+                            "• Flexibilidad superior: Amplio rango de aplicaciones, posición de montaje adaptable y posibilidad de reajustar la carga útil sin reemplazar el robot.",
+                            "• Optimización digital de movimientos: Con los Motion Modes puede priorizar velocidad (Dynamic Mode), precisión (Path Mode) o un equilibrio entre ambas (Performance Mode).",
+                            "• Bajo coste total de propiedad (TCO): Diseño con menos piezas de repuesto, altos intervalos de mantenimiento, mínima inactividad y eficiencia energética optimizada.",
+                            "• Integración eficiente: Geometría optimizada para facilitar la simulación, el diseño de células compactas y la instalación incluso en espacios restringidos.",
+                            "• Alta disponibilidad técnica: MTBF elevado, sistemas de alimentación duraderos y fiabilidad probada en entornos industriales exigentes.",
+                            "• Preparado para aplicaciones sensibles: Protección ESD de serie para el manejo seguro de componentes electrónicos.",
+                            "• Versión Foundry disponible: Para operaciones en entornos húmedos, polvorientos o de alta temperatura (hasta 180°C por 10 segundos por minuto)."
                         ],
-                        "especificaciones": [],
+                        "especificaciones": [
+                            "• Capacidad de carga útil: 120 – 300 kg.",
+                            "• Alcance: 2.671 – 3.904 mm.",
+                            "• Posiciones de montaje: Suelo, techo, pared.",
+                            "• Protección contra ESD: Incluida de serie.",
+                            "• Versiones especiales: Foundry (protección IP65/IP67, pintura resistente, brida de acero inoxidable, sistema de sobrepresión opcional).",
+                            "• Modos de movimiento digitalizados: Performance Mode: Precisión y velocidad equilibradas, Path Mode: Alta precisión de trayectoria, Dynamic Mode: Optimización de tiempos de ciclo.",
+                            "• Compatibilidad: Adecuado para células de trabajo compactas y automatización avanzada."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "KR FORTEC",
+                        "href": "/productos/KR FORTEC",
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/ELECTRONICA (2).png"
+                        ],
+                        "docs": [],
+                        "descripcion": "El KR FORTEC es un robot industrial de alto rendimiento diseñado para la manipulación de cargas pesadas de hasta 500 kg. Gracias a su estructura robusta, diseño compacto y eficiente consumo energético, este modelo representa una solución rentable y fiable para entornos de producción exigentes. Se sitúa estratégicamente entre el KR QUANTEC y el KR FORTEC ultra, completando la gama de robots de KUKA para tareas pesadas. Su arquitectura modular, junto con los conceptos tecnológicos ya probados, garantiza un funcionamiento continuo con mínimo mantenimiento y óptimos resultados.",
+                        "aplicaciones": [
+                            "El KR FORTEC está optimizado para tareas industriales que requieren manipulación de gran precisión, resistencia y repetibilidad. Es adecuado para:",
+                            "• Procesamiento mecánico y pulido.",
+                            "• Manipulación y montaje de piezas pesadas.",
+                            "• Corte y separación de materiales.",
+                            "• Aplicación de pintura, pegado o recubrimientos.",
+                            "• Paletizado y embalado en líneas de producción.",
+                            "• Soldadura por puntos y corte/soldadura láser.",
+                            "• Medición y comprobación de componentes."
+                        ],
+                        "ventajas": [
+                            "• Alto rendimiento en espacios reducidos: Diseño compacto que permite su integración en celdas automatizadas sin comprometer capacidad de carga o alcance.",
+                            "• Reducción de tiempos de ciclo: Mayor dinamismo para ciclos de trabajo más cortos y eficientes.",
+                            "• Consumo energético optimizado: Bajo consumo que contribuye a la reducción del coste operativo.",
+                            "• Arquitectura modular: Comparte repuestos con las familias KR QUANTEC y KR FORTEC ultra, simplificando la planificación y reduciendo costos logísticos.",
+                            "• Fiabilidad operativa: Elevado tiempo medio entre fallos (MTBF), ideal para producción continua.",
+                            "• Mantenimiento mínimo: Accesibilidad optimizada para servicios rápidos; no requiere inspección TÜV del sistema de compensación de peso."
+                        ],
+                        "especificaciones": [
+                            "• Capacidad de carga: Hasta 500 kg.",
+                            "• Alcance: Variable, según configuración específica del modelo.",
+                            "• Consumo energético: Optimizado para operación continua.",
+                            "• Compatibilidad: Componentes compartidos con otras series de KUKA.",
+                            "• Aplicaciones compatibles: Manipulación, soldadura, montaje, corte, pintura, embalaje, inspección."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "KR 1000 TITAN",
+                        "href": "/productos/KR 1000 TITAN",
+                        "img": [
+                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/ELECTRONICA (2).png"
+                        ],
+                        "docs": [],
+                        "descripcion": [
+                            "El KR 1000 titan es un robot industrial de seis ejes diseñado específicamente para la manipulación de cargas extremadamente pesadas, con una capacidad que alcanza hasta 1300 kg. Es el primer robot con cinemática abierta para este rango de carga, lo que le permite operar con gran precisión incluso en distancias de hasta 6.5 metros. Gracias a su diseño robusto y alta dinámica, este modelo garantiza una manipulación segura, estable y eficiente de piezas de gran volumen y peso, como bloques de mármol, motores, vigas de acero o componentes aeronáuticos.",
+                            "Está disponible en versiones especializadas, como la variante Foundry, diseñada para entornos exigentes con altas temperaturas y suciedad, y la versión de paletizado de alto tonelaje, que permite cargas de hasta 1.3 toneladas. Su adaptabilidad lo convierte en una solución óptima para industrias que requieren alto rendimiento y máxima confiabilidad en la manipulación de grandes volúmenes."
+                        ],
+                        "aplicaciones": [
+                            "El KR 1000 titan es ideal para procesos industriales donde se requiera fuerza, alcance y precisión, tales como:",
+                            "• Manipulación de piezas de gran peso y tamaño.",
+                            "• Paletizado y embalaje de cargas pesadas.",
+                            "• Aplicaciones en fundición o ambientes de protección exigente.",
+                            "• Procesamiento mecánico y operaciones de pulido.",
+                            "• Montaje de estructuras pesadas.",
+                            "• Soldadura por puntos en piezas de gran volumen.",
+                            "• Medición y control de componentes industriales.",
+                            "• Corte o separación de materiales masivos.",
+                            "• Aplicaciones de pintura, pegado o recubrimiento."
+                        ],
+                        "ventajas": [
+                            "• Alta dinámica: Movimiento preciso y rápido incluso con piezas de gran peso, logrando excelentes tiempos de ciclo.",
+                            "• Productividad mejorada: Gracias a su precisión, reduce el desperdicio, mejora la calidad de producción y optimiza el uso del espacio de trabajo.",
+                            "• Flexibilidad en integración: Compatible con ejes lineales y sistemas de paletizado, facilitando su incorporación en diferentes tipos de líneas productivas sin requerir adaptaciones estructurales.",
+                            "• Diseño robusto: Preparado para ambientes extremos y aplicaciones exigentes.",
+                            "• Capacidad de carga superior: Permite manejar hasta 1.3 toneladas, cubriendo una amplia gama de necesidades industriales.",
+                            "• Variedades especializadas: Modelos disponibles para fundición y paletizado de gran tonelaje, adaptándose a entornos de alta exigencia."
+                        ],
+                        "especificaciones": [
+                            "• Estructura: Robot industrial de 6 ejes.",
+                            "• Capacidad de carga: Desde 750 kg hasta 1300 kg.",
+                            "• Alcance máximo: Entre 3202 mm y 3601 mm.",
+                            "• Opciones disponibles: Versión estándar, Versión Foundry (entornos extremos), Versión para paletizado de cargas pesadas.",
+                            "• Posiciones de instalación: Piso.",
+                            "• Compatibilidad: Integrable con ejes lineales y sistemas automatizados de gran escala."
+                        ],
                         "video": ""
                     }
                 ]
