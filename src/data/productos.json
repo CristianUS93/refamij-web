@@ -106,31 +106,38 @@
                         "docs": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/1. SISTEMA DE PESAJE/ESTATICO/SISTEMA DE PESAJE ESTÁTICO REFAMIJ - PERFOR.pdf"
                         ],
-                        "descripcion": "El sistema de pesaje estático Perfor garantiza la precisión al 100% de los productos en una línea de producción, integrándose con facilidad a empaquetadoras y envasadoras para correcciones de peso. Ofrece múltiples pantallas para control de calidad con datos estadísticos en tiempo real, así como registros detallados de alarmas, eventos, rechazos y producción. Con opciones programable como la calibración de INMETRO y del peso, junto con un bajo consumo de energía, estos equipos están diseñados para pesar productos en un rango de 500g a 5000g, con posibilidad de adaptación a pesos superiores o inferiores según la necesidad del cliente. ",
+                        "descripcion": [
+                            "El Sistema de Pesaje Estático está diseñado para comprobar el peso de los productos de forma precisa y confiable, asegurando un control total en líneas de producción. Permite el pesaje del 100% de los ítems, con opción de integración a empaquetadoras o envasadoras para realizar retroalimentación automática de corrección de peso.",
+                            "Cuenta con pantallas dedicadas al control de calidad que muestran datos estadísticos en tiempo real y genera históricos de alarmas, eventos, rechazos, pesos y producción (función disponible con tarjeta CW-CPU). El equipo ofrece múltiples opciones de programación, incluyendo calibraciones específicas, control estadístico de producción (CEP) y registros de rechazos consecutivos, todo con un bajo consumo de energía. Está disponible para capacidades desde 500 g hasta 5 000 g, con posibilidades para otros rangos bajo consulta."
+                        ],
                         "aplicaciones": [
-                            "• Empaquetadoras / envasadoras verticales",
-                            "• Pequeños volúmenes",
-                            "• Proyectos especiales"
+                            "• Empaquetadoras y envasadoras verticales.",
+                            "• Procesos de pesaje para pequeños volúmenes.",
+                            "• Proyectos especiales de control de peso en producción."
                         ],
                         "ventajas": [
-                            "• Presición",
-                            "• Facilidad de uso",
-                            "• Rapidez",
-                            "• Versatilidad",
-                            "• Durabilidad"
+                            "• Precisión y control total: Garantiza el pesaje del 100% de los productos.",
+                            "• Integración sencilla: Compatible con equipos de envasado y sistemas de rechazo o clasificación.",
+                            "• Optimización de la calidad: Datos estadísticos en tiempo real y registros históricos para análisis.",
+                            "• Flexibilidad de uso: Configurable para distintos rangos de peso y requisitos normativos.",
+                            "• Eficiencia energética: Bajo consumo eléctrico y neumático."
                         ],
                         "especificaciones": [
-                            "• Velocidades de hasta 65ppm (pesajes por minuto) hasta 1000g, y para 45 a 50ppm de 2000 a 5000g, hasta 1000 recetas",
-                            "• Tensión eléctrica: 220 Volts 1ph o 2ph, otros voltajes bajo consulta",
-                            "• Corriente (A): 0,2",
-                            "• Potencia (kW): 0,23",
-                            "• Consumo (kWh): 0,03",
-                            "• Consumo neumático (l/min): 100",
-                            "• Temperatura de operación: 8°C a 45°C",
-                            "• De acero al carbono o acero inoxidable",
-                            "• Grado de protección: IP64/IP66/IP69",
-                            "• Pantalla tipo Touch Screen de 7 pulgadas",
-                            "• Precisión de Pesaje: ±0,5g; ±1,0g; y ±2,0g"
+                            "• Velocidad: Hasta 65 ppm (hasta 1 000 g) y de 45 a 50 ppm (de 2 000 g a 5 000 g).",
+                            "• Capacidad de recetas: Hasta 1 000 recetas (CW-CPU) y 100 recetas (CLP).",
+                            "• Normativa: Adecuado a Ordenanza 248 del INMETRO y en proceso de adaptación a Ordenanza 93/2022; cumple normas ISO, IEC y DIRECTIVA 2006/42/CE.",
+                            "• Sistemas de clasificación/rechazo según proyecto.",
+                            "• Tensión eléctrica: 220 V (1 ph o 2 ph); otros voltajes bajo consulta.",
+                            "• Corriente: 0,2 A.",
+                            "• Potencia: 0,23 kW.",
+                            "• Consumo eléctrico: 0,03 kWh.",
+                            "• Consumo neumático: 100 l/min.",
+                            "• Temperatura de operación: 8°C a 45°C.",
+                            "• Materiales: Acero al carbono o acero inoxidable.",
+                            "• Color estándar: PERFOR TP 20 R LI GRIS 11680 BR; otros colores bajo consulta.",
+                            "• Grado de protección: IP64 / IP66 / IP69.",
+                            "• Pantalla: Touch Screen de 7 pulgadas.",
+                            "• Precisión de pesaje: ± 0,5 g; ± 1,0 g; ± 2,0 g."
                         ],
                         "video": ""
                     }
@@ -142,8 +149,8 @@
                 "img": "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales.png",
                 "tipos": [
                     {
-                        "nombre": "Detector de Metales Vertical",
-                        "href": "/productos/Detector de Metáles Vertical",
+                        "nombre": "Detector de Metales",
+                        "href": "/productos/Detector de Metáles",
                         "img": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL VERTICAL/nuevo-catalogo.png",
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL VERTICAL/detector-de-metales-(2)-neuvo.png",
@@ -156,80 +163,48 @@
                         "docs": [
                             "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL VERTICAL/PERFOR BROCHURE DETECTOR DE METAL VERTICAL UPDATE.pdf"
                         ],
-                        "descripcion": "Los Detectores de Metales fabricados por PERFOR emplean un principio de funcionamiento, que se basa en el análisis de la interferencia de un metal bajo un campo magnético transmitido. Estos dispositivos son capaces de verificar contaminantes metálicos en productos en movimiento, tanto a baja como alta velocidad, garantizando un inspección del 100% de los artículos en una linea de produccion. Ofrecen varias pantallas para el control de calidad con estadisticas en tiempo real, y opciones programables como la prueba de cuerpo, rechazo y rechazos seguidos. ",
+                        "descripcion": "El Detector de Metales es un equipo diseñado para inspeccionar productos en movimiento mediante la detección de interferencias en un campo magnético generado. Su principio de funcionamiento permite identificar contaminantes metálicos, tanto ferrosos como no ferrosos, con alta precisión y eficiencia, garantizando el control de calidad en tiempo real. Disponible en versiones vertical (DMV) y horizontal (DMH), este equipo se adapta a diferentes configuraciones de línea y tipos de productos. Permite la inspección del 100% de los ítems de una línea de producción y puede operar a distintas velocidades según el modelo y la necesidad del proyecto.",
                         "aplicaciones": [
-                            "• Productos in-natura",
-                            "• Aplicaciones de la línea de caída libre",
-                            "• Big bag",
-                            "• Ensacaderas",
-                            "• Por encima de los empaquetadores / envasadores",
-                            "• Lineas presurizadas"
+                            "DMV (Detector de Metales Vertical)",
+                            "• Productos in natura.",
+                            "• Aplicaciones en líneas de caída libre.",
+                            "• Bolsas grandes.",
+                            "• Ensacadoras.",
+                            "• Posicionamiento sobre empaquetadoras o envasadoras.",
+                            "• Líneas presurizadas.",
+                            " ",
+                            "DMH (Detector de Metales Horizontal)",
+                            "• Productos in natura.",
+                            "• Paquetes, fardos, cajas y bolsas.",
+                            "• Aplicaciones en líneas horizontales.",
+                            "• Posicionamiento debajo de empaquetadoras.",
+                            "• Envasadoras verticales.",
+                            "• Integración directa en la línea de producción.",
+                            "• Proyectos de pequeño o gran volumen."
                         ],
                         "ventajas": [
-                            "• Eficiencia en el espacio",
-                            "• Mayor precision de detección",
-                            "• Facilidad de integración",
-                            "• Inspección en múltiples direcciones",
-                            "• Menos interferencia externa"
+                            "• Inspección continua y precisa incluso a altas velocidades.",
+                            "• Control de calidad con datos estadísticos en tiempo real.",
+                            "• Bajo consumo energético y neumático, optimizado para eficiencia operativa.",
+                            "• Configuración de pruebas automáticas de patrones y sistemas de rechazo.",
+                            "• Hasta 100 recetas disponibles para adaptarse a distintas producciones.",
+                            "• Cumplimiento con normas técnicas internacionales (ISO, IEC) y seguridad europea (Directiva 2006/42/CE).",
+                            "• Opciones de integración y personalización según el proyecto."
                         ],
                         "especificaciones": [
-                            "• DMH Velocidad de hasta 600 productos por minuto y para velocidades superiores bajo consulta",
-                            "• Tension eléctrica: 220Volts 1ph o 2ph",
-                            "• DMV Corriente (A): 0,2",
-                            "• DMV Potencia (kW): 0,085",
-                            "• DMV Consumo (kWh): 0,028",
-                            "• DMH Corriente (A): según proyecto",
-                            "• Temperatura de operación: 10°C a 45°C",
-                            "• Grado de protección: IP64/IP66/IP69P",
-                            "• Pantalla tipo Touch Screen de 4,3 pulgadas",
-                            "• Motores y servomotores de alto rendimiento",
-                            "• De acero al carbono y aluminio o acero inoxidable",
-                            "• Piezas de prueba de Fe(hierro) / NFe(no ferroso) / SS(acero inoxidabe)"
-                        ],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Detector de Metales Horizontal",
-                        "href": "/productos/Detector de Metáles Horizontal",
-                        "img": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL HORIZONTAL/(3)-nuevo.png",
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL HORIZONTAL/detector-de-metalesnuevo.png",
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/Detector de metales horizontal.png",
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/detector-de-meta-(2)l horizontal.png",
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/detector-de-metales-b horizontal.png"
-                        ],
-                        "docs": [
-                            "/productos/1. ENVASADORA E INSPECCION - Perfor/2. DETECTOR DE METALES/DETECTOR DE METAL HORIZONTAL/PERFOR BROCHURE DETECTOR DE METAL HORIZONTAL UPDATE.pdf"
-                        ],
-                        "descripcion": "Los Detectores de Metales fabricados por PERFOR emplean un principio de funcionamiento, que se basa en el análisis de la interferencia de un metal bajo un campo magnético transmitido. Estos dispositivos son capaces de verificar contaminantes metálicos en productos en movimiento, tanto a baja como alta velocidad, garantizando un inspección del 100% de los artículos en una linea de produccion. Ofrecen varias pantallas para el control de calidad con estadisticas en tiempo real, y opciones programables como la prueba de cuerpo, rechazo y rechazos seguidos.",
-                        "aplicaciones": [
-                            "• Productos in-natura",
-                            "• Paquetes, fardos, cajas, bolsas, entre otros",
-                            "• Aplicado en líneas horizontales",
-                            "• Abajo de las empaquetadoras",
-                            "• Envasadoras verticales",
-                            "• En la linea de produccion pequeños y grandes volumenes"
-                        ],
-                        "ventajas": [
-                            "• Mayor capacidad de detección de contaminantes",
-                            "• Adaptabilidad a diferentes tamaños de productos",
-                            "• Inspección en la línea continua",
-                            "• Facilidad de integración en líneas de producción",
-                            "• Menor riesgo de daño al producto"
-                        ],
-                        "especificaciones": [
-                            "• DMH Velocidad de hasta 600 productos por minuto y para velocidades superiores bajo consulta",
-                            "• Tension eléctrica: 220Volts 1ph o 2ph",
-                            "• DMV Corriente (A): 0,2",
-                            "• DMV Potencia (kW): 0,085",
-                            "• DMV Consumo (kWh): 0,028",
-                            "• DMH Corriente (A): según proyecto",
-                            "• Temperatura de operación: 10°C a 45°C",
-                            "• Grado de protección: IP64/IP66/IP69P",
-                            "• Pantalla tipo Touch Screen de 4,3 pulgadas",
-                            "• Motores y servomotores de alto rendimiento",
-                            "• De acero al carbono y aluminio o acero inoxidable",
-                            "• Piezas de prueba de Fe(hierro) / NFe(no ferroso) / SS(acero inoxidabe)"
+                            "• Velocidad (DMH): hasta 600 productos por minuto (otras velocidades bajo consulta).",
+                            "• Velocidad (DMV): según necesidad de escurrimiento y diámetro de tubería del cliente.",
+                            "• Cantidad de recetas: hasta 100.",
+                            "• Tensión eléctrica: 220 V monofásico o bifásico (otros voltajes bajo consulta).",
+                            "• Consumo (DMH): según proyecto.",
+                            "• Consumo (DMV): 0,028 kWh; Potencia: 0,085 kW; Corriente: 0,2 A.",
+                            "• Temperatura de operación: 10°C a 45°C.",
+                            "• Grado de protección: IP64 / IP66 / IP69.",
+                            "• Cinta transportadora: PVC u otra aprobada por FDA según el proyecto.",
+                            "• Pantalla: Touch Screen de 4,3 pulgadas.",
+                            "• Estructura: Fabricado en acero al carbono y aluminio, o acero inoxidable.",
+                            "• Elementos certificados de prueba: FE (ferroso), NFE (no ferroso), SS (acero inoxidable).",
+                            "• Rechazo y clasificación: Sistemas personalizables según requerimientos del cliente."
                         ],
                         "video": ""
                     },
