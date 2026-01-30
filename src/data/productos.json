@@ -3002,103 +3002,6 @@
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
-                "nombre": "Aplicadores de Etiqueta Sleeve",
-                "href": "/productos/Aplicadores de Etiquetas y Sleeve- Aplicadores de Etiqueta Sleeve",
-                "img": "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-(2) PONER DE PORTADA.jpg",
-                "tipos": [
-                    {
-                        "nombre": "Ensacado de Boca Abierta",
-                        "href": "/productos/Puertas Enrollables",
-                        "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-(2)-PONER-DE-PORTADA.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/2.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/3.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/4.jpg"
-                        ],
-                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/BROCHURE PUERTA RAPIDA ENROLLABLE PVC.pdf"],
-                        "descripcion": "Una puerta rápida enrollable de PVC es una solución eficiente para accesos rápidos en entornos industriales y comerciales. Está hecha de paneles de PVC reforzado que se enrollan verticalmente para abrirse y cerrarse rápidamente. Son duraderas, resistentes a condiciones adversas y ocupan poco espacio. Ideal para almacenes fábricas y garajes.",
-                        "aplicaciones": [
-                            ""
-                        ],
-                        "ventajas": [
-                            ""
-                        ],
-                        "especificaciones": [
-                            ""
-                        ],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Estaciones de Llenado de Bigbag - FIBC",
-                        "href": "/productos/Puertas Plegables",
-                        "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/1.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/2.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/3.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE-PVC-(1).jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/VA-ULTIMO-ROJO.jpg"
-                        ],
-                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/BROCHURE PUERTA PLEGABLE DE PVC.pdf"],
-                        "descripcion": "Una puerta industrial plegable de PVC es una solucion versátil y eficiente para accesos rápido entornos industriales y comerciales. Compuesta por paneles de PVC reforzado que se pliegan horizontalmente al abrirse, ofrece un amplio espacio de entrada y salida. Su diseño compacto maximiza el uso del espacio disponible. Son duraderas, resistentes a condiciones adversas y fáciles de mantener. Se utilizan comúnmente en almacenes, centros de distribución y áreas de carga y descarga.",
-                        "aplicaciones": [
-                            ""
-                        ],
-                        "ventajas": [
-                            ""
-                        ],
-                        "especificaciones": [
-                            ""
-                        ],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Ensacado FFS (Formación, Llenado y Sellado)",
-                        "href": "/productos/Puertas Enrollables",
-                        "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/PUERTA-RAPIDA-(2)-PONER-DE-PORTADA.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/2.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/3.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/4.jpg"
-                        ],
-                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/ENROLLABLES/BROCHURE PUERTA RAPIDA ENROLLABLE PVC.pdf"],
-                        "descripcion": "Una puerta rápida enrollable de PVC es una solución eficiente para accesos rápidos en entornos industriales y comerciales. Está hecha de paneles de PVC reforzado que se enrollan verticalmente para abrirse y cerrarse rápidamente. Son duraderas, resistentes a condiciones adversas y ocupan poco espacio. Ideal para almacenes fábricas y garajes.",
-                        "aplicaciones": [
-                            ""
-                        ],
-                        "ventajas": [
-                            ""
-                        ],
-                        "especificaciones": [
-                            ""
-                        ],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Ensacado de Valvula",
-                        "href": "/productos/Puertas Plegables",
-                        "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/1.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/2.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/3.jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/PUERTA-PEGABLE-PVC-(1).jpg",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/VA-ULTIMO-ROJO.jpg"
-                        ],
-                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS RAPIDAS DE PVC/PLEGABLES/BROCHURE PUERTA PLEGABLE DE PVC.pdf"],
-                        "descripcion": "Una puerta industrial plegable de PVC es una solucion versátil y eficiente para accesos rápido entornos industriales y comerciales. Compuesta por paneles de PVC reforzado que se pliegan horizontalmente al abrirse, ofrece un amplio espacio de entrada y salida. Su diseño compacto maximiza el uso del espacio disponible. Son duraderas, resistentes a condiciones adversas y fáciles de mantener. Se utilizan comúnmente en almacenes, centros de distribución y áreas de carga y descarga.",
-                        "aplicaciones": [
-                            ""
-                        ],
-                        "ventajas": [
-                            ""
-                        ],
-                        "especificaciones": [
-                            ""
-                        ],
-                        "video": ""
-                    }
-                ]
-            },
-            {
                 "nombre": "Paletizacion de Sacos",
                 "href": "/productos/Lineas Completas en Ensacado-Paletizacion de Sacos",
                 "img": "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/PUERTA-SECCIONAL-(A)PONER DE PORTADA.png",
@@ -3247,100 +3150,803 @@
                             "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
                         ],
                         "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
-                        "descripcion": "Una puerta seccional industrial es una solución robusta y eficiente para el acceso a grandes espacios comerciales e industriales. Está compuesta por paneles horizontales articulados que se desplazan verticalmente hacia arriba y luego a lo largo del techo al abrirse. Fabricadas con materiales duraderos como acero galvanizado o aluminio, estas puertas ofrecen resistencia a condiciones adversas y puedes incluir aislamiento término y acústico.",
+                        "descripcion": "El Túnel de Retracción de Sleeve es un equipo diseñado para el encogimiento uniforme y controlado de etiquetas sleeve, garantizando un acabado preciso y de alta calidad en el proceso de etiquetado. Incorpora un sistema de control de resistencias totalmente ajustable por el operador mediante un display digital, lo que permite una gestión intuitiva y precisa de la temperatura tanto en la base de la cinta transportadora como en los laterales del túnel. El equipo permite regular fácilmente la velocidad de la cinta transportadora a través del panel de operación, adaptándose a las características de cada producto. Su diseño robusto en acero inoxidable AISI 304, junto con su capacidad de operación en seco o húmedo (sistema híbrido), lo convierten en una solución eficiente, flexible y confiable para líneas de producción de distintos tamaños y niveles de exigencia.",
                         "aplicaciones": [
-                            ""
+                            "El Túnel de Retracción de Sleeve es adecuado para:",
+                            "• Encogimiento de etiquetas sleeve en envases plásticos, de vidrio o metálicos.",
+                            "• Líneas automáticas de etiquetado sleeve de media y alta producción.",
+                            "• Procesos que requieren control preciso de temperatura y ventilación.",
+                            "• Integración con etiquetadoras sleeve y cintas transportadoras.",
+                            "• Industrias alimentaria, de bebidas, cosmética, farmacéutica, química y de limpieza."
                         ],
                         "ventajas": [
-                            ""
+                            "• Operación híbrida: trabajo en seco o húmedo según el requerimiento del producto.",
+                            "• Encogimiento uniforme y preciso gracias a controles independientes de ventilación.",
+                            "• Ajuste preciso de temperatura mediante control PID.",
+                            "• Regulación flexible de la velocidad de transporte.",
+                            "• Estructura robusta y resistente en acero inoxidable AISI 304.",
+                            "• Aislamiento térmico que mejora la eficiencia energética y la seguridad operativa.",
+                            "• Sistema sostenible con canal de recolección y reutilización de agua.",
+                            "• Fácil operación, configuración y adaptación a distintos formatos de producto."
                         ],
                         "especificaciones": [
-                            ""
+                            "• Tipo de operación: seco o húmedo (híbrido).",
+                            "• Controles de ventilación: Pre-encogimiento y Encogimiento.",
+                            "• Control de velocidad: inversor de frecuencia.",
+                            "• Longitud del túnel: 1,2 m o 1,5 m.",
+                            "• Control de temperatura: sistema PID.",
+                            "• Estructura: acero inoxidable AISI 304.",
+                            "• Kit de configuración para adaptación a diferentes productos.",
+                            "• Canal para recolección y reutilización de agua.",
+                            "• Aislamiento térmico integrado."
                         ],
                         "video": ""
                     }
                 ]
             },
             {
-                "nombre": "Enfundado y Enfardado de Palets",
-                "href": "/productos/Lineas Completas en Ensacado-Enfundado y Enfardado de Palets",
-                "img": "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-HIDRAULICA-(2) PONER DE PORTADA.png",
+                "nombre": "Paletizacion de Sacos",
+                "href": "/productos/Lineas Completas en Ensacado-Paletizacion de Sacos",
+                "img": "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/PUERTA-SECCIONAL-(A)PONER DE PORTADA.png",
                 "tipos": [
                     {
-                        "nombre": "Enfundado Stretch Hood",
-                        "href": "/productos/Rampa hidráulica",
+                        "nombre": "Etiquetadora Envolvente (PLM)",
+                        "href": "/productos/Etiquetadora Envolvente (PLM)",
                         "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-HIDRAULICA-(2) PONER DE PORTADA.png",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-(3).png",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/RAMPAS HIDRAULICAS/RAMPA-(1).jpg"
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
                         ],
-                        "docs": [],
-                        "descripcion": "La rampa hidráulica consta de una plataforma de carga montada sobre un sistema hidráulico que puede ser operado automáticamente. Este sistema utiliza cilindros hidráulicos para elevar o descender la plataforma, lo que permite carga y descarga mercancías de manera eficiente",
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora Envolvente PLM es un equipo diseñado para el etiquetado de envases cilíndricos como botellas, latas y frascos, garantizando alta precisión y rendimiento. Incorpora el sistema de servomotor alemán NOVEXX ALS204, lo que asegura un etiquetado estable, exacto y eficiente. Su diseño modular permite la integración de dispositivos adicionales como platos giratorios de alimentación o recolección e impresoras, optimizando la productividad en líneas de envasado industrial.",
                         "aplicaciones": [
-                            ""
+                            "• Etiquetado envolvente en botellas, frascos, tubos y latas cilíndricas.",
+                            "• Sectores: alimenticio, bebidas, farmacéutico, químico y cosmético.",
+                            "• Procesos de identificación, trazabilidad y presentación de productos."
                         ],
                         "ventajas": [
-                            ""
+                            "• Alta precisión de etiquetado con una tolerancia de ±1,0 mm.",
+                            "• Velocidad adaptable de hasta 200 envases por minuto.",
+                            "• Sistema de servomotor alemán NOVEXX ALS204, garantizando confiabilidad y durabilidad.",
+                            "• Versatilidad en formatos gracias a su amplio rango de tamaños de etiquetas y productos.",
+                            "• Compatibilidad con dispositivos adicionales: platos giratorios de alimentación/recolección e impresoras.",
+                            "• Diseño robusto y compacto, optimizando espacio en planta."
                         ],
                         "especificaciones": [
-                            ""
+                            "• Modelos disponibles: PLM-A / PLM-ALS204.",
+                            "• Motor de etiquetado: Servomotor Alemán NOVEXX ALS204.",
+                            "• Posición de etiquetado: Vertical y envolvente.",
+                            "• Tamaño de etiqueta: Alto 10-150 mm / Largo 10-230 mm.",
+                            "• Tamaño de producto: Diámetro 20-100 mm / Alto 30-260 mm.",
+                            "• Rendimiento: 50 a 200 piezas/minuto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Rollo de etiquetas: Diámetro interior 76 mm y Diámetro exterior 350 mm (máx.).",
+                            "• Potencia: 650 W.",
+                            "• Dimensiones: Largo 1800 mm x Ancho 800 mm x Alto 1500 mm.",
+                            "• Peso: 230 kg."
                         ],
                         "video": ""
                     },
                     {
-                        "nombre": "Enfardado de Anillo Giratorio",
-                        "href": "/productos/Mesa hidráulica",
+                        "nombre": "Etiquetadora de Vías Horizontales (PWM)",
+                        "href": "/productos/Etiquetadora de Vías Horizontales (PWM)",
                         "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/mesa hidraulica PONER EN LA PORTADA.png",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/mesa hidraulica (2).png",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/Mesa hidraulica (3).png",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/mesa hidraulica (4).png"
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
                         ],
-                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/BROCHURE MESA HIDRAULICA.pdf"],
-                        "descripcion": "La mesa hidráulica de doble tijera es un dispositivo utilizado para elevar cargas pesadas de manera controlada y segura. Consiste en una plataforma de trabajo apoyada sobre dos juegos de tijeras hidráulicas que se extienden verticalmente. Estas tijeras están conectadas a uns sistema hidráulico que permite elevar o descender la plataforma de manera uniforme y controlada",
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora de Vías Horizontales PWM ha sido diseñada para el etiquetado envolvente de productos cilíndricos de pequeño tamaño como ampollas, viales, tubos, lápices labiales, bolígrafos y salchichas. Equipada con el sistema de servomotor alemán NOVEXX ALS204, garantiza un proceso de etiquetado confiable, preciso y de alta velocidad. Su diseño versátil permite la integración de dispositivos complementarios como tolva de recolección e impresora, adaptándose a diversas necesidades de producción en la industria.",
                         "aplicaciones": [
-                            "• Industria manufacturera",
-                            "• Almacenes y centros de distribución",
-                            "• Talleres y garajes",
-                            "• Industria alimentaria",
-                            "• Laboratorios y centros de investigación"
+                            "• Etiquetado de productos de pequeño diámetro en posición horizontal.",
+                            "• Sectores: farmacéutico, cosmético, alimenticio y químico.",
+                            "• Procesos de trazabilidad, identificación y presentación de productos cilíndricos."
                         ],
                         "ventajas": [
-                            "• Capacidad de elevación",
-                            "• Control preciso",
-                            "• Seguridad",
-                            "• Versatilidad",
-                            "• Mejora la ergonomía"
+                            "• Precisión de etiquetado ±1.0 mm, garantizando exactitud en productos pequeños.",
+                            "• Alta velocidad de operación, con un rango de hasta 300 piezas por minuto.",
+                            "• Tecnología de servomotor alemán NOVEXX ALS204, que asegura durabilidad y rendimiento.",
+                            "• Compatibilidad con dispositivos adicionales: tolva de recolección e impresora.",
+                            "• Adaptabilidad a múltiples formatos de productos cilíndricos.",
+                            "• Diseño robusto y compacto, optimizando el espacio en planta."
                         ],
-                        "especificaciones": [],
+                        "especificaciones": [
+                            "• Modelos disponibles: PWM-A / PWM-ALS204.",
+                            "• Motor de etiquetado: Servomotor Alemán NOVEXX ALS204.",
+                            "• Modo de etiquetado: Horizontal, envolvente.",
+                            "• Producto adecuado: Ampolla, tubo, vial, bolígrafo, lápiz labial, salchicha.",
+                            "• Tamaño de etiqueta: Alto 15-100 mm / Largo 15-100 mm.",
+                            "• Tamaño de producto: Diámetro 10-30 mm.",
+                            "• Rendimiento: 50 a 300 piezas/minuto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Requerimiento neumático (impresora): 5 kg/cm².",
+                            "• Potencia: 650 W.",
+                            "• Dimensiones: Largo 1800 mm x Ancho 800 mm x Alto 1500 mm.",
+                            "• Peso: 220 kg."
+                        ],
                         "video": ""
                     },
                     {
-                        "nombre": "Enfardado de Mesa Giratoria",
-                        "href": "/productos/Mesa hidráulica",
+                        "nombre": "Etiquetadora de Superficie Superior (DPM)",
+                        "href": "/productos/Etiquetadora de Superficie Superior (DPM)",
                         "img": [
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/mesa hidraulica PONER EN LA PORTADA.png",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/mesa hidraulica (2).png",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/Mesa hidraulica (3).png",
-                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/mesa hidraulica (4).png"
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
                         ],
-                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/MESA ELEVADORA/BROCHURE MESA HIDRAULICA.pdf"],
-                        "descripcion": "La mesa hidráulica de doble tijera es un dispositivo utilizado para elevar cargas pesadas de manera controlada y segura. Consiste en una plataforma de trabajo apoyada sobre dos juegos de tijeras hidráulicas que se extienden verticalmente. Estas tijeras están conectadas a uns sistema hidráulico que permite elevar o descender la plataforma de manera uniforme y controlada",
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora de Superficie Superior DPM está diseñada para el etiquetado preciso de la parte superior de envases planos y contenedores, tales como cajas, cartones, bolsas, tapas, vasos y recipientes. Equipada con el avanzado sistema de servomotor alemán NOVEXX ALS204, asegura un etiquetado estable, uniforme y de alta precisión incluso en aplicaciones de alto rendimiento. Su diseño versátil permite la integración de un cilindro de aire para la aplicación de etiquetas en forma de sello en U, ampliando su rango de uso en diferentes industrias.",
                         "aplicaciones": [
-                            "• Industria manufacturera",
-                            "• Almacenes y centros de distribución",
-                            "• Talleres y garajes",
-                            "• Industria alimentaria",
-                            "• Laboratorios y centros de investigación"
+                            "• Industria alimenticia: etiquetado de vasos, tapas, bolsas y envases flexibles.",
+                            "• Industria farmacéutica y cosmética: identificación de cajas, cartones y recipientes.",
+                            "• Industria logística y de consumo masivo: etiquetado superior de empaques y productos de distribución.",
+                            "• Procesos de trazabilidad, identificación y sellado adicional en U para mayor seguridad."
                         ],
                         "ventajas": [
-                            "• Capacidad de elevación",
-                            "• Control preciso",
-                            "• Seguridad",
-                            "• Versatilidad",
-                            "• Mejora la ergonomía"
+                            "• Alta precisión de etiquetado (±1.0 mm), incluso en productos de gran tamaño.",
+                            "• Versatilidad de aplicación, compatible con etiquetas superiores y sellos en U.",
+                            "• Amplio rango de productos admitidos en tamaño y forma.",
+                            "• Integración con dispositivos adicionales, como el cilindro de aire para etiquetado en U.",
+                            "• Velocidad de producción adaptable, hasta 200 piezas por minuto.",
+                            "• Diseño robusto y compacto, ideal para líneas de producción exigentes.",
+                            "• Motor alemán NOVEXX ALS204, que garantiza confiabilidad y durabilidad."
                         ],
-                        "especificaciones": [],
+                        "especificaciones": [
+                            "• Modelos disponibles: DPM-A / DPM-ALS204.",
+                            "• Motor de etiquetado: Servomotor Alemán NOVEXX ALS204.",
+                            "• Posición de etiquetado: Sello superior / en U.",
+                            "• Producto adecuado: Caja, cartón, bolsa, tapa, vaso, recipiente.",
+                            "• Tamaño de etiqueta: Largo 10-300 mm / Alto 10-150 mm.",
+                            "• Tamaño de producto: Largo 40-380 mm / Ancho 40-350 mm.",
+                            "• Rendimiento: 50 a 200 piezas/minuto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Requerimiento neumático (impresora): 5 kg/cm².",
+                            "• Potencia: 650 W.",
+                            "• Dimensiones: Largo 1800 mm x Ancho 600 mm x Alto 1500 mm.",
+                            "• Peso: 230 kg."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora C-Wrap (DPM-C)",
+                        "href": "/productos/Etiquetadora C-Wrap (DPM-C)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora C-Wrap (DPM-C) está diseñada para la aplicación de etiquetas en forma de envoltura parcial tipo “C”, ideal para empaques que requieren información visible en la parte superior, lateral e inferior del producto. Equipada con el sistema de servomotor NOVEXX ALS204 alemán, garantiza alta precisión, estabilidad y rendimiento en líneas de producción exigentes. Su diseño robusto permite trabajar con diferentes materiales de empaque, ofreciendo un acabado uniforme y profesional.",
+                        "aplicaciones": [
+                            "• Industria alimenticia: etiquetado de bandejas, bolsas, cajas y envases para garantizar trazabilidad e información frontal completa.",
+                            "• Industria farmacéutica y cosmética: presentación de productos en empaques que requieren información visible en varias caras.",
+                            "• Logística y consumo masivo: identificación de cajas y contenedores con información adicional en más de una superficie.",
+                            "• Procesos de empaque con requisitos de etiquetado parcial en envoltura para seguridad y presentación."
+                        ],
+                        "ventajas": [
+                            "• Envoltura en C, permitiendo etiquetar tres caras del producto con una sola operación.",
+                            "• Alta precisión de etiquetado (±1.0 mm) en diferentes tamaños de empaque.",
+                            "• Velocidad de hasta 150 piezas/min, adaptable según el producto y la línea.",
+                            "• Compatibilidad con una amplia gama de empaques planos o semirrígidos.",
+                            "• Motor alemán NOVEXX ALS204, que asegura confiabilidad y larga vida útil.",
+                            "• Diseño compacto y robusto, adecuado para integrarse en líneas automáticas de producción."
+                        ],
+                        "especificaciones": [
+                            "• Modelos disponibles: DPM-C / DPM-C-ALS204.",
+                            "• Motor de etiquetado: Servomotor Alemán NOVEXX ALS204.",
+                            "• Posición de etiquetado: Envoltura en C.",
+                            "• Producto adecuado: Caja, cartón, contenedor, bolsa.",
+                            "• Tamaño de etiqueta: Largo 10-300 mm / Alto 10-150 mm.",
+                            "• Tamaño de producto: Largo 40-300 mm / Ancho 40-300 mm.",
+                            "• Rendimiento: 20 a 150 piezas/minuto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Requerimiento neumático (impresora): 5 kg/cm².",
+                            "• Potencia: 650 W.",
+                            "• Dimensiones: Largo 1800 mm x Ancho 600 mm x Alto 1500 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora Multicara de una Sola Etiqueta (SLM)",
+                        "href": "/productos/Etiquetadora Multicara de una Sola Etiqueta (SLM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora Multicara de una sola etiqueta (SLM) es un equipo versátil diseñado para aplicar una única etiqueta en múltiples caras de un producto, ya sea en botellas redondas, cuadradas, planas, cónicas, vasos o cajas. Gracias a su sistema de servomotor alemán NOVEXX ALS204, garantiza precisión y estabilidad en cada aplicación. Su diseño permite etiquetar desde un lado hasta cuatro o más lados con una sola etiqueta, optimizando costos y mejorando la presentación del producto.",
+                        "aplicaciones": [
+                            "• Industria alimentaria y bebidas: botellas, vasos y envases de diversas formas.",
+                            "• Cosmética y cuidado personal: frascos, envases cónicos y productos de presentación diferenciada.",
+                            "• Farmacéutica: envases de vidrio o plástico con múltiples caras de etiquetado.",
+                            "• Bienes de consumo y retail: cajas y empaques de varias formas que requieren etiquetado uniforme."
+                        ],
+                        "ventajas": [
+                            "• Etiquetado multicara con una sola etiqueta, reduciendo costos y tiempos de producción.",
+                            "• Alta precisión (±1.0 mm) en productos de diferentes geometrías.",
+                            "• Versatilidad en aplicaciones, adaptable a botellas redondas, cuadradas, planas, cónicas y empaques rectangulares.",
+                            "• Compatibilidad con dispositivos adicionales como enrolladores de etiquetas para botellas redondas o sistemas de posición fija.",
+                            "• Velocidad de hasta 200 piezas/minuto, adecuada para líneas de producción de alta demanda.",
+                            "• Construcción robusta y diseño ergonómico, garantizando estabilidad y fácil integración en plantas industriales."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: SLM-A / SLM-B / SLM-ALS204.",
+                            "• Motor de etiquetado: Servomotor Alemán NOVEXX ALS204.",
+                            "• Producto adecuado: Botellas redondas, cuadradas, planas, cónicas, vasos, cajas.",
+                            "• Posición de etiquetado: Un lado, tres lados, cuatro lados o más con una sola etiqueta.",
+                            "• Dispositivos adicionales opcionales: Dispositivo de etiquetado enrollable para botellas redondas y Dispositivo de posición fija para botellas redondas.",
+                            "• Tamaño de etiqueta: Alto 15-150 mm / Largo 15-300 mm.",
+                            "• Modo de funcionamiento: De izquierda a derecha.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Rendimiento: 30 – 200 piezas/minuto.",
+                            "• Potencia: 1000 W.",
+                            "• Dimensiones: Largo 2300 mm × Ancho 1250 mm × Alto 1500 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Máquina de Paginación y Etiquetado (PM-DPM)",
+                        "href": "/productos/Máquina de Paginación y Etiquetado (PM-DPM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Máquina de Paginación y Etiquetado (PM-DPM) está diseñada para la aplicación de etiquetas en productos planos o flexibles, como bolsas vacías, cajas sin forma, papeles, tarjetas o etiquetas. Equipada con el sistema de servomotor alemán NOVEXX ALS204, asegura un etiquetado de alta precisión y estabilidad, incluso en operaciones de alta velocidad. Su estructura modular permite la incorporación de dispositivos de inspección y control de calidad, convirtiéndola en una solución integral para líneas de producción modernas.",
+                        "aplicaciones": [
+                            "• Industria gráfica y editorial: etiquetado de folletos, tarjetas, etiquetas y documentos.",
+                            "• Empaque flexible: aplicación en bolsas vacías y empaques sin volumen definido.",
+                            "• Industria farmacéutica y cosmética: identificación y trazabilidad de cajas planas, prospectos o tarjetas.",
+                            "• Procesos con requerimientos de control de calidad mediante lectores de código de barras, cámaras inteligentes o sistemas RFID."
+                        ],
+                        "ventajas": [
+                            "• Alta versatilidad, adecuada para productos planos y de diferentes materiales.",
+                            "• Velocidad de hasta 200 piezas/minuto, garantizando eficiencia en producción masiva.",
+                            "• Precisión de ±1.0 mm, incluso en productos delgados o flexibles.",
+                            "• Compatibilidad con sistemas de inspección: lectores de códigos, RFID y cámaras inteligentes.",
+                            "• Diseño modular, adaptable a requerimientos específicos del cliente.",
+                            "• Personalización de dimensiones, permitiendo la integración en diferentes líneas de producción."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: PM-DPM-A / PM-DPM-ALS204.",
+                            "• Motor de etiquetado: Servomotor Alemán NOVEXX ALS204.",
+                            "• Producto adecuado: Bolsa vacía, caja sin forma, etiqueta, papel, tarjeta.",
+                            "• Posición de etiquetado: Superficie superior.",
+                            "• Dispositivos adicionales opcionales: Lector de código de barras, Lector RFID, Cámara inteligente e Inspección visual, Transportador de recogida.",
+                            "• Tamaño de etiqueta: Alto 15-150 mm / Largo 15-300 mm.",
+                            "• Tamaño de producto: Ancho 20-250 mm / Largo 20-300 mm.",
+                            "• Rendimiento: 30 – 200 piezas/minuto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 1000 W.",
+                            "• Dimensiones: Personalizables según requerimiento."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Máquina de Impresión y Etiquetado en Línea (RPLM)",
+                        "href": "/productos/Máquina de Impresión y Etiquetado en Línea (RPLM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Máquina de Impresión y Etiquetado en Línea (RPLM) está diseñada para integrar en líneas de producción que requieren la impresión y aplicación de etiquetas en un solo proceso. Equipada con motores de etiquetado NOVEXX DPM o ALX924 de origen alemán, garantiza precisión, confiabilidad y alta calidad de impresión. Su versatilidad permite el etiquetado en la superficie superior, lateral o en esquinas de diversos productos, adaptándose a múltiples industrias.",
+                        "aplicaciones": [
+                            "• Industria alimentaria: etiquetado de bolsas, cajas, bandejas y empaques de cartón.",
+                            "• Automotriz: identificación de neumáticos y piezas con etiquetas resistentes.",
+                            "• Logística y distribución: etiquetado de empaques para trazabilidad y control de inventario.",
+                            "• Farmacéutica y cosmética: identificación de cajas y empaques con códigos de barras o información variable."
+                        ],
+                        "ventajas": [
+                            "• Impresión y aplicación en un solo paso, optimizando tiempos y costos de operación.",
+                            "• Alta precisión de etiquetado (±1.0 mm), incluso en diferentes posiciones del producto.",
+                            "• Flexibilidad en el diseño de la línea, con posibilidad de etiquetar en superficies superiores, laterales o en esquinas.",
+                            "• Compatibilidad con dispositivos adicionales, como lectores de código de barras, pesadoras y software personalizado.",
+                            "• Adaptabilidad total al tamaño del producto, ofreciendo soluciones personalizadas según los requerimientos del cliente.",
+                            "• Construcción robusta y confiable, diseñada para entornos industriales de alta demanda."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: RPLM-DPM / RPLM-ALX924.",
+                            "• Motor de etiquetado: NOVEXX DPM o ALX924 Alemán.",
+                            "• Producto adecuado: Bolsa, caja, cartón, bandeja, neumático.",
+                            "• Posición de etiquetado: Superficie superior / Superficie lateral / Esquina.",
+                            "• Dispositivos adicionales opcionales: Lector de código de barras, Pesadora y Software personalizado.",
+                            "• Tamaño de producto adecuado: Personalizable según el requerimiento del cliente.",
+                            "• Tamaño de etiqueta: Ancho 15-140 mm / Largo 15-200 mm.",
+                            "• Rendimiento: ≤60 piezas/minuto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 700 W.",
+                            "• Dimensiones: Largo 2000 mm × Ancho 800 mm × Alto 1500 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora de Anverso y Reverso (DLM)",
+                        "href": "/productos/Etiquetadora de Anverso y Reverso (DLM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora de Anverso y Reverso (DLM) es una solución de alto rendimiento diseñada para aplicar etiquetas en productos con superficies planas, curvas o con irregularidades. Gracias a su motor de servomotor de última generación y al sistema alemán NOVEXX ALS204, garantiza máxima precisión y estabilidad en el proceso de etiquetado. Este equipo es ideal para aplicaciones que requieren etiquetas en la parte frontal y trasera, en un solo lado o en formato envolvente.",
+                        "aplicaciones": [
+                            "• Industria de bebidas: botellas de vidrio o PET, latas y vasos.",
+                            "• Industria alimentaria: frascos, cartones y envases de diferentes formas.",
+                            "• Cosmética y farmacéutica: productos en frascos o botellas de diseños especiales.",
+                            "• Productos con superficies irregulares: envases con radianes o irregularidades que requieren alta precisión."
+                        ],
+                        "ventajas": [
+                            "• Alta precisión de etiquetado (±1.0 mm), incluso en superficies curvas o con radianes.",
+                            "• Versatilidad en la aplicación: frontal, trasera, un solo lado o envolvente.",
+                            "• Compatibilidad con dispositivos adicionales como enrolladores para botellas redondas o sistemas de posicionamiento fijo.",
+                            "• Motor alemán NOVEXX ALS204, que ofrece estabilidad, durabilidad y bajo mantenimiento.",
+                            "• Alta capacidad de producción con un rango de 30 a 200 piezas por minuto.",
+                            "• Diseño robusto y adaptable, personalizable según el tamaño del producto."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: DLM-A / DLM-ALS204.",
+                            "• Motor de etiquetado: Sistema de servomotor / NOVEXX ALS204 Alemán.",
+                            "• Producto adecuado: Botellas, latas, frascos, vasos, cartones, etc..",
+                            "• Posición de etiquetado: Frontal y trasera / Frontal un lado / Envolvente.",
+                            "• Dispositivos adicionales opcionales: Dispositivo de etiquetado enrollable para botellas redondas y Dispositivo de posición fija para botellas redondas.",
+                            "• Tamaño de etiqueta: Ancho 15-150 mm / Largo 15-300 mm.",
+                            "• Tamaño de producto: Personalizable según requerimiento.",
+                            "• Rendimiento: 30-200 piezas/minuto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 1200 W.",
+                            "• Peso: 380 kg.",
+                            "• Dimensiones: Largo 3000 mm × Ancho 1500 mm × Alto 1500 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora de Caras Frontal y Trasera (DLM-B)",
+                        "href": "/productos/Etiquetadora de Caras Frontal y Trasera (DLM-B)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora de Caras Frontal y Trasera (DLM-B) es un equipo diseñado para el etiquetado de productos en diferentes posiciones: frontal, trasera, un solo lado o en formato envolvente. Gracias a su sistema de servomotor de alta precisión, asegura un etiquetado uniforme y confiable en envases de distintas formas y tamaños. Su diseño compacto y versátil la convierte en una solución eficiente para líneas de producción de diversas industrias.",
+                        "aplicaciones": [
+                            "• Bebidas: botellas de vidrio, PET, latas y frascos.",
+                            "• Alimentos: cartones, envases rígidos y semi-rígidos.",
+                            "• Cosmética y farmacéutica: frascos y botellas de distintas presentaciones.",
+                            "• Productos generales que requieran etiquetado en varias caras con precisión."
+                        ],
+                        "ventajas": [
+                            "• Flexibilidad de aplicación: admite etiquetado frontal, trasero, un solo lado o envolvente.",
+                            "• Alta precisión de ±1.0 mm, incluso en envases con diferentes formas.",
+                            "• Compatibilidad con accesorios opcionales como sistemas de enrollado o posicionamiento para botellas redondas.",
+                            "• Velocidad ajustable, con capacidad de 30 a 200 piezas por minuto.",
+                            "• Diseño robusto y compacto, que optimiza el espacio en planta.",
+                            "• Personalizable, adaptable a diferentes tamaños de productos y etiquetas."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: DLM-B",
+                            "• Producto adecuado: Botellas, latas, frascos, cartón, entre otros.",
+                            "• Motor de etiquetado: Sistema de servomotor.",
+                            "• Posición de etiquetado: Frontal y trasera, frontal un lado, envolvente.",
+                            "• Dispositivos opcionales: Dispositivo de etiquetado enrollable para botellas redondas y Dispositivo de posición fija para botellas redondas.",
+                            "• Tamaño de etiqueta: Ancho 15-150 mm, Largo 15-200 mm.",
+                            "• Tamaño de producto: Personalizable según requerimiento.",
+                            "• Rendimiento: 30-200 piezas/minuto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 1200 W.",
+                            "• Peso: 300 kg.",
+                            "• Dimensiones: Largo 2400 mm × Ancho 1250 mm × Alto 1300 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora de Lados Superiores e Inferiores (UDPM)",
+                        "href": "/productos/Etiquetadora de Lados Superiores e Inferiores (UDPM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora de Lados Superior e Inferior (UDPM) está diseñada para aplicar etiquetas en la parte superior, inferior o en ambas caras de un producto, ofreciendo gran versatilidad en procesos de empaque y presentación. Equipada con un sistema de servomotor de alta precisión y tecnología NOVEXX ALS204, garantiza una aplicación uniforme y confiable en diversos tipos de envases, desde cajas y cartones hasta bandejas.",
+                        "aplicaciones": [
+                            "• Alimentos: bandejas de productos frescos, bolsas selladas, empaques tipo concha.",
+                            "• Logística y distribución: cajas y cartones para trazabilidad.",
+                            "• Farmacéutica y cosmética: empaques superiores e inferiores con información técnica o promocional.",
+                            "• Industria en general: etiquetado de superficies planas y rígidas con necesidad de doble cara."
+                        ],
+                        "ventajas": [
+                            "• Flexibilidad en la aplicación: permite etiquetar en la parte superior, inferior o ambas de manera simultánea.",
+                            "• Alta precisión de etiquetado de ±1.0 mm, incluso en altas velocidades.",
+                            "• Sistema de servomotor y tecnología alemana NOVEXX ALS204, que aseguran estabilidad y durabilidad.",
+                            "• Compatibilidad con múltiples formatos de envases (cajas, cartones, bolsas y bandejas).",
+                            "• Rendimiento eficiente de hasta 180 piezas por minuto.",
+                            "• Diseño robusto y adaptable, con opción de personalización según los requerimientos del cliente."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: UDPM-A / UDPM-ALS204",
+                            "• Motor de etiquetado: Sistema de servomotor / NOVEXX ALS204.",
+                            "• Producto adecuado: Caja, cartón, bolsa, envases tipo concha, bandeja.",
+                            "• Posición de etiquetado: Superior, inferior, superior e inferior.",
+                            "• Tamaño de etiqueta: Ancho 15-150 mm, Largo 15-200 mm.",
+                            "• Tamaño de producto: Personalizable según requerimiento.",
+                            "• Modo de funcionamiento: De izquierda a derecha.",
+                            "• Rendimiento: 30-180 piezas/minuto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 1000 W.",
+                            "• Peso: 280 kg.",
+                            "• Dimensiones: Largo 2200 mm × Ancho 800 mm × Alto 1500 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora Superior y Lateral (DPM-SLM)",
+                        "href": "/productos/Etiquetadora Superior y Lateral (DPM-SLM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora Superior y Lateral (DPM-SLM) está diseñada para aplicar etiquetas en la parte superior y en los laterales de envases tanto cuadrados como redondos, garantizando versatilidad y precisión en diferentes tipos de productos. Equipada con un sistema de servomotor de alto rendimiento, permite un etiquetado estable y uniforme en procesos de producción exigentes.",
+                        "aplicaciones": [
+                            "• Bebidas: botellas, frascos y latas.",
+                            "• Alimentos: vasos, envases redondos y rectangulares.",
+                            "• Industria cosmética y farmacéutica: empaques de distintas geometrías con etiquetado superior y lateral.",
+                            "• Productos industriales: envases que requieren identificación y trazabilidad en varias."
+                        ],
+                        "ventajas": [
+                            "• Flexibilidad en el etiquetado: permite trabajar con envases cuadrados (superior y un lado/lados diferentes) y redondos (superior más envolvente).",
+                            "• Alta precisión de ±1.0 mm, incluso a velocidades constantes.",
+                            "• Compatibilidad con dispositivos adicionales: enrollado para botellas redondas, posición fija y cilindro de aire para sellado en U.",
+                            "• Personalización de acuerdo con el producto del cliente, adaptándose a diferentes dimensiones y formas.",
+                            "• Diseño robusto y eficiente, con un sistema de servomotor que asegura estabilidad operativa."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: DPM-SLM-A",
+                            "• Motor de etiquetado: Sistema de servomotor",
+                            "• Producto adecuado: Botellas, latas, frascos, vasos, entre otros.",
+                            "• Posición de etiquetado: Parte superior y cuerpo de uno o varios lados (Envases cuadrados), Parte superior y cuerpo envolvente (Envases redondos).",
+                            "• Dispositivos adicionales opcionales: Dispositivo de etiquetado enrollable para botellas redondas, Dispositivo de posición fija para botellas redondas y Cilindro de aire para etiquetado con sello en U.",
+                            "• Tamaño de etiqueta: Ancho 15-150 mm, Largo 15-200 mm.",
+                            "• Tamaño de producto: Personalizable según el producto.",
+                            "• Modo de funcionamiento: De izquierda a derecha.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 1250 W.",
+                            "• Dimensiones de la máquina: Largo 3000 mm × Ancho 1300 mm × Alto 1500 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora Superior, Frontal y Posterior (DPM-DLM)",
+                        "href": "/productos/Etiquetadora Superior, Frontal y Posterior (DPM-DLM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora Superior, Frontal y Posterior (DPM-DLM) es un equipo versátil diseñado para aplicar etiquetas en tres posiciones diferentes: parte superior, cara frontal y cara posterior del envase. Gracias a su sistema de servomotor de alta precisión, garantiza un etiquetado uniforme, estable y confiable, incluso en líneas de producción con altas exigencias.",
+                        "aplicaciones": [
+                            "• Bebidas: botellas, frascos y latas.",
+                            "• Alimentos: vasos, envases de plástico o vidrio.",
+                            "• Cosmética y farmacéutica: productos con necesidad de etiquetado en múltiples caras para mayor información y presentación.",
+                            "• Industria en general: envases y empaques que requieren identificación completa en diferentes superficies."
+                        ],
+                        "ventajas": [
+                            "• Cobertura integral de etiquetado en hasta tres caras del producto (superior, frontal y posterior).",
+                            "• Alta precisión de ±1.0 mm, garantizando un acabado profesional.",
+                            "• Compatibilidad con dispositivos adicionales: enrollado para botellas redondas, sistema de posición fija y cilindro de aire para sellado en U.",
+                            "• Flexibilidad de uso al poder personalizarse según las dimensiones del producto.",
+                            "• Operación eficiente y confiable, impulsada por un sistema de servomotor."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: DPM-DLM-A",
+                            "• Motor de etiquetado: Sistema de servomotor",
+                            "• Producto adecuado: Botellas, latas, frascos, vasos, entre otros.",
+                            "• Posición de etiquetado: Superior, frontal y posterior",
+                            "• Dispositivos adicionales opcionales: Dispositivo de etiquetado enrollable para botellas redondas, Dispositivo de posición fija para botellas redondas y Cilindro de aire para etiquetado con sello en U.",
+                            "• Tamaño de etiqueta: Ancho 15-150 mm, Largo 15-200 mm.",
+                            "• Tamaño de producto: Personalizable según el producto.",
+                            "• Modo de funcionamiento: De izquierda a derecha.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 1250 W.",
+                            "• Dimensiones de la máquina: Largo 3000 mm × Ancho 1300 mm × Alto 1500 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora Superior, Inferior y Lateral (UDPM-SLM)",
+                        "href": "/productos/Etiquetadora Superior, Inferior y Lateral (UDPM-SLM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora Superior, Inferior y Lateral (UDPM-SLM) está diseñada para realizar aplicaciones de etiquetas en múltiples posiciones de un mismo envase, ofreciendo gran flexibilidad para diferentes configuraciones de producción. Equipada con sistema de servomotor de alta precisión y tecnología alemana NOVEXX ALS204, asegura un etiquetado exacto, estable y de alta calidad.",
+                        "aplicaciones": [
+                            "• Bebidas: botellas, frascos y latas.",
+                            "• Alimentos: envases plásticos, vasos y empaques de cartón.",
+                            "• Cosmética y farmacéutica: productos que requieren etiquetado en varias caras o con sello de seguridad.",
+                            "• Industria en general: productos cilíndricos o planos que demanden presentación envolvente o con etiquetado superior e inferior."
+                        ],
+                        "ventajas": [
+                            "• Versatilidad de posiciones de etiquetado: superior, inferior, lateral, sello en U y envolvente.",
+                            "• Alta precisión de ±1.0 mm, garantizando uniformidad en el etiquetado.",
+                            "• Compatibilidad con dispositivos adicionales, como sistema de enrollado para botellas redondas y cilindro de aire para sello en U.",
+                            "• Adaptable a diferentes productos, gracias a su diseño personalizable.",
+                            "• Alto rendimiento y estabilidad, con tecnología de etiquetado alemana NOVEXX."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: UDPM-SLM-A / UDPM-SLM-ALS204",
+                            "• Motor de etiquetado: Sistema de servomotor / Alemán NOVEXX ALS204",
+                            "• Producto adecuado: Botellas, latas, frascos, vasos, entre otros.",
+                            "• Posición de etiquetado: Superior e inferior; Superior y lateral; Superior, inferior y lateral; Sello en U y Envoltura.",
+                            "• Dispositivos adicionales opcionales: Dispositivo de enrollado para envoltura de botellas redondas y Cilindro de aire para sello en U en la parte superior.",
+                            "• Tamaño de etiqueta: Ancho 15-150 mm, Largo 15-200 mm.",
+                            "• Tamaño de producto: Personalizable según el producto.",
+                            "• Presión de aire: 5 kg/cm².",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 1250 W",
+                            "• Peso: Aproximadamente 400 kg.",
+                            "• Voltaje: 110 V / 220 V / 380 V",
+                            "• Dimensiones de la máquina: Largo 3000 mm × Ancho 1500 mm × Alto 1500 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora de Esquinas de Cartón (BFM)",
+                        "href": "/productos/Etiquetadora de Esquinas de Cartón (BFM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora de Esquinas de Cartón (BFM) está diseñada para aplicar etiquetas de seguridad o sellado en una o dos esquinas de cajas pequeñas y cartones. Su sistema de servomotor de alta precisión, junto con la tecnología alemana NOVEXX ALS204, garantiza un etiquetado uniforme, confiable y adaptable a diversas necesidades de empaque.",
+                        "aplicaciones": [
+                            "• Industria alimentaria: cajas y empaques pequeños que requieren sellos de seguridad.",
+                            "• Farmacéutica y cosmética: empaques que demandan protección y control de apertura.",
+                            "• Logística y distribución: cajas de cartón con etiquetas de control o identificación en esquinas.",
+                            "• Productos de alto valor agregado: sellado de esquinas para evitar manipulación indebida."
+                        ],
+                        "ventajas": [
+                            "• Capacidad de etiquetar una o dos esquinas según los requerimientos del producto.",
+                            "• Alta precisión de ±1.0 mm, ideal para empaques que requieren exactitud en el sellado.",
+                            "• Versatilidad de funcionamiento, con opción de operación hacia la izquierda o derecha.",
+                            "• Diseño compacto y robusto, adaptado a espacios de producción industriales.",
+                            "• Compatibilidad con tecnología alemana NOVEXX ALS204, que ofrece durabilidad y fiabilidad."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: BFM-D / BFM-ALS204.",
+                            "• Motor de etiquetado: Sistema de servomotor / Alemán NOVEXX ALS204.",
+                            "• Producto adecuado: Cajas pequeñas y cartón.",
+                            "• Posición de etiquetado: Una o dos esquinas.",
+                            "• Tamaño de etiqueta adecuado: Longitud 10-70 mm, Altura 10-70 mm.",
+                            "• Tamaño de producto adecuado: Ancho 40-90 mm, Alto ≤ 100 mm.",
+                            "• Modo de funcionamiento: Izquierda o derecha.",
+                            "• Presión de aire: 5 kg/cm².",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 800 W.",
+                            "• Voltaje: 110 V / 220 V / 380 V.",
+                            "• Dimensiones de la máquina: Largo 2200 mm × Ancho 1300 mm × Alto 1500 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora Rotativa Pequeña (PLM-HZ)",
+                        "href": "/productos/Etiquetadora Rotativa Pequeña (PLM-HZ)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora Rotativa Pequeña (PLM-HZ) está diseñada específicamente para botellas redondas, ofreciendo un etiquetado envolvente de alta precisión mediante un sistema de control por servomotor. Su estructura compacta y su sistema de rotación permiten un rendimiento estable y eficiente, adaptándose a líneas de producción con altos volúmenes de operación.",
+                        "aplicaciones": [
+                            "• Industria de bebidas: botellas de agua, jugos, gaseosas y bebidas alcohólicas.",
+                            "• Industria farmacéutica y cosmética: frascos redondos para jarabes, suplementos, cremas o lociones.",
+                            "• Alimentos envasados: salsas, aceites, aderezos y conservas en botellas redondas.",
+                            "• Productos químicos y de limpieza: envases redondos de desinfectantes, detergentes y solventes."
+                        ],
+                        "ventajas": [
+                            "• Alta capacidad de producción, alcanzando hasta 400 piezas por minuto.",
+                            "• Precisión de etiquetado de ±1.0 mm, garantizando uniformidad en cada aplicación.",
+                            "• Versatilidad de configuración, con posibilidad de integrar plato giratorio de alimentación y recolección.",
+                            "• Tecnología avanzada de inspección visual, opcional con cámara inteligente para control de calidad.",
+                            "• Diseño compacto y robusto, optimizado para líneas de producción con espacios limitados."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: PLM-HZ-A / PLM-HZ-B.",
+                            "• Motor de etiquetado: Sistema de control por servomotor.",
+                            "• Producto adecuado: Botellas redondas.",
+                            "• Posición de etiquetado: Envoltura de forma giratoria.",
+                            "• Dispositivos adicionales: Plato giratorio de alimentación y plato giratorio de recolección e Inspección visual con cámara inteligente.",
+                            "• Capacidad: 100 – 400 piezas/min.",
+                            "• Tamaño de etiqueta adecuado: Ancho 15 – 150 mm, Largo 15 – 200 mm.",
+                            "• Tamaño de producto adecuado: Personalizable según requerimientos.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 850 W.",
+                            "• Peso: 280 kg.",
+                            "• Dimensiones de la máquina: Largo 2600 mm × Ancho 1200 mm × Alto 1500 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora Rotativa de Alta Velocidad (XTHZ)",
+                        "href": "/productos/Etiquetadora Rotativa de Alta Velocidad (XTHZ)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora Rotativa de Alta Velocidad (XTHZ) es un sistema avanzado diseñado para líneas de producción de gran escala que requieren precisión, versatilidad y máxima capacidad de operación. Gracias a su sistema de servocontrol de alta velocidad y múltiples configuraciones de cabezales de etiquetado, permite aplicar etiquetas en diferentes posiciones y formatos de envase con una exactitud de ±1.0 mm. Su estructura robusta y de alto rendimiento garantiza fiabilidad en entornos de producción exigentes.",
+                        "aplicaciones": [
+                            "• Bebidas y licores: botellas redondas, cuadradas y planas para agua, gaseosas, jugos, vinos y destilados.",
+                            "• Alimentos envasados: aceites, salsas, aderezos y conservas en diferentes tipos de botellas.",
+                            "• Industria farmacéutica y cosmética: frascos y envases de medicamentos, jarabes, cremas y lociones.",
+                            "• Productos químicos y de limpieza: envases plásticos o de vidrio para desinfectantes, detergentes y solventes."
+                        ],
+                        "ventajas": [
+                            "• Alta velocidad de producción, con capacidad de 6,000 hasta 21,000 unidades por hora.",
+                            "• Versatilidad en el etiquetado, adaptándose a botellas redondas, cuadradas y planas.",
+                            "• Multiposición de etiquetado, incluyendo envolvente, frontal y posterior, sello en U, cuello de botella y diferentes lados.",
+                            "• Configuración flexible, con opción de 1 a 4 juegos de motores y entre 8 y 18 cabezales de etiquetado.",
+                            "• Máxima precisión de ±1.0 mm incluso a alta velocidad.",
+                            "• Estructura robusta, ideal para líneas industriales de alta demanda."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: XTHZ.",
+                            "• Producto adecuado: Botella redonda, cuadrada y plana.",
+                            "• Motor de etiquetado: Sistema de servocontrol de alta velocidad.",
+                            "• Número de motores de etiquetado: 1 / 2 / 3 / 4 juegos.",
+                            "• Posición de etiquetado: Envoltura, Parte frontal y posterior, Sello en U superior, Cuerpo en diferentes lados, Cuello de botella.",
+                            "• Capacidad: 6,000 – 21,000 unidades/hora.",
+                            "• Cabezal de etiquetado: 8 / 10 / 12 / 14 / 16 / 18 unidades.",
+                            "• Tamaño de etiqueta adecuado: Ancho 15 – 150 mm, Largo 15 – 250 mm.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 10 Kw.",
+                            "• Peso: Aprox. 3,000 kg.",
+                            "• Voltaje: 110 V / 220 V / 380 V.",
+                            "• Dimensiones de la máquina: Largo 2800 mm × Ancho 2100 mm × Alto 1800 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora de Escritorio (PLM-C)",
+                        "href": "/productos/Etiquetadora de Escritorio (PLM-C)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora de Escritorio (PLM-C) es un equipo compacto y eficiente diseñado para el etiquetado envolvente de botellas, frascos y latas. Gracias a su motor paso a paso, garantiza un funcionamiento estable y confiable, ideal para pequeñas y medianas producciones que requieren precisión y practicidad en espacios reducidos.",
+                        "aplicaciones": [
+                            "• Industrias alimentarias: botellas de salsas, aceites, mieles, conservas y bebidas.",
+                            "• Farmacéutica y cosmética: frascos para jarabes, cremas, lociones y suplementos.",
+                            "• Productos químicos y de limpieza: envases pequeños y medianos de desinfectantes, detergentes y soluciones líquidas.",
+                            "• Pequeñas y medianas empresas que buscan una solución de etiquetado accesible y funcional."
+                        ],
+                        "ventajas": [
+                            "• Diseño compacto de escritorio, que permite optimizar el espacio de trabajo.",
+                            "• Versatilidad para diferentes tipos de envases redondos en múltiples industrias.",
+                            "• Capacidad de producción ajustable entre 10 y 60 piezas por minuto.",
+                            "• Alta precisión de etiquetado, con excelente estabilidad gracias al motor paso a paso.",
+                            "• Fácil de instalar y operar, ideal para empresas que requieren simplicidad y eficiencia.",
+                            "• Equipo ligero, con solo 65 kg, lo que facilita su traslado y ubicación."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: PLM-C.",
+                            "• Motor de etiquetado: Motor paso a paso",
+                            "• Producto adecuado: Botellas redondas, frascos, latas.",
+                            "• Posición de etiquetado: Envolvente.",
+                            "• Capacidad: 10 – 60 piezas/min.",
+                            "• Tamaño de etiqueta adecuado: Ancho 15 – 150 mm, Largo 15 – 230 mm.",
+                            "• Tamaño del producto adecuado: Diámetro 20 – 150 mm, Alto 30 – 260 mm.",
+                            "• Peso: 65 kg.",
+                            "• Voltaje: 220 – 230 V.",
+                            "• Dimensiones de la máquina: Largo 1270 mm × Ancho 1000 mm × Alto780 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora de Cajas de Huevos (DPM-ELM)",
+                        "href": "/productos/Etiquetadora de Cajas de Huevos (DPM-ELM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora de Cajas de Huevos (DPM-ELM) está diseñada específicamente para el etiquetado superior y en las esquinas de cajas de huevos. Equipada con un sistema de servocontrol, ofrece alta precisión y estabilidad en cada aplicación, optimizando la presentación y trazabilidad del producto en líneas de producción automatizadas.",
+                        "aplicaciones": [
+                            "• Industria avícola: etiquetado de cajas de huevos de diferentes tamaños y formatos.",
+                            "• Centros de empaque y distribución: identificación de lotes, fechas y trazabilidad.",
+                            "• Empresas procesadoras y exportadoras que requieren cumplir con normativas de etiquetado y estándares de calidad."
+                        ],
+                        "ventajas": [
+                            "• Especializada para cajas de huevos, garantizando un etiquetado uniforme en • superficies superiores y esquinas.",
+                            "• Sistema de alimentación y recogida automáticas, optimizando los procesos de empaque.",
+                            "• Alta precisión de etiquetado con tolerancia de ±1.0 mm.",
+                            "• Versatilidad, ya que puede personalizarse para distintos tamaños de caja.",
+                            "• Eficiencia en producción, con capacidad de 20 a 70 unidades por minuto.",
+                            "• Compatibilidad con diferentes voltajes (110 V/220 V/380 V)."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: DPM-ELM-A.",
+                            "• Producto adecuado: Cajas de huevos.",
+                            "• Motor de etiquetado: Sistema de servocontrol.",
+                            "• Posición de etiquetado: Superficie superior y esquinas de la caja.",
+                            "• Función: Alimentación y recogida automáticas.",
+                            "• Capacidad: 20-70 uds./min.",
+                            "• Tamaño de etiqueta adecuado: Ancho 15-250 mm, Largo 15-300 mm.",
+                            "• Tamaño de caja adecuado: Personalizable según el producto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Voltaje: 110 V / 220 V / 380 V.",
+                            "• Dimensiones de la máquina: Largo 2800 mm × Ancho 2100 mm × Alto 1800 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora de Contenedores Tipo Almeja (ELM)",
+                        "href": "/productos/Etiquetadora de Contenedores Tipo Almeja (ELM)",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora de Contenedores Tipo Almeja (ELM) está diseñada para el etiquetado preciso en la superficie superior de envases tipo concha o almeja vacíos. Equipada con motor alemán NOVEXX ALS204, garantiza estabilidad, velocidad y exactitud en el proceso de etiquetado, siendo una solución ideal para líneas de producción de gran capacidad.",
+                        "aplicaciones": [
+                            "• Industria alimentaria: etiquetado de envases plásticos tipo almeja para frutas, vegetales, postres, comidas preparadas y otros productos.",
+                            "• Empaques de servicio rápido y retail: presentación y trazabilidad de contenedores.",
+                            "• Centros de envasado y distribución que requieren alta productividad y precisión."
+                        ],
+                        "ventajas": [
+                            "• Motor alemán NOVEXX ALS204, reconocido por su durabilidad y confiabilidad.",
+                            "• Alta capacidad de producción, con hasta 120 unidades por minuto.",
+                            "• Alimentación y recogida automáticas, optimizando el flujo de trabajo.",
+                            "• Precisión de etiquetado de ±1.0 mm, incluso a altas velocidades.",
+                            "• Adaptabilidad, ya que se puede personalizar según el tamaño del contenedor.",
+                            "• Diseño robusto y eficiente para entornos industriales."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: ELM-D-ALS204.",
+                            "• Producto adecuado: Contenedores tipo almeja vacíos.",
+                            "• Motor de etiquetado: NOVEXX alemán.",
+                            "• Posición de etiquetado: Superficie superior.",
+                            "• Función: Alimentación y recogida automáticas.",
+                            "• Capacidad: 90 – 120 uds./min.",
+                            "• Tamaño de etiqueta adecuado: Ancho 15 – 110 mm, Largo 15 – 300 mm.",
+                            "• Tamaño de contenedor adecuado: Personalizable según el producto.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Potencia: 3.5 kW.",
+                            "• Dimensiones de la máquina: Largo 5600 mm × Ancho 1830 mm × Alto 1040 mm."
+                        ],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "Etiquetadora de Cubos Grandes",
+                        "href": "/productos/Etiquetadora de Cubos Grandes",
+                        "img": [
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/1.jpg",
+                            "/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/2.jpg"
+                        ],
+                        "docs": ["/productos/7. PUERTAS Y EQUIPAMIENTO LOGISTICO/PUERTAS SECCIONALES/BROCHURE PUERTA SECCIONAL INDUSTRIAL.pdf"],
+                        "descripcion": "La Etiquetadora de Cubos Grandes (DLM-S) está diseñada para el etiquetado de cubos redondos de gran tamaño, ofreciendo un sistema de control por servomotor que asegura precisión y estabilidad en cada aplicación. Su diseño permite etiquetado envolvente en la superficie lateral, con alimentación y recogida automáticas para optimizar los procesos productivos.",
+                        "aplicaciones": [
+                            "• Industria alimentaria: cubos de productos líquidos o en polvo como aceites, salsas, harinas o lácteos.",
+                            "• Sector químico e industrial: cubos de pinturas, adhesivos, detergentes y otros insumos.",
+                            "• Logística y distribución: presentación y trazabilidad de envases grandes."
+                        ],
+                        "ventajas": [
+                            "• Control por servomotor, que asegura etiquetado estable y de alta precisión.",
+                            "• Adaptabilidad a diferentes tamaños de cubos mediante personalización del sistema.",
+                            "• Capacidad de 20 a 80 unidades por minuto, ideal para líneas de producción medianas y grandes.",
+                            "• Función automática de alimentación y recogida, reduciendo la intervención manual.",
+                            "• Precisión de ±1.0 mm, incluso en envases de gran volumen.",
+                            "• Construcción robusta y compacta para garantizar durabilidad en entornos industriales exigentes."
+                        ],
+                        "especificaciones": [
+                            "• Modelo: DLM-S.",
+                            "• Producto adecuado: Cubo redondo grande.",
+                            "• Motor de etiquetado: Sistema de control por servomotor.",
+                            "• Posición de etiquetado: Superficie lateral, envolvente.",
+                            "• Función: Alimentación y recogida automáticas.",
+                            "• Capacidad: 20 – 80 uds./min.",
+                            "• Tamaño de etiqueta adecuado: Ancho 15 – 150 mm, Largo 15 – 300 mm.",
+                            "• Tamaño del cubo adecuado: Personalizado según el tamaño del cubo.",
+                            "• Precisión de etiquetado: ±1.0 mm.",
+                            "• Dimensiones de la máquina: Largo 2400 mm × Ancho 1500 mm × Alto 1500 mm."
+                        ],
                         "video": ""
                     }
                 ]
