@@ -3962,8 +3962,8 @@
         "wsp": "https://wa.me/51994278664?text=Buenos%20días.%20Quisiera%20hacer%20algunas%20consultas%20sobre%20los%20productos%20Refamij.",
         "productos": [
             {
-                "nombre": "Robots Industriales KUKA",
-                "href": "/productos/Automatización, Robots y Desarrollo de Proyectos-Robots Industriales KUKA",
+                "nombre": "Robots KUKA",
+                "href": "/productos/Automatización, Robots y Desarrollo de Proyectos-Robots KUKA",
                 "img": "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO-actual-medida.jpg",
                 "tipos": [
                     {
@@ -3973,12 +3973,9 @@
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/1. PALETIZADO Y DESPALETIZADO/PALETIZADO-Y-DESPALETIZADO-actual-medida.jpg"
                         ],
                         "docs": [],
-                        "descripcion": [
-                            "El KR AGILUS es un robot industrial compacto de seis ejes, diseñado para operar con velocidades extremadamente altas y una precisión excepcional en espacios reducidos. Gracias a su diseño versátil, puede instalarse en el suelo, la pared o el techo, adaptándose con facilidad a cualquier configuración de celda o entorno de trabajo.",
-                            "Incorpora la tecnología de control KUKA, reconocida por su fiabilidad y eficiencia, además de un sistema de alimentación de energía integrado que permite un diseño más compacto y ordenado. Este robot está disponible en diversas versiones especializadas que lo hacen apto para trabajar en entornos húmedos, estériles o con riesgo de explosión, así como en salas limpias con certificación ISO.",
-                            "El KR AGILUS es la solución ideal para empresas que buscan automatizar procesos de alta precisión, reducir tiempos de ciclo y aumentar la eficiencia operativa, sin comprometer la calidad del producto final."
-                        ],
+                        "descripcion": "El KR AGILUS es un robot industrial compacto de seis ejes, diseñado para operar con velocidades extremadamente altas y una precisión excepcional en espacios reducidos. Gracias a su diseño versátil, puede instalarse en el suelo, la pared o el techo, adaptándose con facilidad a cualquier configuración de celda o entorno de trabajo. Incorpora la tecnología de control KUKA, reconocida por su fiabilidad y eficiencia, además de un sistema de alimentación de energía integrado que permite un diseño más compacto y ordenado. Este robot está disponible en diversas versiones especializadas que lo hacen apto para trabajar en entornos húmedos, estériles o con riesgo de explosión, así como en salas limpias con certificación ISO. El KR AGILUS es la solución ideal para empresas que buscan automatizar procesos de alta precisión, reducir tiempos de ciclo y aumentar la eficiencia operativa, sin comprometer la calidad del producto final.",
                         "aplicaciones": [
+                            "Gracias a su diseño robusto y su alto rendimiento, el KR AGILUS es adecuado para una amplia variedad de procesos industriales, entre ellos:",
                             "• Manipulación de piezas.",
                             "• Montaje de componentes.",
                             "• Pick and Place.",
@@ -3988,7 +3985,7 @@
                             "• Fabricación aditiva e impresión 3D.",
                             "• Paletizado y embalaje.",
                             "• Aplicación de pintura, adhesivos o recubrimientos.",
-                            "• Aplicación de pintura, adhesivos o recubrimientos.",
+                            "• Procesos de soldadura con gas de protección.",
                             "• Pulido y procesamiento mecánico."
                         ],
                         "ventajas": [
@@ -4016,11 +4013,7 @@
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/SOLDADURA-(2).png"
                         ],
                         "docs": [],
-                        "descripcion": [
-                            "La familia de robots KR CYBERTECH de KUKA ofrece la gama más amplia del mundo en su clase de carga baja, combinando alto rendimiento, versatilidad y compactación extrema. Con capacidades de carga de hasta 22 kg y alcances que superan los 2 metros, estos robots han sido diseñados especialmente para conceptos de celdas compactas, logrando una productividad sobresaliente con costos operativos reducidos.",
-                            "El KR CYBERTECH destaca por su diseño esbelto, su gran capacidad de integración y su rendimiento constante en aplicaciones complejas de manipulación, procesamiento, montaje, soldadura y paletizado. Su estructura optimizada permite un comportamiento en marcha ágil y silencioso, mientras que su protección ESD integrada garantiza seguridad al trabajar con componentes electrónicos sensibles.",
-                            "Además, la serie incluye la versión KR CYBERTECH Edition, ideal para pequeñas empresas o industrias que se inician en la automatización, ya que ofrece una alternativa rentable con funciones esenciales y confiabilidad técnica garantizada."
-                        ],
+                        "descripcion": "La familia de robots KR CYBERTECH de KUKA ofrece la gama más amplia del mundo en su clase de carga baja, combinando alto rendimiento, versatilidad y compactación extrema. Con capacidades de carga de hasta 22 kg y alcances que superan los 2 metros, estos robots han sido diseñados especialmente para conceptos de celdas compactas, logrando una productividad sobresaliente con costos operativos reducidos. El KR CYBERTECH destaca por su diseño esbelto, su gran capacidad de integración y su rendimiento constante en aplicaciones complejas de manipulación, procesamiento, montaje, soldadura y paletizado. Su estructura optimizada permite un comportamiento en marcha ágil y silencioso, mientras que su protección ESD integrada garantiza seguridad al trabajar con componentes electrónicos sensibles. Además, la serie incluye la versión KR CYBERTECH Edition, ideal para pequeñas empresas o industrias que se inician en la automatización, ya que ofrece una alternativa rentable con funciones esenciales y confiabilidad técnica garantizada.",
                         "aplicaciones": [
                             "Los robots KR CYBERTECH han sido desarrollados para cubrir una gran variedad de procesos industriales que requieren precisión, velocidad y flexibilidad:",
                             "• Manipulación de componentes medianos y grandes.",
@@ -4056,11 +4049,7 @@
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/MINERIA.png"
                         ],
                         "docs": [],
-                        "descripcion": [
-                          "El KR IONTEC es un robot industrial de carga media diseñado para ofrecer máxima flexibilidad, rendimiento superior y una amplia zona de trabajo en aplicaciones de 20 a 70 kg. Gracias a su diseño compacto y sus múltiples opciones de montaje (suelo, pared o en posición inclinada), permite una integración eficiente en celdas con espacio reducido, optimizando el rendimiento del área de trabajo.",
-                          "Está equipado con motores protegidos, una muñeca central sellada contra agua y polvo, y versiones especializadas como KR IONTEC Foundry, capaz de operar en entornos de alta temperatura (desde 0°C hasta 55°C). Su bajo consumo energético, escasos requerimientos de mantenimiento y larga vida útil lo convierten en una inversión rentable para cualquier entorno de producción industrial, tanto convencional como digital.",
-                          "El KR IONTEC está preparado para poner a los desafíos actuales de la industria, adaptándose dinámicamente a diferentes procesos y fases de producción, lo que lo convierte en una solución robusta, rentable y preparada para el futuro."  
-                        ],
+                        "descripcion": "El KR IONTEC es un robot industrial de carga media diseñado para ofrecer máxima flexibilidad, rendimiento superior y una amplia zona de trabajo en aplicaciones de 20 a 70 kg. Gracias a su diseño compacto y sus múltiples opciones de montaje (suelo, pared o en posición inclinada), permite una integración eficiente en celdas con espacio reducido, optimizando el rendimiento del área de trabajo. Está equipado con motores protegidos, una muñeca central sellada contra agua y polvo, y versiones especializadas como KR IONTEC Foundry, capaz de operar en entornos de alta temperatura (desde 0°C hasta 55°C). Su bajo consumo energético, escasos requerimientos de mantenimiento y larga vida útil lo convierten en una inversión rentable para cualquier entorno de producción industrial, tanto convencional como digital. El KR IONTEC está preparado para poner a los desafíos actuales de la industria, adaptándose dinámicamente a diferentes procesos y fases de producción, lo que lo convierte en una solución robusta, rentable y preparada para el futuro.",
                         "aplicaciones": [
                             "Por su versatilidad, resistencia y amplio rango de carga útil, el KR IONTEC es ideal para aplicaciones en diversas industrias, incluyendo:",
                             "• Manipulación de componentes pesados y medianos.",
@@ -4086,7 +4075,7 @@
                             "• Estructura: Robot de 6 ejes.",
                             "• Capacidad de carga: de 20 a 70 kg.",
                             "• Alcance máximo: de 2101 mm a 3101 mm (según modelo).",
-                            "• Posiciones de montaje: suelo, pared, posición inclinada.",
+                            "• Posiciones de montaje: suelo, pared, posición inclinada..",
                             "• Rango de temperatura operativa: de 0 °C a 55 °C (versión Foundry).",
                             "• Variantes disponibles: Modelo estándar, versión Foundry (altas temperaturas), versiones con protección ESD."
                         ],
@@ -4123,8 +4112,8 @@
                             "• Versión Foundry disponible: Para operaciones en entornos húmedos, polvorientos o de alta temperatura (hasta 180°C por 10 segundos por minuto)."
                         ],
                         "especificaciones": [
-                            "• Capacidad de carga útil: 120 – 300 kg.",
-                            "• Alcance: 2.671 – 3.904 mm.",
+                            "• Capacidad de carga útil: 120-300 kg.",
+                            "• Alcance: 2.671-3.904 mm.",
                             "• Posiciones de montaje: Suelo, techo, pared.",
                             "• Protección contra ESD: Incluida de serie.",
                             "• Versiones especiales: Foundry (protección IP65/IP67, pintura resistente, brida de acero inoxidable, sistema de sobrepresión opcional).",
@@ -4175,10 +4164,7 @@
                             "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/APLICACIONES/ELECTRONICA (2).png"
                         ],
                         "docs": [],
-                        "descripcion": [
-                            "El KR 1000 titan es un robot industrial de seis ejes diseñado específicamente para la manipulación de cargas extremadamente pesadas, con una capacidad que alcanza hasta 1300 kg. Es el primer robot con cinemática abierta para este rango de carga, lo que le permite operar con gran precisión incluso en distancias de hasta 6.5 metros. Gracias a su diseño robusto y alta dinámica, este modelo garantiza una manipulación segura, estable y eficiente de piezas de gran volumen y peso, como bloques de mármol, motores, vigas de acero o componentes aeronáuticos.",
-                            "Está disponible en versiones especializadas, como la variante Foundry, diseñada para entornos exigentes con altas temperaturas y suciedad, y la versión de paletizado de alto tonelaje, que permite cargas de hasta 1.3 toneladas. Su adaptabilidad lo convierte en una solución óptima para industrias que requieren alto rendimiento y máxima confiabilidad en la manipulación de grandes volúmenes."
-                        ],
+                        "descripcion": "El KR 1000 titan es un robot industrial de seis ejes diseñado específicamente para la manipulación de cargas extremadamente pesadas, con una capacidad que alcanza hasta 1300 kg. Es el primer robot con cinemática abierta para este rango de carga, lo que le permite operar con gran precisión incluso en distancias de hasta 6.5 metros. Gracias a su diseño robusto y alta dinámica, este modelo garantiza una manipulación segura, estable y eficiente de piezas de gran volumen y peso, como bloques de mármol, motores, vigas de acero o componentes aeronáuticos. Está disponible en versiones especializadas, como la variante Foundry, diseñada para entornos exigentes con altas temperaturas y suciedad, y la versión de paletizado de alto tonelaje, que permite cargas de hasta 1.3 toneladas. Su adaptabilidad lo convierte en una solución óptima para industrias que requieren alto rendimiento y máxima confiabilidad en la manipulación de grandes volúmenes.",
                         "aplicaciones": [
                             "El KR 1000 titan es ideal para procesos industriales donde se requiera fuerza, alcance y precisión, tales como:",
                             "• Manipulación de piezas de gran peso y tamaño.",
@@ -4212,56 +4198,414 @@
                 ]
             },
             {
-                "nombre": "Automatización",
-                "href": "/productos/Automatización, Robots y Desarrollo de Proyectos-Automatización",
+                "nombre": "Robots DELTA",
+                "href": "/productos/Automatización, Robots y Desarrollo de Proyectos-Robots DELTA",
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Sistema Cartesiano",
-                        "href": "/productos/Sistema Cartesiano",
+                        "nombre": "SCARA ROBOT DRS30L3 SERIES",
+                        "href": "/productos/SCARA ROBOT DRS30L3 SERIES",
                         "img": [
-                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/AUTOMATIZACION/SISTEMA CARTESIANO/SISTEMA-CARTESIANO.jpg"
+                            ""
                         ],
                         "docs": [],
-                        "descripcion": "El sistema cartesiano ubica puntos en el espacio mediante coordenadas X, Y y Z, usado en robótica para controlar el movimiento tridimensional de robots.",
-                        "aplicaciones": [
-                            "• Robótica industral",
-                            "• Maquinaria CNC",
-                            "• Sistema de inspección y control de calidad",
-                            "• Manejo de materiales",
-                            "• Equipos médicos"
-                        ],
+                        "descripcion": "La serie DRS30L3 de robots SCARA de Delta está diseñada para integrarse fácilmente con unidades de control y componentes periféricos, permitiendo la creación de estaciones de trabajo altamente integradas y líneas de producción automatizadas. Su arquitectura flexible y modular facilita la implementación tanto en aplicaciones individuales como en estaciones completas, garantizando un rendimiento consistente, alta precisión y confiabilidad operativa. Cuando se combina con sistemas periféricos como servomotores, visión artificial y módulos lineales, el robot SCARA DRS30L3 permite el desarrollo de líneas de producción modulares y multi-producto, manteniendo altos estándares de calidad. Es una solución ideal para procesos industriales que requieren velocidad, repetibilidad y eficiencia, contribuyendo a mejorar la productividad, la calidad del proceso y la eficiencia laboral dentro de entornos de manufactura inteligente.",
+                        "aplicaciones": {
+                            "Industrias:":[
+                                "• Electrónica de consumo",
+                                "• Eléctrica y electrónica",
+                                "• Caucho y plásticos",
+                                "• Packaging",
+                                "• Metalmecánica",
+                                "• Otras industrias automatizadas"
+                            ],
+                            "Procesos:":[
+                                "• Inserción de componentes",
+                                "• Atornillado",
+                                "• Ensamblaje",
+                                "• Dosificación de adhesivos (dispensing)",
+                                "• Soldadura",
+                                "• Carga y descarga de piezas",
+                                "• Apilado",
+                                "• Inspección automática"
+                            ]
+                        },
                         "ventajas": [
-                            "• Precisión",
-                            "• Flexibilida",
-                            "• Repetibilidad",
-                            "• Programación intuitiva",
-                            "• Automatización eficiente"
+                            ""
                         ],
                         "especificaciones": [],
                         "video": ""
                     },
                     {
-                        "nombre": "Pick and Place",
-                        "href": "/productos/Pick and Place",
+                        "nombre": "",
+                        "href": "/productos/",
                         "img": [
-                            "/productos/5. AUTOMATIZACION, ROBOTS Y DESARROLLO DE PROYECTOS/AUTOMATIZACION/PICK AND PLACE/pick-and-place.webp"
+                            ""
                         ],
                         "docs": [],
-                        "descripcion": " El 'pick and place' implica dos acciones principales: la sección o recogida del objeto de origen y su colocacion en una ubicación específica de destino. Esto se realiza, mediante dispositivos de sujeción, como pinzas, ventosas o cintas transportadoras, controlados por un sistema automatizado que sigue instrucciones predefinidas.",
+                        "descripcion": "",
                         "aplicaciones": [
-                            "• Industrias manufacturera",
-                            "• Embalaje y envasado",
-                            "• Automatización de almacenes",
-                            "• Procesamiento de alimentos",
-                            "• Industria electrónica"
+                            ""
                         ],
                         "ventajas": [
-                            "• Aumento de la productividad",
-                            "• Precisión y consistencia",
-                            "• Reducción de costos laborales",
-                            "• Mejora de la seguridad",
-                            "• Flexibilidad"
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
+                        ],
+                        "especificaciones": [],
+                        "video": ""
+                    },
+                    {
+                        "nombre": "",
+                        "href": "/productos/",
+                        "img": [
+                            ""
+                        ],
+                        "docs": [],
+                        "descripcion": "",
+                        "aplicaciones": [
+                            ""
+                        ],
+                        "ventajas": [
+                            ""
                         ],
                         "especificaciones": [],
                         "video": ""
@@ -4448,241 +4792,6 @@
                             "• Fácil instalación y mantenimiento"
                         ],
                         "especificaciones": [],
-                        "video": ""
-                    }
-                ]
-            },
-            {
-                "nombre": "Proyecto DELTA",
-                "href": "/productos/Automatización, Robots y Desarrollo de Proyectos-Proyecto DELTA",
-                "img": "",
-                "tipos": [
-                    {
-                        "nombre": "Robots SCARA SERIE DRS40L3",
-                        "href": "/productos/Robots SCARA SERIE DRS40L3",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
-                        "aplicaciones": [
-                            "• Industrias Electrónica y electricidad",
-                            "• Industria de consumo",
-                            "• Inserción, atornillado, montaje",
-                            "• Dosificación de pegamento, soldadura, carga y descarga",
-                            "• Apilado e inspección"
-                        ],
-                        "ventajas": [
-                            "• Funcion de control de cumplimiento sin sensores",
-                            "• Múltiples métodos de enseñanza y enseñanza directa",
-                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad"
-                        ],
-                        "especificaciones": [
-                            "• Número de ejes: 4",
-                            "• Longitud de brazo (X + Y): 400mm",
-                            "• Clasificador Máx. Carga 1kg/3kg",
-                            "• Velociad máxima: 4.710mm/s",
-                            "• Rango de movimiento: ±130°",
-                            "• Tiempo de ciclo estandar: 0.42 sec",
-                            "• Fuerza de empuje (J3): 100/250N",
-                            "• Peso: 16kg"
-                        ],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Robots SCARA SERIE DRS40C4",
-                        "href": "/productos/Proyecto DELTA",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
-                        "aplicaciones": [
-                            "• Industrias Electrónica y electricidad",
-                            "• Industria de consumo",
-                            "• Inserción, atornillado, montaje",
-                            "• Dosificación de pegamento, soldadura, carga y descarga",
-                            "• Apilado e inspección"
-                        ],
-                        "ventajas": [
-                            "• Funcion de control de cumplimiento sin sensores",
-                            "• Múltiples métodos de enseñanza y enseñanza directa",
-                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad"
-                        ],
-                        "especificaciones": [
-                            "• Número de ejes: 4",
-                            "• Montaje: Mesa",
-                            "• Longitud de brazo (X + Y): 400mm",
-                            "• Clasificador Máx. Carga 1kg/4kg",
-                            "• Velociad máxima: 4.710mm/s",
-                            "• Rango de movimiento: ±130°",
-                            "• Tiempo de ciclo estandar: 0.42 segundos",
-                            "• Temperatura ambiente: 5~40°C (41~104°F)",
-                            "• Peso (sin controlador: 16kg"
-                        ],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Robots SCARA SERIE DRS60L6",
-                        "href": "/productos/Proyecto DELTA",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
-                        "aplicaciones": [
-                            "• Industrias Electrónica y electricidad",
-                            "• Industria de consumo",
-                            "• Inserción, atornillado, montaje",
-                            "• Dosificación de pegamento, soldadura, carga y descarga",
-                            "• Apilado e inspección"
-                        ],
-                        "ventajas": [
-                            "• Funcion de control de cumplimiento sin sensores",
-                            "• Múltiples métodos de enseñanza y enseñanza directa",
-                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad"
-                        ],
-                        "especificaciones": [
-                            "• Número de ejes: 3, 4, 5",
-                            "• Montaje: Mesa",
-                            "• Longitud de brazo (X + Y): 600mm",
-                            "• Clasificador Máx. Carga 2kg/6kg, 1kg/3kg",
-                            "• Velociad máxima: 5000mm/s",
-                            "• Rango de movimiento: ±133°",
-                            "• Tiempo de ciclo estandar: 0.39 segundos",
-                            "• Temperatura ambiente: 5~40°C (41~104°F)",
-                            "• Peso (sin controlador: 20kg"
-                        ],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Robots SCARA SERIE DRS60L6SS2",
-                        "href": "/productos/Proyecto DELTA",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
-                        "aplicaciones": [
-                            "• Industrias Electrónica y electricidad",
-                            "• Industria de consumo",
-                            "• Inserción, atornillado, montaje",
-                            "• Dosificación de pegamento, soldadura, carga y descarga",
-                            "• Apilado e inspección"
-                        ],
-                        "ventajas": [
-                            "• Funcion de control de cumplimiento sin sensores",
-                            "• Varias herramientas de enseñanza y funcionamiento intuitivo",
-                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad",
-                            "• Menos espacio de montaje: reducción del 18% en el límite de altura de montaje y reducción del 50% en la salida del conector de cable",
-                            "• La inercia aumentó en un 375% para aplicaciones versátiles",
-                            "• Conector ethernet en el antebrazo para facilitar cableado"
-                        ],
-                        "especificaciones": [
-                            "• Número de ejes: 4",
-                            "• Montaje: Mesa",
-                            "• Longitud de brazo (X + Y): 600mm",
-                            "• Clasificador Máx. Carga 2kg/6kg",
-                            "• Velociad máxima: 6000mm/s",
-                            "• Rango de movimiento: ±153°",
-                            "• Tiempo de ciclo estandar: 0.38 segundos",
-                            "• Temperatura ambiente: 5~40°C (41~104°F)",
-                            "• Peso (sin controlador: 21kg"
-                        ],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Robots SCARA SERIE DRS60L6SS2",
-                        "href": "/productos/Proyecto DELTA",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "En la era de la fabricación inteligente, los robots industriales emergen como protagonistas clave. Diseñados para operar en entornos peligrosos y ejecutar una variedad de tareas, desde atornillar hasta paletizar, estos robots están en la vanguardia de la automatización.",
-                        "aplicaciones": [
-                            "• Industrias Electrónica y electricidad",
-                            "• Industria de consumo",
-                            "• Inserción, atornillado, montaje",
-                            "• Dosificación de pegamento, soldadura, carga y descarga",
-                            "• Apilado e inspección"
-                        ],
-                        "ventajas": [
-                            "• Funcion de control de cumplimiento sin sensores",
-                            "• Varias herramientas de enseñanza y funcionamiento intuitivo",
-                            "• Alta velocidad y repetibilidad, excelente linealidad y verticalidad",
-                            "• Menos espacio de montaje: reducción del 18% en el límite de altura de montaje y reducción del 50% en la salida del conector de cable",
-                            "• La inercia aumentó en un 375% para aplicaciones versátiles",
-                            "• Conector ethernet en el antebrazo para facilitar cableado"
-                        ],
-                        "especificaciones": [
-                            "• Número de ejes: 4",
-                            "• Montaje: Mesa",
-                            "• Longitud de brazo (X + Y): 600mm",
-                            "• Clasificador Máx. Carga 2kg/6kg",
-                            "• Velociad máxima: 6000mm/s",
-                            "• Rango de movimiento: ±153°",
-                            "• Tiempo de ciclo estandar: 0.38 segundos",
-                            "• Temperatura ambiente: 5~40°C (41~104°F)",
-                            "• Peso (sin controlador: 21kg"
-                        ],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Robots Articulado DRV70L",
-                        "href": "/productos/Proyecto DELTA",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "El robot articulado de seis ejes de Delta es altamente flexible y cuenta con un diseño hueco de la muñeca del robot para cableado y colocación de herramientas, múltiples opciones de instalación y una interfaz fácil de usar. Es ideal para una amplia gama de industrias, incluyendo electrónica, preocesamiento de metales, caucho y plásticos, entre otros, y puede realizar una variedad de tareas como inspección, ensamblaje paletizado, soldadura y más. Ofrecemos una integración sencialla con competentes clave y dispositivos periféricos, lo que permite establecer sistemas de control eficientes. Además, nuestras estaciones de trabajo robóticas altamente integradas mejora la eficiencia de producción, reducen los costos laborales y son fáciles de operar. ",
-                        "aplicaciones": [
-                            "• Soldadura",
-                            "• Inserción",
-                            "• Asamblea",
-                            "• Dispensación de pegamento",
-                            "• Paletizado e inspeccion"
-                        ],
-                        "ventajas": [
-                            "• Alta precisión y velocidad",
-                            "• Diseño hueco de la muñeca del robot para cableado y colocación de herramientas",
-                            "• Diseño de cuerpo delgado y compacto: Ancho total 235mm y huella 190*190mm",
-                            "• Combina con dispositivos clave Delta para mantenimiento e integración rápidos"
-                        ],
-                        "especificaciones": [
-                            "• Máximo rando de trabajo: 710 mm",
-                            "• Máximo de carga útil: 7k",
-                            "• Rango de movimiento: ±170°",
-                            "• Máximo de velocidad: 450°/segundo",
-                            "• Máximo de inercia permitida: 0,47 kg*m²",
-                            "• Tiempo de ciclo estándar: 0,31s",
-                            "• Repetibilidad: ±0,02mm",
-                            "• Huella: conector",
-                            "• Ambiente: 0°C- 40°C",
-                            "• Humedad: 20-85% HR",
-                            "• Vibración: 0.5G"
-                        ],
-                        "video": ""
-                    },
-                    {
-                        "nombre": "Robots Articulado DRV90L",
-                        "href": "/productos/Proyecto DELTA",
-                        "img": [],
-                        "docs": [],
-                        "descripcion": "El robot articulado de seis ejes de Delta es altamente flexible y cuenta con un diseño hueco de la muñeca del robot para cableado y colocación de herramientas, múltiples opciones de instalación y una interfaz fácil de usar. Es ideal para una amplia gama de industrias, incluyendo electrónica, preocesamiento de metales, caucho y plásticos, entre otros, y puede realizar una variedad de tareas como inspección, ensamblaje paletizado, soldadura y más. Ofrecemos una integración sencialla con competentes clave y dispositivos periféricos, lo que permite establecer sistemas de control eficientes. Además, nuestras estaciones de trabajo robóticas altamente integradas mejora la eficiencia de producción, reducen los costos laborales y son fáciles de operar. ",
-                        "aplicaciones": [
-                            "• Soldadura",
-                            "• Inserción",
-                            "• Asamblea",
-                            "• Dispensación de pegamento",
-                            "• Paletizado e inspeccion"
-                        ],
-                        "ventajas": [
-                            "• Alta precisión y velocidad",
-                            "• Diseño hueco de la muñeca del robot para cableado y colocación de herramientas",
-                            "• Diseño de cuerpo delgado y compacto: Ancho total 235mm y huella 190*190mm",
-                            "• Combina con dispositivos clave Delta para mantenimiento e integración rápidos"
-                        ],
-                        "especificaciones": [
-                            "• Máximo rango de trabajo: 710 mm",
-                            "• Máximo de carga útil: 7k",
-                            "• Rango de movimiento: ±170°",
-                            "• Máximo de velocidad: 450°/segundo",
-                            "• Máximo de inercia permitida: 0,47 kg*m²",
-                            "• Tiempo de ciclo estándar: 0,31s",
-                            "• Repetibilidad: ±0,02mm",
-                            "• Huella: conector",
-                            "• Ambiente: 0°C- 40°C",
-                            "• Humedad: 20-85% HR",
-                            "• Vibración: 0.5G"
-                        ],
                         "video": ""
                     }
                 ]
