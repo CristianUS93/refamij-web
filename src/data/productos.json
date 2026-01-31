@@ -965,42 +965,47 @@
                         "video": ""
                     },
                     {
-                        "nombre": "Llenadora Volumétrica Lineal",
-                        "href": "/productos/Llenadora Volumétrica Lineal",
+                        "nombre": "Llenadora Volumetrica Lineal",
+                        "href": "/productos/Llenadora Volumetrica Lineal",
                         "img": [
                             ""
                         ],
                         "docs": [],
-                        "descripcion": "La Llenadora Volumétrica Lineal está diseñada para el llenado preciso de productos líquidos y viscosos de viscosidad media y alta en envases rígidos, como botellas y frascos. El sistema de dosificación utiliza boquillas dosificadoras de accionamiento mecánico, basadas en levas con ajuste de volumen, incorporando válvulas volumétricas que garantizan repetibilidad y uniformidad en cada llenado. El equipo cuenta con un depósito de producto con capacidad de 80 litros, permitiendo una operación continua y eficiente. Su diseño robusto y sanitario asegura un alto desempeño en aplicaciones industriales exigentes. La estructura principal está fabricada en acero al carbono revestido en acero inoxidable, mientras que todas las partes en contacto con el producto están construidas en acero inoxidable AISI 304 o 316L, con acabado sanitario acorde al tipo de producto procesado. El equipo puede adaptarse y personalizarse según las necesidades específicas de producción de cada cliente, siendo una solución versátil para múltiples industrias.",
+                        "descripcion": [
+                            "La Llenadora Volumetrica Lineal esta diseñada para el llenado preciso de productos liquidos y viscosos de viscosidad media y alta en envases rigidos, como botellas y frascos. El sistema de dosificacion utiliza boquillas dosificadoras de accionamiento mecanico, basadas en levas con ajuste de volumen, incorporando valvulas volumetricas que garantizan repetibilidad y uniformidad en cada llenado.",
+                            "El equipo cuenta con un deposito de producto con capacidad de 80 litros, permitiendo una operacion continua y eficiente. Su diseño robusto y sanitario asegura un alto desempeño en aplicaciones industriales exigentes.",
+                            "La estructura principal esta fabricada en acero al carbono revestido en acero inoxidable, mientras que todas las partes en contacto con el producto estan construidas en acero inoxidable AISI 304 o 316L, con acabado sanitario acorde al tipo de producto procesado.",
+                            "El equipo puede adaptarse y personalizarse segun las necesidades especificas de produccion de cada cliente, siendo una solucion versatil para multiples industrias."
+                        ],
                         "aplicaciones": [
-                            "La Llenadora Volumétrica Lineal es ideal para:",
-                            "• Llenado de productos líquidos y viscosos de media y alta viscosidad.",
-                            "• Envases rígidos como botellas y frascos.",
-                            "• Líneas de producción de pequeño y mediano volumen.",
-                            "• Procesos que requieren dosificación volumétrica constante.",
-                            "• Proyectos personalizados según requerimientos del cliente.",
-                            "• Industrias alimentaria, química, farmacéutica, cosmética, de limpieza y afines."
+                            "La Llenadora Volumetrica Lineal es ideal para:",
+                            "• Llenado de productos liquidos y viscosos de media y alta viscosidad.",
+                            "• Envases rigidos como botellas y frascos.",
+                            "• Lineas de produccion de pequeño y mediano volumen.",
+                            "• Procesos que requieren dosificacion volumetrica constante.",
+                            "• Proyectos personalizados segun requerimientos del cliente.",
+                            "• Industrias alimentaria, quimica, farmaceutica, cosmetica, de limpieza y afines."
                         ],
                         "ventajas": [
-                            "• Dosificación volumétrica precisa: Ajuste mecánico de volumen mediante sistema de levas.",
+                            "• Dosificacion volumetrica precisa: Ajuste mecanico de volumen mediante sistema de levas.",
                             "• Alta repetibilidad de llenado: Uniformidad en todos los envases.",
                             "• Apta para productos viscosos: Excelente desempeño con productos de media y alta viscosidad.",
                             "• Diseño sanitario: Componentes en contacto con el producto en acero inoxidable 304 o 316L.",
-                            "• Construcción robusta: Larga vida útil y fácil mantenimiento.",
+                            "• Construccion robusta: Larga vida util y facil mantenimiento.",
                             "• Versatilidad operativa: Adaptable a distintos tipos de productos y envases.",
-                            "• Proyecto personalizable: Configurable según las necesidades de producción."
+                            "• Proyecto personalizable: Configurable segun las necesidades de produccion."
                         ],
                         "especificaciones": [
-                            "• Sistema de llenado: Volumétrico con válvulas volumétricas.",
-                            "• Accionamiento de boquillas: Mecánico por leva con ajuste de volumen.",
-                            "• Tipo de productos: Líquidos y viscosos (media y alta viscosidad).",
-                            "• Capacidad del depósito: 80 litros.",
-                            "• Tipo de envases: Botellas y frascos rígidos.",
+                            "• Sistema de llenado: Volumetrico con valvulas volumetricas.",
+                            "• Accionamiento de boquillas: Mecanico por leva con ajuste de volumen.",
+                            "• Tipo de productos: Liquidos y viscosos (media y alta viscosidad).",
+                            "• Capacidad del deposito: 80 litros.",
+                            "• Tipo de envases: Botellas y frascos rigidos.",
                             "• Material de estructura: Acero al carbono revestido en acero inoxidable.",
                             "• Material en contacto con el producto: Acero inoxidable AISI 304 o 316L.",
-                            "• Acabado: Sanitario, según tipo de producto.",
-                            "• Configuración: Lineal, adaptable y personalizable.",
-                            "• Industrias: Alimentaria, química, farmacéutica, cosmética, limpieza y otras."
+                            "• Acabado: Sanitario, segun tipo de producto.",
+                            "• Configuracion: Lineal, adaptable y personalizable.",
+                            "• Industrias: Alimentaria, quimica, farmaceutica, cosmetica, limpieza y otras."
                         ],
                         "video": ""
                     },
@@ -1011,40 +1016,45 @@
                             ""
                         ],
                         "docs": [],
-                        "descripcion": "La Llenadora Volumétrica Intermitente es un equipo compacto de operación intermitente, capaz de integrar múltiples procesos de automatización mecánica en cada ciclo dentro de una sola unidad. Está diseñada para el llenado de botellas mediante un sistema de dosificación volumétrica, incorporando además un sistema de cierre magnético con selección manual o automática de tapón, mediante tecnología aplicada al control de par. El equipo es apto para el procesamiento de productos líquidos y viscosos en envases de plástico, vidrio o metal, con volúmenes de llenado desde 5 ml hasta 1000 ml. Incluye un dispositivo de seguridad que garantiza la integridad física del operador y la protección del equipo durante la operación. La automatización es total, gestionada por un PLC (Controlador Lógico Programable), lo que asegura precisión, repetibilidad y facilidad de operación. La estructura principal está fabricada íntegramente en acero inoxidable, y todas las partes en contacto con el producto están construidas en acero inoxidable AISI 304 o 316L, con acabado sanitario acorde al tipo de producto. Su diseño versátil permite la adaptación y personalización del equipo según las necesidades específicas de producción de cada cliente.",
+                        "descripcion":[
+                            "La Llenadora Volumetrica Intermitente es un equipo compacto de operacion intermitente, capaz de integrar multiples procesos de automatizacion mecanica en cada ciclo dentro de una sola unidad. Esta diseñada para el llenado de botellas mediante un sistema de dosificacion volumetrica, incorporando ademas un sistema de cierre magnetico con seleccion manual o automatica de tapon, mediante tecnologia aplicada al control de par.",
+                            "El equipo es apto para el procesamiento de productos liquidos y viscosos en envases de plastico, vidrio o metal, con volumenes de llenado desde 5 ml hasta 1000 ml. Incluye un dispositivo de seguridad que garantiza la integridad fisica del operador y la proteccion del equipo durante la operacion.",
+                            "La automatizacion es total, gestionada por un PLC (Controlador Logico Programable), lo que asegura precision, repetibilidad y facilidad de operacion. La estructura principal esta fabricada integramente en acero inoxidable, y todas las partes en contacto con el producto estan construidas en acero inoxidable AISI 304 o 316L, con acabado sanitario acorde al tipo de producto.",
+                            "Su diseño versatil permite la adaptacion y personalizacion del equipo segun las necesidades especificas de produccion de cada cliente."
+                        ],
                         "aplicaciones": [
-                            "La Llenadora Volumétrica Intermitente es ideal para:",
-                            "• Llenado de productos líquidos y viscosos.",
-                            "• Procesos que requieren dosificación volumétrica precisa.",
-                            "• Envases de plástico, vidrio o metal.",
-                            "• Líneas de producción con operación intermitente.",
-                            "• Proyectos personalizados con múltiples procesos integrados.",
-                            "• Industrias farmacéutica, química, cosmética, alimentaria y afines."
+                            "La Llenadora Volumetrica Intermitente es ideal para:",
+                            "• Llenado de productos liquidos y viscosos.",
+                            "• Procesos que requieren dosificacion volumetrica precisa.",
+                            "• Envases de plastico, vidrio o metal.",
+                            "• Lineas de produccion con operacion intermitente.",
+                            "• Proyectos personalizados con multiples procesos integrados.",
+                            "• Industrias farmaceutica, quimica, cosmetica, alimentaria y afines."
                         ],
                         "ventajas": [
-                            "• Equipo compacto multifunción: Integra llenado y cierre en una sola unidad.",
-                            "• Dosificación volumétrica precisa: Alta repetibilidad en cada ciclo de llenado.",
-                            "• Sistema de cierre magnético: Control de par con selección manual o automática de tapón.",
+                            "• Equipo compacto multifuncion: Integra llenado y cierre en una sola unidad.",
+                            "• Dosificacion volumetrica precisa: Alta repetibilidad en cada ciclo de llenado.",
+                            "• Sistema de cierre magnetico: Control de par con seleccion manual o automatica de tapon.",
                             "• Amplio rango de llenado: Desde 5 ml hasta 1000 ml.",
-                            "• Automatización completa: Controlada por PLC para mayor confiabilidad y facilidad de operación.",
-                            "• Alta seguridad operativa: Dispositivos de protección para el operador y el equipo.",
+                            "• Automatizacion completa: Controlada por PLC para mayor confiabilidad y facilidad de operacion.",
+                            "• Alta seguridad operativa: Dispositivos de proteccion para el operador y el equipo.",
                             "• Diseño sanitario: Componentes en contacto con el producto en acero inoxidable 304 o 316L.",
-                            "• Proyecto personalizable: Adaptable a las necesidades específicas de cada cliente."
+                            "• Proyecto personalizable: Adaptable a las necesidades especificas de cada cliente."
                         ],
                         "especificaciones": [
-                            "• Modo de operación: Intermitente.",
-                            "• Sistema de llenado: Dosificación volumétrica.",
-                            "• Sistema de cierre: Cierre magnético con control de par.",
-                            "• Selección de tapón: Manual o automática.",
+                            "• Modo de operacion: Intermitente.",
+                            "• Sistema de llenado: Dosificacion volumetrica.",
+                            "• Sistema de cierre: Cierre magnetico con control de par.",
+                            "• Seleccion de tapon: Manual o automatica.",
                             "• Rango de llenado: 5 ml a 1000 ml.",
-                            "• Tipo de productos: Líquidos y viscosos.",
-                            "• Tipo de envases: Plástico, vidrio o metal.",
-                            "• Automatización: PLC (Controlador Lógico Programable).",
+                            "• Tipo de productos: Liquidos y viscosos.",
+                            "• Tipo de envases: Plastico, vidrio o metal.",
+                            "• Automatizacion: PLC (Controlador Logico Programable).",
                             "• Material de estructura: Acero inoxidable.",
                             "• Material en contacto con el producto: Acero inoxidable AISI 304 o 316L.",
-                            "• Acabado: Sanitario, según tipo de producto.",
-                            "• Configuración: Unidad compacta, personalizable.",
-                            "• Industrias: Farmacéutica, química, cosmética, alimentaria y otras."
+                            "• Acabado: Sanitario, segun tipo de producto.",
+                            "• Configuracion: Unidad compacta, personalizable.",
+                            "• Industrias: Farmaceutica, quimica, cosmetica, alimentaria y otras."
                         ],
                         "video": ""
                     },
