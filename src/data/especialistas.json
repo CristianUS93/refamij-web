@@ -12,8 +12,8 @@
         "img": "/especialistas/m_huarcaya.png"
     },
     {
-        "name": "Leslie Marisol Flores Seminario",
-        "position": "Supervisor Técnico",
+        "name": "Melany Barzola Corrales",
+        "position": "Coordinadora de Servicio Tecnico",
         "email": "dtecnico1@refamij.com",
         "img": "/especialistas/leslie.png"
     },
@@ -25,26 +25,38 @@
     },
     {
         "name": "Bibiana Santos",
-        "position": "Ventas Industriales",
-        "email": "ventas1@refamij.com",
+        "position": "Asesora de Ventas",
+        "email": "ventas@refamij.com",
         "img": "/especialistas/f_rojas.png"
     },
     {
-        "name": "Paul Nilton Salcedo Martínez",
-        "position": "Jefe de Productos, Puertas y Rampas",
-        "email": "psalcedo@refamij.com",
-        "img": "/especialistas/p_salcedo.jpg"
-    },
-    {
         "name": "Nayme Armando Tan Ramos",
-        "position": "Jefe Técnico FISCHBEIN",
+        "position": "Asesor de Ventas",
         "email": "dtecnico2@refamij.com",
         "img": "/especialistas/n_ramos.png"
     },
     {
         "name": "Cesar Augusto Yañez Guerrero",
-        "position": "Gerencia Comercial",
+        "position": "Asesor de Ventas",
         "email": "cyanez@refamij.com",
+        "img": "/especialistas/c_yanez.png"
+    },
+    {
+        "name": "Gissela Carol Lara Villalta",
+        "position": "Coordinadora Comercial",
+        "email": "ventas1@refamij.com",
+        "img": "/especialistas/c_yanez.png"
+    },
+    {
+        "name": "Manuel Giancarlo Laguna Lara",
+        "position": "Jefe Comercial",
+        "email": "glaguna@refamij.com",
+        "img": "/especialistas/c_yanez.png"
+    },
+    {
+        "name": "Vanessa Maria Otoya Rosas",
+        "position": "Asesora de Ventas",
+        "email": "ventas@coding-pack.com",
         "img": "/especialistas/c_yanez.png"
     }
 ]
