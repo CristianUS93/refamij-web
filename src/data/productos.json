@@ -876,69 +876,92 @@
                 "img": "",
                 "tipos": [
                     {
-                        "nombre": "Llenadora Gravimétrica Lineal (Acero Inoxidable)",
-                        "href": "/productos/Llenadora Gravimétrica Lineal (Acero Inoxidable)",
+                        "nombre": "Llenadora Gravimetrica Lineal (Acero Inoxidable)",
+                        "href": "/productos/Llenadora Gravimetrica Lineal (Acero Inoxidable)",
                         "img": [
                             ""
                         ],
                         "docs": [],
-                        "descripcion": "La Llenadora Gravimétrica Lineal es un equipo diseñado para el llenado preciso de productos líquidos y viscosos, destacándose por su alto caudal y nivel de llenado constante. El proceso de llenado se realiza mediante válvulas gravimétricas, garantizando exactitud en cada envase. Cuenta con un tanque reservorio de hasta 200 litros, lo que permite una operación continua y eficiente. Su diseño versátil permite el llenado de botellas de plástico, vidrio o metal, con capacidades de hasta 5 litros. La estructura principal está fabricada en acero al carbono con recubrimiento en acero inoxidable o polímero, mientras que todas las partes en contacto con el producto están construidas en acero inoxidable AISI 304 o 316L, con acabado sanitario, asegurando higiene, durabilidad y cumplimiento normativo. El equipo puede adaptarse y personalizarse según las necesidades de producción de cada cliente, siendo una solución confiable para múltiples sectores industriales.",
+                        "descripcion": [
+                            "La Llenadora Gravimetrica Lineal es un equipo disenado para el llenado preciso de productos liquidos y viscosos, destacandose por su alto caudal y nivel de llenado constante. El proceso de llenado se realiza mediante valvulas gravimetricas, garantizando exactitud en cada envase.",
+                            "Cuenta con un tanque reservorio de hasta 200 litros, lo que permite una operacion continua y eficiente. Su diseno versatil permite el llenado de botellas de plastico, vidrio o metal, con capacidades de hasta 5 litros.",
+                            "La estructura principal esta fabricada en acero al carbono con recubrimiento en acero inoxidable o polimero, mientras que todas las partes en contacto con el producto estan construidas en acero inoxidable AISI 304 o 316L, con acabado sanitario, asegurando higiene, durabilidad y cumplimiento normativo.",
+                            "El equipo puede adaptarse y personalizarse segun las necesidades de produccion de cada cliente, siendo una solucion confiable para multiples sectores industriales."
+                        ],
                         "aplicaciones": [
-                            "La Llenadora Gravimétrica Lineal es ideal para:",
-                            "• Llenado de productos líquidos y viscosos.",
-                            "• Botellas y envases de plástico, vidrio o metal.",
-                            "• Líneas de producción de pequeño y mediano volumen.",
-                            "• Procesos que requieren alta precisión de llenado.",
-                            "• Proyectos personalizados según requerimientos del cliente.",
-                            "• Industrias alimentaria, cosmética, farmacéutica, de limpieza, química y afines."
+                            "La Llenadora Gravimetrica Lineal es ideal para:",
+                            "• Llenado de productos liquidos y viscosos.",
+                            "• Botellas y envases de plastico, vidrio o metal.",
+                            "• Lineas de produccion de pequeno y mediano volumen.",
+                            "• Procesos que requieren alta precision de llenado.",
+                            "• Proyectos personalizados segun requerimientos del cliente.",
+                            "• Industrias alimentaria, cosmetica, farmaceutica, de limpieza, quimica y afines."
                         ],
                         "ventajas": [
-                            "• Llenado gravimétrico preciso: Control exacto del peso en cada envase.",
-                            "• Alto caudal de producción: Optimiza tiempos y eficiencia operativa.",
+                            "• Llenado gravimetrico preciso: Control exacto del peso en cada envase.",
+                            "• Alto caudal de produccion: Optimiza tiempos y eficiencia operativa.",
                             "• Nivel de llenado constante: Uniformidad en todos los productos.",
                             "• Alta versatilidad: Compatible con distintos tipos de envases y productos.",
                             "• Diseño sanitario: Componentes en contacto con el producto en acero inoxidable 304 o 316L.",
-                            "• Personalización del proyecto: Adaptable a las necesidades específicas de cada cliente.",
-                            "• Construcción robusta: Larga vida útil y bajo mantenimiento."
+                            "• Personalizacion del proyecto: Adaptable a las necesidades específicas de cada cliente.",
+                            "• Construccion robusta: Larga vida util y bajo mantenimiento."
                         ],
                         "especificaciones": [
-                            "• Sistema de llenado: Gravimétrico mediante válvulas de alta precisión.",
+                            "• Sistema de llenado: Gravimetrico mediante valvulas de alta precision.",
                             "• Capacidad del tanque reservorio: Hasta 200 litros.",
-                            "• Tipo de productos: Líquidos y viscosos.",
+                            "• Tipo de productos: Liquidos y viscosos.",
                             "• Capacidad de envases: Hasta 5 litros.",
-                            "• Material de estructura: Acero al carbono con recubrimiento en acero inoxidable o polímero.",
+                            "• Material de estructura: Acero al carbono con recubrimiento en acero inoxidable o polimero.",
                             "• Material en contacto con producto: Acero inoxidable AISI 304 o 316L.",
                             "• Acabado: Sanitario.",
-                            "• Tipo de envases: Plástico, vidrio o metal.",
-                            "• Configuración: Lineal, personalizable según proyecto.",
-                            "• Industrias: Alimentaria, cosmética, farmacéutica, limpieza, química y otras."
+                            "• Tipo de envases: Plastico, vidrio o metal.",
+                            "• Configuracion: Lineal, personalizable segun proyecto.",
+                            "• Industrias: Alimentaria, cosmética, farmaceutica, limpieza, quimica y otras."
                         ],
                         "video": ""
                     },
                     {
-                        "nombre": "Llenadora Gravimétrica Lineal (Para Productos a Base de Hipoclorito)",
-                        "href": "/productos/Llenadora Gravimétrica Lineal (Para Productos a Base de Hipoclorito)",
+                        "nombre": "Llenadora Gravimetrica Lineal (Para Productos a Base de Hipoclorito)",
+                        "href": "/productos/Llenadora Gravimetrica Lineal (Para Productos a Base de Hipoclorito)",
                         "img": [
                             ""
                         ],
                         "docs": [],
-                        "descripcion": "La Llenadora Gravimétrica Lineal para productos a base de hipoclorito está diseñada para el llenado preciso de productos clorados y altamente corrosivos, destacándose por su alto caudal y nivel de llenado constante. El proceso de llenado se realiza mediante válvulas gravimétricas, asegurando exactitud y repetibilidad en cada envase. El equipo cuenta con un tanque reservorio con capacidad de hasta 200 litros, lo que permite una operación continua y eficiente. Es compatible con envases de plástico, vidrio o metal, permitiendo el llenado de botellas de hasta 5 litros. Su estructura principal está fabricada en acero al carbono recubierto con plástico de ingeniería, mientras que todas las partes en contacto con el producto están construidas en plástico de ingeniería y/o titanio, materiales altamente resistentes a la corrosión, garantizando seguridad, durabilidad y confiabilidad operativa. El diseño del equipo permite la personalización del proyecto según las necesidades de producción de cada cliente, siendo una solución robusta para aplicaciones industriales exigentes.",
-                        "aplicaciones": [],
-                        "ventajas": [
-                            "Sistema de soldadura y termorretracción en una sola operación",
-                            "Cuchilla soldadora tratada PTFE",
-                            "Refrigeración por aire del cuerpo máquina",
-                            "Refrigeración de las barras soldadoras por líquido en circuito cerrado",
-                            "Visualizador del nivel del liquido refrigerante",
-                            "Plato portaproducto móvil separado del soporte bobina, para adaptar más fácilmente el film a las dimensiones del paquete",
-                            "Reapertura automática de la campana",
-                            "Pulsador de emergencia",
-                            "Salida automática del paquete con cinta motorizada",
-                            "Reducido consumo de enérgia",
-                            "Conformidad con las normativas CE",
-                            "Sistema de control provisto"
+                        "descripcion":[
+                            "La Llenadora Gravimetrica Lineal para productos a base de hipoclorito esta disenada para el llenado preciso de productos clorados y altamente corrosivos, destacandose por su alto caudal y nivel de llenado constante. El proceso de llenado se realiza mediante valvulas gravimetricas, asegurando exactitud y repetibilidad en cada envase.",
+                            "El equipo cuenta con un tanque reservorio con capacidad de hasta 200 litros, lo que permite una operacion continua y eficiente. Es compatible con envases de plastico, vidrio o metal, permitiendo el llenado de botellas de hasta 5 litros.",
+                            "Su estructura principal esta fabricada en acero al carbono recubierto con plastico de ingenieria, mientras que todas las partes en contacto con el producto estan construidas en plastico de ingenieria y/o titanio, materiales altamente resistentes a la corrosion, garantizando seguridad, durabilidad y confiabilidad operativa.",
+                            "El diseño del equipo permite la personalizacion del proyecto segun las necesidades de produccion de cada cliente, siendo una solucion robusta para aplicaciones industriales exigentes."
                         ],
-                        "especificaciones": [],
+                        "aplicaciones": [
+                            "La Llenadora Gravimetrica Lineal para hipoclorito es ideal para:",
+                            "• Llenado de productos a base de hipoclorito y soluciones cloradas.",
+                            "• Procesos con productos altamente corrosivos.",
+                            "• Envases de plastico, vidrio o metal.",
+                            "• Lineas de produccion de pequeno y mediano volumen.",
+                            "• Proyectos especiales con requerimientos personalizados.",
+                            "• Industrias de saneamiento, quimica y sectores afines."
+                        ],
+                        "ventajas": [
+                            "• Llenado gravimetrico de alta precision: Control exacto del peso en cada envase.",
+                            "• Alto caudal de produccion: Mayor eficiencia y productividad.",
+                            "• Nivel de llenado constante: Uniformidad en todos los envases.",
+                            "• Alta resistencia quimica: Componentes en contacto con el producto fabricados en plastico de ingenieria y/o titanio.",
+                            "• Diseño seguro y duradero: Ideal para productos corrosivos.",
+                            "• Versatilidad de envases: Compatible con diferentes formatos y materiales.",
+                            "• Proyecto personalizable: Adaptacion a las necesidades especificas de cada cliente."
+                        ],
+                        "especificaciones": [
+                            "• Sistema de llenado: Gravimetrico mediante valvulas de alta precision.",
+                            "• Capacidad del tanque reservorio: Hasta 200 litros.",
+                            "• Tipo de productos: Hipoclorito y productos clorados o corrosivos.",
+                            "• Capacidad de envases: Hasta 5 litros.",
+                            "• Material de estructura: Acero al carbono con recubrimiento en plastico de ingenieria.",
+                            "• Material en contacto con el producto: Plastico de ingenieria y/o titanio.",
+                            "• Tipo de envases: Plastico, vidrio o metal.",
+                            "• Configuracion: Lineal, adaptable y personalizable.",
+                            "• Industrias: Saneamiento, quimica y otras."
+                        ],
                         "video": ""
                     },
                     {
