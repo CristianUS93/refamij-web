@@ -36,15 +36,21 @@ for (const key in marcaSelect['productos']) {
         ))}
     </div>
     <div class="main-container">
-        <div class="products-menu">
-            <ul>
-                {marcaSelect['productos'].map((element) => (
-                    <a href={element['href']} class="product-button">
-                        <li class={`categoria ${producto === element['nombre'] && "cat-select"}` }>{element["nombre"]}</li>
-                    </a>
-                )) }
-            </ul>
-        </div>
+        {
+            tieneCategorias && (
+                <div class="products-menu">
+                    <ul>
+                        {marcaSelect['productos'].map((element) => (
+                            <a href={element['href']} class="product-button">
+                                <li class={`categoria ${producto === element['nombre'] && "cat-select"}`}>
+                                    {element["nombre"]}
+                                </li>
+                            </a>
+                        ))}
+                    </ul>
+                </div>
+            )
+        }
         <div class="products-cards">
             <slot />
         </div>
