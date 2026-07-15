@@ -17,7 +17,7 @@ export async function getStaticPaths() {
         return productos.flatMap((e: Object) => {
             const producto = e;
             const productoNombre = e["nombre"];
-            const tipos = e["tipos"];
+            const tipos = e["tipos"] || [];
             return {
                 params: { division: divisionNombre, producto: productoNombre },
                 props: { division, producto, tipos },
@@ -42,9 +42,21 @@ const { division, producto, tipos } = Astro.props;
                 <section class="main-section">
                     <section class="cards-container">
                         {
-                            tipos.map((element) => (
-                                <ProductCard title={element['nombre']} img={element['img'][0]} route={`/productos/${element['nombre']}`} />
-                            ))
+                            tipos.length > 0 ? (
+                                tipos.map((element) => (
+                                    <ProductCard
+                                        title={element['nombre']}
+                                        img={element['img'][0]}
+                                        route={`/productos/${element['nombre']}`}
+                                    />
+                                ))
+                            ) : (
+                                <ProductCard
+                                    title={producto['nombre']}
+                                    img={producto['img'][0]}
+                                    route={producto['href']}
+                                />
+                            )
                         }
                     </section>
                 </section>
