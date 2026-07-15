@@ -41,9 +41,21 @@ for (const key in marcaSelect['productos']) {
             <section class="main-section">
                 <section class="cards-container">
                     {
-                        categoriaSelect['tipos'].map((element) => (
-                            <ProductCard title={element['nombre']} img={element['img'][0]} route={element['href']} />
-                        ))
+                        categoriaSelect['tipos']
+                            ? categoriaSelect['tipos'].map((element) => (
+                                <ProductCard
+                                    title={element['nombre']}
+                                    img={element['img'][0]}
+                                    route={element['href']}
+                                />
+                            ))
+                            : (
+                                <ProductCard
+                                    title={categoriaSelect['nombre']}
+                                    img={categoriaSelect['img'][0]}
+                                    route={categoriaSelect['href']}
+                                />
+                             )
                     }
                 </section>
             </section>
